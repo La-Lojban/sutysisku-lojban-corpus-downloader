@@ -1,0 +1,1 @@
+//downloads a propbank dump and converts it to sutysisku's dexie-like format
