@@ -6,8 +6,11 @@
     "module": "commonjs",
     "declaration": true,
     "outDir": "./dist",
-    "strict": true
+    "strict": true,
+    "moduleResolution": "node",
+    "types": ["node"],
+    "typeRoots": ["node_modules/@types"]
   },
-  "include": ["src/**/*.ts", ],
+  "include": ["src/**/*.ts"],
   "exclude": ["node_modules", "tests/**/*.ts", "**/__tests__/*"]
 }
