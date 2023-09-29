@@ -1,1 +1,0 @@
-# @sutysisku/lojban-corpus-downloader
