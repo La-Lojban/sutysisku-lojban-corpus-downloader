@@ -1,0 +1,8 @@
+data/*.json
+data/*.brotli
+data/dumps
+data/parsed
+dist/
+tmp/
+node_modules
+.env
