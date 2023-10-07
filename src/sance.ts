@@ -1,6 +1,6 @@
 import dotenv from 'dotenv';
 dotenv.config();
-import winston from 'winston';
+import winston, { format } from 'winston';
 
 import { Polly, SynthesizeSpeechCommand } from '@aws-sdk/client-polly';
 import fs from 'fs-extra';
@@ -11,7 +11,7 @@ import axios from 'axios';
 
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
-import { retryPromise } from './utils/fns.js';
+import { handleArray, retryPromise } from './utils/fns.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
@@ -21,7 +21,7 @@ const repoName = process.env.THIS_REPO_NAME;
 // import { retryPromise } from './utils/fns.js';
 const logger = winston.createLogger({
   level: 'info',
-  format: winston.format.json(),
+  format: format.combine(format.timestamp(), format.json()),
   transports: [
     new winston.transports.Console({
       format: winston.format.simple(),
@@ -87,28 +87,32 @@ async function checkFileExists(file: string): Promise<boolean> {
     .catch(() => false);
 }
 
-//readme - how to enable polly, how to add envs
-//enable, read envs
-//download first from us, then from aws
 export async function processWords(sentences: string[]) {
-  for (const sentence of sentences) {
-    logger.info(`getting audio for "${sentence}"`);
-    const convertedText = convertText2Filename(sentence);
-    const outputFilePath = join(__dirname, `../data/sance/${convertedText}.ogg`);
-    let success;
-    
-    logger.info(`getting audio for "${sentence}": checking existing files`);
-    success = await checkFileExists(outputFilePath);
-    if (success) continue;
-    
-    logger.info(`getting audio for "${sentence}": checking in the repo`);
-    success = await retryPromise(() => downloadAudioFileFromMyRepo(convertedText, outputFilePath), 5, 2000, 15000);
-    if (success) continue;
-    
-    logger.info(`getting audio for "${sentence}": generating via Polly`);
-    success = await retryPromise(() => downloadFromPolly(sentence, outputFilePath), 5, 2000, 15000);
-    if (success) continue;
+  await handleArray(sentences, 2, processWord).catch((error) => {
+    logger.error(error);
+  });
+  // for (const sentence of sentences) {
+  //   await processWord(sentence);
+  // }
+}
 
-    if (!success) logger.error(`${sentence}: not downloaded`);
-  }
+async function processWord(sentence: string): Promise<void> {
+  logger.info(`getting audio for "${sentence}"`);
+  const convertedText = convertText2Filename(sentence);
+  const outputFilePath = join(__dirname, `../data/sance/${convertedText}.ogg`);
+  let success;
+
+  logger.info(`getting audio for "${sentence}": checking existing files`);
+  success = await checkFileExists(outputFilePath);
+  if (success) return;
+
+  logger.info(`getting audio for "${sentence}": checking in the repo`);
+  success = await retryPromise(() => downloadAudioFileFromMyRepo(convertedText, outputFilePath), 5, 2000, 15000);
+  if (success) return;
+
+  logger.info(`getting audio for "${sentence}": generating via Polly`);
+  success = await retryPromise(() => downloadFromPolly(sentence, outputFilePath), 5, 2000, 15000);
+  if (success) return;
+
+  if (!success) logger.error(`${sentence}: not downloaded`);
 }

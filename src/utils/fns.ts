@@ -37,3 +37,25 @@ export function canonicalizeValsi(valsi: string) {
   if (/[^aeiouy]$/.test(valsi)) valsi = '.' + valsi + '.';
   return valsi.replace(/\.\./g, '.');
 }
+
+const handleArrayPart = async <T>(part: T[], fn: (item: T) => void): Promise<void[]> => {
+  return await Promise.all(part.map((item) => fn(item)));
+};
+
+const splitArray = <T>(arr: T[], n: number): T[][] => {
+  let result: T[][] = [];
+  let i, j;
+  for (i = 0, j = arr.length; i < j; i += n) {
+    result.push(arr.slice(i, i + n));
+  }
+  return result;
+};
+
+export const handleArray = async <T>(arr: T[], numberPartitions: number, fn: (item: T) => void): Promise<void[]> => {
+  const parts = splitArray<T>(arr, numberPartitions);
+  let result: void[] = [];
+  for (const part of parts) {
+    result = result.concat(await handleArrayPart<T>(part, fn));
+  }
+  return result;
+};

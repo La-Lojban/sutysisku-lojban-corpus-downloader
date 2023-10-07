@@ -66,26 +66,25 @@ export async function updateXmlDumps(args: string[]) {
     logger.info('downloaded dumps');
   }
 
-  for (const language of predefinedLangs.concat(langs)) {
-    try {
-      const { words, segerna } = await ningauPaLaSutysisku(language);
-      if (predefinedLangs.includes(segerna)) {
-        valsi[segerna] = [...new Set((valsi[segerna] ?? []).concat(words))];
-      } else {
-        valsi['lojban'] = [...new Set((valsi['lojban'] ?? []).concat(words))];
-      }
-    } catch (error: any) {
-      logger.error('updating la sutysisku: ' + error?.message);
-      erroredLangs.push(language);
-    }
-  }
+  // for (const language of predefinedLangs.concat(langs)) {
+  //   try {
+  //     const { words, segerna } = await ningauPaLaSutysisku(language);
+  //     if (predefinedLangs.includes(segerna)) {
+  //       valsi[segerna] = [...new Set((valsi[segerna] ?? []).concat(words))];
+  //     } else {
+  //       valsi['lojban'] = [...new Set((valsi['lojban'] ?? []).concat(words))];
+  //     }
+  //   } catch (error: any) {
+  //     logger.error('updating la sutysisku: ' + error?.message);
+  //     erroredLangs.push(language);
+  //   }
+  // }
 
   const {
     deksi,
     tsv: { jb2en, en2jb },
   } = await generateMuplis();
 
-  
   const { words } = await ningauPaLaSutysisku('muplis', deksi);
   valsi['lojban'] = [...new Set((valsi['lojban'] ?? []).concat(words))];
   fs.outputFileSync(path.join(__dirname, '../data/dumps/muplis-jb2en.tsv'), jb2en);
@@ -93,10 +92,14 @@ export async function updateXmlDumps(args: string[]) {
 
   //TODO: process all words from valsi.lojban
   logger.info('sutysisku dumps prepared');
-  
+
   logger.info('downloading audio...');
 
-  await generateAudio(valsi.lojban.sort());
+  try {
+    await generateAudio(valsi.lojban.sort());
+  } catch (error: unknown) {
+    if (error instanceof Error) logger.error(error?.message);
+  }
 
   return uniques(erroredLangs);
 }

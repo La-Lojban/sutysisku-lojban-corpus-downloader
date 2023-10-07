@@ -32,16 +32,20 @@ jobs:
           GOOGLE_READONLY_API_KEY=${{ secrets.GOOGLE_READONLY_API_KEY }}
           GOOGLE_CORPUS_DOC_ID=${{ secrets.GOOGLE_CORPUS_DOC_ID }}
           GOOGLE_CORPUS_DOC_SHEET_ID=${{ secrets.GOOGLE_CORPUS_DOC_SHEET_ID }}
+          AWS_ACCESS_KEY=${{ secrets.AWS_ACCESS_KEY }}
+          AWS_SECRET_KEY=${{ secrets.AWS_SECRET_KEY }}
+          THIS_REPO_NAME=${{ secrets.THIS_REPO_NAME }}
+
         volumes: |
-          /output:/app/data
           ${{ github.workspace }}/src:/app/src
+          ${{ github.workspace }}/data:/app/data
           ${{ github.workspace }}/default-data:/app/default-data
 
     - name: Upload artifact
       uses: actions/upload-artifact@v3
       with:
         name: output-files
-        path: /output/
+        path: ${{ github.workspace }}/data/
         
     - name: Cleanup
       uses: AutoModality/action-clean@v1
