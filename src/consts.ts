@@ -5,9 +5,9 @@ export const predefinedLangs: string[] = [
 ];
 
 export const langs: string[] = [
+  'en',
   'jbo',
   'ja',
-  'en',
   'ru',
   'es',
   'fr',
@@ -19,7 +19,7 @@ export const langs: string[] = [
   'fr-facile',
   'hu',
   'sv',
-  'art-toki'
+  'tok'
 ];
 
 export const bais = {

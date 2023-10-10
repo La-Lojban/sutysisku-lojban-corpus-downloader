@@ -24,9 +24,14 @@ import { uniques } from './utils/fns.js';
 import type { Dict } from './types/index.js';
 import { generate as generateMuplis } from './muplis.js';
 
+import { processWords as generateAudio } from './sance.js';
+
+//import { FeatureExtractionModel, ModelType } from "./inference/text/index.js";
+//import { SimpleTextModel } from "./inference/text/simpleTextModel.js";
+
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
-import { processWords as generateAudio } from './sance.js';
+import { generatePEGGrammar } from './gentufa.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
@@ -58,6 +63,7 @@ export async function updateXmlDumps(args: string[]) {
   fs.outputFileSync(pathVersio, '{}');
   const erroredLangs: string[] = [];
   const valsi: Dict = {};
+  const defs: Dict[] = [];
   if (args.includes('download')) {
     logger.info('downloading dumps');
     for (const language of langs) {
@@ -66,19 +72,21 @@ export async function updateXmlDumps(args: string[]) {
     logger.info('downloaded dumps');
   }
 
-  // for (const language of predefinedLangs.concat(langs)) {
-  //   try {
-  //     const { words, segerna } = await ningauPaLaSutysisku(language);
-  //     if (predefinedLangs.includes(segerna)) {
-  //       valsi[segerna] = [...new Set((valsi[segerna] ?? []).concat(words))];
-  //     } else {
-  //       valsi['lojban'] = [...new Set((valsi['lojban'] ?? []).concat(words))];
-  //     }
-  //   } catch (error: any) {
-  //     logger.error('updating la sutysisku: ' + error?.message);
-  //     erroredLangs.push(language);
-  //   }
-  // }
+  for (const language of predefinedLangs.concat(langs)) {
+    try {
+      const { words, segerna, dump } = await ningauPaLaSutysisku(language);
+      if (predefinedLangs.includes(segerna)) {
+        valsi[segerna] = [...new Set((valsi[segerna] ?? []).concat(words))];
+        defs[segerna] = { ...dump, ...(defs[segerna] ?? {}) };
+      } else {
+        valsi['lojban'] = [...new Set((valsi['lojban'] ?? []).concat(words))];
+        defs['lojban'] = { ...dump, ...(defs['lojban'] ?? {}) };
+      }
+    } catch (error: any) {
+      logger.error('updating la sutysisku: ' + error?.message);
+      erroredLangs.push(language);
+    }
+  }
 
   const {
     deksi,
@@ -93,6 +101,7 @@ export async function updateXmlDumps(args: string[]) {
   //TODO: process all words from valsi.lojban
   logger.info('sutysisku dumps prepared');
 
+  await generatePEGGrammar(defs['lojban']);
   logger.info('downloading audio...');
 
   try {
@@ -416,7 +425,7 @@ async function ningauPaLaSutysisku(segerna: string, arr: Dict[] = []) {
     fs.outputFileSync(`${t}.temp`, JSON.stringify(dump));
     fs.renameSync(`${t}.temp`, t);
   }
-  return { words, segerna };
+  return { words, segerna, dump };
 }
 
 function jsonDocDirection(jsonDoc: any): any {

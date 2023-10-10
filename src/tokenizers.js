@@ -4,9 +4,9 @@ import axios from 'axios';
 
 import pkg from '@piercefreeman/brotli-compress';
 const { compress, decompress } = pkg;
+
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
-
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 

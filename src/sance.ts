@@ -100,13 +100,13 @@ async function processWord(sentence: string): Promise<void> {
   logger.info(`getting audio for "${sentence}"`);
   const convertedText = convertText2Filename(sentence);
   const outputFilePath = join(__dirname, `../data/sance/${convertedText}.ogg`);
-  let success;
+  let success: boolean;
 
-  logger.info(`getting audio for "${sentence}": checking existing files`);
+  // logger.info(`getting audio for "${sentence}": checking existing files`);
   success = await checkFileExists(outputFilePath);
   if (success) return;
 
-  logger.info(`getting audio for "${sentence}": checking in the repo`);
+  // logger.info(`getting audio for "${sentence}": checking in the repo`);
   success = await retryPromise(() => downloadAudioFileFromMyRepo(convertedText, outputFilePath), 5, 2000, 15000);
   if (success) return;
 
