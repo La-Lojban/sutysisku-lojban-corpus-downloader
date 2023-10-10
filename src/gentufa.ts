@@ -73,7 +73,7 @@ export async function generatePEGGrammar(valsi: Dict) {
     }
   }
   const grammarRules = fs
-    .readFileSync(path.join(__dirname, '../grammars/camxes.peg'))
+    .readFileSync(path.join(__dirname, './grammars/camxes.peg'))
     .toString()
     .split('\n')
     .map((line) =>
@@ -95,7 +95,7 @@ export async function generatePEGGrammar(valsi: Dict) {
     }
   }
   const grammarSrc = grammarRules.map((r) => `${r.rule} = ${r.rhs}`).join('\n');
-  fs.outputFileSync(path.join(__dirname, '../grammars/camxes-cnino.peg'), grammarSrc);
+  fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes-cnino.peg'), grammarSrc);
     const parser = peggy.generate(grammarSrc, {
       cache: true,
       trace: false,
