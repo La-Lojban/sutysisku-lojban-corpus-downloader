@@ -15,8 +15,14 @@ const logger = winston.createLogger({
   ],
 });
 
-if (!process.env.GOOGLE_READONLY_API_KEY || !process.env.GOOGLE_CORPUS_DOC_ID) {
-  logger.error('muplis update cancelled, no GOOGLE_READONLY_API_KEY or GOOGLE_CORPUS_DOC_ID specified');
+if (
+  !process.env.GOOGLE_READONLY_API_KEY ||
+  !process.env.GOOGLE_CORPUS_DOC_ID ||
+  !process.env.GOOGLE_XRASTE_DOC_SHEET_ID
+) {
+  logger.error(
+    'muplis update cancelled, no GOOGLE_READONLY_API_KEY or GOOGLE_CORPUS_DOC_ID or GOOGLE_XRASTE_DOC_SHEET_ID specified',
+  );
   process.exit();
 }
 
@@ -29,13 +35,36 @@ type Example = {
 };
 
 type Dict = {
-  [key: string]: string;
+  [key: string]: any;
 };
 
 const doc = new GoogleSpreadsheet(process.env.GOOGLE_CORPUS_DOC_ID);
 doc.useApiKey(process.env.GOOGLE_READONLY_API_KEY);
 
-// generate();
+export async function generateXraste() {
+  await doc.loadInfo();
+  const sheet = doc.sheetsById[process.env.GOOGLE_XRASTE_DOC_SHEET_ID as any];
+  if (!sheet) {
+    logger.error(`Sheet ${process.env.GOOGLE_XRASTE_DOC_SHEET_ID} not found`);
+    process.exit();
+  }
+  logger.info(`fetching live xraste rows ...`);
+  const rows = (await retryPromise(() => sheet?.getRows() ?? Promise.resolve([]), 5, 1000, 5 * 60 * 1000))
+    .map((row: GoogleSpreadsheetRow) => {
+      const source = row._rawData[0];
+      const targets = row._rawData
+        .slice(1)
+        .filter((str: string) => RegExp('^[a-zA-Z0-9_ , .-]+.(jpe?g|png|gif|svg)$', 'i').test(str))
+        .map((i: string) => ({ source, target: i, tags: [] } as Example));
+      return targets;
+    })
+    .flat();
+
+  logger.info(`generating xraste dictionary ...`);
+  const deksi = createDexieCacheFile(rows, { simpleCache: true });
+  return { deksi };
+}
+
 export async function generate() {
   await doc.loadInfo();
   const sheet = doc.sheetsById[process.env.GOOGLE_CORPUS_DOC_SHEET_ID as any];
@@ -79,29 +108,35 @@ export async function generate() {
   };
 }
 
-export function createDexieCacheFile(arr: Example[]): Dict[] {
+export function createDexieCacheFile(arr: Example[], options?: Dict): Dict[] {
   return arr.map((i) => {
-    let cache = `${i.source};${i.source.replace(/h/g, "'")};${i.source_opt};${(i.source_opt || '').replace(
-      /h/g,
-      "'",
-    )};${i.target.replace(/[\.,!?\/\\]/g, '').replace(/[h‘]/g, "'")};`;
-    const cache1 = cache
-      .toLowerCase()
-      .replace(/ /g, ';')
-      .split(';')
-      .map((i) => i.trim())
-      .filter((i) => i !== '');
-    let cache2 = cache
-      .toLowerCase()
-      .replace(/[ \u2000-\u206F\u2E00-\u2E7F\\!"#$%&()*+,\-.\/:<=>?@\[\]^`{|}~：？。，《》「」『』－（）]/g, ';')
-      .split(';')
-      .map((i) => i.trim())
-      .filter((i) => i !== '');
-    const cache3 = cache1.concat(cache2);
-    const cache4 = [...new Set(cache3)];
-    const outRow: any = { w: i.source, d: i.target, cache: cache4 };
-    if (i.tags.length > 0) outRow.s = [...new Set(i.tags)];
-    return outRow;
+    if (!options.simpleCache) {
+      let cache = `${i.source};${i.source.replace(/h/g, "'")};${i.source_opt};${(i.source_opt || '').replace(
+        /h/g,
+        "'",
+      )};${i.target.replace(/[\.,!?\/\\]/g, '').replace(/[h‘]/g, "'")};`;
+      const cache1 = cache
+        .toLowerCase()
+        .replace(/ /g, ';')
+        .split(';')
+        .map((i) => i.trim())
+        .filter((i) => i !== '');
+      let cache2 = cache
+        .toLowerCase()
+        .replace(/[ \u2000-\u206F\u2E00-\u2E7F\\!"#$%&()*+,\-.\/:<=>?@\[\]^`{|}~：？。，《》「」『』－（）]/g, ';')
+        .split(';')
+        .map((i) => i.trim())
+        .filter((i) => i !== '');
+      const cache3 = cache1.concat(cache2);
+      const cache4 = [...new Set(cache3)];
+      const outRow: any = { w: i.source, d: i.target, cache: cache4 };
+      if (i.tags.length > 0) outRow.s = [...new Set(i.tags)];
+      return outRow;
+    } else {
+      const outRow: any = { w: i.source, d: i.target, cache: [i.source] };
+      if (i.tags.length > 0) outRow.s = [...new Set(i.tags)];
+      return outRow;
+    }
   });
 }
 

@@ -32,6 +32,7 @@ jobs:
           GOOGLE_READONLY_API_KEY=${{ secrets.GOOGLE_READONLY_API_KEY }}
           GOOGLE_CORPUS_DOC_ID=${{ secrets.GOOGLE_CORPUS_DOC_ID }}
           GOOGLE_CORPUS_DOC_SHEET_ID=${{ secrets.GOOGLE_CORPUS_DOC_SHEET_ID }}
+          GOOGLE_XRASTE_DOC_SHEET_ID=${{ secrets.GOOGLE_XRASTE_DOC_SHEET_ID }}
           AWS_ACCESS_KEY=${{ secrets.AWS_ACCESS_KEY }}
           AWS_SECRET_KEY=${{ secrets.AWS_SECRET_KEY }}
           THIS_REPO_NAME=${{ secrets.THIS_REPO_NAME }}

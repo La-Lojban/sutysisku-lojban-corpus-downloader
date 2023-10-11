@@ -22,7 +22,7 @@ import he from 'he';
 import winston from 'winston';
 import { uniques } from './utils/fns.js';
 import type { Dict } from './types/index.js';
-import { generate as generateMuplis } from './muplis.js';
+import { generate as generateMuplis, generateXraste } from './muplis.js';
 
 import { processWords as generateAudio } from './sance.js';
 
@@ -88,6 +88,9 @@ export async function updateXmlDumps(args: string[]) {
     }
   }
 
+  const xraste = await generateXraste();
+  await ningauPaLaSutysisku('xraste', xraste.deksi)
+  
   const {
     deksi,
     tsv: { jb2en, en2jb },
