@@ -7,7 +7,7 @@ ENV TZ=Europe/London
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 # install common
-RUN apt-get install -y vim bash curl gnupg2 lsof
+RUN apt-get install -y vim bash curl gnupg2 lsof zip unzip
 
 # install python
 RUN apt-get install -y python3 python3-pip

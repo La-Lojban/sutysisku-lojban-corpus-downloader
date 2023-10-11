@@ -6,7 +6,8 @@
   "scripts": {
     "peg": "peggy --cache",
     "propbank": "mkdir -p ./data && node --loader ts-node/esm src/propbank.ts",
-    "xraste": "mkdir -p ./data && node --loader ts-node/esm src/muplis.ts",
+    "gentufa": "mkdir -p ./data && node --loader ts-node/esm src/gentufa.ts",
+    "zip": "zip -r data/artifact.zip ./data",
     "start": "mkdir -p ./data && node --loader ts-node/esm src/index.ts",
     "format": "prettier --write \"src/**/*.ts\"",
     "lint": "eslint . --ext .ts",

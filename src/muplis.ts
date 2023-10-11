@@ -3,11 +3,11 @@ dotenv.config();
 
 import lojban from 'lojban';
 import { GoogleSpreadsheet, GoogleSpreadsheetRow } from 'google-spreadsheet';
-import winston from 'winston';
+import winston, { format } from 'winston';
 import { canonicalizeValsi, retryPromise } from './utils/fns.js';
 const logger = winston.createLogger({
   level: 'info',
-  format: winston.format.json(),
+  format: format.combine(format.timestamp(), format.json()),
   transports: [
     new winston.transports.Console({
       format: winston.format.simple(),
@@ -42,6 +42,7 @@ const doc = new GoogleSpreadsheet(process.env.GOOGLE_CORPUS_DOC_ID);
 doc.useApiKey(process.env.GOOGLE_READONLY_API_KEY);
 
 export async function generateXraste() {
+  logger.info(`generating xraste dictionary ...`);
   await doc.loadInfo();
   const sheet = doc.sheetsById[process.env.GOOGLE_XRASTE_DOC_SHEET_ID as any];
   if (!sheet) {
@@ -60,12 +61,12 @@ export async function generateXraste() {
     })
     .flat();
 
-  logger.info(`generating xraste dictionary ...`);
   const deksi = createDexieCacheFile(rows, { simpleCache: true });
   return { deksi };
 }
 
 export async function generate() {
+  logger.info(`generating muplis dictionary ...`);
   await doc.loadInfo();
   const sheet = doc.sheetsById[process.env.GOOGLE_CORPUS_DOC_SHEET_ID as any];
   if (!sheet) {
@@ -110,7 +111,7 @@ export async function generate() {
 
 export function createDexieCacheFile(arr: Example[], options?: Dict): Dict[] {
   return arr.map((i) => {
-    if (!options.simpleCache) {
+    if (!options?.simpleCache) {
       let cache = `${i.source};${i.source.replace(/h/g, "'")};${i.source_opt};${(i.source_opt || '').replace(
         /h/g,
         "'",

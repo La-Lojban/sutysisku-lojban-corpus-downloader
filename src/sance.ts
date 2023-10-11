@@ -88,6 +88,8 @@ async function checkFileExists(file: string): Promise<boolean> {
 }
 
 export async function processWords(sentences: string[]) {
+  logger.info('generating audio dictionary...');
+
   await handleArray(sentences, 2, processWord).catch((error) => {
     logger.error(error);
   });

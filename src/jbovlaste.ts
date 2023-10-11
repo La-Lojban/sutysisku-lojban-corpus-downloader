@@ -19,7 +19,7 @@ import pkg from '@piercefreeman/brotli-compress';
 const { compress } = pkg;
 import he from 'he';
 
-import winston from 'winston';
+import winston, { format } from 'winston';
 import { uniques } from './utils/fns.js';
 import type { Dict } from './types/index.js';
 import { generate as generateMuplis, generateXraste } from './muplis.js';
@@ -37,7 +37,7 @@ const __dirname = dirname(__filename);
 
 const logger = winston.createLogger({
   level: 'info',
-  format: winston.format.json(),
+  format: format.combine(format.timestamp(), format.json()),
   transports: [
     new winston.transports.Console({
       format: winston.format.simple(),
@@ -90,7 +90,7 @@ export async function updateXmlDumps(args: string[]) {
 
   const xraste = await generateXraste();
   await ningauPaLaSutysisku('xraste', xraste.deksi)
-  
+
   const {
     deksi,
     tsv: { jb2en, en2jb },
@@ -102,10 +102,8 @@ export async function updateXmlDumps(args: string[]) {
   fs.outputFileSync(path.join(__dirname, '../data/dumps/muplis-en2jb.tsv'), en2jb);
 
   //TODO: process all words from valsi.lojban
-  logger.info('sutysisku dumps prepared');
 
   await generatePEGGrammar(defs['lojban']);
-  logger.info('downloading audio...');
 
   try {
     await generateAudio(valsi.lojban.sort());
@@ -399,7 +397,7 @@ async function ningauLeDeksiSutysisku({ json, segerna, arr = [] }: { json?: Dict
 }
 
 async function ningauPaLaSutysisku(segerna: string, arr: Dict[] = []) {
-  // write a new file parsed.js that would be used by la sutysisku
+  // write a new file parsed.json that would be used by la sutysisku
   if (!segerna) segerna = 'en';
   let dump: Dict = {};
   let words: Dict = {};
