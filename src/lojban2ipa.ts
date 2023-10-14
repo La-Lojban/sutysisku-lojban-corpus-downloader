@@ -10,6 +10,7 @@ function krulermorna(text: string): string {
   text = text.replace(/ai/g, 'ą');
   text = text.replace(/ei/g, 'ę');
   text = text.replace(/oi/g, 'ǫ');
+  text = text.replace(/'/g, 'h');
   return text;
 }
 
@@ -22,7 +23,7 @@ const C = '[bdgjvzcfkpstxlmnr]';
 //   '(cfr|cfl|sfr|sfl|jvr|jvl|zvr|zvl|cpr|cpl|spr|spl|jbr|jbl|zbr|zbl|ckr|ckl|skr|skl|jgr|jgl|zgr|zgl|ctr|str|jdr|zdr|cmr|cml|smr|sml|jmr|jml|zmr|zml)';
 // const R = `((?!${D})${C}${C})`;
 // const J = '(i|u)(?=[aeiouyḁąęǫ])';
-// const h = "[h']";
+const h = "[h']";
 
 const ipaVits: Record<string, string> = {
   a: 'aː',
@@ -77,7 +78,8 @@ const ipaVits: Record<string, string> = {
   p: 'p',
   t: 't',
   h: 'h',
-  '\\.': 'ʔ',
+  // '\\.': 'ʔ',
+  '\\.': '.',
 };
 
 const vowelPattern = /[aeiouyąęǫḁ]/;
@@ -160,7 +162,7 @@ export function lojban2ipaPolly(text: string): string {
       if (head === '') {
         modifiedWord = head + 'ˈ' + tailWord.join('');
       } else {
-        head = head.replace(RegExp(`(${C})$`), 'ˈ$1');
+        head = head.replace(RegExp(`(${C}|${h})$`), "ˈ$1");
         modifiedWord = head + tailWord.join('');
       }
     }
@@ -249,10 +251,11 @@ export function lojban2ipaPolly(text: string): string {
   //   } else if (vowelPattern.test(text.charAt(text.length - 1))) {
   //     output += '.';
   //   }
-
-  return `<speak><prosody rate="x-slow"><s>${output}</s></prosody></speak>`;
+  // console.log(output);
+  return `<speak><prosody rate="x-slow"><s>${output}<break time="1ms" strength="x-weak" /></s></prosody></speak>`;
 }
 
 // Example usage:
-const result = lojban2ipaPolly('sipnybzu coi amkau gauxai matriocka amnadiia');
-console.log(result);
+// const result = lojban2ipaPolly('sipnybzu coi amkau gauxai matriocka amnadiia');
+// const result = lojban2ipaPolly("merpe'ajitstic porto ckafre'ole"); //
+// console.log(result);

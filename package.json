@@ -5,6 +5,8 @@
   "exports": "./dist/index.js",
   "scripts": {
     "peg": "peggy --cache",
+    "sance": "mkdir -p ./data && node --loader ts-node/esm src/sance.ts",
+    "ipa": "mkdir -p ./data && node --loader ts-node/esm src/lojban2ipa.ts",
     "propbank": "mkdir -p ./data && node --loader ts-node/esm src/propbank.ts",
     "gentufa": "mkdir -p ./data && node --loader ts-node/esm src/gentufa.ts",
     "zip": "zip -r data/artifact.zip ./data",

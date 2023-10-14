@@ -93,9 +93,6 @@ export async function processWords(sentences: string[]) {
   await handleArray(sentences, 2, processWord).catch((error) => {
     logger.error(error);
   });
-  // for (const sentence of sentences) {
-  //   await processWord(sentence);
-  // }
 }
 
 async function processWord(sentence: string): Promise<void> {
@@ -118,3 +115,5 @@ async function processWord(sentence: string): Promise<void> {
 
   if (!success) logger.error(`${sentence}: not downloaded`);
 }
+
+// downloadFromPolly("merpe'ajitstic", 'test.ogg')
