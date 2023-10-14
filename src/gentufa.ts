@@ -102,7 +102,7 @@ export async function generatePEGGrammar(valsi: Dict) {
       trace: false,
       output: 'source',
       allowedStartRules: ruleNames(grammarSrc),
-      // format: 'es',
+      format: 'es',
       plugins: [new SyntacticActionsPlugin()],
     });
     fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes.js'), parser);
