@@ -109,7 +109,7 @@ export async function generatePEGGrammar(valsi: Dict = {}) {
   logger.info('new PEG grammar parser generated');
 }
 
-generatePEGGrammar();
+// generatePEGGrammar();
 // console.log(peggy.generate);
 
 // import p from '../grammars/camxes.cjs';
