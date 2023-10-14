@@ -98,10 +98,10 @@ export async function generatePEGGrammar(valsi: Dict = {}) {
   const grammarSrc = grammarRules.map((r) => `${r.rule} = ${r.rhs}`).join('\n');
   fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes-cnino.peg'), grammarSrc);
   const parser = peggy.generate(grammarSrc, {
-    // cache: true,
+    cache: true,
     trace: false,
     output: 'source',
-    allowedStartRules: ruleNames(grammarSrc),
+    allowedStartRules: ['text'],//ruleNames(grammarSrc),
     format: 'commonjs',
     plugins: [new SyntacticActionsPlugin()],
   });
