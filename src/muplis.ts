@@ -41,6 +41,14 @@ type Dict = {
 const doc = new GoogleSpreadsheet(process.env.GOOGLE_CORPUS_DOC_ID);
 doc.useApiKey(process.env.GOOGLE_READONLY_API_KEY);
 
+function arrayToJSON(arr: Example[]): Dict {
+  const result = {};
+  arr.forEach((subArray) => {
+    result[subArray.source] = subArray.target;
+  });
+  return result;
+}
+
 export async function generateXraste() {
   logger.info(`generating xraste dictionary ...`);
   await doc.loadInfo();
@@ -60,9 +68,8 @@ export async function generateXraste() {
       return targets;
     })
     .flat();
-
   const deksi = createDexieCacheFile(rows, { simpleCache: true });
-  return { deksi };
+  return { deksi, full: arrayToJSON(rows) };
 }
 
 export async function generate() {

@@ -89,7 +89,8 @@ export async function updateXmlDumps(args: string[]) {
   }
 
   const xraste = await generateXraste();
-  await ningauPaLaSutysisku('xraste', xraste.deksi)
+  await ningauPaLaSutysisku('xraste', xraste.deksi);
+  fs.outputFileSync(path.join(__dirname, '../data/parsed/parsed-xraste.json'), JSON.stringify(xraste.full));
 
   const {
     deksi,
