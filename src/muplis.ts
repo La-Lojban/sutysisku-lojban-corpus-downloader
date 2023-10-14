@@ -63,7 +63,7 @@ export async function generateXraste() {
       const source = row._rawData[0];
       const targets = row._rawData
         .slice(1)
-        .filter((str: string) => RegExp('^[a-zA-Z0-9_ , .-]+.(jpe?g|png|gif|svg)$', 'i').test(str))
+        .filter((str: string) => RegExp('^.+\.(jpe?g|png|gif|svg)$', 'i').test(str))
         .map((i: string) => ({ source, target: i, tags: [] } as Example));
       return targets;
     })

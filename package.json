@@ -5,6 +5,7 @@
   "exports": "./dist/index.js",
   "scripts": {
     "peg": "peggy --cache",
+    "muplis": "mkdir -p ./data && node --loader ts-node/esm src/muplis.ts",
     "sance": "mkdir -p ./data && node --loader ts-node/esm src/sance.ts",
     "ipa": "mkdir -p ./data && node --loader ts-node/esm src/lojban2ipa.ts",
     "propbank": "mkdir -p ./data && node --loader ts-node/esm src/propbank.ts",
