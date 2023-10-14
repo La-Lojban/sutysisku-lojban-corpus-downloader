@@ -62,14 +62,14 @@ function convertCmavoToPegString(leicmavo: string[]) {
     })
     .join(' / ');
 }
-export async function generatePEGGrammar(valsi: Dict) {
+export async function generatePEGGrammar(valsi: Dict = {}) {
   logger.info('generating lojban PEG grammar');
 
   const selmaho: Dict = {};
   for (const key in valsi) {
-	const def = valsi[key];
+    const def = valsi[key];
     if (def.s && ['cmavo', 'experimental cmavo'].includes(def.t)) {
-		const coreSelmaho = def.s.replace(/[0-9]+.*/,'');
+      const coreSelmaho = def.s.replace(/[0-9]+.*/, '');
       selmaho[coreSelmaho] = (selmaho[coreSelmaho] ?? []).concat([key]);
     }
   }
@@ -90,25 +90,26 @@ export async function generatePEGGrammar(valsi: Dict) {
       return { rule, rhs };
     });
   for (const rule of grammarRules) {
-	  const leicmavo = selmaho[rule.rule];
-	  if (leicmavo) {
+    const leicmavo = selmaho[rule.rule];
+    if (leicmavo) {
       rule.rhs = `&cmavo ( ${convertCmavoToPegString(leicmavo)} ) &post_word`;
     }
   }
   const grammarSrc = grammarRules.map((r) => `${r.rule} = ${r.rhs}`).join('\n');
   fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes-cnino.peg'), grammarSrc);
-    const parser = peggy.generate(grammarSrc, {
-      // cache: true,
-      trace: false,
-      output: 'source',
-      allowedStartRules: ruleNames(grammarSrc),
-      // format: 'es',
-      plugins: [new SyntacticActionsPlugin()],
-    });
-    fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes.js'), parser);
-	logger.info("new PEG grammar parser generated")
+  const parser = peggy.generate(grammarSrc, {
+    // cache: true,
+    trace: false,
+    output: 'source',
+    allowedStartRules: ruleNames(grammarSrc),
+    format: 'commonjs',
+    plugins: [new SyntacticActionsPlugin()],
+  });
+  fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes.js'), parser);
+  logger.info('new PEG grammar parser generated');
 }
 
+generatePEGGrammar();
 // console.log(peggy.generate);
 
 // import p from '../grammars/camxes.cjs';
