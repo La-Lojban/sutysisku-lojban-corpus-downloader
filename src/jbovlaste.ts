@@ -511,23 +511,24 @@ function preprocesWordWithScale(v: any, scale: any) {
     oldPrefix = '';
   const root = v.word.replace(/(nai|cu'i|ja'ai)+$/, '');
   const type = /nai$/.test(v.word) ? 2 : /cu[h']i$/.test(v.word) ? 1 : 0;
+  //vocative: hospitality - inhospitality; you are welcome/ make yourself at home.
   if (RegExp(scale.COI.selmaho).test(v.selmaho)) {
     if (RegExp(scale.COI.match).test(v.definition)) {
       prefix = `${v.definition.split(':')[0]}: \n`;
       oldPrefix = `${v.definition.split(':')[0]}: `;
       v.definition = v.definition.replace(RegExp(`${v.definition.split(':')[0]}: `), '');
     }
-    v.definition = [v.definition];
+    v.definition = v.definition.split(';');
     const core = v.definition[0].split(' - ');
     if (core.length === 3) {
-      const postfix = null;
+      const postfix = v.definition.slice(1).join(';');
       core[0] = `{${root}} - ${core[0] + (postfix && type === 0 ? '; ' + postfix : '')}`;
       core[1] = `{${root}cu'i} - ${core[1] + (postfix && type === 1 ? '; ' + postfix : '')}`;
       core[2] = `{${root}nai} - ${core[2] + (postfix && type === 2 ? '; ' + postfix : '')}`;
       v.definition[0] = core.join('\n');
-      v.definition = v.definition[0];
+      v.definition = prefix + v.definition[0];
     } else if (core.length === 2) {
-      const postfix = null;
+      const postfix = v.definition.slice(1).join(';');
       core[0] = `{${root}} - ${core[0] + (postfix && type === 0 ? '; ' + postfix : '')}`;
       core[1] = `{${root}nai} - ${core[1] + (postfix && type === 2 ? '; ' + postfix : '')}`;
       v.definition[0] = core.join('\n');
