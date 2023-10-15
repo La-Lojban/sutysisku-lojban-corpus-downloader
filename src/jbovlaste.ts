@@ -92,15 +92,15 @@ export async function updateXmlDumps(args: string[]) {
   await ningauPaLaSutysisku('xraste', xraste.deksi);
   fs.outputFileSync(path.join(__dirname, '../data/parsed/parsed-xraste.json'), JSON.stringify(xraste.full));
 
-  // const {
-  //   deksi,
-  //   tsv: { jb2en, en2jb },
-  // } = await generateMuplis();
+  const {
+    deksi,
+    tsv: { jb2en, en2jb },
+  } = await generateMuplis();
 
-  // const { words } = await ningauPaLaSutysisku('muplis', deksi);
-  // valsi['lojban'] = [...new Set((valsi['lojban'] ?? []).concat(words))];
-  // fs.outputFileSync(path.join(__dirname, '../data/dumps/muplis-jb2en.tsv'), jb2en);
-  // fs.outputFileSync(path.join(__dirname, '../data/dumps/muplis-en2jb.tsv'), en2jb);
+  const { words } = await ningauPaLaSutysisku('muplis', deksi);
+  valsi['lojban'] = [...new Set((valsi['lojban'] ?? []).concat(words))];
+  fs.outputFileSync(path.join(__dirname, '../data/dumps/muplis-jb2en.tsv'), jb2en);
+  fs.outputFileSync(path.join(__dirname, '../data/dumps/muplis-en2jb.tsv'), en2jb);
 
   //TODO: process all words from valsi not under lojban key
 
@@ -108,11 +108,11 @@ export async function updateXmlDumps(args: string[]) {
   fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes-secnegau.peg'), source);
   fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes.js'), generated);
 
-  // try {
-  //   await generateAudio(valsi.lojban.sort());
-  // } catch (error: unknown) {
-  //   if (error instanceof Error) logger.error(error?.message);
-  // }
+  try {
+    await generateAudio(valsi.lojban.sort());
+  } catch (error: unknown) {
+    if (error instanceof Error) logger.error(error?.message);
+  }
 
   return uniques(erroredLangs);
 }
