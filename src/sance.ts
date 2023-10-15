@@ -96,7 +96,7 @@ export async function processWords(sentences: string[]) {
 }
 
 async function processWord(sentence: string): Promise<void> {
-  logger.info(`getting audio for "${sentence}"`);
+  // logger.info(`getting audio for "${sentence}"`);
   const convertedText = convertText2Filename(sentence);
   const outputFilePath = join(__dirname, `../data/sance/${convertedText}.ogg`);
   let success: boolean;
