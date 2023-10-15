@@ -102,9 +102,11 @@ export async function updateXmlDumps(args: string[]) {
   fs.outputFileSync(path.join(__dirname, '../data/dumps/muplis-jb2en.tsv'), jb2en);
   fs.outputFileSync(path.join(__dirname, '../data/dumps/muplis-en2jb.tsv'), en2jb);
 
-  //TODO: process all words from valsi.lojban
+  //TODO: process all words from valsi not under lojban key
 
-  await generatePEGGrammar(defs['lojban']);
+  const { generated, source } = await generatePEGGrammar(defs['lojban']);
+  fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes-secnegau.peg'), source);
+  fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes.js'), generated);
 
   try {
     await generateAudio(valsi.lojban.sort());

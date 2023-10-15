@@ -73,6 +73,7 @@ export async function generatePEGGrammar(valsi: Dict = {}) {
       selmaho[coreSelmaho] = (selmaho[coreSelmaho] ?? []).concat([key]);
     }
   }
+  // console.log(JSON.stringify(selmaho, null, 2));
   const grammarRules = fs
     .readFileSync(path.join(__dirname, './grammars/camxes.peg'))
     .toString()
@@ -96,20 +97,18 @@ export async function generatePEGGrammar(valsi: Dict = {}) {
     }
   }
   const grammarSrc = grammarRules.map((r) => `${r.rule} = ${r.rhs}`).join('\n');
-  fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes-cnino.peg'), grammarSrc);
   const parser = peggy.generate(grammarSrc, {
     cache: true,
     trace: false,
     output: 'source',
-    allowedStartRules: ['text'],//ruleNames(grammarSrc),
+    allowedStartRules: ruleNames(grammarSrc),
     format: 'commonjs',
     plugins: [new SyntacticActionsPlugin()],
   });
-  fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes.js'), parser);
   logger.info('new PEG grammar parser generated');
+  return { source: grammarSrc, generated: parser };
 }
 
-// generatePEGGrammar();
 // console.log(peggy.generate);
 
 // import p from '../grammars/camxes.cjs';
