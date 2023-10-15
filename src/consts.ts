@@ -1,25 +1,25 @@
 export const predefinedLangs: string[] = [
-  '2002',
-  'en-pt-BR', 'zamenhofo', 'ile', 'ina', 'toki', 'ktv-eng', 'ldp',
-  'loglan',
+  // '2002',
+  // 'en-pt-BR', 'zamenhofo', 'ile', 'ina', 'toki', 'ktv-eng', 'ldp',
+  // 'loglan',
 ];
 
 export const langs: string[] = [
   'en',
-  'jbo',
-  'ja',
-  'ru',
-  'es',
-  'fr',
-  'pl',
-  'de',
-  'eo',
-  'zh',
-  'en-simple',
-  'fr-facile',
-  'hu',
-  'sv',
-  'tok'
+  // 'jbo',
+  // 'ja',
+  // 'ru',
+  // 'es',
+  // 'fr',
+  // 'pl',
+  // 'de',
+  // 'eo',
+  // 'zh',
+  // 'en-simple',
+  // 'fr-facile',
+  // 'hu',
+  // 'sv',
+  // 'tok'
 ];
 
 export const bais = {

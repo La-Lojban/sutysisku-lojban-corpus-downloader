@@ -52,15 +52,21 @@ const ruleNames = (grammarSrc) => {
     .filter(Boolean);
 };
 
+function sortArrayByLength(arr: string[]) {
+  return arr.sort(function (a, b) {
+    return b.length - a.length;
+  });
+}
+
 function convertCmavoToPegString(leicmavo: string[]) {
-  return leicmavo
-    .map((cmavo) => {
+  return sortArrayByLength(
+    leicmavo.map((cmavo) => {
       return cmavo
         .split('')
         .map((s) => s.replace("'", 'h'))
         .join(' ');
-    })
-    .join(' / ');
+    }),
+  ).join(' / ');
 }
 export async function generatePEGGrammar(valsi: Dict = {}) {
   logger.info('generating lojban PEG grammar');
