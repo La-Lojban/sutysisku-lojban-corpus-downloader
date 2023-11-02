@@ -20,18 +20,18 @@ const { compress } = pkg;
 import he from 'he';
 
 import winston, { format } from 'winston';
-import { uniques } from './utils/fns.js';
+import { preprocessDefinitionForVectors, roundToDecimals, splitArray, uniques } from './utils/fns.js';
 import type { Dict } from './types/index.js';
 import { generate as generateMuplis, generateXraste } from './muplis.js';
 
-import { processWords as generateAudio } from './sance.js';
+import { TextEmbeddingModel } from './inference/index.js';
 
-//import { FeatureExtractionModel, ModelType } from "./inference/text/index.js";
-//import { SimpleTextModel } from "./inference/text/simpleTextModel.js";
+import { processWords as generateAudio } from './sance.js';
 
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 import { generatePEGGrammar } from './gentufa.js';
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
@@ -65,16 +65,20 @@ export async function updateXmlDumps(args: string[]) {
   const valsi: Dict = {};
   const defs: Dict[] = [];
   if (args.includes('download')) {
-    logger.info('downloading dumps');
+    logger.info('〉 downloading dumps');
     for (const language of langs) {
       if (!predefinedLangs.includes(language)) erroredLangs.push(...(await downloadSingleDump({ language })));
     }
     logger.info('downloaded dumps');
   }
 
+  logger.info('〉 generating compressed dictionaries');
+
+  const dicts: Dict = {};
   for (const language of predefinedLangs.concat(langs)) {
     try {
       const { words, segerna, dump } = await ningauPaLaSutysisku(language);
+      if (language === 'en') dicts[language] = dump;
       if (predefinedLangs.includes(segerna)) {
         valsi[segerna] = [...new Set((valsi[segerna] ?? []).concat(words))];
         defs[segerna] = { ...dump, ...(defs[segerna] ?? {}) };
@@ -87,6 +91,51 @@ export async function updateXmlDumps(args: string[]) {
       erroredLangs.push(language);
     }
   }
+  logger.info('generated compressed dictionaries');
+
+  logger.info('〉 generating embeddings dictionaries');
+
+  const modelMetadata = {
+    id: 'mini-lm-v2-quant',
+    title: 'Quantized mini model for sentence embeddings',
+    encoderPath: './data/dumps/mini-lm-v2-quant.brotli',
+    outputEncoderName: 'last_hidden_state',
+    tokenizerPath: './data/dumps/mini-lm-v2-quant.tokenizer.brotli',
+    padTokenID: 0,
+    readmeUrl: 'https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2',
+  };
+
+  const model = await TextEmbeddingModel.create(modelMetadata);
+
+  const [keys, values] = [
+    Object.keys(dicts.en),
+    Object.values(dicts.en).map((i: Dict) => preprocessDefinitionForVectors(i.d + ' ' + i.n)),
+  ];
+  const chunkSize = 50;
+  const chunks = splitArray(values, chunkSize);
+
+  let vectorDict: string[] = [];
+  for (let i = 0; i < chunks.length; i++) {
+    const chunk = chunks[i];
+    const processed = await model.infer(chunk);
+    const vectors: string[] = processed.vectors.map((vector: number[], j: number) =>
+      [
+        keys[i * chunkSize + j],
+        vector
+          .map((res) => roundToDecimals(res, 2, false))
+          .join(',')
+          .replace(/,-/g, '-')
+          .replace(/,0,/g, ',,'),
+      ].join('\t'),
+    );
+    vectorDict.push(...vectors);
+  }
+  const strVectors = vectorDict.join('\n');
+  fs.outputFileSync(path.join(__dirname, '../data/parsed/en-vektori.tsv'), strVectors);
+  const compressed = await compress(Buffer.from(strVectors));
+  fs.outputFileSync(path.join(__dirname, '../data/parsed/en-vektori.tsv') + '.bin', compressed);
+
+  logger.info('generated embeddings dictionaries');
 
   const xraste = await generateXraste();
   await ningauPaLaSutysisku('xraste', xraste.deksi);
@@ -521,20 +570,20 @@ function preprocesWordWithScale(v: any, scale: any) {
     v.definition = v.definition.split(';');
     const core = v.definition[0].split(' - ');
     if (core.length === 3) {
-      const postfix = v.definition.slice(1).join(';');
+      const postfix = v.definition.slice(1).join(';').trim();
       core[0] = `{${root}} - ${core[0] + (postfix && type === 0 ? '; ' + postfix : '')}`;
       core[1] = `{${root}cu'i} - ${core[1] + (postfix && type === 1 ? '; ' + postfix : '')}`;
       core[2] = `{${root}nai} - ${core[2] + (postfix && type === 2 ? '; ' + postfix : '')}`;
       v.definition[0] = core.join('\n');
       v.definition = prefix + v.definition[0];
     } else if (core.length === 2) {
-      const postfix = v.definition.slice(1).join(';');
+      const postfix = v.definition.slice(1).join(';').trim();
       core[0] = `{${root}} - ${core[0] + (postfix && type === 0 ? '; ' + postfix : '')}`;
       core[1] = `{${root}nai} - ${core[1] + (postfix && type === 2 ? '; ' + postfix : '')}`;
       v.definition[0] = core.join('\n');
       v.definition = prefix + v.definition[0];
     } else {
-      v.definition = oldPrefix + v.definition.join(';');
+      v.definition = oldPrefix + v.definition.join(';').trim();
     }
   } else if (RegExp(scale.UI.selmaho).test(v.selmaho)) {
     if (RegExp(scale.UI.match).test(v.definition)) {
@@ -545,20 +594,20 @@ function preprocesWordWithScale(v: any, scale: any) {
     v.definition = v.definition.split(';');
     const core = v.definition[0].split(' - ');
     if (core.length === 3) {
-      const postfix = v.definition.slice(1).join(';');
+      const postfix = v.definition.slice(1).join(';').trim();
       core[0] = `{${root}} - ${core[0] + (postfix && type === 0 ? '; ' + postfix : '')}`;
       core[1] = `{${root}cu'i} - ${core[1] + (postfix && type === 1 ? '; ' + postfix : '')}`;
       core[2] = `{${root}nai} - ${core[2] + (postfix && type === 2 ? '; ' + postfix : '')}`;
       v.definition[0] = core.join('\n');
       v.definition = prefix + v.definition[0];
     } else if (core.length === 2) {
-      const postfix = v.definition.slice(1).join(';');
+      const postfix = v.definition.slice(1).join(';').trim();
       core[0] = `{${root}} - ${core[0] + (postfix && type === 0 ? '; ' + postfix : '')}`;
       core[1] = `{${root}nai} - ${core[1] + (postfix && type === 2 ? '; ' + postfix : '')}`;
       v.definition[0] = core.join('\n');
       v.definition = prefix + v.definition[0];
     } else {
-      v.definition = oldPrefix + v.definition.join(';');
+      v.definition = oldPrefix + v.definition.join(';').trim();
     }
   }
   return v.definition;

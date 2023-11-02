@@ -42,9 +42,9 @@ const handleArrayPart = async <T>(part: T[], fn: (item: T) => void): Promise<voi
   return await Promise.all(part.map((item) => fn(item)));
 };
 
-const splitArray = <T>(arr: T[], n: number): T[][] => {
+export const splitArray = <T>(arr: T[], n: number): T[][] => {
   let result: T[][] = [];
-  let i, j;
+  let i: number, j: number;
   for (i = 0, j = arr.length; i < j; i += n) {
     result.push(arr.slice(i, i + n));
   }
@@ -59,3 +59,18 @@ export const handleArray = async <T>(arr: T[], numberPartitions: number, fn: (it
   }
   return result;
 };
+
+export const preprocessDefinitionForVectors = (def: string): string => {
+  return def
+    .replace(/\$.*?\$/g, '[UNK]')
+    .replace(/\{.*?\}/g, '[UNK]')
+    .replace(/ {2,}/g, ' ')
+    .replace(/[\.,] ?[\.,]/g, '.')
+    .replace(/[,\. ]+$/, '')
+    .replace(/^[,\. ]+/, '');
+};
+
+export function roundToDecimals(number: number, trunc = 8, restoreDimension = true): number {
+  if (!restoreDimension) return Math.round(number * 10 ** trunc);
+  return Math.round(number * 10 ** trunc) / 10 ** trunc;
+}

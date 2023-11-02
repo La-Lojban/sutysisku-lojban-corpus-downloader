@@ -2,7 +2,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 import winston, { format } from 'winston';
 
-import { Polly, SynthesizeSpeechCommand } from '@aws-sdk/client-polly';
+import { Engine, LanguageCode, OutputFormat, Polly, SynthesizeSpeechCommand, TextType, VoiceId } from '@aws-sdk/client-polly';
 import fs from 'fs-extra';
 import streamToArray from 'stream-to-array';
 import { Readable } from 'stream';
@@ -45,11 +45,11 @@ async function downloadFromPolly(sentence: string, outputFilePath: string): Prom
   if (!ipaText) return false;
   let params = {
     Text: ipaText,
-    OutputFormat: 'ogg_vorbis',
-    VoiceId: 'Vicki',
-    Engine: 'neural',
-    TextType: 'ssml',
-    LanguageCode: 'de-DE',
+    OutputFormat: OutputFormat.OGG_VORBIS,
+    VoiceId: VoiceId.Vicki,
+    Engine: Engine.NEURAL,
+    TextType: TextType.SSML,
+    LanguageCode: LanguageCode.de_DE,
   };
   const response = await polly.send(new SynthesizeSpeechCommand(params));
   if (response.AudioStream) {
