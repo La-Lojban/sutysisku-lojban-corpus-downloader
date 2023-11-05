@@ -1,3 +1,5 @@
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-ignore
 import * as ort from 'onnxruntime-node';
 import { TokenizerWasm } from '@sutysisku/tokenizer/pkg/nodejs/sutysisku_tokenizer.js';
 import pkg from 'brotli-compress';
@@ -25,7 +27,7 @@ type ValueMapType = {
 };
 
 export class TextEmbeddingModel {
-  metadata: Metadata;
+  metadata!: Metadata;
   tokenizer: TokenizerWasm | undefined;
   ortSession: ort.InferenceSession | undefined;
   ortTensor: ort.Tensor;
@@ -99,7 +101,7 @@ export class TextEmbeddingModel {
     let maxLen = 0;
 
     inputs.forEach((input) => {
-      const tokensUintArray: Uint32Array = this.tokenizer.encode(input, addSpecialTokens).input_ids;
+      const tokensUintArray: Uint32Array = this.tokenizer!.encode(input, addSpecialTokens).input_ids;
       const tokens: number[] = Array.from(tokensUintArray);
       let len = tokens.length + (bosTokenID ? 1 : 0);
 
@@ -123,7 +125,7 @@ export class TextEmbeddingModel {
       const currentLen = ids.length;
       const padCount = maxLen - currentLen;
       inputIDs[i] = ids.concat(Array(padCount).fill(padTokenID));
-      attentionMasks[i] = attentionMasks[i].concat(Array(padCount).fill(0));
+      attentionMasks[i] = (attentionMasks[i] ?? []).concat(Array(padCount).fill(0));
     });
 
     const flattenedInputIDs = inputIDs.flat();
@@ -154,7 +156,7 @@ export class TextEmbeddingModel {
       Array.from({ length: lastHiddenState.dims[2] }, () => 0),
     ).map((_, idx, result) => {
       const numRows = lastHiddenState.dims[1];
-      const row = result[idx].map((_, j) => {
+      const row = (result[idx] ?? []).map((_, j) => {
         let rowAggregate = lastHiddenState.data.slice(idx * numRows, (idx + 1) * numRows).reduce(
           (acc: { sum: number; count: number }, _: never, i: number) => {
             const attnValue = attentionMask.data[idx * numRows + i];

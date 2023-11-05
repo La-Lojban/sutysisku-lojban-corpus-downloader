@@ -22,6 +22,8 @@ export const langs: string[] = [
   'tok'
 ];
 
+export const jbobangu: string[]  = langs.concat(["2002"]);
+
 export const bais = {
   en: {
     initial: "^(|na'e |je'a |to'e )([a-z']+) modal,",

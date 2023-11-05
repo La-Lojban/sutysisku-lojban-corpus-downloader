@@ -16,6 +16,8 @@ import fs from 'fs-extra';
 import path from 'path';
 
 import peggy from 'peggy';
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-ignore
 import SyntacticActionsPlugin from 'pegjs-syntactic-actions';
 
 import { fileURLToPath } from 'url';
@@ -45,11 +47,11 @@ const __dirname = dirname(__filename);
 
 // console.log(result);
 
-const ruleNames = (grammarSrc) => {
+const ruleNames = (grammarSrc: string) => {
   return grammarSrc
     .split('\n')
-    .map((_) => _.split('=')[0].trim())
-    .filter(Boolean);
+    .map((_) => _.split('=')[0]?.trim())
+    .filter(Boolean) as string[];
 };
 
 function sortArrayByLength(arr: string[]) {
@@ -97,6 +99,7 @@ export async function generatePEGGrammar(valsi: Dict = {}) {
       return { rule, rhs };
     });
   for (const rule of grammarRules) {
+    if (!rule.rule) continue;
     const leicmavo = selmaho[rule.rule];
     if (leicmavo) {
       rule.rhs = `&cmavo ( ${convertCmavoToPegString(leicmavo)} ) &post_word`;
@@ -106,11 +109,11 @@ export async function generatePEGGrammar(valsi: Dict = {}) {
   const parser = peggy.generate(grammarSrc, {
     cache: true,
     trace: false,
-    output: 'source',
-    allowedStartRules: ruleNames(grammarSrc),
+    output: 'source' as any,
+    allowedStartRules: ruleNames(grammarSrc) ?? ['text'],
     format: 'commonjs',
     plugins: [new SyntacticActionsPlugin()],
-  });
+  }) as any;
   logger.info('new PEG grammar parser generated');
   return { source: grammarSrc, generated: parser };
 }

@@ -51,6 +51,6 @@ let { vectors } = await model.infer([
 vectors = vectors.map((res) => res.map((res) => roundToDecimals(res, 20)));
 import similarity from 'compute-cosine-similarity';
 import { roundToDecimals } from './utils/fns.js';
-console.log(similarity(vectors[0], vectors[1]));
-console.log(similarity(vectors[1], vectors[2]));
-console.log(similarity(vectors[2], vectors[3]));
+console.log(similarity(vectors[0]!, vectors[1]!));
+console.log(similarity(vectors[1]!, vectors[2]!));
+console.log(similarity(vectors[2]!, vectors[3]!));

@@ -2,7 +2,7 @@
 	"extends": "@sindresorhus/tsconfig",
 	"compilerOptions": {
 		"allowSyntheticDefaultImports": true,
-		"strict": false,
+		"strict": true,
 		"outDir": "dist",
 		"target": "es2020", // Node.js 14
 		"lib": [

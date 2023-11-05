@@ -946,10 +946,10 @@
     "@smithy/util-buffer-from" "^2.0.0"
     tslib "^2.5.0"
 
-"@sutysisku/tokenizer@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@sutysisku/tokenizer/-/tokenizer-0.0.6.tgz#d884ae7e50f25c53cc400735fc3a8244acc66569"
-  integrity sha512-xV20eEBYcO7cbjH6d7oNnUlVrr7sIGG66edRTjC5EE98J2RGxPUgt6hc0cla2hU5Zy2ObUNHXxeviCt0W3mTHw==
+"@sutysisku/tokenizer@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@sutysisku/tokenizer/-/tokenizer-0.0.7.tgz#012455b8ed4f10723582c15bf465465dd19f23ce"
+  integrity sha512-yVjQ40HTFNKz6OLsCwiP9Yh/f43KbGN5ddfLuv2qTU+NjOH8X2pELCAXL2Oqq6VysfTG2qLMnH2MWgpO/upwxg==
 
 "@tsconfig/node10@^1.0.7":
   version "1.0.9"
@@ -1591,10 +1591,10 @@ logform@^2.3.2, logform@^2.4.0:
     safe-stable-stringify "^2.3.1"
     triple-beam "^1.3.0"
 
-lojban@^2.0.41:
-  version "2.0.41"
-  resolved "https://registry.yarnpkg.com/lojban/-/lojban-2.0.41.tgz#f8aae4a3b6b0c23fceb32f818bcfee24b7be39fc"
-  integrity sha512-pS2iqxJeaBIzltmr5SE1cOF6cIrV0tIUXE+lQ05d71CEcGjrvtwJGemwjRVzwGzbVRneYO5/0GDcxTHm45z76Q==
+lojban@^2.0.42:
+  version "2.0.42"
+  resolved "https://registry.yarnpkg.com/lojban/-/lojban-2.0.42.tgz#4177256d1883d62bb09f0bb8ac5ccefe86ca7f99"
+  integrity sha512-M1qyV0tHTMzkscjEWEcHH2E+8liLUaAkDz71YpcP0NiApT+LCF+qmv6ffTlEoH/FIa774+q8rY1UOW3c0W325Q==
   dependencies:
     axios "^0.27.2"
     ramda "^0.28.0"

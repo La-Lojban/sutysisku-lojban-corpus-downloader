@@ -12,7 +12,7 @@ import RakutenMA from '../node_modules/rakutenma/rakutenma.js';
 
 import * as lojban from 'lojban';
 import * as R from 'ramda';
-import { bais, langs, predefinedLangs, scales } from './consts.js';
+import { bais, jbobangu, langs, predefinedLangs, scales } from './consts.js';
 import { to } from 'await-to-js';
 import objectHash from 'object-hash';
 import pkg from '@piercefreeman/brotli-compress';
@@ -70,6 +70,9 @@ export async function updateXmlDumps(args: string[]) {
       if (!predefinedLangs.includes(language)) erroredLangs.push(...(await downloadSingleDump({ language })));
     }
     logger.info('downloaded dumps');
+    if (erroredLangs.length>0){
+      logger.error(erroredLangs.toString());
+    }
   }
 
   logger.info('〉 generating compressed dictionaries');
@@ -81,10 +84,10 @@ export async function updateXmlDumps(args: string[]) {
       if (language === 'en') dicts[language] = dump;
       if (predefinedLangs.includes(segerna)) {
         valsi[segerna] = [...new Set((valsi[segerna] ?? []).concat(words))];
-        defs[segerna] = { ...dump, ...(defs[segerna] ?? {}) };
+        (defs as any)[segerna] = { ...dump, ...((defs as any)[segerna] ?? {}) };
       } else {
         valsi['lojban'] = [...new Set((valsi['lojban'] ?? []).concat(words))];
-        defs['lojban'] = { ...dump, ...(defs['lojban'] ?? {}) };
+        (defs as any)['lojban'] = { ...dump, ...((defs as any)['lojban'] ?? {}) };
       }
     } catch (error: any) {
       logger.error('updating la sutysisku: ' + error?.message);
@@ -109,7 +112,7 @@ export async function updateXmlDumps(args: string[]) {
 
   const [keys, values] = [
     Object.keys(dicts.en),
-    Object.values(dicts.en).map((i: Dict) => preprocessDefinitionForVectors(i.d + ' ' + i.n)),
+    Object.values(dicts.en).map((i) => preprocessDefinitionForVectors((i as Dict).d + ' ' + (i as Dict).n)),
   ];
   const chunkSize = 50;
   const chunks = splitArray(values, chunkSize);
@@ -117,6 +120,7 @@ export async function updateXmlDumps(args: string[]) {
   let vectorDict: string[] = [];
   for (let i = 0; i < chunks.length; i++) {
     const chunk = chunks[i];
+    if (!chunk) continue;
     const processed = await model.infer(chunk);
     const vectors: string[] = processed.vectors.map((vector: number[], j: number) =>
       [
@@ -153,7 +157,7 @@ export async function updateXmlDumps(args: string[]) {
 
   //TODO: process all words from valsi not under lojban key
 
-  const { generated, source } = await generatePEGGrammar(defs['lojban']);
+  const { generated, source } = await generatePEGGrammar((defs as any)['lojban']);
   fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes-secnegau.peg'), source);
   fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes.js'), generated);
 
@@ -182,14 +186,10 @@ async function downloadSingleDump({ language }: { language: string }) {
     return erroredLangs;
   }
   const t = path.join(__dirname, `../data/dumps/${language}`);
-  try {
-    fs.unlinkSync(`${t}.xml.temp`);
-    // eslint-disable-next-line no-empty
-  } catch (error) {}
   fs.outputFileSync(`${t}.xml.temp`, response.data);
   const jsonDoc = fastParse(`${t}.xml.temp`);
   fs.outputFileSync(`${t}.json`, JSON.stringify(jsonDoc));
-  fs.unlinkSync(`${t}.xml.temp`);
+  fs.moveSync(`${t}.xml.temp`, `${t}.xml`, { overwrite: true });
   return erroredLangs;
 }
 
@@ -485,15 +485,34 @@ function jsonDocDirection(jsonDoc: any): any {
   return jsonDoc.dictionary.direction[0] || jsonDoc.dictionary.direction;
 }
 
+const prettifiedDictEntries = new Map<string, string>();
+
 function prepareSutysiskuJsonDump(language: string) {
   const jsonDoc: any = getJsonDump(path.join(__dirname, `../data/dumps/${language}.json`));
   let json: any = {};
   jsonDocDirection(jsonDoc).valsi.forEach((v: any) => {
-    let g;
+    let g: string[] | undefined;
     if (R.path(['glossword', 'word'], v)) {
       g = [v.glossword.word];
     } else if (Array.isArray(v.glossword)) {
       g = v.glossword.map((i: any) => i.word);
+    }
+    if (jbobangu.includes(language)) {
+      //memoization
+      const prettified = prettifiedDictEntries.get(v.word);
+      if (prettified) {
+        v.word = prettified;
+      } else {
+        const parsed = lojban.romoi_lahi_cmaxes(v.word);
+        if (parsed.tcini === 'snada') {
+          const prettified = parsed.kampu
+            .filter((i) => i[0] !== 'drata')
+            .map((i) => i[1])
+            .join(' ');
+          prettifiedDictEntries.set(v.word, prettified);
+          v.word = prettified;
+        }
+      }
     }
     json[v.word] = {
       d: preprocessRecordFromDump({ text: preprocessDefinitionFromDump({ bais, scales }, language, v) }),
@@ -503,7 +522,7 @@ function prepareSutysiskuJsonDump(language: string) {
       e: v.example,
       k: v.related,
     };
-    if (g) {
+    if (g !== undefined) {
       json[v.word].g = g;
     }
     if (v.rafsi) {

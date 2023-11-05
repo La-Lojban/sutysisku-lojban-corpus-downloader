@@ -223,8 +223,8 @@ export function lojban2ipaPolly(text: string): string {
       !rebuiltWord.postfixCommand.length &&
       !nextWord.prefixCommand.length &&
       !nextWord.prefix &&
-      parsedMap[parseInt(i)][0] === 'cmavo' &&
-      parsedMap[parseInt(i) + 1][0] === 'cmavo'
+      (parsedMap as any)[parseInt(i)][0] === 'cmavo' &&
+      (parsedMap as any)[parseInt(i) + 1][0] === 'cmavo'
     ) {
       rebuiltWords[parseInt(i) + 1].prefixCommand = rebuiltWord.prefixCommand;
       rebuiltWords[parseInt(i) + 1].prefix = rebuiltWord.prefix;

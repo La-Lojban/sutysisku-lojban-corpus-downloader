@@ -42,7 +42,7 @@ const doc = new GoogleSpreadsheet(process.env.GOOGLE_CORPUS_DOC_ID);
 doc.useApiKey(process.env.GOOGLE_READONLY_API_KEY);
 
 function arrayToJSON(arr: Example[]): Dict {
-  const result = {};
+  const result: Dict = {};
   arr.forEach((subArray) => {
     result[subArray.source] = subArray.target;
   });
@@ -63,7 +63,7 @@ export async function generateXraste() {
       const source = row._rawData[0];
       const targets = row._rawData
         .slice(1)
-        .filter((str: string) => RegExp('^.+\.(jpe?g|png|gif|svg)$', 'i').test(str))
+        .filter((str: string) => RegExp('^.+.(jpe?g|png|gif|svg)$', 'i').test(str))
         .map((i: string) => ({ source, target: i, tags: [] } as Example));
       return targets;
     })
@@ -182,12 +182,13 @@ function processRows(rows: GoogleSpreadsheetRow[]) {
     j.target = lojban.preprocessing(j.target.toLowerCase());
 
     try {
-      j.target_opt = lojban
-        .romoi_lahi_cmaxes(lojban.zeizei(j.target.replace(/ĭ/g, 'i').replace(/ŭ/g, 'u')))
-        .kampu.filter((i: any) => i[0] !== 'drata')
-        .map((i: any) => i[1])
-        .join(' ')
-        .replace(/-/g, '');
+      const parsed = lojban.romoi_lahi_cmaxes(lojban.zeizei(j.target.replace(/ĭ/g, 'i').replace(/ŭ/g, 'u')));
+      if (parsed.tcini === 'snada')
+        j.target_opt = parsed.kampu
+          .filter((i: any) => i[0] !== 'drata')
+          .map((i: any) => i[1])
+          .join(' ')
+          .replace(/-/g, '');
     } catch (error) {
       continue;
     }
