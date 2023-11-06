@@ -185,8 +185,8 @@ function processRows(rows: GoogleSpreadsheetRow[]) {
       const parsed = lojban.romoi_lahi_cmaxes(lojban.zeizei(j.target.replace(/ĭ/g, 'i').replace(/ŭ/g, 'u')));
       if (parsed.tcini === 'snada')
         j.target_opt = parsed.kampu
-          .filter((i: any) => i[0] !== 'drata')
-          .map((i: any) => i[1])
+          .filter((i) => i[0] !== 'drata')
+          .map((i) => i[1].replace(/-/g,''))
           .join(' ')
           .replace(/-/g, '');
     } catch (error) {

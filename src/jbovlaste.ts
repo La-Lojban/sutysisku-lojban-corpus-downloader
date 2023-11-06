@@ -490,7 +490,7 @@ const prettifiedDictEntries = new Map<string, string>();
 function prepareSutysiskuJsonDump(language: string) {
   const jsonDoc: any = getJsonDump(path.join(__dirname, `../data/dumps/${language}.json`));
   let json: any = {};
-  jsonDocDirection(jsonDoc).valsi.forEach((v: any) => {
+  jsonDocDirection(jsonDoc).valsi.forEach((v: Dict) => {
     let g: string[] | undefined;
     if (R.path(['glossword', 'word'], v)) {
       g = [v.glossword.word];
@@ -507,7 +507,7 @@ function prepareSutysiskuJsonDump(language: string) {
         if (parsed.tcini === 'snada') {
           const prettified = parsed.kampu
             .filter((i) => i[0] !== 'drata')
-            .map((i) => i[1])
+            .map((i) => i[1].replace(/-/g,''))
             .join(' ');
           prettifiedDictEntries.set(v.word, prettified);
           v.word = prettified;
