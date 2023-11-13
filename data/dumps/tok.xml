@@ -329,6 +329,20 @@
   <keyword word="jan pali kama" place="1" sense="jan ni li pali e ni: lon wan li kama" />
   <keyword word="lon tan pali jan" place="2" sense="lon ni li tan pali jan" />
 </valsi>
+<valsi word="grute" type="gismu">
+  <rafsi>rut</rafsi>
+  <user>
+    <username>CrabappleCat</username>
+    <realname>Filomena Rocca </realname>
+  </user>
+  <definition>$x_1$ li kili tan kasi pi kupulu $x_2$ pi kasi sama </definition>
+  <definitionid>73362</definitionid>
+  <score>1</score>
+  <notes>nimi pi kon poka li ni: {plise}, {badna}, {nimre}, {spati}</notes>
+  <glossword word="kili" />
+  <keyword word="kili" place="1" />
+  <keyword word="kulupu kasi sama" place="2" />
+</valsi>
 <valsi word="jdima" type="gismu">
   <rafsi>di&apos;a</rafsi>
   <user>
@@ -765,7 +779,6 @@
 <nlword word="kalama uta" valsi="bacru" place="2" />
 <nlword word="kasi pi kili palisa jelo" valsi="badna" />
 <nlword word="kili palisa jelo" valsi="badna" place="1" />
-<nlword word="kulupu kasi sama" valsi="badna" place="2" />
 <nlword word="kulupu pi kasi sama" valsi="badna" place="2" />
 <nlword word="jan pilin ike" valsi="badri" place="1" />
 <nlword word="pilin ike" valsi="badri" />
@@ -825,6 +838,8 @@
 <nlword word="jan pali kama" sense="jan ni li pali e ni: lon wan li kama" valsi="gasnu" place="1" />
 <nlword word="lon tan pali jan" sense="lon ni li tan pali jan" valsi="gasnu" place="2" />
 <nlword word="pali kama" sense="jan li pali e ni la, lon wan li kama" valsi="gasnu" />
+<nlword word="kili" valsi="grute" place="1" />
+<nlword word="kulupu kasi sama" valsi="grute" place="2" />
 <nlword word="jan ken pana mani" sense="jan ni li pana mani la, ona li ken kama jo e ijo" valsi="jdima" place="3" />
 <nlword word="mute mani pi kama jo" sense="jan li pana e mute ni la, ona li ken kama jo e ijo" valsi="jdima" place="1" />
 <nlword word="jan lawa mani" sense="jan ni li lawa e pali mani" valsi="jdini" place="2" />
