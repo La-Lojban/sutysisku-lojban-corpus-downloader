@@ -45,7 +45,7 @@
     "fs-extra": "^11.1.1",
     "google-spreadsheet": "^3.3.0",
     "he": "^1.2.0",
-    "lojban": "^2.0.45",
+    "lojban": "^2.0.46",
     "lzma-native": "^8.0.6",
     "mdb-reader": "^2.2.6",
     "mkdirp": "^3.0.1",
