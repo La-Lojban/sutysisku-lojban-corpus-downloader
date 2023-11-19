@@ -14797,6 +14797,16 @@
   <notes>Ver también {benji}.</notes>
   <glossword word="enviar" />
 </valsi>
+<valsi word="mrobi'o" type="lujvo">
+  <user>
+    <username>xorxes</username>
+    <realname>Jorge Llambias</realname>
+  </user>
+  <definition>$x_1$ muere bajo condiciones $x_2$</definition>
+  <definitionid>15243</definitionid>
+  <score>1</score>
+  <glossword word="morir" />
+</valsi>
 <valsi word="mrodimna" type="lujvo">
   <user>
     <username>xorxes</username>
@@ -30225,6 +30235,7 @@
 <nlword word="completivo" valsi="mo&apos;u" />
 <nlword word="centeno" valsi="mraji" />
 <nlword word="enviar" valsi="mrilu" />
+<nlword word="morir" valsi="mrobi&apos;o" />
 <nlword word="mortal" sense="sujeto a la muerte" valsi="mrodimna" />
 <nlword word="martillo" valsi="mruli" />
 <nlword word="5" valsi="mu" />
