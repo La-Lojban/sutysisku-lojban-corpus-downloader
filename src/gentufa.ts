@@ -79,6 +79,10 @@ export async function generatePEGGrammar(valsi: Dict = {}) {
     if (def.s && ['cmavo', 'experimental cmavo'].includes(def.t)) {
       const coreSelmaho = def.s.replace(/[0-9]+.*/, '');
       selmaho[coreSelmaho] = (selmaho[coreSelmaho] ?? []).concat([key]);
+      const coreSubselmaho = def.s.replace(/([0-9]+)[a-z].*/, '$1');
+      if (coreSelmaho !== coreSubselmaho) {
+        selmaho[coreSubselmaho] = (selmaho[coreSubselmaho] ?? []).concat([key]);
+      }
     }
   }
   // console.log(JSON.stringify(selmaho, null, 2));
