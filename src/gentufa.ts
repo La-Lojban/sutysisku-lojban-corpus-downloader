@@ -13,18 +13,13 @@ const logger = winston.createLogger({
 });
 
 import fs from 'fs-extra';
-import path from 'path';
 
 import peggy from 'peggy';
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-ignore
 import SyntacticActionsPlugin from 'pegjs-syntactic-actions';
 
-import { fileURLToPath } from 'url';
-import { dirname } from 'path';
 import { Dict } from './types/index.js';
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
 
 /*
   get dump
@@ -70,7 +65,10 @@ function convertCmavoToPegString(leicmavo: string[]) {
     }),
   ).join(' / ');
 }
-export async function generatePEGGrammar(valsi: Dict = {}) {
+export async function generatePEGGrammar(
+  opts: { path: string; ignoredRules: string[]; allowedStartRules: string[] },
+  valsi: Dict = {},
+) {
   logger.info('generating lojban PEG grammar');
 
   const selmaho: Dict = {};
@@ -87,7 +85,7 @@ export async function generatePEGGrammar(valsi: Dict = {}) {
   }
   // console.log(JSON.stringify(selmaho, null, 2));
   const grammarRules = fs
-    .readFileSync(path.join(__dirname, './grammars/camxes.peg'))
+    .readFileSync(opts.path)
     .toString()
     .split('\n')
     .map((line) =>
@@ -114,9 +112,9 @@ export async function generatePEGGrammar(valsi: Dict = {}) {
     cache: true,
     trace: false,
     output: 'source' as any,
-    allowedStartRules: ruleNames(grammarSrc) ?? ['text'],
+    allowedStartRules: [...new Set((ruleNames(grammarSrc) ?? []).concat(opts.allowedStartRules ?? []))],
     format: 'commonjs',
-    plugins: [new SyntacticActionsPlugin()],
+    plugins: [new SyntacticActionsPlugin({ ignoredRules: opts.ignoredRules ?? [] })],
   }) as any;
   logger.info('new PEG grammar parser generated');
   return { source: grammarSrc, generated: parser };

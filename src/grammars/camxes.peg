@@ -353,8 +353,8 @@ indicators <- INDICATOR+ INDICATORS_post / FUhE_pre INDICATOR* FUhO_pre* INDICAT
 INDICATOR <- DAhO_pre / INDICATOR_2
 
 # refactored left-recursion
-INDICATOR_2 <- INDICATOR_CORE INDICATOR_2_TAIL 
-INDICATOR_2_TAIL <- (ATTITUDINAL_MODIFIER INDICATOR_2_TAIL)?
+INDICATOR_2 <- core:INDICATOR_CORE tail:INDICATOR_2_TAIL  { return tail(core) }
+INDICATOR_2_TAIL <- right:ATTITUDINAL_MODIFIER tail:INDICATOR_2_TAIL  { const l = location(); return left => {return tail({ rule: "INDICATOR_2_TAIL", text: input.substring(peg$savedPos, right.end), start: l.start.offset, end: l.end.offset, children:[left, right]})}} / '' { return left => left }
 
 INDICATOR_CORE <- ((UI1_pre / UI2_pre / UI3_pre / UI6_pre / PEI_pre / GEhE_INDICATOR) NAI_BLOCK?) ATTITUDINAL_INTENSITY? / ATTITUDINAL_INTENSITY
 GEhE_INDICATOR <- GEhE_pre &(NAI_BLOCK? (ATTITUDINAL_INTENSITY / ATTITUDINAL_MODIFIER))

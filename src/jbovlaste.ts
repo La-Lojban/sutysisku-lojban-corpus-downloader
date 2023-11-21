@@ -70,7 +70,7 @@ export async function updateXmlDumps(args: string[]) {
       if (!predefinedLangs.includes(language)) erroredLangs.push(...(await downloadSingleDump({ language })));
     }
     logger.info('downloaded dumps');
-    if (erroredLangs.length>0){
+    if (erroredLangs.length > 0) {
       logger.error(erroredLangs.toString());
     }
   }
@@ -157,7 +157,14 @@ export async function updateXmlDumps(args: string[]) {
 
   //TODO: process all words from valsi not under lojban key
 
-  const { generated, source } = await generatePEGGrammar((defs as any)['lojban']);
+  const { generated, source } = await generatePEGGrammar(
+    {
+      path: path.join(__dirname, './grammars/camxes.peg'),
+      allowedStartRules: ['text'],
+      ignoredRules: ['INDICATOR_2', 'INDICATOR_2_TAIL'],
+    },
+    (defs as any)['lojban'],
+  );
   fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes-secnegau.peg'), source);
   fs.outputFileSync(path.join(__dirname, '../data/grammars/camxes.js'), generated);
 
@@ -507,7 +514,7 @@ function prepareSutysiskuJsonDump(language: string) {
         if (parsed.tcini === 'snada') {
           const prettified = parsed.kampu
             .filter((i) => i[0] !== 'drata')
-            .map((i) => i[1].replace(/-/g,''))
+            .map((i) => i[1].replace(/-/g, ''))
             .join(' ');
           prettifiedDictEntries.set(v.word, prettified);
           v.word = prettified;
