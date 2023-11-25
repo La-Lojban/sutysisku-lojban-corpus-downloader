@@ -64,9 +64,13 @@ export const preprocessDefinitionForVectors = (def: string): string => {
   return def
     .replace(/\$.*?\$/g, '[UNK]')
     .replace(/\{.*?\}/g, '[UNK]')
+    .replace(/".*?"/g, '[UNK]')
+    .replace(/See also\b */g, '')
+    .replace(/See\b */g, '')
     .replace(/ {2,}/g, ' ')
     .replace(/[\.,] ?[\.,]/g, '.')
-    .replace(/[,\. ]+$/, '')
+    .replace(/[,\. ]+$/g, '')
+    .replace(/[, *,]+/, ',')
     .replace(/^[,\. ]+/, '');
 };
 
