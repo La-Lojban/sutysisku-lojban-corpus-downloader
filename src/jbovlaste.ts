@@ -112,7 +112,7 @@ export async function updateXmlDumps(args: string[]) {
 
   const [keys, values] = [
     Object.keys(dicts.en),
-    Object.values(dicts.en).map((i) => preprocessDefinitionForVectors((i as Dict).d + ' ' + (i as Dict).n)),
+    Object.values(dicts.en).map((i) => preprocessDefinitionForVectors((i as Dict).d + ' ' + (i as Dict).n + ' ' + (i as Dict).g || '')),
   ];
   const chunkSize = 50;
   const chunks = splitArray(values, chunkSize);

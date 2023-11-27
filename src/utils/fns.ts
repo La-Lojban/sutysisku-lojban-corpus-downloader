@@ -62,6 +62,7 @@ export const handleArray = async <T>(arr: T[], numberPartitions: number, fn: (it
 
 export const preprocessDefinitionForVectors = (def: string): string => {
   return def
+    .trim()
     .replace(/\$.*?\$/g, '[UNK]')
     .replace(/\{.*?\}/g, '[UNK]')
     .replace(/".*?"/g, '[UNK]')
@@ -71,7 +72,11 @@ export const preprocessDefinitionForVectors = (def: string): string => {
     .replace(/[\.,] ?[\.,]/g, '.')
     .replace(/[,\. ]+$/g, '')
     .replace(/[, *,]+/, ',')
-    .replace(/^[,\. ]+/, '');
+    .replace(/^[,\. ]+/, '')
+    .replace(/\[UNK\]. \[UNK\]/g, '[UNK]. ')
+    .trim()
+    .replace(/ *\.$/g, '')
+    .replace(/ *\[UNK\]$/g, '');
 };
 
 export function roundToDecimals(number: number, trunc = 8, restoreDimension = true): number {

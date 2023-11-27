@@ -42,15 +42,15 @@ const modelMetadata = {
 };
 
 export const model = await TextEmbeddingModel.create(modelMetadata);
-let { vectors } = await model.infer([
-  'I love apples',
-  'I like apples',
-  'Germans came to that city',
-  'Philosophy of Decartes is considered by computers',
-]);
-vectors = vectors.map((res) => res.map((res) => roundToDecimals(res, 20)));
-import similarity from 'compute-cosine-similarity';
-import { roundToDecimals } from './utils/fns.js';
-console.log(similarity(vectors[0]!, vectors[1]!));
-console.log(similarity(vectors[1]!, vectors[2]!));
-console.log(similarity(vectors[2]!, vectors[3]!));
+// let { vectors } = await model.infer([
+//   'I love apples',
+//   'I like apples',
+//   'Germans came to that city',
+//   'Philosophy of Decartes is considered by computers',
+// ]);
+// vectors = vectors.map((res) => res.map((res) => roundToDecimals(res, 20)));
+// import similarity from 'compute-cosine-similarity';
+// import { roundToDecimals } from './utils/fns.js';
+// console.log(similarity(vectors[0]!, vectors[1]!));
+// console.log(similarity(vectors[1]!, vectors[2]!));
+// console.log(similarity(vectors[2]!, vectors[3]!));
