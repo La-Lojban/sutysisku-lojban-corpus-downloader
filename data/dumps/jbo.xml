@@ -13991,6 +13991,52 @@
   <score>1</score>
   <notes>{nibli}; {bi&apos;ai}; {fasnu}; {catni}; {tcaci}; {flalu}</notes>
 </valsi>
+<valsi word="jaxfenki" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai fenki $x_2$ fai $x_3$</definition>
+  <definitionid>73395</definitionid>
+  <score>1</score>
+</valsi>
+<valsi word="jaxfi'u" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai cfipu $x_2$ $x_3$ fai $x_4$</definition>
+  <definitionid>73397</definitionid>
+  <score>1</score>
+</valsi>
+<valsi word="jaxlerci" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai lerci $x_2$ fai $x_3$</definition>
+  <definitionid>73407</definitionid>
+  <score>1</score>
+</valsi>
+<valsi word="jaxmu'i" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai mukti $x_2$ $x_3$ fai $x_4$</definition>
+  <definitionid>73393</definitionid>
+  <score>1</score>
+  <notes>simsa zo {jaxri&apos;a} je zo {jaxyki&apos;u}</notes>
+</valsi>
+<valsi word="jaxnabmi" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai nabmi $x_2$ $x_3$ fai $x_4$</definition>
+  <definitionid>73410</definitionid>
+  <score>1</score>
+</valsi>
 <valsi word="jaxnalvai" type="lujvo">
   <user>
     <username>djeikyb</username>
@@ -14020,6 +14066,16 @@
   <score>2</score>
   <notes>.i du&apos;o mi ti pamoi lujvo fo lo se cmima be zo jai .i ta&apos;onai .e&apos;u ko catlu tu&apos;a zo {jai} li&apos;a .e zo {pluka}</notes>
 </valsi>
+<valsi word="jaxri'a" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai rinka $x_2$ $x_3$ fai $x_4$</definition>
+  <definitionid>73391</definitionid>
+  <score>1</score>
+  <notes>simsa zo {jaxyki&apos;u} je zo {jaxmu&apos;i}</notes>
+</valsi>
 <valsi word="jaxspo" type="lujvo">
   <user>
     <username>djeikyb</username>
@@ -14029,6 +14085,106 @@
   <definitionid>20536</definitionid>
   <score>2</score>
   <notes>.i .e&apos;u ko catlu zo&apos;e pe zo {jai} .e zo {daspo}</notes>
+</valsi>
+<valsi word="jaxtcica" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai tcica $x_2$ $x_3$ fai $x_4$</definition>
+  <definitionid>73413</definitionid>
+  <score>1</score>
+</valsi>
+<valsi word="jaxyclira" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai clira $x_2$ fai $x_3$</definition>
+  <definitionid>73399</definitionid>
+  <score>1</score>
+</valsi>
+<valsi word="jaxydicra" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai dicra $x_2$ $x_3$ fai $x_4$</definition>
+  <definitionid>73401</definitionid>
+  <score>1</score>
+</valsi>
+<valsi word="jaxyjde" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai kajde $x_2$ $x_3$ fai $x_4$</definition>
+  <definitionid>73421</definitionid>
+  <score>1</score>
+</valsi>
+<valsi word="jaxyjenca" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai jenca $x_2$ fai $x_3$</definition>
+  <definitionid>73403</definitionid>
+  <score>1</score>
+</valsi>
+<valsi word="jaxyjursa" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai jursa $x_2$ fai $x_3$</definition>
+  <definitionid>73405</definitionid>
+  <score>1</score>
+</valsi>
+<valsi word="jaxyka'a" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai katna $x_2$ $x_3$ fai $x_4$</definition>
+  <definitionid>73419</definitionid>
+  <score>1</score>
+</valsi>
+<valsi word="jaxyki'u" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai krinu $x_2$ fai $x_3$</definition>
+  <definitionid>73392</definitionid>
+  <score>1</score>
+  <notes>simsa zo {jaxri&apos;a} je zo {jaxmu&apos;i}</notes>
+</valsi>
+<valsi word="jaxyvlile" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai vlile fai $x_2$</definition>
+  <definitionid>73423</definitionid>
+  <score>1</score>
+</valsi>
+<valsi word="jaxyxai" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai xrani $x_2$ $x_3$ $x_4$ fai $x_5$</definition>
+  <definitionid>73417</definitionid>
+  <score>1</score>
+</valsi>
+<valsi word="jaxyxaksu" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ jai xaksu $x_2$ fai $x_3$</definition>
+  <definitionid>73415</definitionid>
+  <score>1</score>
 </valsi>
 <valsi word="jbabaji" type="fu'ivla">
   <user>
