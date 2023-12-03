@@ -89,12 +89,24 @@ export async function updateXmlDumps(args: string[]) {
         valsi['lojban'] = [...new Set((valsi['lojban'] ?? []).concat(words))];
         (defs as any)['lojban'] = { ...dump, ...((defs as any)['lojban'] ?? {}) };
       }
-    } catch (error: any) {
-      logger.error('updating la sutysisku: ' + error?.message);
+    } catch (error) {
+      logger.error('updating la sutysisku: ' + (error as Error).message);
       erroredLangs.push(language);
     }
   }
   logger.info('generated compressed dictionaries');
+
+  const {
+    deksi,
+    tsv: { jb2en, en2jb },
+  } = await generateMuplis();
+
+  const { words, dump } = await ningauPaLaSutysisku('muplis', deksi);
+  valsi['lojban'] = [...new Set((valsi['lojban'] ?? []).concat(words))];
+  dicts.muplis = dump;
+
+  fs.outputFileSync(path.join(__dirname, '../data/dumps/muplis-jb2en.tsv'), jb2en);
+  fs.outputFileSync(path.join(__dirname, '../data/dumps/muplis-en2jb.tsv'), en2jb);
 
   logger.info('〉 generating embeddings dictionaries');
 
@@ -110,9 +122,18 @@ export async function updateXmlDumps(args: string[]) {
 
   const model = await TextEmbeddingModel.create(modelMetadata);
 
+  Object.keys(dicts.muplis).forEach((key) => {
+    if (dicts.en[key]) {
+      dicts.en[key].n = ((dicts.en[key].n ?? '') + ' ' + dicts.muplis[key].d).trim();
+    } else {
+      dicts.en[key] = dicts.muplis[key];
+    }
+  });
   const [keys, values] = [
     Object.keys(dicts.en),
-    Object.values(dicts.en).map((i) => preprocessDefinitionForVectors((i as Dict).d + ' ' + (i as Dict).n + ' ' + (i as Dict).g || '')),
+    Object.values(dicts.en).map((i) =>
+      preprocessDefinitionForVectors((i as Dict).d + ' ' + (i as Dict).n + ' ' + (i as Dict).g || ''),
+    ),
   ];
   const chunkSize = 50;
   const chunks = splitArray(values, chunkSize);
@@ -144,16 +165,6 @@ export async function updateXmlDumps(args: string[]) {
   const xraste = await generateXraste();
   await ningauPaLaSutysisku('xraste', xraste.deksi);
   fs.outputFileSync(path.join(__dirname, '../data/parsed/parsed-xraste.json'), JSON.stringify(xraste.full));
-
-  const {
-    deksi,
-    tsv: { jb2en, en2jb },
-  } = await generateMuplis();
-
-  const { words } = await ningauPaLaSutysisku('muplis', deksi);
-  valsi['lojban'] = [...new Set((valsi['lojban'] ?? []).concat(words))];
-  fs.outputFileSync(path.join(__dirname, '../data/dumps/muplis-jb2en.tsv'), jb2en);
-  fs.outputFileSync(path.join(__dirname, '../data/dumps/muplis-en2jb.tsv'), en2jb);
 
   //TODO: process all words from valsi not under lojban key
 
@@ -470,6 +481,12 @@ async function ningauPaLaSutysisku(segerna: string, arr: Dict[] = []) {
       words = Object.keys(dump);
     } else {
       words = arr.map((i) => i.w);
+
+      for (const item of arr) {
+        const { w, ...rest } = item;
+        dump[w] = rest;
+      }
+
       await ningauLeDeksiSutysisku({
         segerna,
         arr,
