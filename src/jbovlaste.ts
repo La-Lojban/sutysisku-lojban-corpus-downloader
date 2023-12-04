@@ -160,6 +160,11 @@ export async function updateXmlDumps(args: string[]) {
   const compressed = await compress(Buffer.from(strVectors));
   fs.outputFileSync(path.join(__dirname, '../data/parsed/en-vektori.tsv') + '.bin', compressed);
 
+  const hash = objectHash(vectorDict);
+  const jsonTimes: { [key: string]: string } = JSON.parse(fs.readFileSync(pathVersio, { encoding: 'utf8' }));
+  jsonTimes['en-vektori'] = hash + '-' + '1';
+  fs.outputFileSync(pathVersio, JSON.stringify(jsonTimes));
+
   logger.info('generated embeddings dictionaries');
 
   const xraste = await generateXraste();
