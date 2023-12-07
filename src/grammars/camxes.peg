@@ -1560,7 +1560,7 @@ initial_spaces <- (comma* space_char / !ybu Y)+ EOF? / EOF  #: LEAF
 
 ybu <- Y space_char* BU
 
-lujvo <- !gismu !fuhivla brivla
+lujvo <- !gismu !fuhivla !cmavo initial_rafsi* brivla_core
 
 #___________________________________________________________________
 

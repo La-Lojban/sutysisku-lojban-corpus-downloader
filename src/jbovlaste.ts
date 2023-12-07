@@ -20,7 +20,7 @@ const { compress } = pkg;
 import he from 'he';
 
 import winston, { format } from 'winston';
-import { preprocessDefinitionForVectors, roundToDecimals, splitArray, uniques } from './utils/fns.js';
+import { preprocessDefinitionForVectors, roundToDecimals, uniques } from './utils/fns.js';
 import type { Dict } from './types/index.js';
 import { generate as generateMuplis, generateXraste } from './muplis.js';
 
@@ -75,13 +75,25 @@ export async function updateXmlDumps(args: string[]) {
     }
   }
 
+  const modelMetadata = {
+    id: 'mini-lm-v2-quant',
+    title: 'Quantized mini model for sentence embeddings',
+    encoderPath: './data/dumps/mini-lm-v2-quant.brotli',
+    outputEncoderName: 'last_hidden_state',
+    tokenizerPath: './data/dumps/mini-lm-v2-quant.tokenizer.brotli',
+    padTokenID: 0,
+    readmeUrl: 'https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2',
+  };
+
+  const model = await TextEmbeddingModel.create(modelMetadata);
+
   logger.info('〉 generating compressed dictionaries');
 
-  const dicts: Dict = {};
+  // const dicts: Dict = {};
   for (const language of predefinedLangs.concat(langs)) {
     try {
-      const { words, segerna, dump } = await ningauPaLaSutysisku(language);
-      if (language === 'en') dicts[language] = dump;
+      const { words, segerna, dump } = await ningauPaLaSutysisku(language, undefined, { model });
+      // if (language === 'en') dicts[language] = dump;
       if (predefinedLangs.includes(segerna)) {
         valsi[segerna] = [...new Set((valsi[segerna] ?? []).concat(words))];
         (defs as any)[segerna] = { ...dump, ...((defs as any)[segerna] ?? {}) };
@@ -101,75 +113,67 @@ export async function updateXmlDumps(args: string[]) {
     tsv: { jb2en, en2jb },
   } = await generateMuplis();
 
-  const { words, dump } = await ningauPaLaSutysisku('muplis', deksi);
+  const { words } = await ningauPaLaSutysisku('muplis', deksi, { model });
   valsi['lojban'] = [...new Set((valsi['lojban'] ?? []).concat(words))];
-  dicts.muplis = dump;
+  // dicts.muplis = dump;
 
   fs.outputFileSync(path.join(__dirname, '../data/dumps/muplis-jb2en.tsv'), jb2en);
   fs.outputFileSync(path.join(__dirname, '../data/dumps/muplis-en2jb.tsv'), en2jb);
 
-  logger.info('〉 generating embeddings dictionaries');
+  // logger.info('〉 generating embeddings dictionaries');
 
-  const modelMetadata = {
-    id: 'mini-lm-v2-quant',
-    title: 'Quantized mini model for sentence embeddings',
-    encoderPath: './data/dumps/mini-lm-v2-quant.brotli',
-    outputEncoderName: 'last_hidden_state',
-    tokenizerPath: './data/dumps/mini-lm-v2-quant.tokenizer.brotli',
-    padTokenID: 0,
-    readmeUrl: 'https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2',
-  };
+  // Object.keys(dicts.muplis).forEach((key) => {
+  //   if (dicts.en[key]) {
+  //     dicts.en[key].n = ((dicts.en[key].n ?? '') + ' ' + dicts.muplis[key].d).trim();
+  //   } else {
+  //     dicts.en[key] = dicts.muplis[key];
+  //   }
+  // });
+  // const [keys, values] = [
+  //   Object.keys(dicts.en),
+  //   Object.values(dicts.en).map((i) =>
+  //     preprocessDefinitionForVectors((i as Dict).d + ' ' + (i as Dict).n + ' ' + (i as Dict).g || ''),
+  //   ),
+  // ];
+  // const chunkSize = 50;
+  // const chunks = splitArray(values, chunkSize);
 
-  const model = await TextEmbeddingModel.create(modelMetadata);
+  // let vectorDict: string[] = [];
+  // for (let i = 0; i < chunks.length; i++) {
+  //   const chunk = chunks[i];
+  //   if (!chunk) continue;
+  //   const processed = await model.infer(chunk);
+  //   const vectors: string[] = processed.vectors.map((vector: number[], j: number) =>
+  //     [
+  //       keys[i * chunkSize + j],
+  //       vector
+  //         .map((res) => roundToDecimals(res, 2, false))
+  //         .join(',')
+  //         .replace(/,-/g, '-')
+  //         .replace(/,0,/g, ',,'),
+  //     ].join('\t'),
+  //   );
+  //   vectorDict.push(...vectors);
+  // }
+  // const strVectors = vectorDict.join('\n');
+  // fs.outputFileSync(path.join(__dirname, '../data/parsed/en-vektori.tsv'), strVectors);
+  // const compressed = await compress(Buffer.from(strVectors));
+  // fs.outputFileSync(path.join(__dirname, '../data/parsed/en-vektori.tsv') + '.bin', compressed);
 
-  Object.keys(dicts.muplis).forEach((key) => {
-    if (dicts.en[key]) {
-      dicts.en[key].n = ((dicts.en[key].n ?? '') + ' ' + dicts.muplis[key].d).trim();
-    } else {
-      dicts.en[key] = dicts.muplis[key];
-    }
-  });
-  const [keys, values] = [
-    Object.keys(dicts.en),
-    Object.values(dicts.en).map((i) =>
-      preprocessDefinitionForVectors((i as Dict).d + ' ' + (i as Dict).n + ' ' + (i as Dict).g || ''),
-    ),
-  ];
-  const chunkSize = 50;
-  const chunks = splitArray(values, chunkSize);
+  // const hash = objectHash(vectorDict);
+  // const jsonTimes: { [key: string]: string } = JSON.parse(fs.readFileSync(pathVersio, { encoding: 'utf8' }));
+  // jsonTimes['en-vektori'] = hash + '-' + '1';
+  // fs.outputFileSync(pathVersio, JSON.stringify(jsonTimes));
 
-  let vectorDict: string[] = [];
-  for (let i = 0; i < chunks.length; i++) {
-    const chunk = chunks[i];
-    if (!chunk) continue;
-    const processed = await model.infer(chunk);
-    const vectors: string[] = processed.vectors.map((vector: number[], j: number) =>
-      [
-        keys[i * chunkSize + j],
-        vector
-          .map((res) => roundToDecimals(res, 2, false))
-          .join(',')
-          .replace(/,-/g, '-')
-          .replace(/,0,/g, ',,'),
-      ].join('\t'),
-    );
-    vectorDict.push(...vectors);
-  }
-  const strVectors = vectorDict.join('\n');
-  fs.outputFileSync(path.join(__dirname, '../data/parsed/en-vektori.tsv'), strVectors);
-  const compressed = await compress(Buffer.from(strVectors));
-  fs.outputFileSync(path.join(__dirname, '../data/parsed/en-vektori.tsv') + '.bin', compressed);
-
-  const hash = objectHash(vectorDict);
-  const jsonTimes: { [key: string]: string } = JSON.parse(fs.readFileSync(pathVersio, { encoding: 'utf8' }));
-  jsonTimes['en-vektori'] = hash + '-' + '1';
-  fs.outputFileSync(pathVersio, JSON.stringify(jsonTimes));
-
-  logger.info('generated embeddings dictionaries');
+  // logger.info('generated embeddings dictionaries');
 
   const xraste = await generateXraste();
-  await ningauPaLaSutysisku('xraste', xraste.deksi);
-  fs.outputFileSync(path.join(__dirname, '../data/parsed/parsed-xraste.json'), JSON.stringify(xraste.full));
+  if (xraste) {
+    await ningauPaLaSutysisku('xraste', xraste.deksi, { model });
+    fs.outputFileSync(path.join(__dirname, '../data/parsed/parsed-xraste.json'), JSON.stringify(xraste.full));
+  } else {
+    process.exit();
+  }
 
   //TODO: process all words from valsi not under lojban key
 
@@ -344,40 +348,51 @@ function removeEmptyLinesAtEnd(array: any[]) {
   return array;
 }
 
-function workerGenerateChunk({ segerna, chunk, index }: { segerna: string; chunk: Dict[]; index: number }) {
+function generateChunk({ segerna, chunk, index }: { segerna: string; chunk: Dict[]; index: number }) {
   let columns: string[] = [];
-  for (const row of chunk) {
-    columns = [...new Set(columns.concat(Object.keys(row)))];
-  }
-  const outp = {
-    keys: columns,
-    rowCount: chunk.length,
-    rows: chunk.map((row) => {
-      return removeEmptyLinesAtEnd(columns.map((column) => row[column] || ''));
-    }),
-  };
+  for (const row of chunk) columns = [...new Set(columns.concat(Object.keys(row)))];
+
+  const outp = [
+    ['@rowCount', chunk.length].join('\t'),
+    columns.join('\t'),
+    ...chunk.map((row) =>
+      removeEmptyLinesAtEnd(columns.map((column) => row[column] ?? ''))
+        .join('\t')
+        .replace(/\n/g, '\\n'),
+    ),
+  ].join('\n');
 
   const errors: any[] = [];
   const results: any[] = [];
   try {
     results.push({ path: `../data/parsed/parsed-${segerna}-${index}`, content: outp });
     // result.push(`saving ${tegerna}-${index}`);
-  } catch (error: any) {
-    errors.push(`couldn't save ${segerna}-${index} ${error.toString()}`);
+  } catch (error) {
+    errors.push(`couldn't save ${segerna}-${index} ${(error as Error).stack}`);
   }
   return { results, errors };
 }
 
-async function ningauLeDeksiSutysisku({ json, segerna, arr = [] }: { json?: Dict; segerna: string; arr?: Dict[] }) {
+async function ningauLeDeksiSutysisku({
+  json,
+  segerna,
+  arr = [],
+  model,
+}: {
+  json?: Dict;
+  segerna: string;
+  arr?: Dict[];
+  model?: TextEmbeddingModel;
+}) {
   if (['loglan'].includes(segerna)) {
     arr = await generateLoglanDexieDictionary();
   } else {
     let rma;
     if (['ja', 'zh'].includes(segerna) && process.argv[2] !== 'skipCJK') {
-      const model = JSON.parse(
+      const modelRakuten = JSON.parse(
         fs.readFileSync(path.join(__dirname, `../node_modules/rakutenma/model_${segerna}.json`), { encoding: 'utf8' }),
       );
-      rma = new RakutenMA(model, 1024, 0.007812); // Specify hyperparameter for SCW (for demonstration purpose)
+      rma = new RakutenMA(modelRakuten, 1024, 0.007812); // Specify hyperparameter for SCW (for demonstration purpose)
       rma.featset = RakutenMA[`default_featset_${segerna}`];
       // Set the feature hash function (15bit)
       rma.hash_func = RakutenMA.create_hash_func(15);
@@ -393,7 +408,7 @@ async function ningauLeDeksiSutysisku({ json, segerna, arr = [] }: { json?: Dict
       const keys = Object.keys(json);
       for (const word of keys) {
         //complement r field of valsi table by full rafsi
-        json[word].r = json[word].r || [];
+        json[word].r = json[word].r ?? [];
         if (
           json[word].t === 'gismu' ||
           json[word].t === 'experimental gismu' ||
@@ -412,6 +427,9 @@ async function ningauLeDeksiSutysisku({ json, segerna, arr = [] }: { json?: Dict
           }
         }
         if (json[word].r && json[word].r.length === 0) delete json[word].r;
+        if ((json[word].r ?? []).length > 0) json[word].r = (json[word].r || []).join(';');
+        if ((json[word].g ?? []).length > 0) json[word].g = (json[word].g || []).join(';');
+
         let rec = { w: word, ...json[word] };
         if (['ja', 'zh'].includes(segerna) && process.argv[2] !== 'skipCJK') {
           // Tokenize one sample sentence
@@ -428,12 +446,16 @@ async function ningauLeDeksiSutysisku({ json, segerna, arr = [] }: { json?: Dict
           }
           rec = { ...rec, ...addCache({ cachedDefinition: cached_def }) };
         }
+        if (model) rec = await addVectors(rec, model, segerna);
         // if (['en'].includes(segerna) && en_embeddings[word]) {
         //   //todo: download .z props, add .z props
         //   rec.z = en_embeddings[word].split(' ');
         // }
+
         arr.push(rec);
       }
+    } else if (arr.length > 0 && model) {
+      arr = await Promise.all(arr.map((rec) => addVectors(rec, model, segerna)));
     }
     const order = [
       'gismu',
@@ -448,30 +470,51 @@ async function ningauLeDeksiSutysisku({ json, segerna, arr = [] }: { json?: Dict
     ];
     arr.sort((x, y) => (order.indexOf(x.t) === -1 ? 1 : order.indexOf(x.t) - order.indexOf(y.t)));
   }
+
+  // fs.outputFileSync(path.join(__dirname, `../data/parsed/parsed-${segerna}-processed.json`), JSON.stringify(arr,null,2));
+  arr = arr.map((el) => {
+    const { ve, src, ...rest } = el;
+    return rest;
+  });
+
   const hash = objectHash(arr);
 
   let index = 0;
   for (const chunk of splitToChunks(arr, 5, segerna)) {
-    const { errors, results } = workerGenerateChunk({ segerna, chunk, index });
+    const { errors, results } = generateChunk({ segerna, chunk, index });
     for (const error of errors) logger.error('generating a chunk: ' + error);
     for (const result of results) {
       result.path = path.join(__dirname, result.path);
       try {
-        const compressed = await compress(Buffer.from(JSON.stringify(result.content)));
+        const compressed = await compress(Buffer.from(result.content));
         fs.outputFileSync(result.path + '.bin', compressed);
-        fs.outputFileSync(result.path + '.json', JSON.stringify(result.content));
+        fs.outputFileSync(result.path + '.tsv', result.content);
       } catch (error: any) {
         logger.error({ event: 'compression', message: error.message, content: result.content });
       }
     }
     index++;
   }
+
   const jsonTimes: { [key: string]: string } = JSON.parse(fs.readFileSync(pathVersio, { encoding: 'utf8' }));
   jsonTimes[segerna] = hash + '-' + index;
   fs.outputFileSync(pathVersio, JSON.stringify(jsonTimes));
 }
 
-async function ningauPaLaSutysisku(segerna: string, arr: Dict[] = []) {
+async function addVectors(rec: any, model: TextEmbeddingModel, segerna: string) {
+  if (model && ['en', 'muplis', '2002'].includes(segerna)) {
+    const preprocessed = preprocessDefinitionForVectors((rec.d || '') + ' ' + (rec.n || '') + ' ' + (rec.g || ''));
+    const processed = await model.infer([preprocessed]);
+    const vector = processed.vectors[0];
+    if (vector) {
+      rec.q = vector.map((num) => String.fromCharCode(roundToDecimals((num + 1) / 2, 94, false) + 32)).join('');
+      rec.ve = JSON.stringify(vector);
+      rec.src = preprocessed;
+    }
+  }
+  return await rec;
+}
+async function ningauPaLaSutysisku(segerna: string, arr: Dict[] = [], options: { model?: TextEmbeddingModel } = {}) {
   // write a new file parsed.json that would be used by la sutysisku
   if (!segerna) segerna = 'en';
   let dump: Dict = {};
@@ -482,6 +525,7 @@ async function ningauPaLaSutysisku(segerna: string, arr: Dict[] = []) {
       await ningauLeDeksiSutysisku({
         json: dump,
         segerna,
+        model: options.model,
       });
       words = Object.keys(dump);
     } else {
@@ -495,11 +539,12 @@ async function ningauPaLaSutysisku(segerna: string, arr: Dict[] = []) {
       await ningauLeDeksiSutysisku({
         segerna,
         arr,
+        model: options.model,
       });
     }
   } catch (error: unknown) {
     if (error instanceof Error) {
-      logger.error('dexie la sutysisku: ' + error?.message);
+      logger.error('dexie la sutysisku: ' + error?.stack);
     }
   }
   const t = path.join(__dirname, '../data/parsed', `parsed-${segerna}.json`);
@@ -519,60 +564,62 @@ const prettifiedDictEntries = new Map<string, string>();
 function prepareSutysiskuJsonDump(language: string) {
   const jsonDoc: any = getJsonDump(path.join(__dirname, `../data/dumps/${language}.json`));
   let json: any = {};
-  jsonDocDirection(jsonDoc).valsi.forEach((v: Dict) => {
+  jsonDocDirection(jsonDoc).valsi.forEach((valsi: Dict) => {
     let g: string[] | undefined;
-    if (R.path(['glossword', 'word'], v)) {
-      g = [v.glossword.word];
-    } else if (Array.isArray(v.glossword)) {
-      g = v.glossword.map((i: any) => i.word);
+    if (R.path(['glossword', 'word'], valsi)) {
+      g = [valsi.glossword.word];
+    } else if (Array.isArray(valsi.glossword)) {
+      g = valsi.glossword.map((i: any) => i.word);
     }
     if (jbobangu.includes(language)) {
       //memoization
-      const prettified = prettifiedDictEntries.get(v.word);
+      const prettified = prettifiedDictEntries.get(valsi.word);
       if (prettified) {
-        v.word = prettified;
+        valsi.word = prettified;
       } else {
-        const parsed = lojban.romoi_lahi_cmaxes(v.word);
+        const parsed = lojban.romoi_lahi_cmaxes(valsi.word);
         if (parsed.tcini === 'snada') {
           const prettified = parsed.kampu
             .filter((i) => i[0] !== 'drata')
             .map((i) => i[1].replace(/-/g, ''))
             .join(' ');
-          prettifiedDictEntries.set(v.word, prettified);
-          v.word = prettified;
+          prettifiedDictEntries.set(valsi.word, prettified);
+          valsi.word = prettified;
         }
       }
     }
-    json[v.word] = {
-      d: preprocessRecordFromDump({ text: preprocessDefinitionFromDump({ bais, scales }, language, v) }),
-      n: preprocessRecordFromDump({ text: v.notes }),
-      t: v.type,
-      s: v.selmaho,
-      e: v.example,
-      k: v.related,
+    json[valsi.word] = {
+      d: preprocessRecordFromDump({ text: preprocessDefinitionFromDump({ bais, scales }, language, valsi) }),
+      n: preprocessRecordFromDump({ text: valsi.notes }),
+      t: valsi.type,
+      s: valsi.selmaho,
+      e: valsi.example,
+      k: valsi.related,
     };
     if (g !== undefined) {
-      json[v.word].g = g;
+      json[valsi.word].g = g;
     }
-    if (v.rafsi) {
-      if (Array.isArray(v.rafsi)) {
-        json[v.word].r = v.rafsi;
+    if (valsi.rafsi) {
+      if (Array.isArray(valsi.rafsi)) {
+        json[valsi.word].r = valsi.rafsi;
       } else {
-        json[v.word].r = [v.rafsi];
+        json[valsi.word].r = [valsi.rafsi];
       }
-    } else if (RegExp(`rafsi.{0,3}-[a-z']{3,4}-`).test(v.notes)) {
-      json[v.word].r = [v.notes.match(/.*-([a-z']{3,4})-/)[1]];
+    } else if (RegExp(`rafsi.{0,3}-[a-z']{3,4}-`).test(valsi.notes)) {
+      json[valsi.word].r = [valsi.notes.match(/.*-([a-z']{3,4})-/)[1]];
     } else {
-      json[v.word].r = [];
+      json[valsi.word].r = [];
     }
-    if (v.type === 'gismu' && v.word.indexOf('brod') !== 0) {
-      json[v.word].r.push(v.word.substr(0, 4));
+    if (valsi.type === 'gismu' && valsi.word.indexOf('brod') !== 0) {
+      json[valsi.word].r.push(valsi.word.substr(0, 4));
     }
-    if (v.word === 'broda') {
-      json[v.word].r.push('brod');
+    if (valsi.word === 'broda') {
+      json[valsi.word].r.push('brod');
     }
-    if (json[v.word].r.length === 0) delete json[v.word].r;
-    Object.keys(json[v.word]).forEach((key) => (json[v.word][key] ?? []).length === 0 && delete json[v.word][key]);
+    if (json[valsi.word].r.length === 0) delete json[valsi.word].r;
+    Object.keys(json[valsi.word]).forEach(
+      (key) => (json[valsi.word][key] ?? []).length === 0 && delete json[valsi.word][key],
+    );
   });
   json = addBAIReferences(json, language);
   return {
@@ -591,10 +638,10 @@ function preprocessRecordFromDump({ text }: { text: string }) {
   return text;
 }
 
-function preprocessDefinitionFromDump({ bais, scales }: { bais: any; scales: any }, lang: string, v: any): string {
-  let definition = v.definition;
+function preprocessDefinitionFromDump({ bais, scales }: { bais: any; scales: any }, lang: string, valsi: any): string {
+  let definition = valsi.definition;
   if (!definition) return definition;
-  definition = preprocesWordWithScale(v, scales[lang] || scales['en']);
+  definition = preprocesWordWithScale(valsi, scales[lang] || scales['en']);
   try {
     const bai = bais[lang] || bais['en'];
     return definition.replace(RegExp(bai.initial), bai.replacement);
@@ -603,62 +650,62 @@ function preprocessDefinitionFromDump({ bais, scales }: { bais: any; scales: any
   }
 }
 
-function preprocesWordWithScale(v: any, scale: any) {
+function preprocesWordWithScale(valsi: any, scale: any) {
   let prefix = '',
     oldPrefix = '';
-  const root = v.word.replace(/(nai|cu'i|ja'ai)+$/, '');
-  const type = /nai$/.test(v.word) ? 2 : /cu[h']i$/.test(v.word) ? 1 : 0;
+  const root = valsi.word.replace(/(nai|cu'i|ja'ai)+$/, '');
+  const type = /nai$/.test(valsi.word) ? 2 : /cu[h']i$/.test(valsi.word) ? 1 : 0;
   //vocative: hospitality - inhospitality; you are welcome/ make yourself at home.
-  if (RegExp(scale.COI.selmaho).test(v.selmaho)) {
-    if (RegExp(scale.COI.match).test(v.definition)) {
-      prefix = `${v.definition.split(':')[0]}: \n`;
-      oldPrefix = `${v.definition.split(':')[0]}: `;
-      v.definition = v.definition.replace(RegExp(`${v.definition.split(':')[0]}: `), '');
+  if (RegExp(scale.COI.selmaho).test(valsi.selmaho)) {
+    if (RegExp(scale.COI.match).test(valsi.definition)) {
+      prefix = `${valsi.definition.split(':')[0]}: \n`;
+      oldPrefix = `${valsi.definition.split(':')[0]}: `;
+      valsi.definition = valsi.definition.replace(RegExp(`${valsi.definition.split(':')[0]}: `), '');
     }
-    v.definition = v.definition.split(';');
-    const core = v.definition[0].split(' - ');
+    valsi.definition = valsi.definition.split(';');
+    const core = valsi.definition[0].split(' - ');
     if (core.length === 3) {
-      const postfix = v.definition.slice(1).join(';').trim();
+      const postfix = valsi.definition.slice(1).join(';').trim();
       core[0] = `{${root}} - ${core[0] + (postfix && type === 0 ? '; ' + postfix : '')}`;
       core[1] = `{${root}cu'i} - ${core[1] + (postfix && type === 1 ? '; ' + postfix : '')}`;
       core[2] = `{${root}nai} - ${core[2] + (postfix && type === 2 ? '; ' + postfix : '')}`;
-      v.definition[0] = core.join('\n');
-      v.definition = prefix + v.definition[0];
+      valsi.definition[0] = core.join('\n');
+      valsi.definition = prefix + valsi.definition[0];
     } else if (core.length === 2) {
-      const postfix = v.definition.slice(1).join(';').trim();
+      const postfix = valsi.definition.slice(1).join(';').trim();
       core[0] = `{${root}} - ${core[0] + (postfix && type === 0 ? '; ' + postfix : '')}`;
       core[1] = `{${root}nai} - ${core[1] + (postfix && type === 2 ? '; ' + postfix : '')}`;
-      v.definition[0] = core.join('\n');
-      v.definition = prefix + v.definition[0];
+      valsi.definition[0] = core.join('\n');
+      valsi.definition = prefix + valsi.definition[0];
     } else {
-      v.definition = oldPrefix + v.definition.join(';').trim();
+      valsi.definition = oldPrefix + valsi.definition.join(';').trim();
     }
-  } else if (RegExp(scale.UI.selmaho).test(v.selmaho)) {
-    if (RegExp(scale.UI.match).test(v.definition)) {
-      prefix = `${v.definition.split(':')[0]}: \n`;
-      oldPrefix = `${v.definition.split(':')[0]}: `;
-      v.definition = v.definition.replace(RegExp(`${v.definition.split(':')[0]}: `), '');
+  } else if (RegExp(scale.UI.selmaho).test(valsi.selmaho)) {
+    if (RegExp(scale.UI.match).test(valsi.definition)) {
+      prefix = `${valsi.definition.split(':')[0]}: \n`;
+      oldPrefix = `${valsi.definition.split(':')[0]}: `;
+      valsi.definition = valsi.definition.replace(RegExp(`${valsi.definition.split(':')[0]}: `), '');
     }
-    v.definition = v.definition.split(';');
-    const core = v.definition[0].split(' - ');
+    valsi.definition = valsi.definition.split(';');
+    const core = valsi.definition[0].split(' - ');
     if (core.length === 3) {
-      const postfix = v.definition.slice(1).join(';').trim();
+      const postfix = valsi.definition.slice(1).join(';').trim();
       core[0] = `{${root}} - ${core[0] + (postfix && type === 0 ? '; ' + postfix : '')}`;
       core[1] = `{${root}cu'i} - ${core[1] + (postfix && type === 1 ? '; ' + postfix : '')}`;
       core[2] = `{${root}nai} - ${core[2] + (postfix && type === 2 ? '; ' + postfix : '')}`;
-      v.definition[0] = core.join('\n');
-      v.definition = prefix + v.definition[0];
+      valsi.definition[0] = core.join('\n');
+      valsi.definition = prefix + valsi.definition[0];
     } else if (core.length === 2) {
-      const postfix = v.definition.slice(1).join(';').trim();
+      const postfix = valsi.definition.slice(1).join(';').trim();
       core[0] = `{${root}} - ${core[0] + (postfix && type === 0 ? '; ' + postfix : '')}`;
       core[1] = `{${root}nai} - ${core[1] + (postfix && type === 2 ? '; ' + postfix : '')}`;
-      v.definition[0] = core.join('\n');
-      v.definition = prefix + v.definition[0];
+      valsi.definition[0] = core.join('\n');
+      valsi.definition = prefix + valsi.definition[0];
     } else {
-      v.definition = oldPrefix + v.definition.join(';').trim();
+      valsi.definition = oldPrefix + valsi.definition.join(';').trim();
     }
   }
-  return v.definition;
+  return valsi.definition;
 }
 
 function addBAIReferences(json: any, lang: string) {
@@ -682,7 +729,7 @@ function addBAIReferences(json: any, lang: string) {
   Object.keys(json).forEach((word) => {
     const match = json[word].b;
     if (match) {
-      json[word].b = match.sort((a: any[], b: any[]) => a.length - b.length);
+      json[word].b = match.sort((a: any[], b: any[]) => a.length - b.length).join(';');
     }
   });
   return json;

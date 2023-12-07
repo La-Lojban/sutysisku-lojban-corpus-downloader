@@ -51,25 +51,35 @@ function arrayToJSON(arr: Example[]): Dict {
 
 export async function generateXraste() {
   logger.info(`generating xraste dictionary ...`);
-  await doc.loadInfo();
-  const sheet = doc.sheetsById[process.env.GOOGLE_XRASTE_DOC_SHEET_ID as any];
-  if (!sheet) {
-    logger.error(`Sheet ${process.env.GOOGLE_XRASTE_DOC_SHEET_ID} not found`);
-    process.exit();
+  try {
+    await doc.loadInfo();
+  } catch (error) {
+    console.error('loading error', (error as Error).message);
   }
-  logger.info(`fetching live xraste rows ...`);
-  const rows = (await retryPromise(() => sheet?.getRows() ?? Promise.resolve([]), 5, 1000, 5 * 60 * 1000))
-    .map((row: GoogleSpreadsheetRow) => {
-      const source = row._rawData[0];
-      const targets = row._rawData
-        .slice(1)
-        .filter((str: string) => RegExp('^.+.(jpe?g|png|gif|svg)$', 'i').test(str))
-        .map((i: string) => ({ source, target: i, tags: [] } as Example));
-      return targets;
-    })
-    .flat();
-  const deksi = createDexieCacheFile(rows, { simpleCache: true });
-  return { deksi, full: arrayToJSON(rows) };
+
+  try {
+    const sheet = doc.sheetsById[process.env.GOOGLE_XRASTE_DOC_SHEET_ID as any];
+    if (!sheet) {
+      logger.error(`Sheet ${process.env.GOOGLE_XRASTE_DOC_SHEET_ID} not found`);
+      process.exit();
+    }
+    logger.info(`fetching live xraste rows ...`);
+    const rows = (await retryPromise(() => sheet?.getRows() ?? Promise.resolve([]), 5, 1000, 5 * 60 * 1000))
+      .map((row: GoogleSpreadsheetRow) => {
+        const source = row._rawData[0];
+        const targets = row._rawData
+          .slice(1)
+          .filter((str: string) => RegExp('^.+.(jpe?g|png|gif|svg)$', 'i').test(str))
+          .map((i: string) => ({ source, target: i, tags: [] } as Example));
+        return targets;
+      })
+      .flat();
+    const deksi = createDexieCacheFile(rows, { simpleCache: true });
+    return { deksi, full: arrayToJSON(rows) };
+  } catch (error) {
+    console.error((error as Error).message);
+    return;
+  }
 }
 
 export async function generate() {
@@ -186,7 +196,7 @@ function processRows(rows: GoogleSpreadsheetRow[]) {
       if (parsed.tcini === 'snada')
         j.target_opt = parsed.kampu
           .filter((i) => i[0] !== 'drata')
-          .map((i) => i[1].replace(/-/g,''))
+          .map((i) => i[1].replace(/-/g, ''))
           .join(' ')
           .replace(/-/g, '');
     } catch (error) {

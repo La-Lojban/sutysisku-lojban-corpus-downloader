@@ -63,23 +63,29 @@ export const handleArray = async <T>(arr: T[], numberPartitions: number, fn: (it
 export const preprocessDefinitionForVectors = (def: string): string => {
   return def
     .trim()
+    .replace(/\//g, ' / ')
     .replace(/\$.*?\$/g, '[UNK]')
     .replace(/\{.*?\}/g, '[UNK]')
     .replace(/".*?"/g, '[UNK]')
     .replace(/See also\b */g, '')
+    .replace(/\bcmavo list\b/g, '')
     .replace(/See\b */g, '')
     .replace(/ {2,}/g, ' ')
     .replace(/[\.,] ?[\.,]/g, '.')
     .replace(/[,\. ]+$/g, '')
-    .replace(/[, *,]+/, ',')
+    .replace(/(, *,)+/, ',')
     .replace(/^[,\. ]+/, '')
-    .replace(/\[UNK\]. \[UNK\]/g, '[UNK]. ')
+    .replace(/\[UNK\]\. *\[UNK\]/g, '. [UNK] ')
+    .replace(/. *\[UNK\]\./g, '.')
+    .replace(/\[UNK\] *, *\[UNK\]/g, '[UNK]')
     .trim()
     .replace(/ *\.$/g, '')
-    .replace(/ *\[UNK\]$/g, '');
+    .replace(/ *\[UNK\]$/g, '')
+    .replace(/\[UNK\] modal, /g, '')
+    .replace(/\((ka|nu|du'u)\)/g, '');
 };
 
-export function roundToDecimals(number: number, trunc = 8, restoreDimension = true): number {
-  if (!restoreDimension) return Math.round(number * 10 ** trunc);
-  return Math.round(number * 10 ** trunc) / 10 ** trunc;
+export function roundToDecimals(number: number, trunc = 64, restoreDimension = true): number {
+  if (!restoreDimension) return Math.round(number * trunc);
+  return Math.round(number * trunc) / trunc;
 }
