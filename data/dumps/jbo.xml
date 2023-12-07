@@ -18141,6 +18141,16 @@
   <score>1</score>
   <notes>.i srana zo {na&apos;e} .e zo {krinu}</notes>
 </valsi>
+<valsi word="klagau" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ gasnu lonu $x_2$ klama $x_3$</definition>
+  <definitionid>73429</definitionid>
+  <score>2</score>
+  <notes>or «x1 jai gau klama fai x2 x3» / «x2 klama x3 gau x1»</notes>
+</valsi>
 <valsi word="klagi'a" type="lujvo">
   <user>
     <username>selpahi</username>
@@ -27429,7 +27439,7 @@
     <username>varikvalefor</username>
     <realname>Varik Valefor</realname>
   </user>
-  <definition>$x_1$ me&apos;oi .Freemason. je cu se bende $x_2$ poi me&apos;oi .lodge. je cu se me&apos;oi .endorse. $x_3$ poi mu&apos;oi glibau. grand lodge .glibau</definition>
+  <definition>$x_1$ me&apos;oi .Freemason. je cu se bende $x_2$ poi ke&apos;a me&apos;oi .lodge. je cu se me&apos;oi .endorse. $x_3$ poi ke&apos;a xi re mu&apos;oi glibau. grand lodge .glibau</definition>
   <definitionid>72969</definitionid>
   <score>1</score>
   <glossword word="Freemason" />
