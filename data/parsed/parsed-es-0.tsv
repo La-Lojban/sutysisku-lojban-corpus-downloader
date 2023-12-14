@@ -73,7 +73,7 @@ cinfo	$x_{1}$ es un león/puma de especie/raza $x_{2}$		gismu	cinf;cinfo
 cinje	$x_{1}$ es una arruga/doblez en $x_{2}$	Ver también {polje}.	gismu	cij;cinj;cinje
 cinki	$x_{1}$ es un insecto/artrópodo de especie/variedad $x_{2}$		gismu	cink;cinki
 cinla	$x_{1}$ es delgado/flaco/fino/de poco espesor en dimensión/dirección $x_{2}$ (la menor) según estándar $x_{3}$	Ver también {rotsu},  {tordu},  {jarki},  {caxno}.	gismu	cinl;cinla	delgado
-cinmo	$x_{1}$ siente/experimenta emoción $x_{2}$ sobre/por/hacia $x_{3}$	Ver también {ckeji},  {cortu},  {jgira},  {kecti},  {kufra},  {manci},  {prami},  {steba},  {zungi}.	gismu	cni;cinm;cinmo				ci'o,se ci'o,te ci'o
+cinmo	$x_{1}$ siente/experimenta emoción $x_{2}$ sobre/por/hacia $x_{3}$	Ver también {ckeji},  {cortu},  {jgira},  {kecti},  {kufra},  {manci},  {prami},  {steba},  {zungi}.	gismu	cni;cinm;cinmo				ci'o;se ci'o;te ci'o
 cipni	$x_{1}$ es un pájaro/ave de especie/variedad $x_{2}$		gismu	cpi;cipn;cipni
 cipra	$x_{1}$ (evento) es una prueba/comprobación de $x_{2}$ (propiedad) hecha a sujeto $x_{3}$		gismu	cip;cipr;cipra
 cirko	$x_{1}$ pierde $x_{2}$ en/cerca de $x_{3}$	Ver también {penmi},  {ralte},  {sisku},  {claxu}.	gismu	cri;cirk;cirko
@@ -87,7 +87,7 @@ ckafi	$x_{1}$ es/contiene una cantidad de café de grano/variedad/origen $x_{2}$
 ckana	$x_{1}$ es una cama/lecho de material $x_{2}$ para sostener/soportar a $x_{3}$ (persona/objeto/evento)	Ver también {palta},  {cpana},   {vreta},  {jubme}.	gismu	cka;ckan;ckana	cama
 ckasu	$x_{1}$ ridiculiza/se burla de $x_{2}$ por ser/hacer $x_{3}$ con actividad $x_{4}$		gismu	cas;ckas;ckasu
 ckiku	$x_{1}$ es una llave de cerradura $x_{2}$ con propiedades relevantes $x_{3}$		gismu	kik;ckik;ckiku
-ckini	$x_{1}$ está relacionado/emparentado/pariente/tiene que ver con $x_{2}$ por relación $x_{3}$	Ver también {srana}.	gismu	ki'i;ckin;ckini				ki'i,se ki'i,te ki'i
+ckini	$x_{1}$ está relacionado/emparentado/pariente/tiene que ver con $x_{2}$ por relación $x_{3}$	Ver también {srana}.	gismu	ki'i;ckin;ckini				ki'i;se ki'i;te ki'i
 a	conector lógico entre sumti: o		cmavo		o (sumti)	A
 a'a	actitudinal: \n{a'a} - atención\n{a'acu'i} - desatención\n{a'anai} - evasión	Ver también {jundi},  {rivbi}.	cmavo		atención	UI1
 a'a cu'i	actitudinal: \n{a'a } - atención\n{a'a cu'i} - desatención\n{a'a nai} - evasión		cmavo-compound		desatención	UI*1
@@ -152,12 +152,12 @@ balvi	$x_{1}$ está en el futuro/luego/más tarde/después/posterior en el tiemp
 bancu	$x_{1}$ excede/sobrepasa/está más allá de/pasando $x_{2}$ desde $x_{3}$ en propiedad/cantidad $x_{4}$	Ver también {dukse},  {ragve}.	gismu	bac;banc;bancu
 bandu	$x_{1}$ (evento) defiende/protege/ampara a $x_{2}$ de amenaza/peligro potencial $x_{3}$ (evento)		gismu	bad;band;bandu
 banfi	$x_{1}$ es un anfibio de especie/raza $x_{2}$		gismu	banf;banfi
-bangu	$x_{1}$ es un idioma/dialecto/lengua/lenguaje de gente/pueblo/hablante $x_{2}$ usado para comunicar $x_{3}$		gismu	ban;bau;bang;bangu				bau,se bau,te bau
+bangu	$x_{1}$ es un idioma/dialecto/lengua/lenguaje de gente/pueblo/hablante $x_{2}$ usado para comunicar $x_{3}$		gismu	ban;bau;bang;bangu				bau;se bau;te bau
 banli	$x_{1}$ es grandioso en propiedad $x_{2}$ según estándar $x_{3}$	Ver también {barda},  {nobli},  se {sinma},  {pluja}.	gismu	bal;ba'i;banl;banli
 banro	$x_{1}$ crece/brota/se expande/se desarrolla a tamaño/forma $x_{2}$ desde $x_{3}$	Ver también {preja},  {farvi},  {zenba}.	gismu	ba'o;banr;banro	crecer
 banxa	$x_{1}$ es un banco propiedad de/en sistema bancario $x_{2}$ con funciones $x_{3}$ (evento)]		gismu	bax;banx;banxa
 banzu	$x_{1}$ alcanza/basta/es suficiente para propósito $x_{2}$ bajo condiciones $x_{3}$	Ver también {sarcu},  {dukse},  {claxu},  {nitcu}.	gismu	baz;banz;banzu
-bapli	$x_{1}$ (evento) fuerza/obliga/compele a que $x_{2}$ ocurra	Ver también {jitro},  {rinka},  {krinu},  {zukte}.	gismu	bap;bai;bapl;bapli				bai,se bai
+bapli	$x_{1}$ (evento) fuerza/obliga/compele a que $x_{2}$ ocurra	Ver también {jitro},  {rinka},  {krinu},  {zukte}.	gismu	bap;bai;bapl;bapli				bai;se bai
 ba'e	indicador de énfasis; indica que la siguiente palabra es especialmente enfatizada		cmavo		énfasis (sobre lo que sigue)	BAhE
 ba'i	{basti} modal, 1er argumento                            reemplazado por ...		cmavo		reemplazado por	BAI
 bai	{bapli} modal, 1er argumento (forzado por)              forzadamente; compelido por fuerza ...		cmavo		compelido por	BAI
@@ -178,7 +178,7 @@ barja	$x_{1}$ es una taberna/bar en localidad $x_{2}$ que sirve $x_{3}$ a client
 barna	$x_{1}$ es una marca sobre $x_{2}$ de material $x_{3}$		gismu	ba'a;barn;barna
 bartu	$x_{1}$ está afuera/exterior/externo/fuera de $x_{2}$	Ver también {nenri}.	gismu	bar;bart;bartu
 basna	$x_{1}$ enfatiza/acentúa $x_{2}$ con acción/énfasis $x_{3}$		gismu	basn;basna
-basti	$x_{1}$ reemplaza/sustituye/toma el lugar de $x_{2}$ en circunstancia $x_{3}$		gismu	bas;bast;basti				ba'i,se ba'i
+basti	$x_{1}$ reemplaza/sustituye/toma el lugar de $x_{2}$ en circunstancia $x_{3}$		gismu	bas;bast;basti				ba'i;se ba'i
 batci	$x_{1}$ muerde/pellizca a $x_{2}$ en $x_{3}$ con $x_{4}$		gismu	bat;batc;batci	morder
 batke	$x_{1}$ es un botón/perilla/manija/tirador en $x_{2}$, con propósito $x_{3}$, hecho de material $x_{4}$		gismu	batk;batke
 bavmi	$x_{1}$ es una cantidad de cebada (grano) de especie/variedad $x_{2}$		gismu	bavm;bavmi
@@ -187,7 +187,7 @@ bebna	$x_{1}$ es tonto/bobo/idiota/estúpido sobre asunto $x_{2}$	Ver también {
 bemro	$x_{1}$ refleja cultura/nacionalidad/geografía centro/norteamericana en aspecto $x_{2}$		gismu	bem;be'o;bemr;bemro
 bende	$x_{1}$ es un equipo/escuadrón/banda/orquesta de personas $x_{2}$ dirigidos/conducidos por $x_{3}$ organizados con propósito $x_{4}$		gismu	bed;be'e;bend;bende
 bengo	$x_{1}$ refleja cultura/nacionalidad/idioma bengalí en aspecto $x_{2}$		gismu	beg;beng;bengo
-benji	$x_{1}$ transfiere/manda/transmite/envía $x_{2}$ a receptor $x_{3}$ desde transmisor/origen $x_{4}$ por medio $x_{5}$	Ver también {mrilu}.	gismu	bej;be'i;benj;benji	transferir			be'i,se be'i,te be'i,ve be'i,xe be'i
+benji	$x_{1}$ transfiere/manda/transmite/envía $x_{2}$ a receptor $x_{3}$ desde transmisor/origen $x_{4}$ por medio $x_{5}$	Ver también {mrilu}.	gismu	bej;be'i;benj;benji	transferir			be'i;se be'i;te be'i;ve be'i;xe be'i
 bersa	$x_{1}$ es hijo (varón) de madre/padre $x_{2}$ (no necesariamente biológico)	Ver también {panzi},  {tixnu}.	gismu	bes;be'a;bers;bersa	hijo
 berti	$x_{1}$ está al norte/septentrional de $x_{2}$ según marco de referencia $x_{3}$	Ver también {snanu},  {stuna},  {stici}.	gismu	ber;bert;berti
 besna	$x_{1}$ es un cerebro/seso (parte del cuerpo) de $x_{2}$		gismu	ben;besn;besna
@@ -264,7 +264,7 @@ cirla	$x_{1}$ es una cantidad de queso de origen $x_{2}$		gismu	cirl;cirla
 citno	$x_{1}$ es joven según estándar $x_{2}$	Ver también {cnino},  {slabu},  {verba}.	gismu	cit;ci'o;citn;citno
 citsi	$x_{1}$ es una estación definida por propiedad $x_{2}$, de año $x_{3}$		gismu	cits;citsi
 ckabu	$x_{1}$ es una cantidad de goma/caucho/látex de origen $x_{2}$ de composición $x_{3}$		gismu	ckab;ckabu
-ckaji	$x_{1}$ tiene/presenta/manifiesta/exhibe cualidad/propiedad/rasgo/aspecto/dimensión $x_{2}$		gismu	kai;ckaj;ckaji				kai,se kai
+ckaji	$x_{1}$ tiene/presenta/manifiesta/exhibe cualidad/propiedad/rasgo/aspecto/dimensión $x_{2}$		gismu	kai;ckaj;ckaji				kai;se kai
 ckape	$x_{1}$ (evento) es peligroso para $x_{2}$ bajo condiciones $x_{3}$		gismu	cap;ckap;ckape
 ckeji	$x_{1}$ siente vergu:enza/humillación/mortificación bajo condiciones $x_{2}$ ante comunidad/audiencia $x_{3}$		gismu	kej;cke;ckej;ckeji
 bu	convierte una palabra cualquiera a BY		cmavo	bus;bu'i	palabra a lerfu	BU
@@ -310,7 +310,7 @@ carvi	$x_{1}$ llueve/se precipita sobre $x_{2}$ desde $x_{3}$		gismu	cav;carv;ca
 casnu	$x_{1}$ discuten/hablan/conversan/charlan/dialogan/platican acerca de $x_{2}$	Ver también {tavla}.	gismu	snu;casn;casnu
 catke	$x_{1}$ empuja a $x_{2}$ en parte $x_{3}$	Ver también {lacpu}.	gismu	ca'e;catk;catke
 catlu	$x_{1}$ mira/examina/inspecciona/observa/vigila $x_{2}$		gismu	cta;catl;catlu
-catni	$x_{1}$ tiene autoridad/es un oficial en asunto/esfera $x_{2}$ con autoridad basada en $x_{3}$	Ver también {turni},  {tutra}.	gismu	ca'i;catn;catni				ca'i,se ca'i,te ca'i
+catni	$x_{1}$ tiene autoridad/es un oficial en asunto/esfera $x_{2}$ con autoridad basada en $x_{3}$	Ver también {turni},  {tutra}.	gismu	ca'i;catn;catni				ca'i;se ca'i;te ca'i
 catra	$x_{1}$ mata/asesina a $x_{2}$ por acción/método $x_{3}$		gismu	catr;catra
 caxno	$x_{1}$ es poco profundo/superficial en dirección $x_{2}$ desde punto de referencia $x_{3}$ según estándar $x_{4}$	Ver también {condi},  {tordu},  {jarki},  {cinla}.	gismu	cax;caxn;caxno	poco profundo
 cecmu	$x_{1}$ es una comunidad/colonia de organismos $x_{2}$		gismu	cem;ce'u;cecm;cecmu
@@ -326,14 +326,14 @@ cei	asignación de selbri variable; asigna pro-bridi de serie broda a un selbri	
 ci'u	{ckilu} modal, 1er argumento                            en la escala ...		cmavo		en escala ...	BAI
 cipcta	$x_1$ investiga/chequea/examina/inspecciona $x_2$ en propiedad $x_3$	Ver también {cipra}, {catlu}	lujvo		chequear;investigar		cipra,catlu
 ci roi	modificador de intervalo: tres veces		cmavo-compound		tres veces	ROI*
-ciste	$x_{1}$ es un sistema con función/propiedades $x_{2}$ y componentes $x_{3}$		gismu	ci'e;cist;ciste				ci'e,se ci'e,te ci'e,ve ci'e
-ckilu	$x_{1}$ es una escala de unidades para medir/observar/determinar $x_{2}$		gismu	ci'u;ckil;ckilu	escala			ci'u,se ci'u
+ciste	$x_{1}$ es un sistema con función/propiedades $x_{2}$ y componentes $x_{3}$		gismu	ci'e;cist;ciste				ci'e;se ci'e;te ci'e;ve ci'e
+ckilu	$x_{1}$ es una escala de unidades para medir/observar/determinar $x_{2}$		gismu	ci'u;ckil;ckilu	escala			ci'u;se ci'u
 ckire	$x_{1}$ agradece a $x_{2}$ por $x_{3}$		gismu	kir;ckir;ckire
 ckule	$x_{1}$ es una escuela/colegio/instituto/academia en $x_{2}$ que enseña tema $x_{3}$ ante audiencia/comunidad $x_{4}$ manejado por $x_{5}$		gismu	kul;cu'e;ckul;ckule
 ckunu	$x_{1}$ es una conífera/pino/abeto (árbol) de especie/variedad $x_{2}$ con piñas/conos $x_{3}$		gismu	ku'u;ckun;ckunu
 cladu	$x_{1}$ es fuerte/alto (sonido) en punto de observación $x_{2}$ según estándar $x_{3}$	Ver también {smaji},  {savru}.	gismu	lau;clad;cladu	fuerte
 clani	$x_{1}$ es largo en dimensión/dirección $x_{2}$ (la más larga) según estándar $x_{3}$	Ver también {tordu},  {ganra},  {rotsu},  {condi}.	gismu	cla;clan;clani	largo
-claxu	$x_{1}$ es carece de/no tiene/está sin $x_{2}$	Ver también {nitcu},  {pindi},  {banzu}.	gismu	cau;clax;claxu				cau,se cau
+claxu	$x_{1}$ es carece de/no tiene/está sin $x_{2}$	Ver también {nitcu},  {pindi},  {banzu}.	gismu	cau;clax;claxu				cau;se cau
 clika	$x_{1}$ es un musgo/líquen de especie/variedad $x_{2}$ que crece sobre $x_{3}$		gismu	clik;clika
 clira	$x_{1}$ (evento) es temprano según estándar $x_{2}$	Ver también {lerci}.	gismu	lir;clir;clira
 clite	$x_{1}$ es cortés/amable/afable/educado en asunto $x_{2}$ según estándar/costumbre $x_{3}$		gismu	lit;clit;clite
@@ -343,7 +343,7 @@ cmaci	$x_{1}$ es una matemática de tipo $x_{2}$		gismu	cmac;cmaci
 cmalu	$x_{1}$ es pequeño/chico en propiedad/dimensión $x_{2}$ comparado con estándar/norma $x_{3}$	Ver también {barda}.	gismu	cma;cmal;cmalu	pequeño
 cmana	$x_{1}$ es una montaña/monte/colina/montículo/elevación/pico sobre tierra/llano $x_{2}$		gismu	ma'a;cman;cmana
 cmavo	$x_{1}$ es una partícula/palabra estructural de tipo $x_{2}$ con significado/función $x_{3}$ en idioma $x_{4}$		gismu	ma'o;cmav;cmavo
-cmene	$x_{1}$ es un nombre/título de $x_{2}$ usado/puesto por $x_{3}$ (persona)		gismu	cme;me'e;cmen;cmene				me'e,se me'e,te me'e
+cmene	$x_{1}$ es un nombre/título de $x_{2}$ usado/puesto por $x_{3}$ (persona)		gismu	cme;me'e;cmen;cmene				me'e;se me'e;te me'e
 cmila	$x_{1}$ ríe	Ver también {cisma}.	gismu	mi'a;cmil;cmila
 cmima	$x_{1}$ es un miembro/pertenece a conjunto/grupo $x_{2}$	Ver también {girzu},  {klesi}.	gismu	mim;cmi;cmim;cmima
 cmoni	$x_{1}$ gime/brama/chilla/grita/aulla/emite queja/alarido/berrido $x_{2}$ que expresa $x_{3}$		gismu	cmo;co'i;cmon;cmoni
@@ -376,10 +376,10 @@ denpa	$x_{1}$ espera/hace una pausa hasta $x_{2}$ en estado $x_{3}$ antes de con
 dertu	$x_{1}$ es una cantidad de tierra/suelo de origen $x_{2}$ de composición $x_{3}$		gismu	der;de'u;dert;dertu
 derxi	$x_{1}$ es un montón/pila/parva de materiales $x_{2}$ en localidad $x_{3}$		gismu	dre;derx;derxi
 desku	$x_{1}$ tiembla/tirita/se sacude debido a fuerza $x_{2}$	Ver también {slilu}.	gismu	des;desk;desku
-detri	$x_{1}$ es la fecha (día,{semana},{mes},año) de evento/estado $x_{2}$, en localidad $x_{3}$, por calendario $x_{4}$		gismu	det;detr;detri				de'i,se de'i,te de'i,ve de'i
+detri	$x_{1}$ es la fecha (día,{semana},{mes},año) de evento/estado $x_{2}$, en localidad $x_{3}$, por calendario $x_{4}$		gismu	det;detr;detri				de'i;se de'i;te de'i;ve de'i
 dicra	$x_{1}$ (evento) interrumpe/para/detiene $x_{2}$ (evento) debido a cualidad $x_{3}$	Ver también {zunti},  {fanza},  {raktu}.	gismu	dir;dicr;dicra
 dikca	$x_{1}$ es electricidad (carga o corriente) en $x_{2}$		gismu	dic;dikc;dikca
-diklo	$x_{1}$ es local/vecino/lugareño de $x_{2}$ en región/localidad/vecindad $x_{3}$	Ver también {jibni},  {zvati},  {cpana},  {nenri},  {lamji},  {stuzi},  {tcila}.	gismu	klo;dikl;diklo				di'o,se di'o,te di'o
+diklo	$x_{1}$ es local/vecino/lugareño de $x_{2}$ en región/localidad/vecindad $x_{3}$	Ver también {jibni},  {zvati},  {cpana},  {nenri},  {lamji},  {stuzi},  {tcila}.	gismu	klo;dikl;diklo				di'o;se di'o;te di'o
 dikni	$x_{1}$ es regular/cíclico/periódico en propiedad/actividad/aspecto $x_{2}$ con periodo/intervalo $x_{3}$	Ver también {vitci},  {slilu},  {rilti}.	gismu	dik;dikn;dikni
 dilcu	$x_{1}$ es el cociente entre dividendo $x_{2}$ y divisor $x_{3}$ con resto $x_{4}$	Ver también {frinu},  {pilji}.	gismu	dilc;dilcu	cociente
 dilnu	$x_{1}$ es una nube de material $x_{2}$ en masa de aire $x_{3}$ sobre piso/base $x_{4}$		gismu	dil;diln;dilnu
@@ -474,7 +474,7 @@ cupra	$x_{1}$ produce $x_{2}$ con proceso $x_{3}$	Ver también {zbasu}.	gismu	pr
 curmi	$x_{1}$ agente permite/autoriza/deja que ocurra $x_{2}$ bajo condiciones $x_{3}$	Ver también {fanta}.	gismu	cru;curm;curmi
 curnu	$x_{1}$ es un gusano/lombriz de especie/raza $x_{2}$		gismu	cur;curn;curnu
 curve	$x_{1}$ es puro/no adulterado en propiedad $x_{2}$	Ver también {prane},  {manfo}.	gismu	cuv;curv;curve
-cusku	$x_{1}$ dice/expresa $x_{2}$ a $x_{3}$ usando medio $x_{4}$	Ver también {bacru},  {tavla},  {casnu},  {spuda}.	gismu	cus;sku;cusk;cusku				cu'u,se cu'u,te cu'u,ve cu'u
+cusku	$x_{1}$ dice/expresa $x_{2}$ a $x_{3}$ usando medio $x_{4}$	Ver también {bacru},  {tavla},  {casnu},  {spuda}.	gismu	cus;sku;cusk;cusku				cu'u;se cu'u;te cu'u;ve cu'u
 cutci	$x_{1}$ es un zapato/bota/sandalia/calzado (prenda de vestir) para cubrir/proteger pies $x_{2}$, de material $x_{3}$		gismu	cuc;cutc;cutci
 cu	marcador elisible: separa selbri del sumti precedente, permite la elisión de terminadores precedentes		cmavo		separador de selbri	CU
 cu'a	operador matemático unitario: valor absoluto/norma  (|a|)		cmavo		valor absoluto	VUhU3
@@ -501,7 +501,7 @@ djacu	$x_{1}$ es una cantidad/extensión de agua		gismu	jac;jau;djac;djacu
 djedi	$x_{1}$ dura $x_{2}$ días (1 por defecto) segun estándar $x_{3}$	Ver también {dinri}.	gismu	dje;dei;djed;djedi
 djica	$x_{1}$ desea/quiere $x_{2}$ con propósito $x_{3}$	Ver también {taske},  {xagji},  {nitcu}.	gismu	dji;djic;djica
 djine	$x_{1}$ es un anillo/aro/toro/círculo (forma) de material $x_{2}$, con diámetro interno $x_{3}$, diámetro externo $x_{4}$		gismu	jin;djin;djine
-djuno	$x_{1}$ sabe que $x_{2}$ (du'u) es cierto acerca de $x_{3}$ por epistemología $x_{4}$	Ver también {certu}.	gismu	jun;ju'o;djun;djuno				du'o,se du'o,te du'o,ve du'o
+djuno	$x_{1}$ sabe que $x_{2}$ (du'u) es cierto acerca de $x_{3}$ por epistemología $x_{4}$	Ver también {certu}.	gismu	jun;ju'o;djun;djuno				du'o;se du'o;te du'o;ve du'o
 dotco	$x_{1}$ refleja cultura/nacionalidad/idioma alemán/germánico en aspecto $x_{2}$		gismu	dot;do'o;dotc;dotco
 draci	$x_{1}$ es un drama/comedia/obra de teatro sobre tema $x_{2}$ por dramaturgo $x_{3}$ para audiencia $x_{4}$ con actores $x_{5}$		gismu	drac;draci
 drani	$x_{1}$ es correcto/apropiado/justo/bien/acertado en propiedad/aspecto $x_{2}$ en situación $x_{3}$ según estándar $x_{4}$	Ver también {dukse}.	gismu	dra;dran;drani
@@ -533,7 +533,7 @@ dragau	$x1$ corrige/rectifica $x_2$ en aspecto/propiedad $x_3$ para situación $
 dorkada	$x_1$ es una gacela de especie/raza $x_2$		fu'ivla	dorkada	gacela
 du'e mei	selbri cuantificado: convierte demasiados en selbri cardinal; $x_{1}$ son demasiados $x_{2}$		cmavo-compound		son demasiados	MOI*
 du'e roi	modificador de intervalo: demasiadas veces		cmavo-compound		demasiadas veces	ROI*
-dunli	$x_{1}$ es igual a $x_{2}$ en propiedad/dimensión/cantidad $x_{3}$	Ver también {frica},  {simsa},  {mintu}.	gismu	dun;du'i;dunl;dunli	igual			du'i,se du'i,te du'i
+dunli	$x_{1}$ es igual a $x_{2}$ en propiedad/dimensión/cantidad $x_{3}$	Ver también {frica},  {simsa},  {mintu}.	gismu	dun;du'i;dunl;dunli	igual			du'i;se du'i;te du'i
 dunra	$x_{1}$ es el invierno/estación fría del año $x_{2}$ en localidad $x_{3}$	Ver también {crisa},  {critu},  {vensa}.	gismu	dur;dunr;dunra
 dzena	$x_{1}$ es un ancestro/antepasado/ascendiente/mayor/bisabuelo/tatarabuelo de $x_{2}$ por lazo/relación/grado $x_{3}$		gismu	dze;dzen;dzena
 dzipo	$x_{1}$ refleja cultura/nacionalidad/geografía antártica en aspecto $x_{2}$		gismu	zip;zi'o;dzip;dzipo
@@ -582,7 +582,7 @@ farna	$x_{1}$ es la dirección hacia $x_{2}$ desde origen/en marco de referencia
 farvi	$x_{1}$ se desarrolla/evoluciona hacia $x_{2}$ desde $x_{3}$ con etapas $x_{4}$	Ver también {pruce},  {banro}.	gismu	fav;farv;farvi
 fasnu	$x_{1}$ (evento) ocurre/sucede/pasa		gismu	fau;fasn;fasnu				fau
 fatci	$x_{1}$ es un hecho/realidad	Ver también {jetnu},  {fasnu}.	gismu	fac;fatc;fatci
-fatne	$x_{1}$ está en orden inverso/invertido/revertido/al revés de $x_{2}$		gismu	fat;fa'e;fatn;fatne				fa'e,se fa'e
+fatne	$x_{1}$ está en orden inverso/invertido/revertido/al revés de $x_{2}$		gismu	fat;fa'e;fatn;fatne				fa'e;se fa'e
 fatri	$x_{1}$ distribuye/comparte $x_{2}$ entre $x_{3}$ con porciones $x_{4}$		gismu	fai;fatr;fatri
 febvi	$x_{1}$ hierve/ebulle/se evapora a temperatura $x_{2}$, presión $x_{3}$	Ver también {lunsa},  {dunja},  {runme}.	gismu	feb;febv;febvi
 femti	$x_{1}$ es un milbillonésimo (1E-15) de $x_{2}$ en dimensión/aspecto $x_{3}$		gismu	fem;femt;femti
@@ -616,7 +616,7 @@ fetsi	$x_{1}$ es una hembra/mujer de especie $x_{2}$ con rasgos femeninos $x_{3}
 figre	$x_{1}$ es un higo (fruta) de especie/variedad $x_{2}$		gismu	fig;figr;figre
 filso	$x_{1}$ refleja cultura/nacionalidad/idioma palestino en aspecto $x_{2}$		gismu	fis;fils;filso
 finpe	$x_{1}$ es un pez de especie/variedad $x_{2}$		gismu	fip;fi'e;finp;finpe
-finti	$x_{1}$ inventa/crea/compone/es autor de obra $x_{2}$ para uso/próposito $x_{3}$	Ver también {zbasu},  {larcu}.	gismu	fin;fi'i;fint;finti				fi'e,se fi'e,te fi'e,ve fi'e
+finti	$x_{1}$ inventa/crea/compone/es autor de obra $x_{2}$ para uso/próposito $x_{3}$	Ver también {zbasu},  {larcu}.	gismu	fin;fi'i;fint;finti				fi'e;se fi'e;te fi'e;ve fi'e
 flalu	$x_{1}$ es una ley que determina $x_{2}$ para comunidad $x_{3}$ bajo condiciones $x_{4}$ por legislador $x_{5}$		gismu	fla;flal;flalu
 flani	$x_{1}$ es una flauta/quena/gaita (instrumento musical)		gismu	flan;flani
 flecu	$x_{1}$ es una corriente/flujo/río de $x_{2}$ en dirección a $x_{3}$ de fuente $x_{4}$	Ver también {rirxe},  {senta}.	gismu	fle;flec;flecu
@@ -675,7 +675,7 @@ ganzu	$x_{1}$ organiza desorden/caos $x_{2}$ en orden $x_{3}$ por sistema/princi
 gapci	$x_{1}$ es un gas/vapor de composición/material $x_{2}$, bajo condiciones $x_{3}$	Ver también {litki},  {sligu},  {danmo},  {bumru}.	gismu	gac;gapc;gapci
 gapru	$x_{1}$ está arriba/encima de $x_{2}$ según marco de referencia/gravedad $x_{3}$	Ver también {cnita},  {galtu},  {cpana}.	gismu	gap;gapr;gapru
 garna	$x_{1}$ es una barra/riel/travesaño que sostiene $x_{2}$, de material $x_{3}$		gismu	gar;garn;garna
-gasnu	$x_{1}$ hace que ocurra $x_{2}$	Ver también {fanta},  {zukte},  {rinka},  {fasnu}.	gismu	gau;gasn;gasnu				gau,se gau
+gasnu	$x_{1}$ hace que ocurra $x_{2}$	Ver también {fanta},  {zukte},  {rinka},  {fasnu}.	gismu	gau;gasn;gasnu				gau;se gau
 gasta	$x_{1}$ es una cantidad de acero de composición $x_{2}$		gismu	gat;gast;gasta
 kalte	$x_{1}$ caza/persigue a presa $x_{2}$ con propósito $x_{3}$	Ver también {sisku}.	gismu	kat;kalt;kalte
 kamju	$x_{1}$ es una columna/pilar (forma) de material $x_{2}$		gismu	kamj;kamju
@@ -707,12 +707,12 @@ kerfa	$x_{1}$ es un pelo/cabello (parte del cuerpo) de $x_{2}$ en parte/lugar $x
 kerlo	$x_{1}$ es una oreja (parte del cuerpo) de $x_{2}$		gismu	ker;kerl;kerlo
 ketco	$x_{1}$ refleja cultura/nacionalidad/geografía sudamericana en aspecto $x_{2}$		gismu	ket;tco;ketc;ketco
 kramu	$x_{1}$ mide $x_{2}$ unidades locales de área (1 por defecto), estándar $x_{3}$, $x_{4}$ subunidades		gismu	kram;kramu
-krasi	$x_{1}$ es un origen/fuente/comienzo/inicio de $x_{2}$	Ver también {cfari}.	gismu	kra;kras;krasi				ra'i,se ra'i
-krati	$x_{1}$ representa/es un agente de $x_{2}$ en asunto/función $x_{3}$	Ver también {jansu},  {catni},  {vipsi}.	gismu	ka'i;krat;krati				ka'i,se ka'i,te ka'i
+krasi	$x_{1}$ es un origen/fuente/comienzo/inicio de $x_{2}$	Ver también {cfari}.	gismu	kra;kras;krasi				ra'i;se ra'i
+krati	$x_{1}$ representa/es un agente de $x_{2}$ en asunto/función $x_{3}$	Ver también {jansu},  {catni},  {vipsi}.	gismu	ka'i;krat;krati				ka'i;se ka'i;te ka'i
 krefu	$x_{1}$ (evento) es la $x_{3}$-sima recurrencia/repetición de $x_{2}$ (evento)		gismu	ref;ke'u;kref;krefu
 krici	$x_{1}$ cree que $x_{2}$ (du'u) es cierto acerca de $x_{3}$		gismu	kri;kric;krici
 krili	$x_{1}$ es una cantidad de cristal de composición $x_{2}$ en forma/arreglo $x_{3}$		gismu	kril;krili
-krinu	$x_{1}$ (evento) es una razón/justificación/explicación de $x_{2}$ (evento)	Ver también {rinka},  {nibli},  {mukti},  se {jalge},  te {zukte}.	gismu	rin;ki'u;krin;krinu				ki'u,se ki'u,se ki'u nai
+krinu	$x_{1}$ (evento) es una razón/justificación/explicación de $x_{2}$ (evento)	Ver también {rinka},  {nibli},  {mukti},  se {jalge},  te {zukte}.	gismu	rin;ki'u;krin;krinu				ki'u;se ki'u;se ki'u nai
 krixa	$x_{1}$ grita sonido/alarido $x_{2}$	Ver también {bacru}.	gismu	kix;ki'a;krix;krixa	gritar
 kruca	$x_{1}$ intersecta/cruza $x_{2}$ en punto/posición $x_{3}$		gismu	kuc;kruc;kruca
 kruji	$x_{1}$ es una cantidad de crema/emulsión/pasta/puré de composición $x_{2}$		gismu	ruj;kruj;kruji
@@ -721,7 +721,7 @@ kubli	$x_{1}$ es un cubo/poliedro/polígono regular en $x_{2}$ dimensiones (3 po
 kucli	$x_{1}$ siente curiosidad/se pregunta acerca de $x_{2}$		gismu	kucl;kucli
 kufra	$x_{1}$ esta cómodo/confortable/a gusto con condiciones/ambiente/propiedad $x_{2}$ (evento)	Ver también {burna}.	gismu	kuf;kufr;kufra
 kukte	$x_{1}$ es delicioso/rico/sabroso/gusta a $x_{2}$		gismu	kuk;kukt;kukte
-kulnu	$x_{1}$ es parte de la cultura de nación/etnia/gente/pueblo $x_{2}$	Ver también {natmi}.	gismu	klu;kuln;kulnu				ku'u,se ku'u
+kulnu	$x_{1}$ es parte de la cultura de nación/etnia/gente/pueblo $x_{2}$	Ver también {natmi}.	gismu	klu;kuln;kulnu				ku'u;se ku'u
 kumfa	$x_{1}$ es un cuarto/recámara/habitación en estructura $x_{2}$ rodeado de particiones/paredes/techo/piso $x_{3}$		gismu	kum;ku'a;kumf;kumfa
 kumte	$x_{1}$ es un camello/dromedario/llama/alpaca/vicuña/guanaco de especie/raza $x_{2}$		gismu	kumt;kumte
 kunra	$x_{1}$ es una cantidad de mineral de tipo/metal $x_{2}$ de localidad/mina $x_{3}$		gismu	kun;kunr;kunra
@@ -756,9 +756,9 @@ kijno	$x_{1}$ es una cantidad de oxígeno (O)		gismu	kij;kijn;kijno
 kilto	$x_{1}$ es un millar (1E3) de $x_{2}$ en dimensión/aspecto $x_{3}$		gismu	ki'o;kilt;kilto	kilo
 klaji	$x_{1}$ es una calle/avenida/bulevard/callejón en $x_{2}$ dando acceso a $x_{3}$	Ver también {dargu}.	gismu	laj;klaj;klaji
 klaku	$x_{1}$ llora lágrimas $x_{2}$ por motivo $x_{3}$		gismu	kak;klak;klaku
-klama	$x_{1}$ va/viene a $x_{2}$ desde $x_{3}$ vía ruta $x_{4}$ usando medio/vehiculo $x_{5}$	Ver también {litru},  {muvdu},  {cpare}.	gismu	kla;klam;klama	ir			ka'a,se ka'a,te ka'a,ve ka'a,xe ka'a
-klani	$x_{1}$ es cantidad/mide $x_{2}$ en escala $x_{3}$		gismu	lai;klan;klani	cantidad			la'u,se la'u,te la'u
-klesi	$x_{1}$ es una clase/categoría/subgrupo/subconjunto de $x_{2}$ con propiedad definitoria $x_{3}$		gismu	kle;lei;kles;klesi				le'a,se le'a,te le'a
+klama	$x_{1}$ va/viene a $x_{2}$ desde $x_{3}$ vía ruta $x_{4}$ usando medio/vehiculo $x_{5}$	Ver también {litru},  {muvdu},  {cpare}.	gismu	kla;klam;klama	ir			ka'a;se ka'a;te ka'a;ve ka'a;xe ka'a
+klani	$x_{1}$ es cantidad/mide $x_{2}$ en escala $x_{3}$		gismu	lai;klan;klani	cantidad			la'u;se la'u;te la'u
+klesi	$x_{1}$ es una clase/categoría/subgrupo/subconjunto de $x_{2}$ con propiedad definitoria $x_{3}$		gismu	kle;lei;kles;klesi				le'a;se le'a;te le'a
 klina	$x_{1}$ es transparente/claro/sin obstáculo para $x_{2}$ (transmisión)	Ver también {julne}.	gismu	kli;klin;klina
 kliru	$x_{1}$ es una cantidad de halógeno (flúor/iodo/bromo)		gismu	klir;kliru
 kliti	$x_{1}$ es una cantidad de arcilla de composición $x_{2}$	Ver también {pesxu}.	gismu	kit;klit;kliti
@@ -769,7 +769,7 @@ kojna	$x_{1}$ es un rincón/punta/esquina/ángulo sólido (forma) de $x_{2}$, de
 kolme	$x_{1}$ es una cantidad de carbón/hulla/antracita/bituminoso de origen $x_{2}$		gismu	kol;ko'e;kolm;kolme
 komcu	$x_{1}$ es un peine (forma) de material $x_{2}$ con dientes $x_{3}$	Ver también {julne},  {forca},  {burcu}.	gismu	kom;komc;komcu
 konju	$x_{1}$ es un cono (forma) de material $x_{2}$ con vértice $x_{3}$		gismu	kon;ko'u;konj;konju
-korbi	$x_{1}$ es una orilla/borde/márgen/límite de $x_{2}$ junto a/tocando $x_{3}$	Ver también {jimte},  {ctebi}.	gismu	kor;koi;korb;korbi				koi,se koi,te koi
+korbi	$x_{1}$ es una orilla/borde/márgen/límite de $x_{2}$ junto a/tocando $x_{3}$	Ver también {jimte},  {ctebi}.	gismu	kor;koi;korb;korbi				koi;se koi;te koi
 korcu	$x_{1}$ está torcido/doblado	Ver también {sirji}.	gismu	kro;korc;korcu	torcido
 korka	$x_{1}$ es una cantidad de corcho/corteza de árbol/especie $x_{2}$		gismu	kok;kork;korka
 kosta	$x_{1}$ es un abrigo/chaqueta/casaca/tricota/sweater/capa/mantilla/pulover/saco/poncho (prenda de vestir) de material $x_{2}$		gismu	kos;kost;kosta
@@ -961,7 +961,7 @@ i'u nai	actitudinal: \n{i'u } - familiaridad\n{i'u nai} - misterio		cmavo-compou
 iu nai	actitudinal: \n{iu } - amor\n{iu cu'i} - indiferencia\n{iu nai} - odio		cmavo-compound		odio	UI*1
 jadni	$x_{1}$ es un adorno/decoración/ornamento de $x_{2}$		gismu	jad;ja'i;jadn;jadni
 jakne	$x_{1}$ es un cohete (vehículo) propelido/impulsado por chorro/expulsión $x_{3}$ con carga $x_{4}$		gismu	jakn;jakne
-jalge	$x_{1}$ (evento) es un resultado/conclusión/efecto de $x_{2}$ (evento)	Ver también se {mukti},  te {zukte},  se {rinka},  se {krinu},  se {nibli}.	gismu	jag;ja'e;jalg;jalge				ja'e,se ja'e
+jalge	$x_{1}$ (evento) es un resultado/conclusión/efecto de $x_{2}$ (evento)	Ver también se {mukti},  te {zukte},  se {rinka},  se {krinu},  se {nibli}.	gismu	jag;ja'e;jalg;jalge				ja'e;se ja'e
 ja	conector lógico entre componentes de tanru: o		cmavo	jav	tanru o	JA
 ja'a	afirmador lógico de bridi; alcance sobre todo el bridi		cmavo		afirmador de bridi	NA
 ja'e	{jalge} modal, 1er argumento                            con resultado ...; resultando por lo tanto ...		cmavo		con resultado ...	BAI
@@ -983,7 +983,7 @@ jarco	$x_{1}$ muestra/exhibe/expone $x_{2}$ ante audiencia $x_{3}$	Ver también 
 jarki	$x_{1}$ es angosto/estrecho en dimensión/dirección $x_{2}$ (la segunda en importancia) según estándar $x_{3}$	Ver también {ganra},  {tordu},  {cinla},  {caxno}.	gismu	jak;jark;jarki	angosto
 jaspu	$x_{1}$ es un pasaporte expedido a $x_{2}$ por autoridad $x_{3}$ que le permite hacer $x_{4}$	Ver también {pikta}.	gismu	jap;jasp;jaspu
 jatna	$x_{1}$ es capitán/comandante/líder/a cargo de vehículo/dominio $x_{2}$	Ver también te {bende},  {minde},  {ralju}.	gismu	ja'a;jatn;jatna
-javni	$x_{1}$ es una regla que prescribe/manda/requiere $x_{2}$ en sistema/comunidad $x_{3}$	Ver también {flalu},  {ritli}.	gismu	jva;javn;javni				ja'i,se ja'i,te ja'i
+javni	$x_{1}$ es una regla que prescribe/manda/requiere $x_{2}$ en sistema/comunidad $x_{3}$	Ver también {flalu},  {ritli}.	gismu	jva;javn;javni				ja'i;se ja'i;te ja'i
 jbama	$x_{1}$ es una bomba/aparato explosivo con material/principio explosivo $x_{2}$		gismu	bam;jbam;jbama
 jbari	$x_{1}$ es una baya/frutilla/mora/granada/grosella (fruta) de especie/variedad $x_{2}$		gismu	jba;jbar;jbari
 jbena	$x_{1}$ nace de $x_{2}$ en fecha/hora $x_{3}$ y lugar $x_{4}$		gismu	jbe;jben;jbena
@@ -1030,7 +1030,7 @@ jgita	$x_{1}$ es una guitarra/violín/viola/cello/arpa (instrumento musical de c
 jibni	$x_{1}$ esta cerca/cercano/próximo a $x_{2}$ en propiedad $x_{3}$	Ver también {darno},  {lamji},  {diklo}.	gismu	jbi;jibn;jibni
 jibri	$x_{1}$ es un trabajo/ocupación/empleo de persona $x_{2}$		gismu	jib;jibr;jibri
 jicla	$x_{1}$ revuelve/agita fluido $x_{2}$ con herramienta/utensilio $x_{3}$		gismu	jicl;jicla
-jicmu	$x_{1}$ es una base/fundamento de $x_{2}$	Ver también {zbepi},  {genja}.	gismu	cmu;jicm;jicmu				ji'u,se ji'u
+jicmu	$x_{1}$ es una base/fundamento de $x_{2}$	Ver también {zbepi},  {genja}.	gismu	cmu;jicm;jicmu				ji'u;se ji'u
 jijnu	$x_{1}$ intuye que $x_{2}$ (du'u) es cierto acerca de $x_{3}$		gismu	jij;jijn;jijnu
 jikca	$x_{1}$ interactúa socialmente/es sociable con $x_{2}$		gismu	jik;jikc;jikca
 jikru	$x_{1}$ es una cantidad de licor/bebida espirituosa destilada de $x_{2}$	Ver también {birje},  {xalka}.	gismu	jikr;jikru
@@ -1038,7 +1038,7 @@ jilka	$x_{1}$ es una cantidad de álkali/base de composicion $x_{2}$		gismu	jil;
 jilra	$x_{1}$ envidia/cela/está celoso de $x_{2}$ por $x_{3}$ (ka)		gismu	jilr;jilra
 jimca	$x_{1}$ es una rama de planta/especie $x_{2}$		gismu	jic;jimc;jimca
 jimpe	$x_{1}$ entiende/comprende que $x_{2}$ (du'u) es cierto acerca de $x_{3}$		gismu	jmi;jimp;jimpe
-jimte	$x_{1}$ es un límite/extremo/borde/frontera de $x_{2}$ en propiedad/dominio $x_{3}$	Ver también {traji},  {korbi}.	gismu	jit;jimt;jimte				ji'e,se ji'e,te ji'e
+jimte	$x_{1}$ es un límite/extremo/borde/frontera de $x_{2}$ en propiedad/dominio $x_{3}$	Ver también {traji},  {korbi}.	gismu	jit;jimt;jimte				ji'e;se ji'e;te ji'e
 jinci	$x_{1}$ es una tijera/tijeras para cortar $x_{2}$		gismu	jinc;jinci
 jinga	$x_{1}$ gana premio $x_{2}$ entre competidores $x_{3}$ en competición $x_{4}$	Ver también {cnemu},  {prali},  {pleji}.	gismu	jig;ji'a;jing;jinga
 je'o	cambia letras a alfabeto hebreo		cmavo		cambio a hebreo	BY1
@@ -1064,7 +1064,7 @@ jipno	$x_{1}$ es una punta/vértice de objeto $x_{2}$ en parte $x_{3}$		gismu	ji
 jirna	$x_{1}$ es un cuerno (parte del cuerpo) de $x_{2}$		gismu	jirn;jirna
 jisra	$x_{1}$ es una cantidad de jugo/zumo/licuado de $x_{2}$		gismu	jisr;jisra
 jitfa	$x_{1}$ es falso según estándar/epistemología $x_{2}$	Ver también {jetnu}.	gismu	jif;jitf;jitfa
-jitro	$x_{1}$ controla/maneja/dirige/conduce a $x_{2}$ en actividad $x_{3}$		gismu	tro;jitr;jitro	controlar			ji'o,se ji'o,te ji'o
+jitro	$x_{1}$ controla/maneja/dirige/conduce a $x_{2}$ en actividad $x_{3}$		gismu	tro;jitr;jitro	controlar			ji'o;se ji'o;te ji'o
 jivbu	$x_{1}$ teje/trenza/entrelaza/entreteje $x_{2}$ con material $x_{3}$	Ver también {nivji}.	gismu	jivb;jivbu
 jivna	$x_{1}$ compite/contiende contra oponente/rival $x_{2}$ en concurso/competición/contienda $x_{3}$ para ganar $x_{4}$		gismu	jvi;jivn;jivna
 jmaji	$x_{1}$ se junta/amontona/amasa/reúne en localidad $x_{2}$ desde localidades $x_{3}$	Ver también {preja},  {crepu}.	gismu	jaj;jmaj;jmaji
@@ -1154,7 +1154,7 @@ mamta	$x_{1}$ es madre de $x_{2}$	(no necesariamente biológica) Ver tambiÃ©n 
 manci	$x_{1}$ siente maravilla/admiración hacia $x_{2}$	Ver también {kucli},  {spaji}.	gismu	mac;manc;manci	maravillarse
 manfo	$x_{1}$ es uniforme/homogéneo en propiedad $x_{2}$	Ver también {vrici},  {curve},  {ranji},  {vitno},  {stodi}.	gismu	manf;manfo	uniforme
 manku	$x_{1}$ es oscuro/falto de iluminación	Ver también {gusni},  {ctino}.	gismu	man;mank;manku	oscuro
-manri	$x_{1}$ es un marco de referencia/estándar para observar/medir/determinar $x_{2}$, con reglas $x_{3}$		gismu	mar;manr;manri	referencia			ma'i,se ma'i,te ma'i
+manri	$x_{1}$ es un marco de referencia/estándar para observar/medir/determinar $x_{2}$, con reglas $x_{3}$		gismu	mar;manr;manri	referencia			ma'i;se ma'i;te ma'i
 mansa	$x_{1}$ satisface a $x_{2}$ en propiedad $x_{3}$		gismu	mans;mansa	satisfacer
 manti	$x_{1}$ es una hormiga de especie/raza $x_{2}$		gismu	mant;manti	hormiga
 mapku	$x_{1}$ es un sombrero/gorra/corona (prenda de vestir) de material $x_{2}$		gismu	map;mapk;mapku	sombrero
@@ -1164,7 +1164,7 @@ marbi	$x_{1}$ ampara/alberga/protege/es un albergue/santuario/puerto/protección
 marce	$x_{1}$ es un vehículo/medio de transporte para llevar pasajeros/carga $x_{2}$ por superficie/medio $x_{3}$, propelido por $x_{4}$		gismu	ma'e;marc;marce	vehículo
 marde	$x_{1}$ es una ética/moral/estándar de conducta de $x_{2}$ para situación $x_{3}$		gismu	mad;mard;marde	moral
 margu	$x_{1}$ es una cantidad de mercurio (Hg)		gismu	mag;marg;margu	mercurio
-marji	$x_{1}$ es material/materia de tipo/composición $x_{2}$ en forma $x_{3}$	Ver también {nejni},  {tarmi}.	gismu	maj;mai;marj;marji	material			ma'e,se ma'e,te ma'e
+marji	$x_{1}$ es material/materia de tipo/composición $x_{2}$ en forma $x_{3}$	Ver también {nejni},  {tarmi}.	gismu	maj;mai;marj;marji	material			ma'e;se ma'e;te ma'e
 marna	$x_{1}$ es una cantidad de marihuana/jute/cáñamo de especie/variedad $x_{2}$		gismu	marn;marna	marihuana
 marxa	$x_{1}$ aplasta/apisona/pisa $x_{2}$ haciéndolo pulpa/puré/migas/masa informe $x_{3}$	Ver también {zalvi}.	gismu	max;marx;marxa	aplastar
 masno	$x_{1}$ es lento al hacer/realizar despacio $x_{2}$ (evento)	Ver también {sutra}.	gismu	sno;masn;masno	lento
@@ -1210,8 +1210,8 @@ li	el número/expresión evaluada; convierte número/operando/expresión evaluad
 li'a	discursivo: \n{li'a} - claramente\n{li'anai} - oscuramente	Ver también {klina}.	cmavo		claramente	UI3
 li'a nai	discursivo: \n{li'a } - claramente\n{li'a nai} - oscuramente		cmavo-compound		oscuramente	UI*3
 libjo	$x_{1}$ refleja cultura/nacionalidad/idioma libio en aspecto $x_{2}$		gismu	lib;libj;libjo
-lidne	$x_{1}$ precede/antecede a $x_{2}$ en secuencia $x_{3}$	Ver también {jersi},  {purci}.	gismu	li'e;lidn;lidne				li'e,se li'e,te li'e
-lifri	$x_{1}$ experimenta/sufre/padece experiencia $x_{2}$		gismu	lif;fri;lifr;lifri				ri'i,se ri'i
+lidne	$x_{1}$ precede/antecede a $x_{2}$ en secuencia $x_{3}$	Ver también {jersi},  {purci}.	gismu	li'e;lidn;lidne				li'e;se li'e;te li'e
+lifri	$x_{1}$ experimenta/sufre/padece experiencia $x_{2}$		gismu	lif;fri;lifr;lifri				ri'i;se ri'i
 linji	$x_{1}$ es una línea/raya definida por conjunto de puntos $x_{2}$		gismu	lij;li'i;linj;linji	línea
 liste	$x_{1}$ es una lista/catálogo/registro de conjunto $x_{2}$ en orden $x_{3}$ grabada/registrada en medio $x_{4}$		gismu	ste;list;liste
 litce	$x_{1}$ tiene un volumen de $x_{2}$ litros (1 por defecto) según estándar $x_{3}$		gismu	lic;litc;litce
@@ -1236,7 +1236,7 @@ makcu	$x_{1}$ es/está maduro/desarrollado/adulto en cualidad $x_{2}$		gismu	ma'
 mixre	$x_{1}$ es una mezcla/mixtura/coloide con ingredientes $x_{2}$	Ver también te {runta}.	gismu	mix;xre;mixr;mixre	mezcla
 mlana	$x_{1}$ es un lado/lateral de $x_{2}$ hacia dirección $x_{3}$ en marco de referencia $x_{4}$		gismu	mla;mlan;mlana	lado
 mlatu	$x_{1}$ es un gato/felino de especie/raza $x_{2}$	Ver también {cinfo},  {tirxu}.	gismu	lat;mlat;mlatu	gato
-mleca	$x_{1}$ es menos/menor que $x_{2}$ en propiedad $x_{3}$ por cantidad $x_{4}$	Ver también {zmadu},  {jdika}.	gismu	mec;me'a;mlec;mleca	menos			me'a,se me'a,te me'a,ve me'a,se me'a nai
+mleca	$x_{1}$ es menos/menor que $x_{2}$ en propiedad $x_{3}$ por cantidad $x_{4}$	Ver también {zmadu},  {jdika}.	gismu	mec;me'a;mlec;mleca	menos			me'a;se me'a;te me'a;ve me'a;se me'a nai
 mledi	$x_{1}$ es un hongo/trufa/seta de especie/variedad $x_{2}$ que crece/parásito sobre $x_{3}$		gismu	led;mled;mledi	hongo
 mluni	$x_{1}$ es un satélite/luna en órbita alrededor de $x_{2}$ con características $x_{3}$, parámetros de órbita $x_{4}$	Ver también {lunra}.	gismu	lun;mlun;mluni	satélite
 morji	$x_{1}$ recuerda hechos/memorias $x_{2}$ (du'u) acerca de $x_{3}$		gismu	moj;mo'i;morj;morji	recordar
@@ -1249,10 +1249,10 @@ mrilu	$x_{1}$ envía/manda/transfiere $x_{2}$ a $x_{3}$ desde $x_{4}$ por correo
 mruli	$x_{1}$ es un martillo para martillar $x_{2}$ con peso/cabeza $x_{3}$ propelido por $x_{4}$		gismu	mru;mrul;mruli	martillo
 mucti	$x_{1}$ es etéreo/inmaterial/no físico/sin forma material	Ver también {dacti}.	gismu	mut;muct;mucti	etéreo
 mudri	$x_{1}$ es una cantidad de madera/leña de árbol de tipo/especie $x_{2}$		gismu	mud;mudr;mudri	madera
-mukti	$x_{1}$ (evento) motiva/es un motivo/incentivo para acción/evento $x_{2}$, motiva a $x_{3}$	Ver también te {zukte},  se {jalge},  {krinu},  {rinka}.	gismu	muk;mu'i;mukt;mukti	motivo			mu'i,se mu'i,te mu'i,se mu'i nai
+mukti	$x_{1}$ (evento) motiva/es un motivo/incentivo para acción/evento $x_{2}$, motiva a $x_{3}$	Ver también te {zukte},  se {jalge},  {krinu},  {rinka}.	gismu	muk;mu'i;mukt;mukti	motivo			mu'i;se mu'i;te mu'i;se mu'i nai
 mulno	$x_{1}$ esta completo/hecho/terminado en propiedad $x_{2}$ según estándar $x_{3}$		gismu	mul;mu'o;muln;mulno	completo
 munje	$x_{1}$ es un universo/cosmos/orden de dominio/esfera $x_{2}$ gobernado por reglas $x_{3}$		gismu	muj;mu'e;munj;munje	universo
-mupli	$x_{1}$ es un ejemplo/muestra/espécimen/instancia/caso/ilustración de propiedad común $x_{2}$ en conjunto $x_{3}$		gismu	mup;mupl;mupli	ejemplo			mu'u,se mu'u,te mu'u
+mupli	$x_{1}$ es un ejemplo/muestra/espécimen/instancia/caso/ilustración de propiedad común $x_{2}$ en conjunto $x_{3}$		gismu	mup;mupl;mupli	ejemplo			mu'u;se mu'u;te mu'u
 murse	$x_{1}$ es el crepúsculo/madrugada/amanecer/atardecer/medialuz de día $x_{2}$ en localidad $x_{3}$	Ver también {donri},  {nicte}.	gismu	murs;murse	crepúsculo
 murta	$x_{1}$ es una cortina/persiana para cubrir/tapar/oscurecer apertura $x_{2}$, de material $x_{3}$		gismu	mur;mu'a;murt;murta	cortina
 muslo	$x_{1}$ refleja cultura/religión islámica/musulmana en aspecto $x_{2}$		gismu	mus;musl;muslo	islámico
@@ -1261,7 +1261,7 @@ muvdu	$x_{1}$ se mueve hacia $x_{2}$ desde $x_{3}$ por camino/ruta $x_{4}$	Ver t
 muzga	$x_{1}$ es un museo para conservar/exhibir $x_{2}$ en localidad $x_{3}$		gismu	muz;muzg;muzga	museo
 nelci	$x_{1}$ disfruta/gusta de $x_{2}$ (objeto/estado)		gismu	nel;nei;nelc;nelci	disfrutar
 nenri	$x_{1}$ está adentro/interior/contenido/dentro de $x_{2}$	Ver también se {vasru},  {zvati},  {cpana},  {sruri},  {senta},  {snuji},  {bartu},  {diklo},  {jibni},  {jinru},  {setca}.	gismu	ner;ne'i;nenr;nenri	adentro
-nibli	$x_{1}$ implica $x_{2}$ según reglas/logica $x_{3}$	Ver también {natfe},  {rinka},  {mukti},  {krinu}.	gismu	nib;ni'i;nibl;nibli	implicar			ni'i,se ni'i,te ni'i,se ni'i nai
+nibli	$x_{1}$ implica $x_{2}$ según reglas/logica $x_{3}$	Ver también {natfe},  {rinka},  {mukti},  {krinu}.	gismu	nib;ni'i;nibl;nibli	implicar			ni'i;se ni'i;te ni'i;se ni'i nai
 nicte	$x_{1}$ es una noche de día $x_{2}$ en localidad $x_{3}$	Ver también {donri},  {murse}.	gismu	cte;nict;nicte	noche
 nikle	$x_{1}$ es una cantidad de níquel (Ni)		gismu	nik;nikl;nikle	níquel
 nilce	$x_{1}$ es un mueble de $x_{2}$ (localidad) con propósito/función $x_{3}$		gismu	ni'e;nilc;nilce	mueble
@@ -1297,14 +1297,14 @@ plise	$x_{1}$ es una manzana (fruta) de especie/variedad $x_{2}$		gismu	plis;pli
 plita	$x_{1}$ es plano/chato (forma bidimensional) definido por puntos $x_{2}$	Ver también {xutla},  {plita}.	gismu	pit;plit;plita	plano
 plixa	$x_{1}$ ara/labra/remueve $x_{2}$ con herramienta/arado $x_{3}$ propelido/impulsado por $x_{4}$	Ver también {kakpa},  {sraku}.	gismu	lix;plix;plixa	arar
 pluja	$x_{1}$ es complejo/complicado/intrincado en propiedad/aspecto $x_{2}$ según estándar $x_{3}$	Ver también {sampu},  {cfipu}.	gismu	luj;pluj;pluja	complejo
-pluka	$x_{1}$ (evento) agrada/place/gusta a $x_{2}$		gismu	puk;pu'a;pluk;pluka	agradar			pu'a,se pu'a,te pu'a
+pluka	$x_{1}$ (evento) agrada/place/gusta a $x_{2}$		gismu	puk;pu'a;pluk;pluka	agradar			pu'a;se pu'a;te pu'a
 pluta	$x_{1}$ es una ruta/camino/senda hacia $x_{2}$ desde $x_{3}$ vía puntos $x_{4}$	Ver también {dargu},  {klaji},  ve {klama}.	gismu	lut;lu'a;plut;pluta	ruta
 polje	$x_{1}$ dobla/pliega a $x_{2}$ con doblez/pliego $x_{3}$	Ver también {korcu},  {cinje}.	gismu	plo;polj;polje	doblar
 polno	$x_{1}$ refleja cultura/nacionalidad/idioma polinesio en aspecto $x_{2}$		gismu	pol;poln;polno	polinesio
 ponjo	$x_{1}$ refleja cultura/nacionalidad/idioma japonés en aspecto $x_{2}$		gismu	pon;po'o;ponj;ponjo	japonés
 ponse	$x_{1}$ posee/tiene/es dueño de $x_{2}$ según ley/costumbre $x_{3}$		gismu	pos;po'e;pons;ponse	tener
 porpi	$x_{1}$ se rompe/fractura/deshace en pedazos $x_{2}$	Ver también {spoja},  {spofu}.	gismu	pop;po'i;porp;porpi	romperse
-porsi	$x_{1}$ es una secuencia ordenada segun reglas $x_{2}$ aplicadas al conjunto $x_{3}$	Ver también {lidne}.	gismu	por;poi;pors;porsi	secuencia			po'i,se po'i,te po'i
+porsi	$x_{1}$ es una secuencia ordenada segun reglas $x_{2}$ aplicadas al conjunto $x_{3}$	Ver también {lidne}.	gismu	por;poi;pors;porsi	secuencia			po'i;se po'i;te po'i
 porto	$x_{1}$ refleja cultura/nacionalidad/idioma portugués en aspecto $x_{2}$	Ver también {brazo}.	gismu	pot;port;porto	portugués
 prali	$x_{1}$ es una ganancia/beneficio/ventaja para $x_{2}$ como resultado de actividad/proceso $x_{3}$	Ver también {cnemu}.	gismu	pal;pral;prali	ganancia
 prami	$x_{1}$ ama/quiere a $x_{2}$	Ver también {xebni},  {nelci},  {djica},  {sinma}.	gismu	pam;pa'i;pram;prami	amar
@@ -1316,7 +1316,7 @@ prije	$x_{1}$ es sabio sobre asunto $x_{2}$ (abstracción) según observador $x_
 prina	$x_{1}$ es una impresión/estampado/tatuaje/imagen/huella sobre $x_{2}$ con prensa/impresora/instrumento $x_{3}$	Ver también {guska},  {ciska}.	gismu	pri;prin;prina	impresión
 pritu	$x_{1}$ está a la derecha/diestra de $x_{2}$ que mira hacia $x_{3}$	Ver también {zunle}.	gismu	prit;pritu	derecha
 prosa	$x_{1}$ es un escrito/prosa sobre tema $x_{2}$ por autor $x_{3}$ para audiencia $x_{4}$	Ver también {pemci}.	gismu	ros;ro'a;pros;prosa	prosa
-pruce	$x_{1}$ es un proceso con entrada $x_{2}$ salida/resultado $x_{3}$ con etapas intermedias $x_{4}$	Ver también {farvi},  {tadji}.	gismu	ruc;ru'e;pruc;pruce	proceso			pu'e,se pu'e,te pu'e,ve pu'e
+pruce	$x_{1}$ es un proceso con entrada $x_{2}$ salida/resultado $x_{3}$ con etapas intermedias $x_{4}$	Ver también {farvi},  {tadji}.	gismu	ruc;ru'e;pruc;pruce	proceso			pu'e;se pu'e;te pu'e;ve pu'e
 pruni	$x_{1}$ es elástico/resorte/muelle	Ver también {tcena}.	gismu	pun;prun;pruni	elástico
 pruxi	$x_{1}$ es un espíritu/alma/fantasma/espiritual		gismu	rux;ru'i;prux;pruxi	espíritu
 ransu	$x_{1}$ es una cantidad de bronce de composición $x_{2}$	Ver también {lastu}.	gismu	rans;ransu	bronce
@@ -1566,7 +1566,7 @@ palne	$x_{1}$ es una bandeja para contenido $x_{2}$, de material $x_{3}$	Ver tam
 pambe	$x_{1}$ es una bomba para bombear fluido/gas $x_{2}$ hacia $x_{3}$ desde $x_{4}$ con motor $x_{5}$	Ver también {fepri},  {risna}.	gismu	pamb;pambe	bomba
 pa'e	discursivo: \n{pa'e} - justicia\n{pa'enai} - prejuicio	Ver también {tcinydracu'a},  {tcinydrapai},  {vudypai}.	cmavo		justicia	UI3
 pa'e nai	discursivo: \n{pa'e } - justicia\n{pa'e nai} - prejuicio		cmavo-compound		prejuicio	UI*3
-pagbu	$x_{1}$ es una parte/componente/pieza de $x_{2}$	Ver también {spisa}.	gismu	pag;pau;pagb;pagbu	parte			pa'u,se pa'u
+pagbu	$x_{1}$ es una parte/componente/pieza de $x_{2}$	Ver también {spisa}.	gismu	pag;pau;pagb;pagbu	parte			pa'u;se pa'u
 pagre	$x_{1}$ atraviesa/penetra/traspasa barrera/medio/portal $x_{2}$ a lado $x_{3}$ de lado $x_{4}$		gismu	gre;pagr;pagre	atravesar
 pajni	$x_{1}$ juzga/arbitra/es juez/árbitro en asunto $x_{2}$		gismu	pai;pajn;pajni	juzgar
 palku	$x_{1}$ es un pantalón (prenda de vestir) de material $x_{2}$		gismu	pak;palk;palku	pantalón
@@ -1591,7 +1591,7 @@ pa no mei	selbri cuantificado: convierte 10 en selbri cardinal; $x_{1}$ es una d
 pa no moi	selbri cuantificado: convierte 10 en selbri ordinal; $x_{1}$ es décimo entre $x_{2}$ ordenado según regla $x_{3}$		cmavo-compound		es décimo entre	MOI*
 pa no no	número/cantidad: 100 (cien)		cmavo-compound		100	PA*
 pa no no mei	selbri cuantificado: convierte 100 en selbri cardinal; $x_{1}$ es un centenar de $x_{2}$		cmavo-compound		es un centenar	MOI*
-panra	$x_{1}$ es paralelo a $x_{2}$ en propiedad común $x_{3}$ según estándar/geometría $x_{4}$	Ver también {simsa}.	gismu	panr;panra	paralelo			pa'a,se pa'a,te pa'a,ve pa'a
+panra	$x_{1}$ es paralelo a $x_{2}$ en propiedad común $x_{3}$ según estándar/geometría $x_{4}$	Ver también {simsa}.	gismu	panr;panra	paralelo			pa'a;se pa'a;te pa'a;ve pa'a
 panzi	$x_{1}$ es una cría/cachorro/pichón/hijo/progenie (biológico) de progenitor $x_{2}$	Ver también {bersa},  {tixnu},  se {rorci}.	gismu	paz;panz;panzi	cría
 pa'o	locación/dirección; a través de		cmavo		a través de	FAhA3
 pa pa	número/cantidad: 11 (once)		cmavo-compound		11	PA*
@@ -1643,7 +1643,7 @@ pikci	$x_{1}$ ruega/suplica/implora/reza/pide a $x_{2}$, $x_{3}$	Ver también {c
 pikta	$x_{1}$ es un boleto/billete/tiquet/entrada/localidad/talón/cupón que permite a $x_{2}$ privilegio $x_{3}$ bajo condiciones $x_{4}$		gismu	pikt;pikta	boleto
 pilji	$x_{1}$ es el producto/resultado de multiplicar $x_{2}$ por $x_{3}$	Ver también {dilcu}.	gismu	pi'i;pilj;pilji	producto
 pilka	$x_{1}$ es una cáscara/corteza/piel de $x_{2}$	Ver también {calku},  {skapi}.	gismu	pil;pi'a;pilk;pilka	cáscara
-pilno	$x_{1}$ usa/emplea/utiliza herramienta/aparato/instrumento $x_{2}$ con propósito $x_{3}$		gismu	pli;piln;pilno	usar			pi'o,se pi'o,te pi'o
+pilno	$x_{1}$ usa/emplea/utiliza herramienta/aparato/instrumento $x_{2}$ con propósito $x_{3}$		gismu	pli;piln;pilno	usar			pi'o;se pi'o;te pi'o
 pimlu	$x_{1}$ es una pluma (parte del cuerpo) de animal/especie $x_{2}$		gismu	pim;pi'u;piml;pimlu	pluma
 pi mo'a	número: demasiado poco de		cmavo-compound		demasiado poco de	PA*
 pi mu cu'o	selbri cuantificado: convierte .5 en selbri de probabilidad; evento $x_{1}$ tiene una probabilidad del 50% bajo co	ndiciones $x_2$	cmavo-compound		has even odds	MOI*
@@ -1769,7 +1769,7 @@ rilti	$x_{1}$ es un ritmo/beat de música/forma expresiva $x_{2}$	Ver también {
 rimni	$x_{1}$ rima/alitera con $x_{2}$ en idioma/fonética $x_{3}$, con sonido correspondiente $x_{4}$		gismu	rim;rimn;rimni	rimar
 rinci	$x_{1}$ se escurre/desagota/drena desde $x_{2}$ por escurridero $x_{3}$ debido a fuerza $x_{4}$	Ver también {setca},  {flecu},  {muvdu}.	gismu	rinc;rinci	escurrirse
 rinju	$x_{1}$ es restricto/constreñido/sujetado/refrenado por $x_{2}$ contra $x_{3}$	Ver también {ralte},  {pinfu}.	gismu	ri'u;rinj;rinju	restringido
-rinka	$x_{1}$ (evento) causa físicamente efecto $x_{2}$ bajo condiciones $x_{3}$	Ver también {mukti},  {gasnu},  {krinu},  {nibli},  te {zukte},  se {jalge},  {bapli}.	gismu	rik;ri'a;rink;rinka	causar			ri'a,se ri'a,te ri'a,se ri'a nai
+rinka	$x_{1}$ (evento) causa físicamente efecto $x_{2}$ bajo condiciones $x_{3}$	Ver también {mukti},  {gasnu},  {krinu},  {nibli},  te {zukte},  se {jalge},  {bapli}.	gismu	rik;ri'a;rink;rinka	causar			ri'a;se ri'a;te ri'a;se ri'a nai
 rinsa	$x_{1}$ saluda/recibe/da la bienvenida a $x_{2}$ con acción $x_{3}$		gismu	rins;rinsa	saludar
 rirci	$x_{1}$ es raro/inusual/poco común/atípico/extraño en propiedad $x_{2}$ entre miembros de $x_{3}$	Ver también {fadni},  {cafne},  {cizra}.	gismu	rirc;rirci	raro
 rirni	$x_{1}$ cría/es un padre/mentor de menor/protegido $x_{2}$	Ver también {rorci},  {mamta},  {patfu},  {sidju},  {dzena},  {famti}.	gismu	rir;rirn;rirni	criar
@@ -1845,7 +1845,7 @@ sanli	$x_{1}$ está de pie/se erige/yergue vertical sobre superficie $x_{2}$ sos
 sanmi	$x_{1}$ es una comida/desayuno/almuerzo/merienda/cena con platos $x_{2}$		gismu	sai;sanm;sanmi	comida
 sanso	$x_{1}$ es una salsa para usar con $x_{2}$ con ingredientes $x_{3}$		gismu	sans;sanso	salsa
 santa	$x_{1}$ es un paraguas/sombrilla/parasol/escudo que protege a $x_{2}$ de $x_{3}$, hecho de material $x_{4}$, sostenido por $x_{5}$		gismu	sant;santa	paraguas
-sarcu	$x_{1}$ (evento) es necesario/requerido para que ocurra $x_{2}$ bajo condiciones $x_{3}$	Ver también {banzu},  {nitcu}.	gismu	sa'u;sarc;sarcu	necesario			sau,se sau,te sau
+sarcu	$x_{1}$ (evento) es necesario/requerido para que ocurra $x_{2}$ bajo condiciones $x_{3}$	Ver también {banzu},  {nitcu}.	gismu	sa'u;sarc;sarcu	necesario			sau;se sau;te sau
 sarji	$x_{1}$ sostiene/apoya/soporta/mantiene/sustenta a $x_{2}$ contra fuerza/oposición $x_{3}$ con/por medio de $x_{4}$		gismu	sra;sarj;sarji	sostener
 sarlu	$x_{1}$ es un espiral/hélice (forma) con límites $x_{2}$, de dimensión $x_{3}$		gismu	sarl;sarlu	espiral
 sarxe	$x_{1}$ es armonioso/entona/acuerda con $x_{2}$ en propiedad $x_{3}$	Ver también {mapti}.	gismu	sax;sarx;sarxe	armonioso
@@ -1966,7 +1966,7 @@ sfubu	$x_{1}$ se zambulle/sumerge hacia $x_{2}$ desde $x_{3}$	Ver también {farl
 siclu	$x_{1}$ silba/hace sonido sibilante $x_{2}$		gismu	sil;sicl;siclu	silbar
 sicni	$x_{1}$ es una moneda/ficha/cospel/token emitida por $x_{2}$ con valor $x_{3}$		gismu	si'i;sicn;sicni	moneda
 sidbo	$x_{1}$ es una idea/concepto/pensamiento sobre $x_{2}$ por pensador $x_{3}$		gismu	sib;si'o;sidb;sidbo	idea
-sidju	$x_{1}$ ayuda/asiste a $x_{2}$ para hacer/lograr/mantener evento/actividad $x_{3}$		gismu	dju;sidj;sidju	ayudar			si'u,se si'u,te si'u
+sidju	$x_{1}$ ayuda/asiste a $x_{2}$ para hacer/lograr/mantener evento/actividad $x_{3}$		gismu	dju;sidj;sidju	ayudar			si'u;se si'u;te si'u
 sigja	$x_{1}$ es un cigarro de origen $x_{2}$		gismu	sig;sigj;sigja	cigarro
 silka	$x_{1}$ es una cantidad de seda producida por $x_{2}$		gismu	sik;silk;silka	seda
 silna	$x_{1}$ es una cantidad de sal de origen $x_{2}$ de composición $x_{3}$		gismu	siln;silna	sal

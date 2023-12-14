@@ -144,7 +144,7 @@ cando	$x_1$ zukte no vajni .i $x_1$ to'e ke zukcfu be da	srana fa zo {zukcfu}	gi
 cange	$x_1$ tumla $x_2$ gi'e se kurji $x_3$ gi'e cupra $x_4$	{tumla} .i {kurji} .i {cupra}	gismu			cag;cang;cange
 canja	joi gi $x_1$ cpacu $x_3$ boi $x_4$ gi $x_4$ cpacu $x_2$ boi $x_1$		gismu			caj;canj;canja
 canko	$x_1$ kevna lo sefta be $x_2$ noi mu'a bitmu gi'a dinju gi'a stura	{kevna}; {sefta}; {vorme}; {kalri}; {ganlo}; {bitmu}; {dinju}; {stura}	gismu			ca'o;cank;canko
-canlu	$x_1$ mucti gi'e se zvati je vasru je culno $x_2$	{mucti}; {zvati}; {vasru}; {culno}	gismu			cal;ca'u;canl;canlu	ve'a,vi'u
+canlu	$x_1$ mucti gi'e se zvati je vasru je culno $x_2$	{mucti}; {zvati}; {vasru}; {culno}	gismu			cal;ca'u;canl;canlu	ve'a;vi'u
 canpa	$x_1$ tutci lo ka ve kakpa $x_2$	{tutci}; {kakpa}; {guska}	gismu			cna;canp;canpa
 canre	$x_1$ cmalu bidju be lo rokci be $x_2$	{cmalu}; {bidju}; {rokci}	gismu			can;canr;canre
 carmi	$x_1$ mutce $x_2$ fi'o ganse $x_3$ .i $x_1$ to'e kandi $x_2$ $x_3$	{mutce}; {ganse}; {kandi}	gismu			cam;cai;carm;carmi
@@ -1620,7 +1620,7 @@ i je	logji jonma'o .i te jorne le li'erla'i jufra le se li'erla'i jufra ja'e lo 
 i je'i	preti le du'u makau logji te jorne le li'erla'i jufra le se li'erla'i jufra	{jufra} {logji} {jonma'o} {preti}	cmavo-compound	JA*	ije'i
 i jo	logji jonma'o .i te jorne le li'erla'i jufra le se li'erla'i jufra ja'e lo rolnonvlina	{logji} {jonma'o}; {jufra} {rolnonvlina}	cmavo-compound	JA*	ijo
 i ju	logji jonma'o .i te jorne le li'erla'i jufra le se li'erla'i jufra ja'e lo juvykanxe	{logji} {jonma'o}; {jufra} {juvykanxe}	cmavo-compound	JA*	iju
-jalge	$x_1$ se rinka ja te pruce ja se cupra ja jersi $x_2$	{rinka}; {pruce}; {cupra}; {jersi}	gismu			jag;ja'e;jalg;jalge	ja'e,ja'e nai
+jalge	$x_1$ se rinka ja te pruce ja se cupra ja jersi $x_2$	{rinka}; {pruce}; {cupra}; {jersi}	gismu			jag;ja'e;jalg;jalge	ja'e;ja'e nai
 jamfu	$x_1$ pagbu lo xadni be $x_2$ gi'e fanmo lo tuple	{pagbu}; {xadni}; {fanmo}; {tuple}; {xance}	gismu			jaf;jma;jamf;jamfu
 jamna	$x_1$ cu ze'a fapro je damba $x_2$ $x_3$ .i $x_1$ to'e panpi $x_2$ ji'u $x_3$	{fapro}; {damba}; {panpi}; {bradi}; {jivna}; {jenmi}	gismu			jam;jamn;jamna
 janco	$x_1$ pagbu $x_2$ gi'e te jorne lo jimca lo ralju pagbu be lo xadni	{pagbu}; {jorne}; {jimca}; {ralju}; {xadni}; {birjanco}; {tupyjanco}	gismu			jan;janc;janco
@@ -1768,12 +1768,12 @@ konju	$x_1$ se sefta lo gunma be lo linji be lo mokca jo'u lo plita kruli'i poi 
 korbi	$x_1$ pagbu je fanmo $x_2$ gi'e jimte $x_2$ lo ka kuspe kei gi'e te sepli $x_2$ $x_3$	{pagbu}; {fanmo}; {jimte}; {kuspe}; {sepli}	gismu			kor;koi;korb;korbi	koi
 korcu	$x_1$ na'e sirji	{sirji}	gismu			kro;korc;korcu
 kosta	$x_1$ taxfu fi lo ka gacri ja bartu lo drata taxfu kei gi'e marji $x_2$	{taxfu} .i {gacri} .i {bartu} .i {marji}	gismu			kos;kost;kosta
-krasi	$x_1$ pagbu ja te farvi $x_2$ gi'e purci ja se jersi ja lidne ro drata pagbu be $x_2$ .i $x_1$ to'e fanmo $x_2$	{pagbu}; {farvi}; {purci}; {jersi}; {lidne}; {drata}; {fanmo}; {cfari}; {mulno}; {traji}	gismu			kra;kras;krasi	co'a,ra'i
+krasi	$x_1$ pagbu ja te farvi $x_2$ gi'e purci ja se jersi ja lidne ro drata pagbu be $x_2$ .i $x_1$ to'e fanmo $x_2$	{pagbu}; {farvi}; {purci}; {jersi}; {lidne}; {drata}; {fanmo}; {cfari}; {mulno}; {traji}	gismu			kra;kras;krasi	co'a;ra'i
 krati	$x_1$ ckaji ja zukte $x_3$ noi nu'o se ckaji ja se zukte $x_2$	{ckaji}; {zukte}; {basti}; {jansu}; {vipsi}	gismu			ka'i;krat;krati	ka'i
 krefu	$x_3$ kaidza lo ka ce'u nundumu $x_2$ gi'e fasnu gi'e purci $x_1$ noi nundumu $x_2$ gi'e fasnu .i va'i $x_1$ momkai $x_3$ lo ro nundumu be $x_2$ lo ka ce'u ce'u se tcika	srana fa zo {rapli}	gismu			ref;ke'u;kref;krefu
 krici	$x_1$ pensi lo du'u $x_2$ noi srana $x_3$ cu jetnu kei gi'e na pensi lo du'u $x_2$ ka'e na jetnu	{pensi}; {srana}; {jetnu}; {jinvi}; {birti}; {djuno}; {senpi}; {lijda}	gismu			kri;kric;krici
 krili	$x_1$ sligu dacti gi'e se sefta lo plita gi'e marji $x_2$ noi se stura $x_3$	{sligu}; {dacti}; {sefta}; {plita}; {marji}; {stura}	gismu			kril;krili
-krinu	$x_1$ jicmu ja velcki lo du'u $x_2$ jalge ma kau	{jicmu}; {velcki}; {jalge}; {rinka}; {nibli}; {mukti}; {zukte}; {bapli}	gismu			rin;ki'u;krin;krinu	ki'u,ki'u nai
+krinu	$x_1$ jicmu ja velcki lo du'u $x_2$ jalge ma kau	{jicmu}; {velcki}; {jalge}; {rinka}; {nibli}; {mukti}; {zukte}; {bapli}	gismu			rin;ki'u;krin;krinu	ki'u;ki'u nai
 krixa	$x_1$ bacru $x_2$ noi cladu	{cladu}; {bacru}	gismu			kix;ki'a;krix;krixa
 kruji	$x_1$ xutla pesxu ja ke ranti sligu ja ke jdari litki $x_2$	{xutla} .i {pesxu} .i {ranti} .i {sligu} .i {jdari} .i {litki} .i {marji}	gismu			ruj;kruj;kruji
 kubli	$x_1$ se sefta xa kurfa noi ro ke'a cu sraji ro lamji sefta	{sefta}; {kurfa}; {sraji}; {lamji}	gismu			kub;kubl;kubli

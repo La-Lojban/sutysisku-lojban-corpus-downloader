@@ -77,7 +77,7 @@ so no no	número/cantidad: 900 (novecientos)	cmavo-compound	PA*	900
 sorcu	$x_{1}$ es un depósito/acumulación/reserva/surtido de materiales $x_{2}$ en contenedor $x_{3}$	gismu		depósito	soc;sro;sorc;sorcu
 spita	$x_{1}$ es un hospital en localidad $x_{2}$ para pacientes $x_{3}$ con mal/condición $x_{4}$	gismu		hospital	spit;spita
 sputu	$x_{1}$ escupe/esputa $x_{2}$ desde $x_{3}$ hacia $x_{4}$	gismu		escupir	put;pu'u;sput;sputu	Ver también {pinxe},  {jetce},  {kafke},  {vamtu}.
-srana	$x_{1}$ concierne/es relevante a $x_{2}$	gismu		concernir	ra'a;sran;srana	Ver también {ckini},  {steci}.		ra'a,se ra'a
+srana	$x_{1}$ concierne/es relevante a $x_{2}$	gismu		concernir	ra'a;sran;srana	Ver también {ckini},  {steci}.		ra'a;se ra'a
 sruma	$x_{1}$ supone/asume que $x_{2}$ (du'u) es cierto acerca de $x_{3}$	gismu		suponer	ru'a;srum;sruma
 so'o	dígito/número: varios	cmavo	PA4	varios	sos
 sorgugje'a	$j_1$ es un imperio compuesto de $g_1$ provincias con $j_2$=$g_3$ territorios	lujvo		imperio		Hecho con {so'i}, {gugde}, {jecta}	so'i,gugde,jecta
@@ -101,13 +101,13 @@ stedu	$x_{1}$ es una cabeza (parte del cuerpo) de $x_{2}$	gismu		cabeza	sed;sted
 stela	$x_{1}$ es una cerradura/candado/sello/cerrojo en $x_{2}$ con mecanismo $x_{3}$	gismu		cerradura	tel;stel;stela
 stero	$x_{1}$ es un ángulo sólido de $x_{2}$ estereorradianes (1 por defecto) según estándar $x_{3}$	gismu		estereorradián	te'o;ster;stero
 stici	$x_{1}$ está al oeste/occidental/poniente de $x_{2}$ según marco de referencia $x_{3}$	gismu		oeste	sic;stic;stici	Ver también {stuna},  {berti},  {snanu}.
-stidi	$x_{1}$ sugiere/propone/indica $x_{2}$ ante audiencia $x_{3}$	gismu		sugerir	sid;ti'i;stid;stidi			ti'i,se ti'i,te ti'i
+stidi	$x_{1}$ sugiere/propone/indica $x_{2}$ ante audiencia $x_{3}$	gismu		sugerir	sid;ti'i;stid;stidi			ti'i;se ti'i;te ti'i
 stika	$x_{1}$ (evento) ajusta/cambia $x_{2}$ (propiedad) en cantidad/grado $x_{3}$	gismu		ajustar	tik;stik;stika	Ver también {cenba},  {galfi},  {binxo},  {zasni}.
 stizu	$x_{1}$ es una silla/banco/asiento/sillón	gismu		silla	tiz;stiz;stizu
 stodi	$x_{1}$ es constante/invariante/estable/inmutable en propiedad $x_{2}$	gismu		constante	sto;stod;stodi	Ver también {stali},  {vitno},  {manfo},  {zasni}.
 stuna	$x_{1}$ esta al este/oriental/levante de $x_{2}$ según marco de referencia $x_{3}$	gismu		este	sun;stun;stuna	Ver también {stici},  {berti},  {snanu}.
 stura	$x_{1}$ es una estructura/complejo/organización de $x_{2}$ (conjunto/sistema)	gismu		estructura	tur;su'a;stur;stura	Ver también {ganzu},  {morna},  {ciste},  {lujvo},  {greku}.
-stuzi	$x_{1}$ es un sitio/lugar/localidad/ubicación de $x_{2}$	gismu		lugar	tuz;stu;stuz;stuzi	Ver también {diklo},  {zvati},  {tcini},  {xabju}.		tu'i,se tu'i
+stuzi	$x_{1}$ es un sitio/lugar/localidad/ubicación de $x_{2}$	gismu		lugar	tuz;stu;stuz;stuzi	Ver también {diklo},  {zvati},  {tcini},  {xabju}.		tu'i;se tu'i
 sufti	$x_{1}$ es una pezuña (parte del cuerpo) de $x_{2}$	gismu		pezuña	sfu;suft;sufti
 suksa	$x_{1}$ es súbito/abrupto/repentino/cambia de repente en punto/estadio $x_{2}$ en proceso/propiedad/función $x_{3}$ (discontinuidad)	gismu		súbito	suk;suks;suksa
 sumji	$x_{1}$ es la suma/adición de $x_{2}$ mas $x_{3}$	gismu		suma	suj;sumj;sumji	Ver también {jmina}.
@@ -129,7 +129,7 @@ su'o re mei	selbri cuantificado: convierte al menos 2 en selbri cardinal; $x_{1}
 su'o re moi	selbri cuantificado: convierte al menos 2 en selbri ordinal; $x_{1}$ es al menos segundo entre $x_{2}$ según regla $x_{3}$	cmavo-compound	MOI*	es por lo menos segundo
 tabno	$x_{1}$ es una cantidad de carbón/grafito/diamante (C)	gismu		carbón	tab;tabn;tabno
 tabra	$x_{1}$ es una trompeta/trombón/cuerno/bugle (instrumento musical de viento)	gismu		trompeta	tabr;tabra
-tadji	$x_{1}$ (evento) es un método/técnica/manera de hacer $x_{2}$ (evento) bajo condiciones $x_{3}$	gismu		método	tadj;tadji	Ver también {ciste},  {pruce}.		ta'i,se ta'i,te ta'i
+tadji	$x_{1}$ (evento) es un método/técnica/manera de hacer $x_{2}$ (evento) bajo condiciones $x_{3}$	gismu		método	tadj;tadji	Ver también {ciste},  {pruce}.		ta'i;se ta'i;te ta'i
 tadni	$x_{1}$ estudia/es estudiante de $x_{2}$	gismu		estudiar	tad;tadn;tadni	Ver también {cilre},  {ctuca}.
 tagji	$x_{1}$ es ajustado/apretado en dimensión/dirección $x_{2}$ en locus $x_{3}$	gismu		ajustado	tag;tagj;tagji	Ver también {trati},  {jarki},  {kluza}.
 talsa	$x_{1}$ desafía/reta a $x_{2}$ hacer $x_{3}$	gismu		desafiar	tal;tals;talsa	Ver también {minde}.
@@ -175,7 +175,7 @@ tcati	$x_{1}$ es una cantidad de té/mate/infusión preparado de hojas $x_{2}$	g
 tcena	$x_{1}$ se extiende/estira/alarga cubriendo extensión $x_{2}$ en dimensión $x_{3}$ desde extensión relajada $x_{4}$	gismu		extenderse	ten;tcen;tcena	Ver también {kuspe}.
 tcica	$x_{1}$ engaña/embauca/embuste/miente a $x_{2}$ sobre tema $x_{3}$ por método/acción $x_{4}$	gismu		engañar	tic;tcic;tcica	Ver también {stace}.
 tcidu	$x_{1}$ lee $x_{2}$ de medio/superficie/documento $x_{3}$	gismu		leer	tid;tcid;tcidu	Ver también {ciska}.
-tcika	$x_{1}$ (horas, {minutos}, {segundos}) es la hora/horario de evento $x_{2}$ el día $x_{3}$ en lugar $x_{4}$	gismu		horario	tcik;tcika			ti'u,se ti'u,te ti'u,ve ti'u
+tcika	$x_{1}$ (horas, {minutos}, {segundos}) es la hora/horario de evento $x_{2}$ el día $x_{3}$ en lugar $x_{4}$	gismu		horario	tcik;tcika			ti'u;se ti'u;te ti'u;ve ti'u
 tcila	$x_{1}$ es un detalle/característica de $x_{2}$	gismu		detalle	til;tcil;tcila	Ver también {diklo}.
 tcima	$x_{1}$ es el clima/tiempo/condiciones meteorológicas en lugar/región $x_{2}$	gismu		clima	tim;ti'a;tcim;tcima
 tcini	$x_{1}$ (estado) es un estado/situación/condición de $x_{2}$	gismu		situación	tcin;tcini	Ver también {stuzi},  {zvati}.
@@ -257,7 +257,7 @@ toldi	$x_{1}$ es una mariposa/polilla de especie/raza $x_{2}$	gismu		mariposa	to
 tonga	$x_{1}$ es un tono de frequencia/timbre $x_{2}$ de origen $x_{3}$	gismu		tono	tog;to'a;tong;tonga
 tordu	$x_{1}$ es corto en dimensión/dirección $x_{2}$ (la más larga) según estándar $x_{3}$	gismu		corto	tor;to'u;tord;tordu	Ver también {clani},  {jarki},  {cinla},  {caxno}.
 torni	$x_{1}$ se tuerce/retuerce bajo carga/fuerza/torsión $x_{2}$	gismu		torcerse	ton;to'i;torn;torni
-traji	$x_{1}$ es superlativo/extremo en propiedad $x_{2}$, el extremo $x_{3}$ entre $x_{4}$	gismu		extremo	rai;traj;traji	Ver también {mutce},  {milxe}.		rai,se rai,te rai,ve rai
+traji	$x_{1}$ es superlativo/extremo en propiedad $x_{2}$, el extremo $x_{3}$ entre $x_{4}$	gismu		extremo	rai;traj;traji	Ver también {mutce},  {milxe}.		rai;se rai;te rai;ve rai
 trano	$x_{1}$ es una cantidad de nitrógeno/amoniaco/nitratos (N)	gismu		nitrógeno	tran;trano
 trati	$x_{1}$ es tenso/tirante en dirección $x_{2}$	gismu		tenso	trat;trati	Ver también {tagji},  {tcena}.
 trene	$x_{1}$ es un tren (vehículo) con vagones/unidades $x_{2}$, en sistema/ferrocarril $x_{3}$, propelido por $x_{4}$	gismu		tren	ren;re'e;tren;trene
@@ -341,7 +341,7 @@ vajni	$x_{1}$ es importante para $x_{2}$ en propiedad/aspecto $x_{3}$	gismu		imp
 valsi	$x_{1}$ es una palabra/término/vocablo con significado $x_{2}$ en idioma $x_{3}$	gismu		palabra	val;vla;vals;valsi
 vamji	$x_{1}$ es el valor de $x_{2}$ para valuador $x_{3}$ para uso/según apreciación $x_{4}$	gismu		valor	vam;va'i;vamj;vamji	Ver también {jdima},  {vecnu}.
 vamtu	$x_{1}$ vomita $x_{2}$	gismu		vomitar	vat;vamt;vamtu	Ver también {jetce},  {kafke},  {sputu}.
-vanbi	$x_{1}$ es parte del ambiente/alrededores/contexto/situación de $x_{2}$	gismu		ambiente	vab;vanb;vanbi	Ver también {sruri},  {jibni},  {jbini}.		va'o,se va'o
+vanbi	$x_{1}$ es parte del ambiente/alrededores/contexto/situación de $x_{2}$	gismu		ambiente	vab;vanb;vanbi	Ver también {sruri},  {jibni},  {jbini}.		va'o;se va'o
 vanci	$x_{1}$ es una tarde/víspera de día $x_{2}$ en localidad $x_{3}$	gismu		tarde	vac;vanc;vanci	Ver también {cerni},  {murse}.
 vanju	$x_{1}$ es una cantidad de vino de fruta/uvas $x_{2}$	gismu		vino	van;vanj;vanju	Ver también {jikru}.
 vasru	$x_{1}$ contiene/incluye/es recipiente/vaso/vasija con contenido $x_{2}$; (nenri, jbini)	gismu		contener	vas;vau;vasr;vasru
@@ -459,7 +459,7 @@ xabmau	$x_1$ es una mayoría/más de la mitad de $x_2$ en propiedad $x_3$ por di
 xabme'a	$x_1$ es una minoría/menos de la mitad de $x_2$ en propiedad $x_3$ por diferencia $x_4$ según estándar $x_5$	lujvo		minoría		Ver también {xadba}, {mleca}, {xabmau}	xadba,mleca
 xa ki'o	número/cantidad: 6,000	cmavo-compound	PA*	6,000
 xalni	$x_{1}$ se asusta/aterroriza/entra en pánico por $x_{2}$ (evento)	gismu		asustarse	xaln;xalni
-xamgu	$x_{1}$ es bueno/beneficioso para $x_{2}$ según estándar $x_{3}$	gismu		bueno	xag;xau;xamg;xamgu	Ver también {xlali},  {vrude},  {zabna}.		va'u,se va'u,te va'u
+xamgu	$x_{1}$ es bueno/beneficioso para $x_{2}$ según estándar $x_{3}$	gismu		bueno	xag;xau;xamg;xamgu	Ver también {xlali},  {vrude},  {zabna}.		va'u;se va'u;te va'u
 xa moi	selbri cuantificado: convierte 6 en selbri ordinal; $x_{1}$ es sexto entre $x_{2}$ ordenado según regla $x_{3}$	cmavo-compound	MOI*	es sexto entre
 xampo	$x_{1}$ es una corriente de $x_{2}$ amperios (1 por defecto) según estándar $x_{3}$	gismu		ampere	xap;xa'o;xamp;xampo
 xamsi	$x_{1}$ es un mar/océano/atmósfera de planeta $x_{2}$, de fluido $x_{3}$	gismu		mar	xas;xams;xamsi
@@ -515,7 +515,7 @@ xutla	$x_{1}$ es suave en textura	gismu		suave	xul;xutl;xutla	Ver también {rufs
 zabna	$x_{1}$ es estupendo/genial/magnífico/excelente/esplendido/formidable/extraordinario/maravilloso/fabuloso/bárbaro/ideal en propiedad/aspecto $x_{2}$ según estándar $x_{3}$	gismu		estupendo	zan;za'a;zabn;zabna	Ver también {mabla},  {xamgu},  {vrude}.
 zajba	$x_{1}$ es un gimnasta en evento $x_{2}$	gismu		gimnasta	zaj;zajb;zajba
 zalvi	$x_{1}$ muele/pulveriza $x_{2}$ en polvo $x_{3}$	gismu		moler	zal;zalv;zalvi
-zanru	$x_{1}$ aprueba/favorece/celebra plan/acción $x_{2}$	gismu		aprobar	zar;zau;zanr;zanru	Ver también {xenru}.		zau,se zau
+zanru	$x_{1}$ aprueba/favorece/celebra plan/acción $x_{2}$	gismu		aprobar	zar;zau;zanr;zanru	Ver también {xenru}.		zau;se zau
 zarci	$x_{1}$ es un mercado/almacén/despensa que vende $x_{2}$, manejado por $x_{3}$	gismu		mercado	zac;zai;zarc;zarci
 zargu	$x_{1}$ es el trasero/nalga/cola (parte del cuerpo) de $x_{2}$	gismu		trasero	zag;za'u;zarg;zargu
 zasni	$x_{1}$ es transitorio/no permanente/temporario en propiedad $x_{2}$ según estándar $x_{3}$	gismu		transitorio	zas;zasn;zasni	Ver también {vitno},  {stodi},  {cenba},  {stika}.
@@ -548,13 +548,13 @@ ze'a ca	tiempo verbal: durante un tiempo medio cubriendo el presente	cmavo-compo
 ze'a pu	tiempo verbal: durante un tiempo medio hacia el pasado	cmavo-compound	ZEhA*	por un tiempo antes
 zepti	$x_{1}$ es una miltrillonésima (1E-21) de $x_{2}$ en dimensión/aspecto $x_{3}$	gismu		zepto	zep;zept;zepti
 zetro	$x_{1}$ es un mil trillones (1E21) de $x_{2}$ en dimensión/aspecto $x_{3}$	gismu		zeta	zet;zetr;zetro
-zgana	$x_{1}$ observa/nota/percibe $x_{2}$ usando sentidos/medios $x_{3}$ bajo condiciones $x_{4}$	gismu		observar	zga;zgan;zgana	Ver también {ganse}.		ga'a,se ga'a,te ga'a,ve ga'a
+zgana	$x_{1}$ observa/nota/percibe $x_{2}$ usando sentidos/medios $x_{3}$ bajo condiciones $x_{4}$	gismu		observar	zga;zgan;zgana	Ver también {ganse}.		ga'a;se ga'a;te ga'a;ve ga'a
 zgike	$x_{1}$ es música por compositor $x_{2}$ ejecutada por $x_{3}$	gismu		música	zgi;gi'e;zgik;zgike
 zifre	$x_{1}$ es/está libre de ser/hacer $x_{2}$ (evento) bajo condiciones $x_{3}$	gismu		libre	zif;zi'e;zifr;zifre	Ver también {bilga}.
 zinki	$x_{1}$ es una cantidad de zinc (Zn)	gismu		zinc	zin;zi'i;zink;zinki
 zirpu	$x_{1}$ es violeta/púrpura (color)	gismu		violeta	zir;zi'u;zirp;zirpu
 zivle	$x_{1}$ invierte medios/dinero $x_{2}$ en inversión/proyecto $x_{3}$ esperando rendimiento/beneficio $x_{4}$	gismu		invertir	ziv;vle;zivl;zivle	Ver también {jbera}.
-zmadu	$x_{1}$ es más/mayor que $x_{2}$ en propiedad $x_{3}$ por cantidad $x_{4}$	gismu		más	zma;mau;zmad;zmadu	Ver también {mleca},  {zenba}.		mau,se mau,te mau,ve mau,se mau nai
+zmadu	$x_{1}$ es más/mayor que $x_{2}$ en propiedad $x_{3}$ por cantidad $x_{4}$	gismu		más	zma;mau;zmad;zmadu	Ver también {mleca},  {zenba}.		mau;se mau;te mau;ve mau;se mau nai
 zmiku	$x_{1}$ es automático en función $x_{2}$ bajo condiciones $x_{3}$	gismu		automático	zmi;zmik;zmiku	Ver también {macnu}.
 ze'e	intervalo temporal: durante todo el tiempo	cmavo	ZEhA	intervalo temporal total	ze'e
 ze'i	intervalo temporal: durante un tiempo corto	cmavo	ZEhA	intervalo temporal corto
@@ -584,7 +584,7 @@ zingibero	$x_1$ es jengibre de especie/variedad $x_2$	fu'ivla		jengibre	zingiber
 zo'o bu	letra: símbolo de humor, ":-)" y formas relacionadas que expresan humor (letra)	bu-letteral	BY*
 zo'o cu'i	modificador de actitudinal: \n{zo'o } - humor\n{zo'o cu'i} - aburrido\n{zo'o nai} - seriedad	cmavo-compound	UI*5	aburrido
 zo'o nai	modificador de actitudinal: \n{zo'o } - humor\n{zo'o cu'i} - aburrido\n{zo'o nai} - seriedad	cmavo-compound	UI*5	seriedad
-zukte	$x_{1}$ actúa/realiza acción $x_{2}$ con propósito/meta/fines $x_{3}$	gismu		actuar	zuk;zu'e;zukt;zukte	Ver también {gasnu},  {fasnu},  {minji},  {prenu}.		zu'e,se zu'e,te zu'e
+zukte	$x_{1}$ actúa/realiza acción $x_{2}$ con propósito/meta/fines $x_{3}$	gismu		actuar	zuk;zu'e;zukt;zukte	Ver también {gasnu},  {fasnu},  {minji},  {prenu}.		zu'e;se zu'e;te zu'e
 zumri	$x_{1}$ es una cantidad de maíz (grano) de especie/variedad $x_{2}$	gismu		maíz	zmu;zumr;zumri
 zungi	$x_{1}$ se culpa/siente culpa/remordimiento por $x_{2}$ (evento)	gismu		culparse	zug;zung;zungi
 zunle	$x_{1}$ está a la izquierda/siniestra de $x_{2}$ que mira hacia $x_{3}$	gismu		izquierda	zul;zunl;zunle	Ver también {pritu}.
