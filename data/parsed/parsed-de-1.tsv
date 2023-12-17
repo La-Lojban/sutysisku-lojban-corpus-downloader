@@ -1,36 +1,37 @@
 @rowCount	35
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+w	d	n	t	g	r	s
+lilrkerozine	$x_1$ ist etwas Kerosin (Treibstoff) zum Antrieb von $x_2$.	Vgl. {livla}.	fu'ivla	Kerosin	lilrkerozine
+marsipane	$x_1$ ist/enthält Marzipan der Sorte/Marke $x_2$	S. a. {titspi}, {smela}.	fu'ivla	Marzipan	marsipane
+maxrnspelta	$x_1$ ist (etwas) Dinkel (Wissenschaftliche Bezeichung: »Triticum aestivum subsp. spelta«).		fu'ivla	Dinkel	maxrnspelta
+namcrgogolo	$x_1$ ist ein Googol [$10^{100}$] von $x_2$ in Dimension/Hinsicht $x_3$ (standardmäßig Einheiten).		fu'ivla	Googol	namcrgogolo
+nunrlanparti	$x_1$ ist eine LAN-Party der Leute $x_2$ (Masse aus Personen/jo'u) am Ort $x_3$; sie kommen von $x_4$ (Ort oder Orte [Masse/jo'u]).	Siehe auch: {jajrlanparti}.	fu'ivla	LAN-Party	nunrlanparti
+otpi	$x_1$ ist eine Flasche/eine Buddel/ein Tiegel/eine Urne/ein verschließbarer Behälter für $x_2$ aus dem Material $x_3$.	Selbe Definition wie bei {botpi}, aber ohne das sumti $x_4$ (Deckel).	fu'ivla	Flasche	otpi
+pexrxarisa	$x_1$ ist etwas Harissa, aus Komposition $x_2$.	Vgl. {pesxu}, {cpina}.	fu'ivla	Harissa	pexrxarisa
+pitrklaine	$x_1$ ist eine Kleinsche Flasche.	Vgl. {plita}.	fu'ivla	Kleinsche Flasche	pitrklaine
+ridrgobli	$x_1$ ist ein Goblin aus Mythos/Folklore/Religion $x_2$.	Siehe auch: {crida}.	fu'ivla	Goblin	ridrgobli
+ridrkoboldo	$x_1$ ist ein Kobold aus Mythos/Folklore $x_2$.	Siehe auch: {crida}.	fu'ivla	Kobold	ridrkoboldo
+saskrsporte	$x_1$ (Masse an Fakten) ist Sportwissenschaft, basierend auf Methologie $x_2$.	Siehe auch: {saske}, {esporte}.	fu'ivla	Sportwissenschaft	saskrsporte
+sfaile	$x_1$ ist eine Datei mit Information $x_2$ der Attribute/Typ/Größe $x_3$.	Das Beispiel »sfaile fi lo pixra« heißt übersetzt etwa »Bild-Datei«.	fu'ivla	Datei	sfaile
+smokrtabi	$x_1$ ist ein Tabi aus Material $x_2$.	Vgl. {smoka}.	fu'ivla	Tabi	smokrtabi
+spatrmenta	$x_1$ ist etwas Minze (Pflanze des Genus »Mentha«) der Art $x_2$.		fu'ivla	Minze	spatrmenta
+spatrtensai	$x_1$ ist eine Rote Bete (Pflanze, wissenschaftlicher Name: »Beta vulgaris subsp. vulgaris var. conditiva«).	Siehe auch: {genjrtensai}.	fu'ivla	Rote Beete;Rote Bete	spatrtensai
+spatrvi'ola	$x_1$ ist ein Veilchen (Pflanze der Gattung Viola) der Art/Sorte $x_2$.	Siehe auch: {spati}.	fu'ivla	Veilchen	spatrvi'ola
+stakrterakota	$x_1$ ist eine Menge an/enthält/besteht aus Keramik, hergestellt von $x_2$ mit Zusammensetzung $x_3$ in Form $x_4$.	Vgl. {staku}.	fu'ivla	Terrakotta	stakrterakota
+tabrnvuvuzela	$x_1$ ist eine Vuvuzela.		fu'ivla	Vuvuzela	tabrnvuvuzela
+tafrkimono	$x_1$ ist ein Kimono.	Vgl. {taxfu}.	fu'ivla	Kimono	tafrkimono
+tciuaua	$x_1$ ist ein Chihuahua der Varietät $x_2$.	Siehe auch: {gerkrtciuaua}, {gerku}.	fu'ivla	Chihuahua	tciuaua
+verntineidja	$x_1$ ist ein Teenager im Alter von $x_2$.	Bezeichnet Menschen, die mindestens 13, aber weniger als 20 Jahre alt sind. Siehe auch: {verba}.	fu'ivla	Teenager	verntineidja
+xa'anze	$x_1$ ist hansisch/hanseatisch/zur Hanse gehörig in Aspekt $x_2$	S. a. {canja}, {bijgri}, {bloti}, {dotco}, {baurnudusu}.	fu'ivla	hanseatisch	xa'anze
+xalrtekila	$x_1$ ist etwas Tequila von der Quelle/vom Prozess $x_2$.	Siehe auch: {xalka}.	fu'ivla	Tequila	xalrtekila
+xalrvotka	$x_1$ ist etwas Wodka von der Quelle/vom Prozess $x_2$.	Siehe auch: {vo'otka}, {xalka}.	fu'ivla	Wodka	xalrvotka
+xirngrevi	$x_1$ ist ein Grevyzebra (wissenschaftliche Bezeichnung: »Equus grevyi«).	Vgl. {sriba'axi'a}.	fu'ivla	Equus grevyi;Grevyzebra	xirngrevi
+xirnku'aga	$x_1$ ist ein Steppenzebra (wissenschaftliche Bezeichnung: »Equus quagga«).	Vgl. {sriba'axi'a}.	fu'ivla	Equus quagga;Pferdezebra;Steppenzebra	xirnku'aga
+xirnzebra	$x_1$ ist ein Bergzebra (wissenschaftliche Bezeichnung: »Equus zebra«).	Vgl. {sriba'axi'a}.	fu'ivla	Bergzebra;Equus zebra	xirnzebra
+xumrkokaine	$x_1$ ist / ist etwas Kokain mit Reinheitsgrad $x_2$.	$x_1$ kann als einzelner Gegenstand oder als Masse angegeben werden. Vgl. {xukmi}.	fu'ivla	Kokain	xumrkokaine
+xumrnapalmi	$x_1$ ist etwas/enthält Napalm.	Cf. [xukmi}, {litki}, {likrtcigaso}.	fu'ivla	Napalm	xumrnapalmi
+xumrti'enti	$x_1$ ist etwas Trinitrotoluol (TNT).	Siehe auch: {bamrti'enti}.	fu'ivla	TNT;Trinitrotoluol	xumrti'enti
+INternet	Internet	Vgl. {mujysamseltcana}.	cmevla	Internet
+fau'u	Verzeihung!/Verzeihen Sie bitte!/Verzeih mir bitte!	Vgl. {fraxu}, {u'u}.	experimental cmavo	Verzeihen Sie bitte!;Verzeihung!		COI
+oi'u	attitudinal: \n{oi'u} - Schmerzempfinden, Leiden\n{oi'unai} - Behaglichkeit	siehe {cortu}	experimental cmavo	Leiden;Schmerz		UI1
+cmavrui	$x_1$ ist das selma'o "UI".		obsolete fu'ivla	selma'o "UI"	cmavrui
+xirnkuaga	$x_1$ ist ein Steppenzebra (wissenschaftliche Bezeichnung: »Equus quagga«).	Vgl. {sriba'axi'a}.	obsolete fu'ivla	Equus quagga;Pferdezebra;Steppenzebra	xirnkuaga

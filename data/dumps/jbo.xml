@@ -22704,6 +22704,16 @@
   <score>3</score>
   <notes>ko karbi zo {tavla} ja zo {casnu} ja zo {cusku} ja zo {smusku} ja zo {larseku}</notes>
 </valsi>
+<valsi word="mlebaliza'i" type="fu'ivla">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Gardener</realname>
+  </user>
+  <definition>$x_1$ carmi lo ka jai macri&apos;a .i nandu fa lo nu satci skicu lo te cniri&apos;a be fi $x_1$ ki&apos;u lo du&apos;u $x_1$ melbi ja banli mutce</definition>
+  <definitionid>73455</definitionid>
+  <score>1</score>
+  <notes>simsa fa zo {amnadiia}</notes>
+</valsi>
 <valsi word="mleca" type="gismu">
   <rafsi>mec</rafsi>
   <rafsi>me&apos;a</rafsi>
