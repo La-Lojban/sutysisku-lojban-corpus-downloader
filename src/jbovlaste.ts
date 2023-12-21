@@ -428,6 +428,7 @@ async function ningauLeDeksiSutysisku({
         }
         if (json[word].r && json[word].r.length === 0) delete json[word].r;
         if ((json[word].r ?? []).length > 0) json[word].r = (json[word].r || []).join(';');
+        if ((json[word].v ?? []).length > 0) json[word].v = (json[word].v || []).join(';');
         if ((json[word].g ?? []).length > 0) json[word].g = (json[word].g || []).join(';');
 
         let rec = { w: word, ...json[word] };
