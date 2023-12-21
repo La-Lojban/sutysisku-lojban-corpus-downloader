@@ -25,7 +25,7 @@ danfu	$x_1$ jest odpowiedzią/rozwiązaniem na pytanie/problem $x_2$.		gismu	odp
 danlu	$x_1$ to zwierzę/stworzenie gatunku $x_2$.	Cf. {banfi}, {cinki}, {cipni}, {finpe}, {jukni}, {respa}, {since}, {mabru}, {bakni}.	gismu	stworzenie;zwierzę	dal;da'u;danl;danlu
 bi	cyfra / numer: 8 (cyfry) [osiem].		cmavo	8	biv
 ci	cyfra / numer: 3 (cyfra) [trzy].		cmavo	3	cib
-cibdei	$x_1$ to środa w tygodniu $x_2$ według kalendarza $x_3$.		lujvo	środa		ci,djedi
+cibdei	$x_1$ to środa w tygodniu $x_2$ według kalendarza $x_3$.		lujvo	środa		ci;djedi
 beiDJIN	Pekin		cmevla	Bejdżing;Pekin
 bie,uaRUC	Białoruś.		obsolete cmevla	Białoruś
 bivmast	sierpień.	Cf. {cinfyma'i}, {bivmasti}.	cmevla	sierpień
@@ -51,12 +51,12 @@ mamta	$x_1$ to matka $x_2$; $x_1$ rodzi/matkuje/zachowuje się jak matka wobec $
 melbi	$x_1$ jest piękne/śliczne/ładne dla $x_2$ w zakresie $x_3$ (ka) według standardu $x_4$.	Cf. {pluka}, {xamgu}.	gismu	ładne;piękne;śliczne	mel;mle;melb;melbi
 mensi	$x_1$ to siostra $x_2$ poprzez więzi $x_3$; [nie koniecznie biologiczne].	Cf. {bruna}, {tunba}, {tamne}, {famti}, {lanzu}.	gismu	siostra	mes;me'i;mens;mensi
 do	pro-sumti: ty/wy, słuchacz(e); można sprecyzować w wołaczu	Wołacz: {doi}	cmavo	ty;wy	don;doi
-dotygu'e	$d_1$=$g_1$ to Niemcy.	Cf. {dotco}, {gugde}.	lujvo	Niemcy		dotco,gugde
-fasygu'e	$f_1$=$g_1$ to Francja.	Cf. {fraso}, {gugde}.	lujvo	Francja		fraso,gugde
-gligu'e	$gl_1$=$gu_1$ to Anglia.	Cf. {glico}, {gugde}, {ritygu'e}.	lujvo	Anglia		glico,gugde
-jugygu'e	$j_1$=$g_1$ to Chiny.	Cf. {jungo}, {gugde}, {djunguos}.	lujvo	Chiny		jungo,gugde
-kadnygu'e	$x_1$=$g_1$ to Kanada.	Cf. {KEnydys}, {kenyDAS}.	lujvo	Kanada		kadno,gugde
-mergu'e	$m_1$=$g_1$ to Stany Zjednoczone Ameryki.	Cf. {merko}, {gugde}.	lujvo	Stany Zjednoczone.;Stany Zjednoczone Ameryki;USA		merko,gugde
+dotygu'e	$d_1$=$g_1$ to Niemcy.	Cf. {dotco}, {gugde}.	lujvo	Niemcy		dotco;gugde
+fasygu'e	$f_1$=$g_1$ to Francja.	Cf. {fraso}, {gugde}.	lujvo	Francja		fraso;gugde
+gligu'e	$gl_1$=$gu_1$ to Anglia.	Cf. {glico}, {gugde}, {ritygu'e}.	lujvo	Anglia		glico;gugde
+jugygu'e	$j_1$=$g_1$ to Chiny.	Cf. {jungo}, {gugde}, {djunguos}.	lujvo	Chiny		jungo;gugde
+kadnygu'e	$x_1$=$g_1$ to Kanada.	Cf. {KEnydys}, {kenyDAS}.	lujvo	Kanada		kadno;gugde
+mergu'e	$m_1$=$g_1$ to Stany Zjednoczone Ameryki.	Cf. {merko}, {gugde}.	lujvo	Stany Zjednoczone.;Stany Zjednoczone Ameryki;USA		merko;gugde
 gugdrpolska	$x_1$ to Polska	Cf. {polskas}.	fu'ivla	Polska	gugdrpolska
 feimast	listopad.	Cf. {rebjukma'i}, {pavypavmasti}.	cmevla	listopad
 gaimast	grudzień.	Cf. {celma'i}, {pavrelmasti}.	cmevla	grudzień
@@ -104,15 +104,15 @@ vo	cyfra / numer: 4 (cyfra) [cztery].		cmavo	4	von
 xa	cyfra / numer: 6 (cyfry) [sześć].		cmavo	6	xav
 ze	cyfra / numer: 7 (cyfry) [siedem].		cmavo	7	zel
 zo'e	pro-sumti: elipsa/nieokreślona wartość; posiada pewną wartość przy której bridi jest prawdziwe		cmavo	coś
-mumdei	$x_1$ to piątek w tygodniu $x_2$ według kalendarza $x_3$.		lujvo	piątek		mu,djedi
-nondei	$x_1$ to niedziela w tygodniu $x_2$ według kalendarza $x_3$.		lujvo	niedziela		no,djedi
-pavdei	$x_1$ to poniedziałek w tygodniu $x_2$ według kalendarza $x_3$.		lujvo	poniedziałek		pa,djedi
-pongu'e	$p_1$=$g_1$ to Japonia.	Cf. {ponjo}, {gugde}.	lujvo	Japonia		ponjo,gugde
-reldei	$x_1$ to wtorek w tygodniu $x_2$ według kalendarza $x_3$.		lujvo	wtorek		re,djedi
-ritygu'e	$b_1$=$g_1$ to Wielka Brytania.	Cf. {brito}, {gugde}, {gligu'e}, {kotygu'e}.	lujvo	Wielka Brytania		brito,gugde
-rukygu'e	$r_1$=$g_1$ to Rosja.	Cf. {rusko}, {gugde}.	lujvo	Rosja		rusko,gugde
-sangu'e	$s_1$=$g_1$ to Hiszpania.	Cf. {spano}, {gugde}.	lujvo	Hiszpania		spano,gugde
-vondei	$x_1$ to czwartek w tygodniu $x_2$ według kalendarza $x_3$.		lujvo	czwartek		vo,djedi
+mumdei	$x_1$ to piątek w tygodniu $x_2$ według kalendarza $x_3$.		lujvo	piątek		mu;djedi
+nondei	$x_1$ to niedziela w tygodniu $x_2$ według kalendarza $x_3$.		lujvo	niedziela		no;djedi
+pavdei	$x_1$ to poniedziałek w tygodniu $x_2$ według kalendarza $x_3$.		lujvo	poniedziałek		pa;djedi
+pongu'e	$p_1$=$g_1$ to Japonia.	Cf. {ponjo}, {gugde}.	lujvo	Japonia		ponjo;gugde
+reldei	$x_1$ to wtorek w tygodniu $x_2$ według kalendarza $x_3$.		lujvo	wtorek		re;djedi
+ritygu'e	$b_1$=$g_1$ to Wielka Brytania.	Cf. {brito}, {gugde}, {gligu'e}, {kotygu'e}.	lujvo	Wielka Brytania		brito;gugde
+rukygu'e	$r_1$=$g_1$ to Rosja.	Cf. {rusko}, {gugde}.	lujvo	Rosja		rusko;gugde
+sangu'e	$s_1$=$g_1$ to Hiszpania.	Cf. {spano}, {gugde}.	lujvo	Hiszpania		spano;gugde
+vondei	$x_1$ to czwartek w tygodniu $x_2$ według kalendarza $x_3$.		lujvo	czwartek		vo;djedi
 mumbais	Bombaj.		cmevla	Bombaj;Mumbai
 mumymast	maj.	Cf. {bakma'i}, {mumymasti}.	cmevla	maj
 nu,IORK	Nowy Jork.		cmevla	Nowy Jork
@@ -122,9 +122,9 @@ slovensk	Słowacja.		cmevla	Słowacja
 sozmast	wrzesień.	Cf. {xlima'i}, {sozmasti}.	cmevla	wrzesień
 tcesk	Czechy.		cmevla	Czechy
 tokios	Tokio.		obsolete cmevla	Tokio
-vurgu'e	$v_1$=$g_1$ to Ukraina.	Cf. {vukro}, {gugde}.	lujvo	Ukraina		vukro,gugde
-xavdei	$x_1$ to sobota w tygodniu $x_2$ według kalendarza $x_3$.		lujvo	sobota		xa,djedi
-xingu'e	$x_1$=$g_1$ to Indie.	Cf. {xindo}, {gugde}, {Indias}.	lujvo	Indie		xindo,gugde
+vurgu'e	$v_1$=$g_1$ to Ukraina.	Cf. {vukro}, {gugde}.	lujvo	Ukraina		vukro;gugde
+xavdei	$x_1$ to sobota w tygodniu $x_2$ według kalendarza $x_3$.		lujvo	sobota		xa;djedi
+xingu'e	$x_1$=$g_1$ to Indie.	Cf. {xindo}, {gugde}, {Indias}.	lujvo	Indie		xindo;gugde
 relmast	luty.	Cf. {jaurbeima'i}, {relmasti}.	cmevla	luty
 uacintyn	Waszyngton.		cmevla	Waszyngton
 varcavas	Warszawa		cmevla	Warszawa

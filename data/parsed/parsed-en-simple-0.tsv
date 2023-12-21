@@ -1384,13 +1384,13 @@ tasta	$x_1$ is a taste of $x_2$	experimental gismu	taste	tasta
 turko	$x_1$ reflects Turkish culture/nationality/language in aspect $x_2$	experimental gismu	Turkish	turko
 vedli	$x_1$ remembers experience $x_2$ (li'i)	experimental gismu	the one who remembers their experience	vedli
 xorbo	$x_1$ pertains to xorban language/culture in aspect $x_2$	experimental gismu	Xorban	xorbo
-selkicrypoi	$x_1$ is a podcast series, ordered by $x_2$ (ka), with episodes $x_3$	lujvo				se,-kicr-,porsi
-tolja'e	the negation of $x_1$ (event/state) is a result/outcome/conclusion of antecedent $x_2$ (event/state). $x_1$ is prevented by $x_2$.	lujvo	prevented by		{to'e} {jalge}. ``lo nu broda cu tolja'e lo nu brode'' has the same meaning as ``lo nu na broda cu jalge lo nu brode.''	to'e,jalge
-tolki'u	$x_1$ (event/state) is a reason/justification/explanation for/causing/permitting the negation of $x_2$ (event/state). $x_1$ prevents $x_2$.	lujvo	prevent		{to'e} {krinu}. ``lo nu broda cu tolki'u lo nu brode'' has the same meaning as ``lo nu broda cu krinu lo nu na brode.''	to'e,krinu
-tolmu'i	$x_1$ (event/state) motivates/is a motive/incentive for the negation of $x_2$ (event/state), per volition of $x_3$. $x_1$ prevents $x_2$.	lujvo	prevent		{to'e} {mukti}. ``lo nu broda cu tolmu'i lo nu brode'' has the same meaning as ``lo nu broda cu mukti lo nu na brode.''	to'e,mukti
-tolni'i	$x_1$ (event/state) logically necessitates/entails/implies the negation of $x_2$ (event/state), under rules/logic system $x_3$. $x_1$ prevents $x_2$.	lujvo	prevent		{to'e} {nibli}. ``lo nu broda cu tolni'i lo nu brode'' has the same meaning as ``lo nu broda cu nibli lo nu na brode.''	to'e,nibli
-tolri'a	$x_1$ (event/state) effects/physically causes the negation of $x_2$ (event/state). $x_1$ prevents $x_2$.	lujvo	prevent		{to'e} {rinka}. ``lo nu broda cu tolri'a lo nu brode'' has the same meaning as ``lo nu broda cu rinka lo nu na brode.''	to'e,rinka
-xaicku	$x_1$ is a book damaged by/website attacked by $x_2$ in property $x_3$ (ka).	lujvo	attacked website;damaged book		See also {cukta}, {xrani}.	xrani,cukta
+selkicrypoi	$x_1$ is a podcast series, ordered by $x_2$ (ka), with episodes $x_3$	lujvo				se;-kicr-;porsi
+tolja'e	the negation of $x_1$ (event/state) is a result/outcome/conclusion of antecedent $x_2$ (event/state). $x_1$ is prevented by $x_2$.	lujvo	prevented by		{to'e} {jalge}. ``lo nu broda cu tolja'e lo nu brode'' has the same meaning as ``lo nu na broda cu jalge lo nu brode.''	to'e;jalge
+tolki'u	$x_1$ (event/state) is a reason/justification/explanation for/causing/permitting the negation of $x_2$ (event/state). $x_1$ prevents $x_2$.	lujvo	prevent		{to'e} {krinu}. ``lo nu broda cu tolki'u lo nu brode'' has the same meaning as ``lo nu broda cu krinu lo nu na brode.''	to'e;krinu
+tolmu'i	$x_1$ (event/state) motivates/is a motive/incentive for the negation of $x_2$ (event/state), per volition of $x_3$. $x_1$ prevents $x_2$.	lujvo	prevent		{to'e} {mukti}. ``lo nu broda cu tolmu'i lo nu brode'' has the same meaning as ``lo nu broda cu mukti lo nu na brode.''	to'e;mukti
+tolni'i	$x_1$ (event/state) logically necessitates/entails/implies the negation of $x_2$ (event/state), under rules/logic system $x_3$. $x_1$ prevents $x_2$.	lujvo	prevent		{to'e} {nibli}. ``lo nu broda cu tolni'i lo nu brode'' has the same meaning as ``lo nu broda cu nibli lo nu na brode.''	to'e;nibli
+tolri'a	$x_1$ (event/state) effects/physically causes the negation of $x_2$ (event/state). $x_1$ prevents $x_2$.	lujvo	prevent		{to'e} {rinka}. ``lo nu broda cu tolri'a lo nu brode'' has the same meaning as ``lo nu broda cu rinka lo nu na brode.''	to'e;rinka
+xaicku	$x_1$ is a book damaged by/website attacked by $x_2$ in property $x_3$ (ka).	lujvo	attacked website;damaged book		See also {cukta}, {xrani}.	xrani;cukta
 anli	$x_1$ is a ring with inside diameter $x_2$, outside diameter $x_3$	fu'ivla	ring	anli
 aski	$x_1$ (ordered set of numerals) represents $x_2$ (text) in ASCII encoding	fu'ivla	ASCII text	aski
 infekte	$x_1$ infects $x_2$ with illness $x_3$ (property of $x_2$)	fu'ivla	infect	infekte	See {bilma}, {vidru}

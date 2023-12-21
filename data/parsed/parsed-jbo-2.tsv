@@ -13,8 +13,8 @@ rinsita	$x_1$ tamsmi me'o se'e 2665 ju'u 16 (to zo'oi ♥ toi) noi ka'u ta'e sin
 ro'imxu	ro da ro de zo'u ga nai ge da je de me $x_1$ gi da de drata gi ge da de gi de da ckini $x_2$	fu'ivla		ro'imxu	so'i zo {simxu} se smuni lo ka ro'imxu .i zo {pu'amxu}
 rolsixu	lo ka $rolsixu$ cu ka ko'a ko'e ko'i ce'ai ge ro lu'a ko'a me'au ko'i su'o lu'a ko'e gi ro lu'a ko'e se me'au ko'i su'o lu'a ko'a	fu'ivla	simxu	rolsixu	.i .e'u ko catlu zo'ei zo {me'au} lu'u .e zo'ei zo {ce'ai} .i mu'a lu lo so'imei poi loi so'i kulnu cu rolsixu ke'a lo ka kulnu li'u se fanva fu zoi gy many people of many nations gy
 ro ne'e	sinxa lo namcu poi dubmecrai lo vanbi be fa le se cusku	cmavo-compound				PA*4
-rufsfe	$x_1$ sefta $x_2$ gi'e rufsu	lujvo			.i {rufsu} {sefta}		rufsu,sefta
-rulbakfu	$x1$ bakfu lo xrula be $x2$ $x3$	lujvo					xrula,bakfu
+rufsfe	$x_1$ sefta $x_2$ gi'e rufsu	lujvo			.i {rufsu} {sefta}		rufsu;sefta
+rulbakfu	$x1$ bakfu lo xrula be $x2$ $x3$	lujvo					xrula;bakfu
 rotpaci	$x_1$ mifra $x_2$ la'o gy.ROT-13.gy.	fu'ivla		rotpaci	zo rotpaci mitsmuvla zo {mifnrotpaci}
 rundini	$x_1$ cipni $x_2$ noi ke'a klesi la'o me. Hirundinidae .me	fu'ivla	rundini	rundini	smudu'i zo {tsubame} .e zo {irnodela}
 si'abzu	$x_1$ sipna binxo zukte	fu'ivla		si'abzu	va'i lo si'abzu cu zukte lo ka binxo lo ka sipna
@@ -46,10 +46,10 @@ re'au'e	se se	experimental cmavo				SE*
 ro'oi	namcu .i se zilkancu lo mulno .i ka'e se basti su'o re namcu	experimental cmavo			.i lu {ro'oi} {da} li'u du lu {na} {ku} {su'oi} {da} {na} {ku} li'u .i ko karbi zo ro'oi zo {ro}	PA4
 ru'oi	ku'antora .i ro bu'a ro bu'e zo'u lo du'u ru'oi bu'a cu bu'e cu dunli lo du'u su'oi da poi ge ke'a bu'a gi ro'oi bu'a cu me ke'a cu bu'e	experimental cmavo			zo .{olkai} smujbi .i srana fa zo {ku'antora} jo'u zo {su'oi} jo'u zo {ro'oi} .i va'o su'o xanri gerna poi va'o ke'a lu «lo ti broda» li'u na sumsni cu cmavo ge nai ma'oi pa gi ja'ai ma'oi le	PA
 slaka bu	lu slaka bu li'u bu'ivla zoi ly.,.ly.	bu-letteral				BY*
-smasku	$x_1$ skuna je bacru $x_2$ fau lo nu lo vokcinje be $x_1$ na desku kei $x_3$	lujvo	smasku		srana fa zo {cusku} .e zo {bacru} .e zo {smaji} .e zo {cladu} .e zo {voksa} .e zo {vokcinje}		smaji,cusku
-smimlu	$x_1$ simlu lo ka ce'u simsa $x_2$ boi $x_3$ kei $x_4$	lujvo	smimlu				simsa,simlu
-smudu'i	$x_1$ dunli $x_2$ lo ka ma kau smuni ce'u $x_3$	lujvo	smudu'i				smuni,dunli
-smujdi	$x_1$ jdice lo du'u $x_2$ se smuni $x_3$	lujvo	smujdi		ko catlu zo {smudu'a} ji'a		smuni,jdice
+smasku	$x_1$ skuna je bacru $x_2$ fau lo nu lo vokcinje be $x_1$ na desku kei $x_3$	lujvo	smasku		srana fa zo {cusku} .e zo {bacru} .e zo {smaji} .e zo {cladu} .e zo {voksa} .e zo {vokcinje}		smaji;cusku
+smimlu	$x_1$ simlu lo ka ce'u simsa $x_2$ boi $x_3$ kei $x_4$	lujvo	smimlu				simsa;simlu
+smudu'i	$x_1$ dunli $x_2$ lo ka ma kau smuni ce'u $x_3$	lujvo	smudu'i				smuni;dunli
+smujdi	$x_1$ jdice lo du'u $x_2$ se smuni $x_3$	lujvo	smujdi		ko catlu zo {smudu'a} ji'a		smuni;jdice
 jajrlanparti	$x_1$ jmaji $x_2$ $x_3$ tezu'e lo nu vo'a jvikei simxu sepi'o lo samyzilkei	fu'ivla		jajrlanparti
 jaldiga	$x_1$=$g_1$ garna gi'e jai gau jdika fai tu'a lo nu $x_2$=$j_1$ janli $x_3$=$j_2$ lu'u gi'e pagbu $x_2$=$j_1$	fu'ivla		jaldiga
 jbabaji	$x_1$ na ka'e jimpe lo du'u makau du lo te cfipu be fi da be'o poi ka'e mukti lo nu da reisku $x_2$	fu'ivla		jbabaji
@@ -96,14 +96,14 @@ ju'oi	sinxa lo du'u le cusku cu djuno lo du'u le bridi cu jetnu kei a le danfu b
 ka'ai	fi'o {kansa}	experimental cmavo			.i {kansa}	BAI
 me'au	.i sa'u dunli zo ckaji .ibo ku'i lo gerna cu dunli lo me zo me moi .i sa'e ka ce'u ckaji ce'u cu ka ce'u me'au ce'u .i pluja zmadu fa lo srana be za'u lo sumti	experimental cmavo	ckaji			ME
 me do moi	$x_1$ cmima $x_2$ gi'e ckini do $x_3$	cmavo-compound	medomoi		{me} {do} {moi}
-meizma	$x_1$ zmadu $x_2$ lo ka ce'u ce'u memkai	lujvo			smudu'i zo {sormau} gi'e srana zo {mei} .e zo {memkai} .e zo {zmadu} .e zo {dubmau}		mei,zmadu
-mekfancu	$x_1$ fancu $x_2$ boi $x_3$ boi $x_4$ noi mekso	lujvo	mekfancu		{mekso} {fancu}; {va'a}, {fa'i}, {cu'a}, {ne'o}, {re'a}; {su'i}, {pi'i}, {vu'u}, {fe'i}; {te'a}, {fe'a}, {de'o}; {ju'u}, {pa'i}; {pi'a}, {sa'i}; {gei}; {si'i}, {ri'o}, {sa'o}; {fu'u}, {ge'a}.		mekso,fancu
-mekna'u	$x_1$ namcu gi'e srana $x_2$ noi mekso $x_3$ .i $x_2$ noi mekso $x_3$ cu sinxa $x_1$ noi namcu .i $x_1$ nu'a ju'u $x_2$ boi $x_3$	lujvo	mekna'u		{mekso} {namcu}; {ju'u}		mekso,namcu
-meksu'i	$x_1$ noi mekso $x_4$ cu sumti $x_2$ boi $x_3$	lujvo	meksu'i		{mekso} {sumti}		mekso,sumti
-memjdika	$x_1$ jdika lo ka ce'u xo kau mei kei $x_2$	lujvo	memjdika				mei,jdika
-memkai	$x_1$ me $x_2$ mei $x_3$	lujvo					mei,ckaji
-memyme'a	$x_1$ mleca $x_2$ lo ka ce'u xo kau mei	lujvo	memyme'a				mei,mleca
-menbi'a	$x_1$ bilma fi $x_2$ noi srana lo menli ku'o fe $x_3$	lujvo	menbi'a		{menli} {bilma} {ka'enri'u}		menli,bilma
+meizma	$x_1$ zmadu $x_2$ lo ka ce'u ce'u memkai	lujvo			smudu'i zo {sormau} gi'e srana zo {mei} .e zo {memkai} .e zo {zmadu} .e zo {dubmau}		mei;zmadu
+mekfancu	$x_1$ fancu $x_2$ boi $x_3$ boi $x_4$ noi mekso	lujvo	mekfancu		{mekso} {fancu}; {va'a}, {fa'i}, {cu'a}, {ne'o}, {re'a}; {su'i}, {pi'i}, {vu'u}, {fe'i}; {te'a}, {fe'a}, {de'o}; {ju'u}, {pa'i}; {pi'a}, {sa'i}; {gei}; {si'i}, {ri'o}, {sa'o}; {fu'u}, {ge'a}.		mekso;fancu
+mekna'u	$x_1$ namcu gi'e srana $x_2$ noi mekso $x_3$ .i $x_2$ noi mekso $x_3$ cu sinxa $x_1$ noi namcu .i $x_1$ nu'a ju'u $x_2$ boi $x_3$	lujvo	mekna'u		{mekso} {namcu}; {ju'u}		mekso;namcu
+meksu'i	$x_1$ noi mekso $x_4$ cu sumti $x_2$ boi $x_3$	lujvo	meksu'i		{mekso} {sumti}		mekso;sumti
+memjdika	$x_1$ jdika lo ka ce'u xo kau mei kei $x_2$	lujvo	memjdika				mei;jdika
+memkai	$x_1$ me $x_2$ mei $x_3$	lujvo					mei;ckaji
+memyme'a	$x_1$ mleca $x_2$ lo ka ce'u xo kau mei	lujvo	memyme'a				mei;mleca
+menbi'a	$x_1$ bilma fi $x_2$ noi srana lo menli ku'o fe $x_3$	lujvo	menbi'a		{menli} {bilma} {ka'enri'u}		menli;bilma
 makcubi zei xotli	$x_1$ xotli gi'e na'o jai se friti fi lo makcubi fai lo ka xabju	zei-lujvo	makcubi zei xotli		srana fa zo {xotli} .e zo {makcubi} .e zo {citno} .e zo {friti} .e zo {xabju} .e zo {zdani}
 kleinzu	$x_1$ klesi $x_4$ $x_3$ gi'e gunma $x_2$	fu'ivla		kleinzu
 klesrverlapi	$x_1$ .e $x_2$ selcmi .ije da cmima $x_1$ .e $x_2$ .ije de cmima $x_1$ .enai $x_2$ .ije di cmima $x_1$ na.e $x_2$	fu'ivla		klesrverlapi

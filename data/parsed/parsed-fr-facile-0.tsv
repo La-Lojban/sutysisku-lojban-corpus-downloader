@@ -61,8 +61,8 @@ bengo	$x_1$ est bengali dans l'aspect $x_2$	gismu	bengali	beg;beng;bengo
 benji	$x_1$ transmet $x_2$ au destinataire $x_3$ depuis $x_4$ par les moyens $x_5$	gismu	transmettre	bej;be'i;benj;benji	$x_4$ : transmetteur/origine
 be'a	au nord de	cmavo	au nord de
 be'i	envoyé par	cmavo	envoyé par
-banjikske	$x_1$ est une sociolinguistique basée sur la méthodologie $x_2$	lujvo	sociolinguistique			bangu,jikca,saske
-ba'ostu	$x_1$ est une « pépinière » où $x_2$ croît en $x_3$ depuis $x_4$	lujvo				banro,stuzi
+banjikske	$x_1$ est une sociolinguistique basée sur la méthodologie $x_2$	lujvo	sociolinguistique			bangu;jikca;saske
+ba'ostu	$x_1$ est une « pépinière » où $x_2$ croît en $x_3$ depuis $x_4$	lujvo				banro;stuzi
 ba pu	passé dans le futur	cmavo-compound	passé ultérieur
 basti	$x_1$ remplace $x_2$ dans les circonstances $x_3$ ; $x_1$ est un substitut	gismu	substitut	bas;bast;basti
 bavmi	$x_1$ est de l'orge de type $x_2$ grain	gismu	orge	bavm;bavmi
@@ -75,16 +75,16 @@ bau	dans la langue	cmavo	dans la langue
 be	lie un sumti à un sumti	cmavo	lien de sumti
 be'e	demande la parole	cmavo	demande la parole
 be'o	terminateur de liaison à un sumti	cmavo	terminateur de liaison à un sumti
-bafcolkercrakre	$x_1$=$b_1$ sont des pattes/rouflaquettes (mèches de cheveux) portées par $x_2$=$kerf_2$=$kerl_2$=$c_3$.	lujvo	pattes;rouflaquettes		{bakfu} {co} {kerlo} {crane} {kerfa}. La longueur de bafcolkercrakre n'est pas celle de cheveux mais celle de mèche.	bakfu,co,kerlo,crane,kerfa
-bagyce'a	$x_1$ est un arc tirant les flèches $x_2$ avec la corde $x_3$ fait du matériau $x_4$	lujvo	arc			bargu,cecla
-bajli'a	$x_1$ part en courant de $x_2$ par la route $x_3$ sur la surface $x_4$ utilisant $x_5$ avec l'allure $x_6$	lujvo				bajra,cliva
-bakcange	$x_1$ est un élevage de bétail à l'endroit $x_2$ où le fermier $x_3$ élève le bétail $x_4$	lujvo				bakni,cange
-balcu'e	$x_1$ est une université à $x_2$ enseignant $x_3$ au public $x_4$ dirigé par $x_5$	lujvo	université			banli,ckule
-bamvinji	$x_1$ est un bombardier transportant la bombe $x_2$ avec le principe explosif $x_3$ propulsé par $x_4$	lujvo	bombardier			jbama,vinji
-barkla	$x_1$ sort de $x_2$ par la route $x_3$ par les moyens $x_4$	lujvo	sortir			bartu,klama
-basygau	$x_1$ substitue $x_2$ à $x_3$ sous les conditions $x_4$	lujvo	substituer			basti,gasnu
-batkakpa	$x_1$ arrache la bouchée $x_2$ de $x_3$ avec les dents $x_4$	lujvo				batci,kakpa
-batkyci'a	$x_1$ écrit $x_2$ dans le medium $x_3$ avec le clavier $x_4$	lujvo	taper au clavier			batke,ciska
+bafcolkercrakre	$x_1$=$b_1$ sont des pattes/rouflaquettes (mèches de cheveux) portées par $x_2$=$kerf_2$=$kerl_2$=$c_3$.	lujvo	pattes;rouflaquettes		{bakfu} {co} {kerlo} {crane} {kerfa}. La longueur de bafcolkercrakre n'est pas celle de cheveux mais celle de mèche.	bakfu;co;kerlo;crane;kerfa
+bagyce'a	$x_1$ est un arc tirant les flèches $x_2$ avec la corde $x_3$ fait du matériau $x_4$	lujvo	arc			bargu;cecla
+bajli'a	$x_1$ part en courant de $x_2$ par la route $x_3$ sur la surface $x_4$ utilisant $x_5$ avec l'allure $x_6$	lujvo				bajra;cliva
+bakcange	$x_1$ est un élevage de bétail à l'endroit $x_2$ où le fermier $x_3$ élève le bétail $x_4$	lujvo				bakni;cange
+balcu'e	$x_1$ est une université à $x_2$ enseignant $x_3$ au public $x_4$ dirigé par $x_5$	lujvo	université			banli;ckule
+bamvinji	$x_1$ est un bombardier transportant la bombe $x_2$ avec le principe explosif $x_3$ propulsé par $x_4$	lujvo	bombardier			jbama;vinji
+barkla	$x_1$ sort de $x_2$ par la route $x_3$ par les moyens $x_4$	lujvo	sortir			bartu;klama
+basygau	$x_1$ substitue $x_2$ à $x_3$ sous les conditions $x_4$	lujvo	substituer			basti;gasnu
+batkakpa	$x_1$ arrache la bouchée $x_2$ de $x_3$ avec les dents $x_4$	lujvo				batci;kakpa
+batkyci'a	$x_1$ écrit $x_2$ dans le medium $x_3$ avec le clavier $x_4$	lujvo	taper au clavier			batke;ciska
 ba'u cu'i	précision	cmavo-compound	précision
 bersa	$x_1$ est le fils de $x_2$ pas forcément biologique	gismu	fils	bes;be'a;bers;bersa	$x_2$ : parents/mère/père
 berti	$x_1$ est au nord de $x_2$ dans le référentiel $x_3$	gismu	nord	ber;bert;berti
@@ -96,7 +96,7 @@ bidju	$x_1$ est une perle de matériau $x_2$	gismu	perle	bidj;bidju
 bifce	$x_1$ est une abeille de type $x_2$ abeille/guêpe/frelon	gismu	abeille	bic;bifc;bifce
 birje	$x_1$ est de la bière brassée par $x_2$	gismu	bière	birj;birje
 be'u	manque	cmavo	manque
-bermau	$x_1$ est plus au nord que $x_2$ dans le référentiel $x_3$, de la quantité $x_4$	lujvo				berti,zmadu
+bermau	$x_1$ est plus au nord que $x_2$ dans le référentiel $x_3$, de la quantité $x_4$	lujvo				berti;zmadu
 be'u cu'i	présence	cmavo-compound	présence
 be'u nai	satiété	cmavo-compound	satiété
 bikla	$x_1$ fouette	gismu	fouetter	bik;bikl;bikla	mouvement soudain et violent
@@ -111,26 +111,26 @@ blabi	$x_1$ est blanc	gismu	blanc	lab;blab;blabi
 bi	8	cmavo	8	biv
 bi'i	intervalle sans ordre	cmavo	intervalle sans ordre	biz
 bi'o	intervalle ordonné	cmavo	intervalle ordonné
-bevma'e	$x_1$ est un véhicule de transport transportant $x_2$ vers $x_3$ depuis $x_4$ par le chemin $x_5$ sur la surface $x_6$ propulsé par $x_7$	lujvo				bevri,marce
-bidgu'e	$x_1$ est l'Indonésie	lujvo	Indonésie			bindo,gugde
-bifca'e	$x_1$ souffle $x_2$ ; $x_1$ propulse $x_2$ en soufflant dessus	lujvo	souffler			brife,catke
-bigygau	$x_1$ oblige $x_2$ à $x_3$ selon la norme $x_4$	lujvo	obliger			bilga,gasnu
-bijyjbu	$x_1$ est un bureau de matériau $x_2$ dans l'entreprise $x_3$ du travailleur $x_4$ à l'endroit $x_5$	lujvo	bureau			briju,jubme
+bevma'e	$x_1$ est un véhicule de transport transportant $x_2$ vers $x_3$ depuis $x_4$ par le chemin $x_5$ sur la surface $x_6$ propulsé par $x_7$	lujvo				bevri;marce
+bidgu'e	$x_1$ est l'Indonésie	lujvo	Indonésie			bindo;gugde
+bifca'e	$x_1$ souffle $x_2$ ; $x_1$ propulse $x_2$ en soufflant dessus	lujvo	souffler			brife;catke
+bigygau	$x_1$ oblige $x_2$ à $x_3$ selon la norme $x_4$	lujvo	obliger			bilga;gasnu
+bijyjbu	$x_1$ est un bureau de matériau $x_2$ dans l'entreprise $x_3$ du travailleur $x_4$ à l'endroit $x_5$	lujvo	bureau			briju;jubme
 bi ki'o	8000	cmavo-compound	8000
-bikspu	$x_1$ répond abruptement à $x_2$ avec la réponse $x_3$	lujvo				bikla,spuda
+bikspu	$x_1$ répond abruptement à $x_2$ avec la réponse $x_3$	lujvo				bikla;spuda
 bi mei	est un octet	cmavo-compound	octet
 bi moi	8ème	cmavo-compound	8ème
 binra	$x_1$ assure $x_2$ contre le péril $x_3$ fournissant les bénéfices $x_4$	gismu	assurance	binr;binra	$x_2$ : personne. $x_3$ : évènement. $x_4$ : évènement
 bisli	$x_1$ est de la glace de composition $x_2$ cristal gelé	gismu	glace	bis;bisl;bisli
-bimxra	$x_1$ est une fresque représentant $x_2$ faite par $x_3$ sur le mur $x_4$	lujvo	fresque			bitmu,pixra
+bimxra	$x_1$ est une fresque représentant $x_2$ faite par $x_3$ sur le mur $x_4$	lujvo	fresque			bitmu;pixra
 bi no	80	cmavo-compound	80
 bi no no	800	cmavo-compound	800
 bi no no vo	8004	cmavo-compound	8004
 bitmu	$x_1$ est une cloison séparant $x_2$ et $x_3$ dans la structure $x_4$ fe et fi non ordonné	gismu	cloison	bim;bi'u;bitm;bitmu
 bi'u	nouvelle information	cmavo	nouvelle information
-bircidni	$x_1$ est l'épaule de $x_2$	lujvo	épaule			birka,cidni
-bisma'a	$x_1$ est un iceberg dans l'océan $x_2$	lujvo	iceberg			bisli,cmana
-bitygau	$x_1$ persuade $x_2$ que $x_3$ est vrai	lujvo	persuader			birti,gasnu
+bircidni	$x_1$ est l'épaule de $x_2$	lujvo	épaule			birka;cidni
+bisma'a	$x_1$ est un iceberg dans l'océan $x_2$	lujvo	iceberg			bisli;cmana
+bitygau	$x_1$ persuade $x_2$ que $x_3$ est vrai	lujvo	persuader			birti;gasnu
 bi'u nai	ancienne information	cmavo-compound	ancienne information
 blaci	$x_1$ est du verre de composition $x_2$	gismu	verre	blac;blaci
 blanu	$x_1$ est bleu	gismu	bleu	bla;blan;blanu	adjectif de couleur
@@ -179,14 +179,14 @@ bu'o	débute une émotion	cmavo	débute une émotion
 by	lettre « b »	cmavo	b
 ca'a	est en cours à l'instant	cmavo		caz
 ca'i	par autorité de	cmavo	par autorité de
-bunspe	$x_1$ est le beau-frère de $x_2$ selon la coutume $x_3$	lujvo	beau-frère		frère de l'épouse	bruna,speni
+bunspe	$x_1$ est le beau-frère de $x_2$ selon la coutume $x_3$	lujvo	beau-frère		frère de l'épouse	bruna;speni
 bu'o cu'i	continue une émotion	cmavo-compound	continue une émotion
 bu'o nai	fini une émotion	cmavo-compound	fini une émotion
 bu'u	au même endroit que	cmavo	au même endroit que
 ca	pendant	cmavo	pendant
 cai	émotion intense	cmavo	émotion intense
-cabdei	$x_1$ est le même jour que $x_2$ selon le standard $x_3$	lujvo	aujourd'hui		par défaut : aujourd'hui	cabna,djedi
-cabna'a	$x_1$ est l'année courante du calendrier $x_2$ en même temps que $x_3$	lujvo	année courante			cabna,nanca
+cabdei	$x_1$ est le même jour que $x_2$ selon le standard $x_3$	lujvo	aujourd'hui		par défaut : aujourd'hui	cabna;djedi
+cabna'a	$x_1$ est l'année courante du calendrier $x_2$ en même temps que $x_3$	lujvo	année courante			cabna;nanca
 ca ca'a	est à l'instant	cmavo-compound
 ca ca'o	est actuellement de façon continue	cmavo-compound
 cakla	$x_1$ est du chocolat chocolat/cacao	gismu	chocolat	cakl;cakla
@@ -194,10 +194,10 @@ calku	$x_1$ est une coquille autour de $x_2$ composée de $x_3$ couverture solid
 canko	$x_1$ est une ouverture dans $x_2$ fenêtre/portail/ouverture	gismu	fenêtre	ca'o;cank;canko	$x_2$ : mur/construction/structure
 canpa	$x_1$ est une pelle creusant $x_2$	gismu	pelle	cna;canp;canpa	ustensile à lame servant à creuser
 ca'e	je définis	cmavo	définition
-cafrei	$x_1$ est une question fréquente sur le sujet $x_2$	lujvo	FAQ			cafne,preti
-caitcu	$x_1$ a désespérément besoin de $x_2$ pour le but $x_3$	lujvo				carmi,nitcu
+cafrei	$x_1$ est une question fréquente sur le sujet $x_2$	lujvo	FAQ			cafne;preti
+caitcu	$x_1$ a désespérément besoin de $x_2$ pour le but $x_3$	lujvo				carmi;nitcu
 ca je ba	pendant et ensuite	cmavo-compound
-cakyrespa	$x_1$ est une tortue de l'espèce $x_2$	lujvo	tortue			calku,respa
+cakyrespa	$x_1$ est une tortue de l'espèce $x_2$	lujvo	tortue			calku;respa
 ca ma	question « quand? »	cmavo-compound	quand ?
 cange	$x_1$ est une ferme à l'endroit $x_2$, exploitée par $x_3$, produisant $x_4$	gismu	ferme	cag;cang;cange	adjectif : fa est agraire
 canti	$x_1$ sont les viscères de $x_2$	gismu	entraille	cant;canti
@@ -261,21 +261,21 @@ ce'o	avec … dans une séquence	cmavo		ce'o
 ci	3	cmavo	3	cib
 ci'e	dans le système	cmavo
 ci'i	infini (nombre)	cmavo	infini
-camki'a	$x_1$ hurle $x_2$	lujvo	hurler			carmi,krixa
-capnu'e	$x_1$ menace $x_2$ de $x_3$	lujvo	menacer			ckape,nupre
+camki'a	$x_1$ hurle $x_2$	lujvo	hurler			carmi;krixa
+capnu'e	$x_1$ menace $x_2$ de $x_3$	lujvo	menacer			ckape;nupre
 ca pu'o	va bientôt	cmavo-compound
-carbi'e	$x_1$ est une tornade allant vers $x_2$ à la vitesse $x_3$ tournant autour de $x_4$ dans le sens $x_5$	lujvo	tornade			carna,brife
-caucni	$x_1$ se languit de $x_2$	lujvo	se languir			claxu,cinmo
-cavlu'i	$x_1$ douche $x_2$	lujvo	doucher			carvi,lumci
-celxa'i	$x_1$ est une arme à feu utilisée contre $x_2$ par $x_3$ lançant les projectiles $x_4$ propulsés par $x_5$	lujvo	arme à feu			cecla,xarci
-cersai	$x_1$ est un petit-déjeuner composé de $x_2$	lujvo	petit-déjeuner			cerni,sanmi
-cesycku	$x_1$ est un livre sacré contenant $x_2$ écrit par $x_3$ pour $x_4$ dans le medium $x_5$	lujvo	livre sacré			censa,cukta
-cibdei	$x_1$ est un mercredi de la semaine $x_2$ du calendrier $x_3$	lujvo	mercredi			ci,djedi
-cicfoi	$x_1$ est une terre sauvage de matériau $x_2$	lujvo	terre sauvage			cilce,foldi
-cicricfoi	$x_1$ est une forêt vierge avec les arbres $x_2$	lujvo	jungle			cilce,tricu,foldi
-cidydzu	$x_1$ marche à 4 pattes sur la surface $x_2$	lujvo	marcher à 4 pattes			cidni,cadzu
-ci'erkei	$x_1$ joue au jeu $x_2$ suivant les règles $x_3$ avec les constituants $x_4$	lujvo	jouer			ciste,kelci
-ciftoldi	$x_1$ est une chenille de l'espèce $x_2$	lujvo	chenille			cifnu,toldi
+carbi'e	$x_1$ est une tornade allant vers $x_2$ à la vitesse $x_3$ tournant autour de $x_4$ dans le sens $x_5$	lujvo	tornade			carna;brife
+caucni	$x_1$ se languit de $x_2$	lujvo	se languir			claxu;cinmo
+cavlu'i	$x_1$ douche $x_2$	lujvo	doucher			carvi;lumci
+celxa'i	$x_1$ est une arme à feu utilisée contre $x_2$ par $x_3$ lançant les projectiles $x_4$ propulsés par $x_5$	lujvo	arme à feu			cecla;xarci
+cersai	$x_1$ est un petit-déjeuner composé de $x_2$	lujvo	petit-déjeuner			cerni;sanmi
+cesycku	$x_1$ est un livre sacré contenant $x_2$ écrit par $x_3$ pour $x_4$ dans le medium $x_5$	lujvo	livre sacré			censa;cukta
+cibdei	$x_1$ est un mercredi de la semaine $x_2$ du calendrier $x_3$	lujvo	mercredi			ci;djedi
+cicfoi	$x_1$ est une terre sauvage de matériau $x_2$	lujvo	terre sauvage			cilce;foldi
+cicricfoi	$x_1$ est une forêt vierge avec les arbres $x_2$	lujvo	jungle			cilce;tricu;foldi
+cidydzu	$x_1$ marche à 4 pattes sur la surface $x_2$	lujvo	marcher à 4 pattes			cidni;cadzu
+ci'erkei	$x_1$ joue au jeu $x_2$ suivant les règles $x_3$ avec les constituants $x_4$	lujvo	jouer			ciste;kelci
+ciftoldi	$x_1$ est une chenille de l'espèce $x_2$	lujvo	chenille			cifnu;toldi
 ci'i roi	temps infini	cmavo-compound
 ci ki'o	3000	cmavo-compound	3000
 cilre	$x_1$ apprends $x_2$ sur le sujet $x_3$ de la source $x_4$ par la méthode $x_5$	gismu	apprendre	cli;cilr;cilre	$x_2$ : énoncé. $x_4$ : événement/objet. $x_5$ : événement/procédure
@@ -287,12 +287,12 @@ cisma	$x_1$ sourit	gismu	sourire	cism;cisma
 citka	$x_1$ mange $x_2$ transitif	gismu	manger	cti;citk;citka
 citsi	$x_1$ est une saison définie par $x_2$ d'année $x_3$	gismu	saison	cits;citsi	$x_2$ : intervalle/propriété
 ci'o	émotionnellement ressenti par	cmavo
-cikybi'o	$x_1$ se réveille sous les conditions $x_2$	lujvo	se réveiller			cikna,binxo
-cimde'u	$x_1$ est de la boue provenant de $x_2$ de composition $x_3$ humidifiée par le liquide $x_4$	lujvo	boue			cilmo,dertu
+cikybi'o	$x_1$ se réveille sous les conditions $x_2$	lujvo	se réveiller			cikna;binxo
+cimde'u	$x_1$ est de la boue provenant de $x_2$ de composition $x_3$ humidifiée par le liquide $x_4$	lujvo	boue			cilmo;dertu
 ci mei	est un trio	cmavo-compound	trio
 ci moi	3ème	cmavo-compound	troisième
 cinje	$x_1$ est un pli dans $x_2$	gismu	pli	cij;cinj;cinje
-cinjikca	$x_1$ flirte avec $x_2$ exhibant l'orientation sexuelle $x_3$ selon la norme $x_4$	lujvo	flirter			cinse,jikca
+cinjikca	$x_1$ flirte avec $x_2$ exhibant l'orientation sexuelle $x_3$ selon la norme $x_4$	lujvo	flirter			cinse;jikca
 ci no	30	cmavo-compound	30
 ci no no	300	cmavo-compound	300
 civla	$x_1$ est un pou de type $x_2$ parasitant $x_3$ arthropode suceur de sang	gismu	pou	civ;civl;civla
@@ -441,7 +441,7 @@ co'e	bridi non spécifié	cmavo	bridi non spécifié	com;co'e
 coi	bonjour	cmavo	bonjour
 co'o	au revoir	cmavo	au revoir
 cu'a	valeur absolue	cmavo	valeur absolue		norme
-cnixai	$x_1$ offense $x_2$ dans l'émotion $x_3$ à propos de $x_4$ avec le résultat $x_5$	lujvo	offenser			cinmo,xrani
+cnixai	$x_1$ offense $x_2$ dans l'émotion $x_3$ à propos de $x_4$ avec le résultat $x_5$	lujvo	offenser			cinmo;xrani
 coi co'o	bonjour en passant	cmavo-compound	bonjour en passant
 cu	marqueur de début d'un selbri	cmavo	début d'un selbri
 cu'e	question « modal? »	cmavo	modal ?
@@ -463,20 +463,20 @@ do'e	sumtcita non spécifié	cmavo
 doi	identifie l'auditeur	cmavo	désigne l'auditeur
 do'o	toi/vous et d'autres	cmavo	toi et d'autres ; vous et d'autres
 du	est identique à	cmavo	identité	dub;du'o
-cpizda	$x_1$ est un nid de l'oiseau $x_2$ de l'espèce $x_3$	lujvo	nid			cipni,zdani
-crakla	$x_1$ avance jusqu'à $x_2$ depuis $x_3$ passant par $x_4$ par les moyens $x_5$	lujvo	avancer			crane,klama
-crezenzu'e	$x_1$ s'entraine pour la performance $x_2$	lujvo	s'entraîner			certu,zenba,zukte
-crogau	$x_1$ fait mal à $x_2$ à l'endroit $x_3$	lujvo	faire mal			cortu,gasnu
-ctigau	$x_1$ nourrit $x_2$ avec $x_3$	lujvo	nourrir			citka,gasnu
-ctiru'e	$x_1$ est la digestion de la nourriture $x_2$ en les excréments $x_3$ à travers les étapes $x_4$ par $x_5$	lujvo	digestion			citka,pruce
-ctuci'e	$x_1$ est un système d'éducation structuré par la politique administrative $x_2$ entre les institutions $x_3$ ayant la qualité $x_4$	lujvo	système éducatif			ctuca,ciste
-cucycau	$x_1$ est pieds nus	lujvo	va nu pied			cutci,claxu
-cukli'u	$x_1$ tourne en rond utilisant les moyens $x_2$	lujvo	tourner en rond			cukla,litru
-cumselpei	$x_1$ est concevable sous les conditions $x_2$	lujvo	concevable			cumki,se,pensi
-curfi'e	$x_1$ est une anguille de l'espèce $x_2$	lujvo	anguille			curnu,finpe
+cpizda	$x_1$ est un nid de l'oiseau $x_2$ de l'espèce $x_3$	lujvo	nid			cipni;zdani
+crakla	$x_1$ avance jusqu'à $x_2$ depuis $x_3$ passant par $x_4$ par les moyens $x_5$	lujvo	avancer			crane;klama
+crezenzu'e	$x_1$ s'entraine pour la performance $x_2$	lujvo	s'entraîner			certu;zenba;zukte
+crogau	$x_1$ fait mal à $x_2$ à l'endroit $x_3$	lujvo	faire mal			cortu;gasnu
+ctigau	$x_1$ nourrit $x_2$ avec $x_3$	lujvo	nourrir			citka;gasnu
+ctiru'e	$x_1$ est la digestion de la nourriture $x_2$ en les excréments $x_3$ à travers les étapes $x_4$ par $x_5$	lujvo	digestion			citka;pruce
+ctuci'e	$x_1$ est un système d'éducation structuré par la politique administrative $x_2$ entre les institutions $x_3$ ayant la qualité $x_4$	lujvo	système éducatif			ctuca;ciste
+cucycau	$x_1$ est pieds nus	lujvo	va nu pied			cutci;claxu
+cukli'u	$x_1$ tourne en rond utilisant les moyens $x_2$	lujvo	tourner en rond			cukla;litru
+cumselpei	$x_1$ est concevable sous les conditions $x_2$	lujvo	concevable			cumki;se;pensi
+curfi'e	$x_1$ est une anguille de l'espèce $x_2$	lujvo	anguille			curnu;finpe
 cu'u ko'a	exprimé par ko'a	cmavo-compound	exprimé par ko'a
 cy	lettre « c »	cmavo	c
-cu'upre	$x_1$ est un homme d'affaire, investi dans $x_2$	lujvo	homme d'affaire			cuntu,prenu
+cu'upre	$x_1$ est un homme d'affaire, investi dans $x_2$	lujvo	homme d'affaire			cuntu;prenu
 da'a moi	avant dernier	cmavo-compound	avant dernier
 da'a re moi	antépénultième	cmavo-compound	antépénultième
 dakfu	$x_1$ coupe $x_2$, avec une lame de matériau $x_3$ outil coupant	gismu	couper	dak;dakf;dakfu
@@ -485,39 +485,39 @@ da'i	je suppose	cmavo	je suppose
 dai	applique un cnima'o à {do}	cmavo	empathie
 du'a	à l'est de	cmavo	à l'est
 du'e	trop	cmavo	trop
-da'erjicla	$x_1$ malaxe $x_2$	lujvo	malaxer			danre,jicla
-dafsku	$x_1$ réponds $x_2$ à la question $x_3$	lujvo	répondre			danfu,cusku
-dagysni	$x_1$ est un panneau de signalisation routière signifiant $x_2$ pour $x_3$	lujvo	panneau routier			dargu,sinxa
+da'erjicla	$x_1$ malaxe $x_2$	lujvo	malaxer			danre;jicla
+dafsku	$x_1$ réponds $x_2$ à la question $x_3$	lujvo	répondre			danfu;cusku
+dagysni	$x_1$ est un panneau de signalisation routière signifiant $x_2$ pour $x_3$	lujvo	panneau routier			dargu;sinxa
 da'i nai	en fait	cmavo-compound	en fait
 danmo	$x_1$ est de la fumée provenant de $x_2$	gismu	fumée	dam;danm;danmo
-dakyxa'i	$x_1$ est une dague utilisée contre $x_2$ par $x_3$ avec une lame de matériau $x_4$	lujvo	dague			dakfu,xarci
-dalpe'o	$x_1$ est un animal de compagnie de $x_2$ d'espèce $x_3$	lujvo	animal de compagnie			danlu,pendo
-damtu'u	$x_1$ est une cheminée de matériau $x_2$ pour évacuer $x_3$ de la source $x_4$	lujvo	cheminée			danmo,tubnu
-damva'u	$x_1$ respire la fumée $x_2$ fumer	lujvo				danmo,vasxu
-dansydi'u	$x_1$ est une discothèque	lujvo	discothèque			dansu,dinju
-datnyvei	$x_1$ est un fichier contenant les données $x_2$ sur $x_3$ dans le medium $x_4$	lujvo	fichier de données			datni,vreji
-dausnu	$x_1$ débat de $x_2$	lujvo	débattre			darlu,casnu
-daxfli	$x_1$ n'arrive pas à frapper $x_2$ avec $x_3$ au point $x_4$	lujvo				darxi,fliba
-degycauglu	$x_1$ est une moufle de matériau $x_2$	lujvo	moufle			degji,claxu,gluta
-degycidni	$x_1$ est une jointure sur le membre $x_2$ du corps $x_3$ articulation d'un'doigt'	lujvo	articulation interphalangienne			degji,cidni
-demsilka	$x_1$ est du velours produit par $x_2$	lujvo	velour			denmi,silka
-demspa	$x_1$ est un buisson de type $x_2$	lujvo	buisson			denmi,spati
-denmikce	$x_1$ est un dentiste traitant le patient $x_2$ avec $x_3$	lujvo	dentiste			denci,mikce
+dakyxa'i	$x_1$ est une dague utilisée contre $x_2$ par $x_3$ avec une lame de matériau $x_4$	lujvo	dague			dakfu;xarci
+dalpe'o	$x_1$ est un animal de compagnie de $x_2$ d'espèce $x_3$	lujvo	animal de compagnie			danlu;pendo
+damtu'u	$x_1$ est une cheminée de matériau $x_2$ pour évacuer $x_3$ de la source $x_4$	lujvo	cheminée			danmo;tubnu
+damva'u	$x_1$ respire la fumée $x_2$ fumer	lujvo				danmo;vasxu
+dansydi'u	$x_1$ est une discothèque	lujvo	discothèque			dansu;dinju
+datnyvei	$x_1$ est un fichier contenant les données $x_2$ sur $x_3$ dans le medium $x_4$	lujvo	fichier de données			datni;vreji
+dausnu	$x_1$ débat de $x_2$	lujvo	débattre			darlu;casnu
+daxfli	$x_1$ n'arrive pas à frapper $x_2$ avec $x_3$ au point $x_4$	lujvo				darxi;fliba
+degycauglu	$x_1$ est une moufle de matériau $x_2$	lujvo	moufle			degji;claxu;gluta
+degycidni	$x_1$ est une jointure sur le membre $x_2$ du corps $x_3$ articulation d'un'doigt'	lujvo	articulation interphalangienne			degji;cidni
+demsilka	$x_1$ est du velours produit par $x_2$	lujvo	velour			denmi;silka
+demspa	$x_1$ est un buisson de type $x_2$	lujvo	buisson			denmi;spati
+denmikce	$x_1$ est un dentiste traitant le patient $x_2$ avec $x_3$	lujvo	dentiste			denci;mikce
 denpa bu	symbole de pause : « . »	bu-letteral
-depsna	$x_1$ est une marque sonore d'hésitation de $x_2$ jusqu'à $x_3$ en l'état $x_4$ dans l'activité $x_5$	lujvo	hésitation sonore			denpa,sance
-desygau	$x_1$ secoue $x_2$	lujvo	secouer			desku,gasnu
-detna'a	$n_1$=$d_1$ est une année du calendrier $n_3$=$d_4$	lujvo	année		Voir aussi {detri}, {nanca}	detri,nanca
-dibrai	$x_1$ est le plus précieux pour $x_2$ parmi $x_3$	lujvo	le plus précieux			dirba,traji
-dictergu'i	$x_1$ est une lampe électrique éclairant $x_2$ avec la lumière $x_3$	lujvo	lampe électrique			dikca,te,gusni
+depsna	$x_1$ est une marque sonore d'hésitation de $x_2$ jusqu'à $x_3$ en l'état $x_4$ dans l'activité $x_5$	lujvo	hésitation sonore			denpa;sance
+desygau	$x_1$ secoue $x_2$	lujvo	secouer			desku;gasnu
+detna'a	$n_1$=$d_1$ est une année du calendrier $n_3$=$d_4$	lujvo	année		Voir aussi {detri}, {nanca}	detri;nanca
+dibrai	$x_1$ est le plus précieux pour $x_2$ parmi $x_3$	lujvo	le plus précieux			dirba;traji
+dictergu'i	$x_1$ est une lampe électrique éclairant $x_2$ avec la lumière $x_3$	lujvo	lampe électrique			dikca;te;gusni
 di'i nai	irrégulièrement	cmavo-compound	irrégulièrement
 do'a	généreusement	cmavo	généreusement		attitudinal
-dinjbera	$x_1$ emprunte l'argent $x_2$ à $x_3$ pour la durée $x_4$	lujvo	emprunter			jdini,jbera
-djekarni	$x_1$ est un quotidien avec le contenu $x_2$ publié par $x_3$ pour le public $x_4$	lujvo	quotidien			djedi,karni
-djusku	$x_1$ conseille $x_2$ à $x_3$ à propos de $x_4$ via le medium $x_5$	lujvo	conseiller			sidju,cusku
+dinjbera	$x_1$ emprunte l'argent $x_2$ à $x_3$ pour la durée $x_4$	lujvo	emprunter			jdini;jbera
+djekarni	$x_1$ est un quotidien avec le contenu $x_2$ publié par $x_3$ pour le public $x_4$	lujvo	quotidien			djedi;karni
+djusku	$x_1$ conseille $x_2$ à $x_3$ à propos de $x_4$ via le medium $x_5$	lujvo	conseiller			sidju;cusku
 do'a nai	parcimonieusement	cmavo-compound	parcimonieusement		attitudinal
 doi do'u	eh toi !	cmavo-compound	eh toi !
-dormidju	$x_1$ est le midi du jour $x_2$ à l'endroit $x_3$	lujvo	midi			donri,midju
-dormijysai	$x_1$ est un déjeuner composé des plats $x_2$	lujvo	déjeuner			donri,midju,sanmi
+dormidju	$x_1$ est le midi du jour $x_2$ à l'endroit $x_3$	lujvo	midi			donri;midju
+dormijysai	$x_1$ est un déjeuner composé des plats $x_2$	lujvo	déjeuner			donri;midju;sanmi
 du'e mei	est trop	cmavo-compound	est trop
 du'e roi	trop souvent	cmavo-compound	trop souvent
 dugri	$x_1$ est le logarithme de $x_2$ dans la base $x_3$	gismu	logarithme	dug;dugr;dugri
@@ -542,9 +542,9 @@ e'a	permission	cmavo	permission
 e'e	compétence	cmavo	compétence
 e'o	attitudinal : requête	cmavo	requête
 e'u	suggestion	cmavo	suggestion
-dzitricu	$x_1$ est un buisson de l'espèce $x_2$	lujvo	buisson			dizlo,tricu
-dzuga'a	$x_1$ est une canne de matériau $x_2$ pour marcher	lujvo	canne			cadzu,grana
-dzupoi	$x_1$ est une procession ordonnée selon $x_2$	lujvo	procession			cadzu,porsi
+dzitricu	$x_1$ est un buisson de l'espèce $x_2$	lujvo	buisson			dizlo;tricu
+dzuga'a	$x_1$ est une canne de matériau $x_2$ pour marcher	lujvo	canne			cadzu;grana
+dzupoi	$x_1$ est une procession ordonnée selon $x_2$	lujvo	procession			cadzu;porsi
 e'a nai	interdiction	cmavo-compound	interdiction
 e bu	lettre « e »	bu-letteral	e
 e'e nai	incompétence	cmavo-compound	incompétence
@@ -554,9 +554,9 @@ e nai	x et non y (sumti)	cmavo-compound	et non
 fa'e	séquence inverse de	cmavo
 fa'i	opérateur inverse (pour*)	cmavo
 fai	place sumti supplémentaire	cmavo
-fagzda	$x_1$ est un foyer de combustion du combustible $x_2$ dans le comburant $x_3$ Le comburant par défaut est l'air	lujvo				fagri,zdani
-fairgau	$x_1$ distribue $x_2$ à $x_3$ en portions $x_4$	lujvo				fatri,gasnu
-fakli'u	$x_1$ explore le sujet $x_2$ via les faits $x_3$ avec les instruments $x_4$	lujvo				facki,litru
+fagzda	$x_1$ est un foyer de combustion du combustible $x_2$ dans le comburant $x_3$ Le comburant par défaut est l'air	lujvo				fagri;zdani
+fairgau	$x_1$ distribue $x_2$ à $x_3$ en portions $x_4$	lujvo				fatri;gasnu
+fakli'u	$x_1$ explore le sujet $x_2$ via les faits $x_3$ avec les instruments $x_4$	lujvo				facki;litru
 encere	$x_1$ est un hippopotame de type $x_2$	fu'ivla		encere
 e'u cu'i	suggestion d'abandon	cmavo-compound
 e'u nai	avertissement	cmavo-compound	avertissement
@@ -590,14 +590,14 @@ fe	marqueur 2 ème place (sumti)	cmavo
 fe'a	racine nième de	cmavo
 fe'e	aspects spatiaux	cmavo
 fe'i	divisé par	cmavo
-fagju'e	$x_1$ est un garde-feu pour une flamme de combustible $x_2$ de comburant $x_3$	lujvo				fagri,julne
-falcru	$x_1$ laisse tomber $x_2$ sur $x_3$ depuis $x_4$	lujvo				farlu,curmi
-famsku	$x_1$ conclut en exprimant $x_2$ au public $x_3$ par le medium $x_4$ conclusion de $x_5$	lujvo				fanmo,cusku
-farcri	$x_1$ se perd, en route vers $x_2$, vers $x_3$	lujvo				farna,cirko
-fasybau	$x_1$ est la langue française utilisée par $x_2$ pour exprimer $x_3$	lujvo				fraso,bangu
-fasygu'e	$x_1$ est la France	lujvo				fraso,gugde
-fatka'e	$x_1$ est réversible en $x_2$ par $x_3$ sous les conditions $x_4$	lujvo				fatne,kakne
-favgau	$x_1$ développe $x_2$ en $x_3$ depuis $x_4$ en passant par les étapes $x_5$	lujvo				farvi,gasnu
+fagju'e	$x_1$ est un garde-feu pour une flamme de combustible $x_2$ de comburant $x_3$	lujvo				fagri;julne
+falcru	$x_1$ laisse tomber $x_2$ sur $x_3$ depuis $x_4$	lujvo				farlu;curmi
+famsku	$x_1$ conclut en exprimant $x_2$ au public $x_3$ par le medium $x_4$ conclusion de $x_5$	lujvo				fanmo;cusku
+farcri	$x_1$ se perd, en route vers $x_2$, vers $x_3$	lujvo				farna;cirko
+fasybau	$x_1$ est la langue française utilisée par $x_2$ pour exprimer $x_3$	lujvo				fraso;bangu
+fasygu'e	$x_1$ est la France	lujvo				fraso;gugde
+fatka'e	$x_1$ est réversible en $x_2$ par $x_3$ sous les conditions $x_4$	lujvo				fatne;kakne
+favgau	$x_1$ développe $x_2$ en $x_3$ depuis $x_4$ en passant par les étapes $x_5$	lujvo				farvi;gasnu
 fau'u	Désolé(e)! : vocatif	experimental cmavo	Désolé(e)! : vocatif
 fe'e ba'o	autour	cmavo-compound
 fe'e ca'o	à travers	cmavo-compound
@@ -678,55 +678,55 @@ fu'u	opérateur non spécifié	cmavo
 ga'a	pour l'observateur	cmavo
 ga'i	attitudinal : hauteur	cmavo
 gai	12 (C en hexadécimal)	cmavo
-ba'urtadji	$x_1$ est la prononciation de $x_2$ pour $x_3$ sous les conditions $x_4$	lujvo				bacru,tadji
-bauske	$x_1$ est une linguistique basée sur la méthodologie $x_2$	lujvo	linguistique			bangu,saske
-bavlamdei	$x_1$ est le lendemain de $x_2$ selon le standard $x_3$ par défaut : demain	lujvo	demain			balvi,lamji,djedi
-be'aspe	$x_1$ est une bru de $x_2$ selon la loi $x_3$	lujvo	bru			bersa,speni
-bemtu'a	$x_1$ est l'Amérique du Nord	lujvo	Amérique du Nord			bemro,tumla
-bloja'a	$x_1$ est le capitaine du bateau $x_2$ transportant $x_3$	lujvo	commandant			bloti,jatna
-blopre	$x_1$ est un marin du bateau $x_2$ transportant $x_3$	lujvo	marin			bloti,prenu
-blosazri	$x_1$ manoeuvre le bateau $x_2$	lujvo	naviguer			bloti,sazri
-blosoi	$x_1$ est un marin de l'unité militaire $x_2$	lujvo	marin			bloti,sonci
-blupinxe	$x_1$ est un vampire buvant le sang de $x_2$	lujvo	vampire			ciblu,pinxe
-bogygreku	$x_1$ est un squelette avec la fonction $x_2$	lujvo	squelette			bongu,greku
-bolbi'o	$x_1$ s'arrondit sous les conditions $x_2$	lujvo	s'arrondir			bolci,binxo
-boltipyjvi	$x_1$ joue au football contre $x_2$ dans la compétition $x_3$ pour la récompense $x_4$	lujvo	football			bolci,tikpa,jivna
-bonjarple	$x_1$ est du carton ondulé de la source $x_2$	lujvo	carton			boxna,jdari,pelji
-botlai	$x_1$ mesure $x_2$ bouteilles	lujvo	bouteille(s)			botpi,klani
-braplu	$x_1$ est un continent de $x_2$ ; $x_2$ est une planète ou un océan	lujvo	continent			barda,daplu
-brato'a	$x_1$ est un ton de haute fréquence provenant de $x_2$	lujvo	ultrason			barda,tonga
-braxamsi	$x_1$ est un océan de la planète $x_2$ composé du fluide $x_3$	lujvo	océan			barda,xamsi
-brivla	$x_1$ est un prédicat morphologiquement défini signifiant la relation $x_2$ dans le langage $x_3$	lujvo	prédicat		En lojban un tel mot finit par une voyelle et contient un cluster de consonne dans les 5 premières lettres (sans compter les y)	bridi,valsi
-cirvai	$x_1$ est un moment clé de l'histoire de $x_2$ selon $x_3$ dans l'aspect $x_4$	lujvo	historique			citri,vajni
-citmle	$x_1$ est mignon pour $x_2$ dans l'aspect $x_3$	lujvo	mignon			citno,melbi
-cizda'u	$x_1$ est un monstre de l'espèce $x_2$ monstreux selon $x_3$ dans l'aspect $x_4$	lujvo	monstre			cizra,danlu
-ckupau	$x_1$ est un chapitre du livre $x_2$	lujvo	chapitre			cukta,pagbu
-clamau	$x_1$ est plus long que $x_2$ en direction $x_3$ de la quantité $x_4$	lujvo	plus long			clani,zmadu
-clanebda'u	$x_1$ est une girafe de type $x_2$	lujvo	girafe			clani,cnebo,danlu
-clugau	$x_1$ remplit $x_2$ avec $x_3$	lujvo	remplir			culno,gasnu
-cmafi'a	$x_1$ est une nouvelle sur le sujet $x_2$ de l'auteur $x_3$	lujvo	nouvelle			cmalu,cfika
-cmevla	$x_1$ est un nom morphologiquement contraint signifiant $x_2$ dans le langage $x_3$	lujvo	nom		En lojban ils finissent par une consonne	cmene,valsi
-cmicu'a	$x_1$ vote pour $x_2$ parmi les candidats $x_3$ et appartient au groupe d'électeur $x_4$	lujvo	voter			cmima,cuxna
-cnima'o	$x_1$ est un attitudinal signifiant $x_2$ dans la langue $x_3$	lujvo	attitudinal			cinmo,cmavo
-fegmli	$x_1$ est irrité par $x_2$ à cause de $x_3$ ; $x_2$ est un agent	lujvo				fengu,milxe
-fesygau	$x_1$ gaspille $x_2$ par l'activité $x_3$	lujvo				festi,gasnu
-fetspe	$x_1$ est l'épouse de $x_2$ selon $x_3$	lujvo				fetsi,speni
-fe'ucmo	$x_1$ rale $x_2$ de colère contre $x_3$ à cause de $x_4$	lujvo				fengu,cmoni
-ficybi'o	$x_1$ s'altère depuis $x_2$ selon $x_3$ sous les conditions $x_4$	lujvo				frica,binxo
+ba'urtadji	$x_1$ est la prononciation de $x_2$ pour $x_3$ sous les conditions $x_4$	lujvo				bacru;tadji
+bauske	$x_1$ est une linguistique basée sur la méthodologie $x_2$	lujvo	linguistique			bangu;saske
+bavlamdei	$x_1$ est le lendemain de $x_2$ selon le standard $x_3$ par défaut : demain	lujvo	demain			balvi;lamji;djedi
+be'aspe	$x_1$ est une bru de $x_2$ selon la loi $x_3$	lujvo	bru			bersa;speni
+bemtu'a	$x_1$ est l'Amérique du Nord	lujvo	Amérique du Nord			bemro;tumla
+bloja'a	$x_1$ est le capitaine du bateau $x_2$ transportant $x_3$	lujvo	commandant			bloti;jatna
+blopre	$x_1$ est un marin du bateau $x_2$ transportant $x_3$	lujvo	marin			bloti;prenu
+blosazri	$x_1$ manoeuvre le bateau $x_2$	lujvo	naviguer			bloti;sazri
+blosoi	$x_1$ est un marin de l'unité militaire $x_2$	lujvo	marin			bloti;sonci
+blupinxe	$x_1$ est un vampire buvant le sang de $x_2$	lujvo	vampire			ciblu;pinxe
+bogygreku	$x_1$ est un squelette avec la fonction $x_2$	lujvo	squelette			bongu;greku
+bolbi'o	$x_1$ s'arrondit sous les conditions $x_2$	lujvo	s'arrondir			bolci;binxo
+boltipyjvi	$x_1$ joue au football contre $x_2$ dans la compétition $x_3$ pour la récompense $x_4$	lujvo	football			bolci;tikpa;jivna
+bonjarple	$x_1$ est du carton ondulé de la source $x_2$	lujvo	carton			boxna;jdari;pelji
+botlai	$x_1$ mesure $x_2$ bouteilles	lujvo	bouteille(s)			botpi;klani
+braplu	$x_1$ est un continent de $x_2$ ; $x_2$ est une planète ou un océan	lujvo	continent			barda;daplu
+brato'a	$x_1$ est un ton de haute fréquence provenant de $x_2$	lujvo	ultrason			barda;tonga
+braxamsi	$x_1$ est un océan de la planète $x_2$ composé du fluide $x_3$	lujvo	océan			barda;xamsi
+brivla	$x_1$ est un prédicat morphologiquement défini signifiant la relation $x_2$ dans le langage $x_3$	lujvo	prédicat		En lojban un tel mot finit par une voyelle et contient un cluster de consonne dans les 5 premières lettres (sans compter les y)	bridi;valsi
+cirvai	$x_1$ est un moment clé de l'histoire de $x_2$ selon $x_3$ dans l'aspect $x_4$	lujvo	historique			citri;vajni
+citmle	$x_1$ est mignon pour $x_2$ dans l'aspect $x_3$	lujvo	mignon			citno;melbi
+cizda'u	$x_1$ est un monstre de l'espèce $x_2$ monstreux selon $x_3$ dans l'aspect $x_4$	lujvo	monstre			cizra;danlu
+ckupau	$x_1$ est un chapitre du livre $x_2$	lujvo	chapitre			cukta;pagbu
+clamau	$x_1$ est plus long que $x_2$ en direction $x_3$ de la quantité $x_4$	lujvo	plus long			clani;zmadu
+clanebda'u	$x_1$ est une girafe de type $x_2$	lujvo	girafe			clani;cnebo;danlu
+clugau	$x_1$ remplit $x_2$ avec $x_3$	lujvo	remplir			culno;gasnu
+cmafi'a	$x_1$ est une nouvelle sur le sujet $x_2$ de l'auteur $x_3$	lujvo	nouvelle			cmalu;cfika
+cmevla	$x_1$ est un nom morphologiquement contraint signifiant $x_2$ dans le langage $x_3$	lujvo	nom		En lojban ils finissent par une consonne	cmene;valsi
+cmicu'a	$x_1$ vote pour $x_2$ parmi les candidats $x_3$ et appartient au groupe d'électeur $x_4$	lujvo	voter			cmima;cuxna
+cnima'o	$x_1$ est un attitudinal signifiant $x_2$ dans la langue $x_3$	lujvo	attitudinal			cinmo;cmavo
+fegmli	$x_1$ est irrité par $x_2$ à cause de $x_3$ ; $x_2$ est un agent	lujvo				fengu;milxe
+fesygau	$x_1$ gaspille $x_2$ par l'activité $x_3$	lujvo				festi;gasnu
+fetspe	$x_1$ est l'épouse de $x_2$ selon $x_3$	lujvo				fetsi;speni
+fe'ucmo	$x_1$ rale $x_2$ de colère contre $x_3$ à cause de $x_4$	lujvo				fengu;cmoni
+ficybi'o	$x_1$ s'altère depuis $x_2$ selon $x_3$ sous les conditions $x_4$	lujvo				frica;binxo
 fi'i nai	attitudinal : inhospitalité	cmavo-compound
-filsmu	$x_1$ a clairement le sens $x_2$ pour $x_3$ dans les conditions $x_4$	lujvo				frili,smuni
-fipkalte	$x_1$ pêche les poissons $x_2$	lujvo				finpe,kalte
-firfra	$x_1$ a l'air $x_2$ en réaction à $x_3$ sous les conditions $x_4$	lujvo				flira,frati
-fitytu'i	$x_1$ accepte l'offre $x_2$ de $x_3$	lujvo				friti,tugni
-fi'urgau	$x_1$ rend l'événement $x_2$ confus pour $x_3$ à cause de la propriété $x_4$	lujvo				cfipu,gasnu
-fonta'a	$x_1$ parle au téléphone à $x_2$ de $x_3$ dans la langue $x_4$	lujvo				fonxa,tavla
-frufra	$x_1$ grimace en réaction à $x_2$	lujvo				frumu,frati
+filsmu	$x_1$ a clairement le sens $x_2$ pour $x_3$ dans les conditions $x_4$	lujvo				frili;smuni
+fipkalte	$x_1$ pêche les poissons $x_2$	lujvo				finpe;kalte
+firfra	$x_1$ a l'air $x_2$ en réaction à $x_3$ sous les conditions $x_4$	lujvo				flira;frati
+fitytu'i	$x_1$ accepte l'offre $x_2$ de $x_3$	lujvo				friti;tugni
+fi'urgau	$x_1$ rend l'événement $x_2$ confus pour $x_3$ à cause de la propriété $x_4$	lujvo				cfipu;gasnu
+fonta'a	$x_1$ parle au téléphone à $x_2$ de $x_3$ dans la langue $x_4$	lujvo				fonxa;tavla
+frufra	$x_1$ grimace en réaction à $x_2$	lujvo				frumu;frati
 fu'i nai	attitudinal : difficile	cmavo-compound
 galfi	$x_1$ modifie $x_2$ en $x_3$	gismu		gaf;ga'i;galf;galfi	$x_1$ : évènement
 fy	lettre « f »	cmavo
 ga'e	passage en haut de casse	cmavo
-fu'ivla	$x_1$ est un mot emprunté signifiant $x_2$ dans la langue $x_3$, basé sur le mot $x_4$ dans la langue $x_5$	lujvo				fukpi,valsi
-furtirse	$x_1$ est de la rouille	lujvo				fusra,tirse
+fu'ivla	$x_1$ est un mot emprunté signifiant $x_2$ dans la langue $x_3$, basé sur le mot $x_4$ dans la langue $x_5$	lujvo				fukpi;valsi
+furtirse	$x_1$ est de la rouille	lujvo				fusra;tirse
 ga'i cu'i	attitudinal : parité	cmavo-compound
 ga'i nai	attitudinal : infériorité	cmavo-compound
 ganxo	$x_1$ est l'anus de $x_2$	gismu		gax;ganx;ganxo	métaphore : issue des déchets,sortie
@@ -764,17 +764,17 @@ go'a	bridi récent	cmavo
 go'e	avant dernier bridi	cmavo
 go'i	répète le sens du dernier bridi	cmavo
 goi	assigne un pro-sumti à un sumti	cmavo
-gaskre	$x_1$ est une vibrisse de $x_2$ à l'endroit $x_3$ pour percevoir $x_4$ sous les conditions $x_5$ poil senseur	lujvo				ganse,kerfa
-gazykamni	$x_1$ est le comité organisant $x_2$ en $x_3$ selon le système $x_4$, comité de l'organisation $x_5$	lujvo				ganzu,kamni
-gendra	$x_1$ est grammaticalement correct dans la situation $x_2$ selon la grammaire $x_3$	lujvo				gerna,drani
-gercmo	$x_1$ aboie exprimant $x_2$	lujvo				gerku,cmoni
-getygu'e	$x_1$ est l'argentine	lujvo				gento,gugde
+gaskre	$x_1$ est une vibrisse de $x_2$ à l'endroit $x_3$ pour percevoir $x_4$ sous les conditions $x_5$ poil senseur	lujvo				ganse;kerfa
+gazykamni	$x_1$ est le comité organisant $x_2$ en $x_3$ selon le système $x_4$, comité de l'organisation $x_5$	lujvo				ganzu;kamni
+gendra	$x_1$ est grammaticalement correct dans la situation $x_2$ selon la grammaire $x_3$	lujvo				gerna;drani
+gercmo	$x_1$ aboie exprimant $x_2$	lujvo				gerku;cmoni
+getygu'e	$x_1$ est l'argentine	lujvo				gento;gugde
 gi'e nai	x et non y (queue de bridi)	cmavo-compound
 gi'o nai	x XOR y (queue de bridi)	cmavo-compound
-glabi'a	$x_1$ est fiévreux à cause de la maladie $x_2$ selon le standard $x_3$	lujvo				glare,bilma
-glebre	$x_1$ est sexuellement excité	lujvo				gletu,bredi
-gligu'e	$x_1$ est l'Angleterre	lujvo				glico,gugde
-glixi'o	$x_1$ est anglican dans l'aspect $x_2$	lujvo				glico,xriso
+glabi'a	$x_1$ est fiévreux à cause de la maladie $x_2$ selon le standard $x_3$	lujvo				glare;bilma
+glebre	$x_1$ est sexuellement excité	lujvo				gletu;bredi
+gligu'e	$x_1$ est l'Angleterre	lujvo				glico;gugde
+glixi'o	$x_1$ est anglican dans l'aspect $x_2$	lujvo				glico;xriso
 go'i ra'o	vrai pour moi aussi	cmavo-compound
 gotro	$x_1$ est $10^{24}$ de $x_2$ en $x_3$	gismu		got;gotr;gotro	$x_3$ : unité par défaut dimension/aspect
 gradu	$x_1$ est une unité sur l'échelle $x_2$ mesurant la propriété $x_3$	gismu		rau;grad;gradu	$x_2$ : concept
@@ -809,12 +809,12 @@ i'e	approbation	cmavo	approbation
 ie	accord	cmavo	accord
 i'i	communauté	cmavo	communauté
 ii	peur	cmavo	peur
-greke'a	$x_1$ est une brèche dans $x_2$ permettant le passage vers $x_3$ depuis $x_4$ par $x_5$	lujvo				pagre,kevna
-grupu'o	$x_1$ est de la farine de grain $x_2$	lujvo				gurni,purmo
-gumgau	$x_1$ intègre $x_2$ à la masse $x_3$	lujvo				gunma,gasnu
-gunrivzu'e	$x_1$ procrastine, reportant le travail $x_2$ en faisant $x_3$	lujvo				gunka,rivbi,zukte
-guska'u	$x_1$ est un photon	lujvo				gusni,kantu
-gusli'i	$x_1$ est un rayon de lumière illuminant $x_2$ provenant de la source $x_3$	lujvo				gusni,linji
+greke'a	$x_1$ est une brèche dans $x_2$ permettant le passage vers $x_3$ depuis $x_4$ par $x_5$	lujvo				pagre;kevna
+grupu'o	$x_1$ est de la farine de grain $x_2$	lujvo				gurni;purmo
+gumgau	$x_1$ intègre $x_2$ à la masse $x_3$	lujvo				gunma;gasnu
+gunrivzu'e	$x_1$ procrastine, reportant le travail $x_2$ en faisant $x_3$	lujvo				gunka;rivbi;zukte
+guska'u	$x_1$ est un photon	lujvo				gusni;kantu
+gusli'i	$x_1$ est un rayon de lumière illuminant $x_2$ provenant de la source $x_3$	lujvo				gusni;linji
 ia cu'i	scepticisme	cmavo-compound	scepticisme
 i'a nai	blame	cmavo-compound	blame
 ia nai	incroyance	cmavo-compound	incroyance
@@ -891,27 +891,27 @@ je'e	acquit	cmavo
 je'i	question tanru connecteur ?	cmavo
 jei	abstracteur de vérité	cmavo		jez
 je'o	passe à l'alphabet hébreux	cmavo
-jacke'o	$x_1$ est à $x_2$ degrés Celsius selon le standard $x_3$	lujvo				djacu,kelvo
-jacta'o	$x_1$ est une planche pour surfer sur l'eau, de matériaux $x_2$	lujvo				djacu,tanbo
+jacke'o	$x_1$ est à $x_2$ degrés Celsius selon le standard $x_3$	lujvo				djacu;kelvo
+jacta'o	$x_1$ est une planche pour surfer sur l'eau, de matériaux $x_2$	lujvo				djacu;tanbo
 ja'e nai	sans le résultat...	cmavo-compound					BAI*
 ja'o	j'en conclue	cmavo
-jafpri	$x_1$ est une empreinte de pied sur la surface $x_2$ faite par $x_3$	lujvo				jamfu,prina
-jajgau	$x_1$ collectionne $x_2$ à $x_3$ depuis $x_4$ j1 est une masse collectionner/collecter/assembler	lujvo				jmaji,gasnu
-jalsi'u	$x_1$ entrent en collision les uns avec les autres	lujvo				janli,simxu
-jamblo	$x_1$ est un navire de guerre de type $x_2$ propulsé par $x_3$	lujvo				jamna,bloti
-jarmau	$x_1$ est plus dur que $x_2$ de la quantité $x_3$	lujvo				jdari,zmadu
-jarple	$x_1$ est un carton provenant de $x_2$	lujvo				jdari,pelji
-jaursabji	$x_1$ arrose $x_2$	lujvo				djacu,sabji
-ja'urxe'a	$x_1$ est le bec de $x_2$	lujvo				jgalu,xedja
-jbikla	$x_1$ approche de $x_2$ depuis $x_3$ via $x_4$ par les moyens $x_5$	lujvo				jibni,klama
-jbipu'i	$x_1$ met $x_2$ près de $x_3$	lujvo				jibni,punji
-jbixa'u	$x_1$ est voisins de $x_2$	lujvo				jibni,xabju
-jbobau	$x_1$ est du lojban utilisé par $x_2$ pour exprimer $x_3$	lujvo				lojbo,bangu
-jbogu'e	$x_1$ est le lojbanistan des gens $x_2$	lujvo				lojbo,gugde
-jdaja'a	$x_1$ est le chef de la religion $x_2$ ayant les membres $x_3$ et les croyances $x_4$	lujvo				lijda,jatna
+jafpri	$x_1$ est une empreinte de pied sur la surface $x_2$ faite par $x_3$	lujvo				jamfu;prina
+jajgau	$x_1$ collectionne $x_2$ à $x_3$ depuis $x_4$ j1 est une masse collectionner/collecter/assembler	lujvo				jmaji;gasnu
+jalsi'u	$x_1$ entrent en collision les uns avec les autres	lujvo				janli;simxu
+jamblo	$x_1$ est un navire de guerre de type $x_2$ propulsé par $x_3$	lujvo				jamna;bloti
+jarmau	$x_1$ est plus dur que $x_2$ de la quantité $x_3$	lujvo				jdari;zmadu
+jarple	$x_1$ est un carton provenant de $x_2$	lujvo				jdari;pelji
+jaursabji	$x_1$ arrose $x_2$	lujvo				djacu;sabji
+ja'urxe'a	$x_1$ est le bec de $x_2$	lujvo				jgalu;xedja
+jbikla	$x_1$ approche de $x_2$ depuis $x_3$ via $x_4$ par les moyens $x_5$	lujvo				jibni;klama
+jbipu'i	$x_1$ met $x_2$ près de $x_3$	lujvo				jibni;punji
+jbixa'u	$x_1$ est voisins de $x_2$	lujvo				jibni;xabju
+jbobau	$x_1$ est du lojban utilisé par $x_2$ pour exprimer $x_3$	lujvo				lojbo;bangu
+jbogu'e	$x_1$ est le lojbanistan des gens $x_2$	lujvo				lojbo;gugde
+jdaja'a	$x_1$ est le chef de la religion $x_2$ ayant les membres $x_3$ et les croyances $x_4$	lujvo				lijda;jatna
 je'e nai	acquit négatif	cmavo-compound
-je'erma'a	$x_1$ est un volcan du territoire $x_2$	lujvo				jetce,cmana
-jemja'a	$x_1$ est un général de l'armée $x_2$ servant $x_3$ avec la fonction $x_4$	lujvo				jenmi,jatna
+je'erma'a	$x_1$ est un volcan du territoire $x_2$	lujvo				jetce;cmana
+jemja'a	$x_1$ est un général de l'armée $x_2$ servant $x_3$ avec la fonction $x_4$	lujvo				jenmi;jatna
 je nai	x et non y (intérieur d'un tanru)	cmavo-compound
 jersi	$x_1$ suit physiquement $x_2$ la volition n'est impliquée ni pour fa ni pour fe	gismu		je'i;jers;jersi
 jerxo	$x_1$ est algérien dans l'aspect $x_2$	gismu		jex;jerx;jerxo
@@ -940,8 +940,8 @@ je'u	vérité	cmavo
 ji	question sumti connecteur « ? »	cmavo
 ji'a	de plus	cmavo
 ji'i	approximativement	cmavo
-jetpai	$x_1$ estime la vérité de $x_2$ selon l'épistémologie $x_3$	lujvo				jetnu,pajni
-jetyja'o	$x_1$ prouve que $x_2$ est vrai selon l'épistémologie $x_3$ à l'audience $x_4$	lujvo				jetnu,jarco
+jetpai	$x_1$ estime la vérité de $x_2$ selon l'épistémologie $x_3$	lujvo				jetnu;pajni
+jetyja'o	$x_1$ prouve que $x_2$ est vrai selon l'épistémologie $x_3$ à l'audience $x_4$	lujvo				jetnu;jarco
 je'u nai	non vérité	cmavo-compound
 jijnu	$x_1$ a l'intuition $x_2$ à propos de $x_3$ épistémologie	gismu		jij;jijn;jijnu	$x_1$ : personne. $x_2$ : du'u
 jikca	$x_1$ a des relations sociale avec $x_2$ ; $x_1$ est sociable envers $x_2$	gismu		jik;jikc;jikca
@@ -985,24 +985,24 @@ jo'u	en commun avec	cmavo		jo'u
 ju	x quelque soit y (intérieur d'un tanru)	cmavo		juv
 ju'e	connecteur vague	cmavo
 ju'i	écoutez moi	cmavo
-jgegau	$x_1$ noue $x_2$	lujvo				jgena,gasnu
-jicycma	$x_1$ est une brindille de $x_2$	lujvo				jimca,cmalu
-jifxu'a	$x_1$ se trompe en affirmant $x_2$ selon l'épistémologie $x_3$	lujvo				jitfa,xusra
+jgegau	$x_1$ noue $x_2$	lujvo				jgena;gasnu
+jicycma	$x_1$ est une brindille de $x_2$	lujvo				jimca;cmalu
+jifxu'a	$x_1$ se trompe en affirmant $x_2$ selon l'épistémologie $x_3$	lujvo				jitfa;xusra
 ji'i ma'u	arrondi supérieur	cmavo-compound
 ji'i ni'u	arrondi inférieur	cmavo-compound
-jiksei	$x_1$ est asocial, marginal par rapport à $x_2$	lujvo				jikca,sepli
-jinmapku	$x_1$ est une couronne de matériau $x_2$	lujvo				djine,mapku
-jipcyfe'i	$x_1$ est une poule de l'espèce $x_2$	lujvo				jipci,fetsi
-jirlu'i	$x_1$ baigne $x_2$ dans le liquide $x_3$	lujvo				jinru,lumci
-jmacidni	$x_1$ est une cheville de $x_2$	lujvo				jamfu,cidni
-jmeja'i	$x_1$ est un bijou avec l'ornement $x_2$ de type $x_3$ de la source $x_4$	lujvo				jemna,jadni
-jongau	$x_1$ joint $x_2$ à $x_3$ au point $x_4$	lujvo				jorne,gasnu
-jugygu'e	$x_1$ est la Chine	lujvo				jungo,gugde
+jiksei	$x_1$ est asocial, marginal par rapport à $x_2$	lujvo				jikca;sepli
+jinmapku	$x_1$ est une couronne de matériau $x_2$	lujvo				djine;mapku
+jipcyfe'i	$x_1$ est une poule de l'espèce $x_2$	lujvo				jipci;fetsi
+jirlu'i	$x_1$ baigne $x_2$ dans le liquide $x_3$	lujvo				jinru;lumci
+jmacidni	$x_1$ est une cheville de $x_2$	lujvo				jamfu;cidni
+jmeja'i	$x_1$ est un bijou avec l'ornement $x_2$ de type $x_3$ de la source $x_4$	lujvo				jemna;jadni
+jongau	$x_1$ joint $x_2$ à $x_3$ au point $x_4$	lujvo				jorne;gasnu
+jugygu'e	$x_1$ est la Chine	lujvo				jungo;gugde
 jo'au	Changer la version/le dialecte de l'analyseur syntaxique/parser.	experimental cmavo	dialecte d'analyseur syntaxique du lojban;version d'analyseur syntaxique du lojban		{do'u} est le terminateur élidable. Il faut que la morphologie et la grammmaire de cmevla/sumti/selbri qui suit {jo'au} soient conformées à la version 134 de la page « BPFK Section: PEG Morphology Algorithm (l'algorithme morphologique de PEG) » sur le site web lojban.org et la grammaire officielle afin qu'une locution de {jo'au} forme un modifiant libre qui est compatible avec toutes les versions/tous les dialectes de l'analyseur syntaxique/parser du lojban : par exemple, « jo'au jie bu » ainsi que « jo'au xy xi xei » ne sont pas des locutions significatives. Dans l'usage standard, une locution de {jo'au} se trouve tout au début de la totalité d'un texte, à l'inverse de l'usage de {fa'o}. La portée de la signification d'une locution de {jo'au} s'étend sur la partie suivante jusqu'à la prochaine locution de {jo'au}. Optionnellement, si la première locution de {jo'au} se trouve au milieu d'un texte, la portée de la signification s'étend à partir du début du texte jusqu'à la prochaine locution de {jo'au}. Exemples de la signification : jo'au cylyly xi papipa (le yacc officiel et le jbofi'e http://www.lojban.org/jboski/ ) ; jo'au camxes (la peg actuelle http://camxes.lojban.org/ ) ; jo'au iocixes (zasni gerna de la xorxes https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ) ; jo'au zantufa xi nopipapa (zantufa version 0.11 http://guskant.github.io/gerna_cipra/zantufa-0.11.html ) ; jo'au ilmentufa xi renopavopi'epapapi'erevo (ilmentufa version 2014-11-24 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ) ; jo'au fancylojban (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau .)		COI3
 joi bu	&	bu-letteral
 jo nai	x XOR y (intérieur d'un tanru)	cmavo-compound
-judgau	$x_1$ attire l'attention de $x_2$ sur $x_3$	lujvo				jundi,gasnu
-jugbau	$x_1$ est la langue chinoise utilisée par $x_2$ pour exprimer $x_3$ chinois/mandarin/autre	lujvo			$x_3$ est un concept, pas une citation	jungo,bangu
+judgau	$x_1$ attire l'attention de $x_2$ sur $x_3$	lujvo				jundi;gasnu
+jugbau	$x_1$ est la langue chinoise utilisée par $x_2$ pour exprimer $x_3$ chinois/mandarin/autre	lujvo			$x_3$ est un concept, pas une citation	jungo;bangu
 ju'i cu'i	repos	cmavo-compound
 ju'i nai	ignorez moi	cmavo-compound
 julne	$x_1$ est un filet autorisant le passage de $x_2$, interdisant le passage de $x_3$, ayant les propriétés $x_4$	gismu		ju'e;juln;julne
@@ -1128,21 +1128,21 @@ ke'u	je répète	cmavo
 ki'e	merci	cmavo
 ki'o	séparateur de nombre (paquet de 3 en base 10)	cmavo
 ki'u	à cause de la raison	cmavo
-kenri'a	$x_1$ cause le cancer $x_2$ sous les conditions $x_3$	lujvo				kenra,rinka
-kerlakse	$x_1$ est du cerumen	lujvo				kerlo,lakse
-kesyske	$x_1$ est de l'astronomie basée sur la méthodologie $x_2$	lujvo				kensa,saske
+kenri'a	$x_1$ cause le cancer $x_2$ sous les conditions $x_3$	lujvo				kenra;rinka
+kerlakse	$x_1$ est du cerumen	lujvo				kerlo;lakse
+kesyske	$x_1$ est de l'astronomie basée sur la méthodologie $x_2$	lujvo				kensa;saske
 ke'u nai	je continue	cmavo-compound
 ki	null	cmavo
 ki'a	confusion sur le texte	cmavo
-ke'usku	$x_1$ répète $x_2$ à $x_3$ via le medium $x_4$ pour la $x_5$-ème fois	lujvo				krefu,cusku
-kevzda	$x_1$ est une cave de la maison $x_2$ à l'endroit $x_3$	lujvo				kevna,zdani
+ke'usku	$x_1$ répète $x_2$ à $x_3$ via le medium $x_4$ pour la $x_5$-ème fois	lujvo				krefu;cusku
+kevzda	$x_1$ est une cave de la maison $x_2$ à l'endroit $x_3$	lujvo				kevna;zdani
 ki'a nai	compréhension textuelle	cmavo-compound
-ki'arzau	$x_1$ approuve bruyamment $x_2$ avec le son $x_3$	lujvo				krixa,zanru
-ki'asku	$x_1$ crie $x_2$ à $x_3$ via le medium $x_4$	lujvo				krixa,cusku
+ki'arzau	$x_1$ approuve bruyamment $x_2$ avec le son $x_3$	lujvo				krixa;zanru
+ki'asku	$x_1$ crie $x_2$ à $x_3$ via le medium $x_4$	lujvo				krixa;cusku
 ki'e nai	pas merci	cmavo-compound
-kilga'a	$x_1$ est une lance de matériau $x_2$	lujvo				kinli,grana
-ki'otre	$x_1$ mesure $x_2$ kilomètres en direction $x_3$ selon le standard $x_4$	lujvo				kilto,mitre
-kitybli	$x_1$ est une brique en terre cuite de composition $x_2$ avec les côtés $x_3$	lujvo				kliti,bliku
+kilga'a	$x_1$ est une lance de matériau $x_2$	lujvo				kinli;grana
+ki'otre	$x_1$ mesure $x_2$ kilomètres en direction $x_3$ selon le standard $x_4$	lujvo				kilto;mitre
+kitybli	$x_1$ est une brique en terre cuite de composition $x_2$ avec les côtés $x_3$	lujvo				kliti;bliku
 ki'u ma	avec quelle raison ?	cmavo-compound
 ki'u nai	quel que soit la raison	cmavo-compound					BAI*
 ko	toi à l'impératif	cmavo
@@ -1161,12 +1161,12 @@ ky	lettre « k »	cmavo
 la	article nommant	cmavo
 la'a	probabilité	cmavo
 la'i	l'ensemble nommé	cmavo
-kutytu'a	$x_1$ est un désert à l'endroit $x_2$	lujvo				kunti,tumla
+kutytu'a	$x_1$ est un désert à l'endroit $x_2$	lujvo				kunti;tumla
 la'a nai	improbabilité	cmavo-compound
 lanbi	$x_1$ est une quantité de protéine de type $x_2$ composé d'acides aminés $x_3$	gismu		lanb;lanbi	$x_3$ : séquence/jo »u
 lanka	$x_1$ est un panier contenant $x_2$ tissé en matériau $x_3$	gismu		lank;lanka
 la'e	l'étalon de	cmavo
-labybi'o	$x_1$ palit/blanchit sous les conditions $x_2$	lujvo				blabi,binxo
+labybi'o	$x_1$ palit/blanchit sous les conditions $x_2$	lujvo				blabi;binxo
 la'e di'u	pro-sumti référent la dernière parole	cmavo-compound
 lanxe	$x_1$ est en équilibre soumis aux forces $x_2$	gismu		lax;lanx;lanxe	$x_2$ : masse
 lastu	$x_1$ est du laiton de composition $x_2$ alliage cuivre/zinc	gismu		last;lastu
@@ -1186,45 +1186,45 @@ lau	marque de ponctuation	cmavo
 le'e	le stéréotypique	cmavo		lem
 le'i	l'ensemble décrit	cmavo
 le'u	fini une citation grammaticalement incorrecte	cmavo
-klaje'i	$x_1$ suit $x_2$ vers $x_3$ depuis $x_4$ par la route $x_5$ par les moyens $x_6$	lujvo				klama,jersi
-klisodva	$x_1$ est un soda transparent de type $x_2$	lujvo				klina,sodva
-kluske	$x_1$ est une anthropologie basée sur la méthodologie $x_2$	lujvo				kulnu,saske
-kluzei	$x_1$ est tabou dans la culture $x_2$	lujvo				kulnu,zekri
-korsenta	$x_1$ est la couche la plus extérieure de $x_2$	lujvo				korbi,senta
-kotygu'e	$x_1$ est l'Ecosse	lujvo				skoto,gugde
-kraga'igau	$x_1$ remets $x_2$ à sa valeur original	lujvo				krasi,galfi,gasnu
-krorinsa	$x_1$ salue $x_2$ en s'inclinant	lujvo				korcu,rinsa
-kujyjai	$x_1$ tient précautionneusement $x_2$ avec $x_3$	lujvo				kurji,jgari
-kukrai	$x_1$ est le plus délicieux parmi $x_2$ selon $x_3$	lujvo				kukte,traji
-kunkakpa	$x_1$ extrait le minerai $x_2$ de type $x_3$ du gisement $x_4$ avec les outils $x_5$	lujvo				kunra,kakpa
-latcmo	$x_1$ miaule, exprimant $x_2$	lujvo				mlatu,cmoni
-laucmo	$x_1$ rugit $x_2$ exprimant $x_3$	lujvo				cladu,cmoni
+klaje'i	$x_1$ suit $x_2$ vers $x_3$ depuis $x_4$ par la route $x_5$ par les moyens $x_6$	lujvo				klama;jersi
+klisodva	$x_1$ est un soda transparent de type $x_2$	lujvo				klina;sodva
+kluske	$x_1$ est une anthropologie basée sur la méthodologie $x_2$	lujvo				kulnu;saske
+kluzei	$x_1$ est tabou dans la culture $x_2$	lujvo				kulnu;zekri
+korsenta	$x_1$ est la couche la plus extérieure de $x_2$	lujvo				korbi;senta
+kotygu'e	$x_1$ est l'Ecosse	lujvo				skoto;gugde
+kraga'igau	$x_1$ remets $x_2$ à sa valeur original	lujvo				krasi;galfi;gasnu
+krorinsa	$x_1$ salue $x_2$ en s'inclinant	lujvo				korcu;rinsa
+kujyjai	$x_1$ tient précautionneusement $x_2$ avec $x_3$	lujvo				kurji;jgari
+kukrai	$x_1$ est le plus délicieux parmi $x_2$ selon $x_3$	lujvo				kukte;traji
+kunkakpa	$x_1$ extrait le minerai $x_2$ de type $x_3$ du gisement $x_4$ avec les outils $x_5$	lujvo				kunra;kakpa
+latcmo	$x_1$ miaule, exprimant $x_2$	lujvo				mlatu;cmoni
+laucmo	$x_1$ rugit $x_2$ exprimant $x_3$	lujvo				cladu;cmoni
 la'u ma	en quelle quantité ?	cmavo-compound
 le	artcile décrivant	cmavo
 le'a	dans la catégorie	cmavo
-lairtcinyske	$x_1$ est une statistique basée sur la méthodologie $x_2$.	lujvo	statistique		Voir {klani}, {tcini}, {saske}.	klani,tcini,saske
-lajme'e	$x_1$ est le nom de la rue $x_2$ selon $x_3$	lujvo				klaji,cmene
-lajre'e	$x_1$ est un tram avec les voitures $x_2$ le système $x_3$, propulsé par $x_4$	lujvo				klaji,trene
-lankurji	$x_1$ est un berger gardant les moutons de type $x_2$ du troupeau $x_3$	lujvo				lanme,kurji
-lanpanzi	$x_1$ est un agneau de type $x_2$	lujvo				lanme,panzi
-la'orbau	$x_1$ est le latin utilisé par $x_2$ pour exprimer $x_3$	lujvo				latmo,bangu
-larfi'i	$x_1$ est un artiste créant l'oeuvre $x_2$ via le support $x_3$ dans l'objectif $x_4$ à partir de $x_5$	lujvo				larcu,finti
-laxygau	$x_1$ équilibre $x_2$ avec les forces $x_3$	lujvo				lanxe,gasnu
+lairtcinyske	$x_1$ est une statistique basée sur la méthodologie $x_2$.	lujvo	statistique		Voir {klani}, {tcini}, {saske}.	klani;tcini;saske
+lajme'e	$x_1$ est le nom de la rue $x_2$ selon $x_3$	lujvo				klaji;cmene
+lajre'e	$x_1$ est un tram avec les voitures $x_2$ le système $x_3$, propulsé par $x_4$	lujvo				klaji;trene
+lankurji	$x_1$ est un berger gardant les moutons de type $x_2$ du troupeau $x_3$	lujvo				lanme;kurji
+lanpanzi	$x_1$ est un agneau de type $x_2$	lujvo				lanme;panzi
+la'orbau	$x_1$ est le latin utilisé par $x_2$ pour exprimer $x_3$	lujvo				latmo;bangu
+larfi'i	$x_1$ est un artiste créant l'oeuvre $x_2$ via le support $x_3$ dans l'objectif $x_4$ à partir de $x_5$	lujvo				larcu;finti
+laxygau	$x_1$ équilibre $x_2$ avec les forces $x_3$	lujvo				lanxe;gasnu
 le do	le tien/votre décrit	cmavo-compound
 le go'i	$x_1$ du dernier bridi	cmavo-compound
 lei	artcile décrivant une masse	cmavo
 le'o	attitudinal : agressive	cmavo
-le'ipli	$x_1$ emploie $x_2$ contre le salaire $x_3$ pour $x_4$	lujvo				pleji,pilno
+le'ipli	$x_1$ emploie $x_2$ contre le salaire $x_3$ pour $x_4$	lujvo				pleji;pilno
 le jai ca	le temps de	cmavo-compound
 le jai gau	l'agent dans	cmavo-compound
 le jai vi	le lieu de	cmavo-compound
-lekmi'i	$x_1$ est une machine pour refroidir $x_2$	lujvo				lenku,minji
+lekmi'i	$x_1$ est une machine pour refroidir $x_2$	lujvo				lenku;minji
 le ko'a	le sien (de ça 1) décrit	cmavo-compound
 le mi	le mien décrit	cmavo-compound
 le'o cu'i	attitudinal : passif	cmavo-compound
 le'o nai	attitudinal : defensive	cmavo-compound
-le'otci	$x_1$ est une lunette/ jumelles pour l'observation $x_2$	lujvo				lenjo,tutci
-lercu'aca'a	$x_1$ est une touche de clavier pour taper le symbole $x_2$	lujvo				lerfu,cuxna,cabra
+le'otci	$x_1$ est une lunette/ jumelles pour l'observation $x_2$	lujvo				lenjo;tutci
+lercu'aca'a	$x_1$ est une touche de clavier pour taper le symbole $x_2$	lujvo				lerfu;cuxna;cabra
 le se go'i	$x_2$ du dernier bridi	cmavo-compound
 le te go'i	$x_3$ du dernier bridi	cmavo-compound
 le va	ça là	cmavo-compound
@@ -1340,38 +1340,38 @@ me	transforme un sumti en selbri	cmavo
 me'e	avec le nom	cmavo
 me'i	moins que	cmavo
 mei	converti un nombre en selbri cardinal	cmavo		mem;mei
-maxydzu	$x_1$ piétine sur la surface $x_2$ avec les jambes $x_3$ écrasant $x_4$ en pulpe $x_5$	lujvo				marxa,cadzu
-mecrai	$x_1$ est le plus petit parmi $x_2$ selon $x_3$ de la quantité $x_4$	lujvo				mleca,traji
+maxydzu	$x_1$ piétine sur la surface $x_2$ avec les jambes $x_3$ écrasant $x_4$ en pulpe $x_5$	lujvo				marxa;cadzu
+mecrai	$x_1$ est le plus petit parmi $x_2$ selon $x_3$ de la quantité $x_4$	lujvo				mleca;traji
 me'e ma	question : « nom ? »	cmavo-compound
 me'o	converti une expression mathématique en sumti	cmavo
 mi	moi/nous	cmavo		mib
 mi'a	nous mais pas toi	cmavo
 mi'e	introduction de « moi »	cmavo
 mi'i	centre	cmavo
-lidvru	$x_1$ est tonitruant pour $x_2$	lujvo				lindi,savru
-lijgri	$x_1$ est une rangée montrant la propriété commune $x_2$ venant de l'ensemble $x_3$ liée par les relations $x_4$	lujvo				linji,girzu
-likpu'i	$x_1$ met le liquide $x_2$ sur $x_3$	lujvo				litki,punji
-lilgundi	$x_1$ est une industrie énergétique produisant la source d'énergie $x_2$ pour faire marcher $x_3$ basée sur le processus $x_4$	lujvo				livla,gundi
-limla'u	$x_1$ est un bassin où nage $x_2$ dans le fluide $x_3$	lujvo				limna,lalxu
-limna'i	$x_1$ est une nageoire de $x_2$	lujvo				limna,nalci
-lirmau	$x_1$ est plus tôt que $x_2$ de la quantité $x_3$	lujvo				clira,zmadu
-loibru	$x_1$ est un balai pour le nettoyage $x_2$ avec les brins $x_3$	lujvo				loldi,burcu
-lumku'a	$x_1$ est une salle dans laquelle $x_2$ lave $x_3$ dans la structure $x_4$ délimitée par $x_5$ salle de bain	lujvo				lumci,kumfa
-lutfa'o	$x_1$ est une impasse de la route $x_2$ depuis l'origine $x_3$	lujvo				pluta,fanmo
-mafcre	$x_1$ est un expert magicien de type $x_2$ magie du point de vue de $x_3$ selon les standard $x_4$	lujvo				makfa,certu
-maisru	$x_1$ est l'environnement matériel entourant $x_2$ selon $x_3$ de composition $x_4$	lujvo				marji,sruri
-malgli	$x_1$ est un anglicisme inapproprié selon $x_2$	lujvo				mabla,glico
-manfyta'u	$x_1$ est un uniforme pour habiller $x_2$ dans le but $x_3$	lujvo				manfo,taxfu
-manze'a	$x_1$ s'assombrit de la quantité $x_2$	lujvo				manku,zenba
-mencre	$x_1$ est intelligent selon le standard $x_2$	lujvo				menli,certu
-merfei	$x_1$ vaut $x_2$ cents américains	lujvo				merko,fepni
-mergu'e	$x_1$ sont les Etats-Unis d'Amérique	lujvo				merko,gugde
-meryru'u	$x_1$ est $x_2$ dollars américains	lujvo				merko,rupnu
-mexygu'e	$x_1$ est le Mexique	lujvo				mexno,gugde
-mi'afra	$x_1$ rigole de $x_2$ sous les conditions $x_3$	lujvo				cmila,frati
-mi'asna	$x_1$ est un éclat de rire de $x_2$	lujvo				cmila,sance
-midvla	$x_1$ est un mot impératif ordonnant $x_2$ dans le langage $x_3$	lujvo				minde,valsi
-mi'ecpe	$x_1$ exige $x_2$ de $x_3$ avec la manière $x_4$	lujvo				minde,cpedu
+lidvru	$x_1$ est tonitruant pour $x_2$	lujvo				lindi;savru
+lijgri	$x_1$ est une rangée montrant la propriété commune $x_2$ venant de l'ensemble $x_3$ liée par les relations $x_4$	lujvo				linji;girzu
+likpu'i	$x_1$ met le liquide $x_2$ sur $x_3$	lujvo				litki;punji
+lilgundi	$x_1$ est une industrie énergétique produisant la source d'énergie $x_2$ pour faire marcher $x_3$ basée sur le processus $x_4$	lujvo				livla;gundi
+limla'u	$x_1$ est un bassin où nage $x_2$ dans le fluide $x_3$	lujvo				limna;lalxu
+limna'i	$x_1$ est une nageoire de $x_2$	lujvo				limna;nalci
+lirmau	$x_1$ est plus tôt que $x_2$ de la quantité $x_3$	lujvo				clira;zmadu
+loibru	$x_1$ est un balai pour le nettoyage $x_2$ avec les brins $x_3$	lujvo				loldi;burcu
+lumku'a	$x_1$ est une salle dans laquelle $x_2$ lave $x_3$ dans la structure $x_4$ délimitée par $x_5$ salle de bain	lujvo				lumci;kumfa
+lutfa'o	$x_1$ est une impasse de la route $x_2$ depuis l'origine $x_3$	lujvo				pluta;fanmo
+mafcre	$x_1$ est un expert magicien de type $x_2$ magie du point de vue de $x_3$ selon les standard $x_4$	lujvo				makfa;certu
+maisru	$x_1$ est l'environnement matériel entourant $x_2$ selon $x_3$ de composition $x_4$	lujvo				marji;sruri
+malgli	$x_1$ est un anglicisme inapproprié selon $x_2$	lujvo				mabla;glico
+manfyta'u	$x_1$ est un uniforme pour habiller $x_2$ dans le but $x_3$	lujvo				manfo;taxfu
+manze'a	$x_1$ s'assombrit de la quantité $x_2$	lujvo				manku;zenba
+mencre	$x_1$ est intelligent selon le standard $x_2$	lujvo				menli;certu
+merfei	$x_1$ vaut $x_2$ cents américains	lujvo				merko;fepni
+mergu'e	$x_1$ sont les Etats-Unis d'Amérique	lujvo				merko;gugde
+meryru'u	$x_1$ est $x_2$ dollars américains	lujvo				merko;rupnu
+mexygu'e	$x_1$ est le Mexique	lujvo				mexno;gugde
+mi'afra	$x_1$ rigole de $x_2$ sous les conditions $x_3$	lujvo				cmila;frati
+mi'asna	$x_1$ est un éclat de rire de $x_2$	lujvo				cmila;sance
+midvla	$x_1$ est un mot impératif ordonnant $x_2$ dans le langage $x_3$	lujvo				minde;valsi
+mi'ecpe	$x_1$ exige $x_2$ de $x_3$ avec la manière $x_4$	lujvo				minde;cpedu
 mi'e nai	je ne suis pas	cmavo-compound
 mintu	$x_1$ est identique à $x_2$ selon le standard $x_3$ ; $x_1$ et $x_2$ interchangeable	gismu		mit;mi'u;mint;mintu
 mipri	$x_1$ garde $x_2$ caché de $x_3$ par la méthode $x_4$ ; $x_2$ est secret ; $x_1$ cache $x_2$	gismu		mip;mipr;mipri
@@ -1392,8 +1392,8 @@ jy	lettre « j »	cmavo
 ka'a	atteint par	cmavo
 ka'e	capable de façon innée	cmavo
 ka'i	représenté par	cmavo
-julra'o	$x_1$ mesure $x_2$ degrès	lujvo				junla,radno
-jungau	$x_1$ informe $x_2$ des faits $x_3$ sur le sujet $x_4$ selon l'épistémologie $x_5$	lujvo				djuno,gasnu
+julra'o	$x_1$ mesure $x_2$ degrès	lujvo				junla;radno
+jungau	$x_1$ informe $x_2$ des faits $x_3$ sur le sujet $x_4$ selon l'épistémologie $x_5$	lujvo				djuno;gasnu
 ju'o cai	quasi certitude	cmavo-compound
 ju'o cu'i	incertitude	cmavo-compound
 ju'o nai	impossibilité	cmavo-compound
@@ -1414,41 +1414,41 @@ mo	question « bridi ? »	cmavo
 mo'a	trop peu	cmavo		mob
 mo'i	marqueur de mouvement	cmavo		mov
 moi	converti un nombre en selbri ordinal	cmavo		mom;moi
-galmu'u	$x_1$ monte jusqu'à $x_2$ depuis $x_3$ par le chemin $x_4$	lujvo				galtu,muvdu
-galxyfe'a	$x_1$ est le pharynx de $x_2$	lujvo				galxe,fenra
-gancuktai	$x_1$ est une ellipse, forme de l'objet $x_2$ de dimension $x_3$	lujvo				ganra,cukla,tarmi
-ga'orgau	$x_1$ ferme $x_2$ empéchant le passage de $x_3$ par $x_4$	lujvo				ganlo,gasnu
-gapkla	$x_1$ monte vers $x_2$ depuis $x_3$ via $x_4$ par les moyens $x_5$	lujvo				gapru,klama
-jenselte'a	$x_1$ est horrible selon $x_2$	lujvo				jenca,se,terpa
-jupku'a	$x_1$ est une cuisine dans laquelle $x_2$ cuisine $x_3$ dans la structure $x_4$, limitée par $x_5$	lujvo				jukpa,kumfa
-jurpei	$x_1$ refléchit sérieusement sur $x_2$	lujvo				junri,pensi
-jutske	$x_1$ est une taxonomie biologique basée sur la méthodologie $x_2$	lujvo				jutsi,saske
-jvajvo	$x_1$ est un lujvo régulier signifiant $x_2$ avec les arguments $x_3$ construit à partit de la phrase $x_4$ avec une structure répondant à la règle $x_5$	lujvo			Au minimum la structure des arguments (terjvo) est contrainte et leur sémantique est tirée de la sémantique des composants du lujvo	javni,lujvo
-jvilu'a	$x_1$ est une course vers $x_2$ depuis $x_3$ passant par $x_4$	lujvo				jivna,pluta
-ka'arde'i	$x_1$ est une incisive de $x_2$	lujvo				katna,denci
-kabrylai	$x_1$ mesure $x_2$ verres en quantité	lujvo				kabri,klani
-kacmyxra	$x_1$ est une photographie de $x_2$ prise par $x_3$ sur le medium $x_4$	lujvo				kacma,pixra
-kacna'u	$x_1$ est un entier naturel	lujvo				kancu,namcu
-kadnygu'e	$x_1$ est le Canada	lujvo				kadno,gugde
-kafxu'i	$x_1$ est de la caféine avec la pureté $x_2$	lujvo				ckafi,xukmi
-kagja'a	$x_1$ est le président de l'entreprise $x_2$	lujvo				kagni,jatna
-kaksna	$x_1$ est un sanglot de $x_2$ avec les larmes $x_3$ pour la raison $x_4$	lujvo				klaku,sance
-kalgai	$x_1$ est une paupière de $x_2$	lujvo				kanla,gacri
-kalmebykre	$x_1$ est un sourcil de $x_2$	lujvo				kanla,mebri,kerfa
-kamba'i	$x_1$ est la splendeur de $x_2$ selon le standard $x_3$	lujvo				ka,banli
-kamjunmre	$x_1$ évalue la connaissance de $x_2$ des faits $x_3$ sur le sujet $x_4$ comme valant $x_5$ sur l'échelle $x_6$ avec la précision $x_7$	lujvo				ka,djuno,merli
-kamka'o	$x_1$ est la santé de $x_2$ selon la norme $x_3$	lujvo				ka,kanro
-kamtsa	$x_1$ est la force de $x_2$ selon $x_3$ ; $x_2$ est une propriété/qualité	lujvo				ka,tsali
-kapxra	$x_1$ est un tatouage représentant $x_2$ sur $x_3$ fait par $x_4$	lujvo				skapi,pixra
-kargau	$x_1$ ouvre le portail $x_2$ permettant l'accés à $x_3$ par $x_4$	lujvo				kalri,gasnu
-kaurselju'o	$x_1$ relève du sens commun de $x_2$ sur le sujet $x_3$ selon l'épistemologie $x_4$	lujvo				kampu,se,djuno
-kelkubli	$x_1$ est un dé pour le jeu $x_2$ avec $x_3$ faces	lujvo				kelci,kubli
-mipstu	$x_1$ est une cachette cachant $x_2$ à $x_3$ par la méthode $x_4$	lujvo				mipri,stuzi
-mitsmuvla	$x_1$ est un synonyme de $x_2$ selon le standard $x_3$ dans la langue $x_4$	lujvo				mintu,smuni,valsi
-mivdalmuzga	$x_1$ est un zoo avec les animaux $x_2$ à l'endroit $x_3$	lujvo				jmive,danlu,muzga
-mlakla	$x_1$ évite $x_2$ depuis $x_3$ via $x_4$ par les moyens $x_5$	lujvo				mlana,klama
-mlerai	$x_1$ est le plus beau parmi $x_2$ selon $x_3$ dans l'aspect $x_4$ selon le standard $x_5$	lujvo				melbi,traji
-mlibi'e	$x_1$ est une brise venant de $x_2$ avec la vitesse $x_3$	lujvo				milxe,brife
+galmu'u	$x_1$ monte jusqu'à $x_2$ depuis $x_3$ par le chemin $x_4$	lujvo				galtu;muvdu
+galxyfe'a	$x_1$ est le pharynx de $x_2$	lujvo				galxe;fenra
+gancuktai	$x_1$ est une ellipse, forme de l'objet $x_2$ de dimension $x_3$	lujvo				ganra;cukla;tarmi
+ga'orgau	$x_1$ ferme $x_2$ empéchant le passage de $x_3$ par $x_4$	lujvo				ganlo;gasnu
+gapkla	$x_1$ monte vers $x_2$ depuis $x_3$ via $x_4$ par les moyens $x_5$	lujvo				gapru;klama
+jenselte'a	$x_1$ est horrible selon $x_2$	lujvo				jenca;se;terpa
+jupku'a	$x_1$ est une cuisine dans laquelle $x_2$ cuisine $x_3$ dans la structure $x_4$, limitée par $x_5$	lujvo				jukpa;kumfa
+jurpei	$x_1$ refléchit sérieusement sur $x_2$	lujvo				junri;pensi
+jutske	$x_1$ est une taxonomie biologique basée sur la méthodologie $x_2$	lujvo				jutsi;saske
+jvajvo	$x_1$ est un lujvo régulier signifiant $x_2$ avec les arguments $x_3$ construit à partit de la phrase $x_4$ avec une structure répondant à la règle $x_5$	lujvo			Au minimum la structure des arguments (terjvo) est contrainte et leur sémantique est tirée de la sémantique des composants du lujvo	javni;lujvo
+jvilu'a	$x_1$ est une course vers $x_2$ depuis $x_3$ passant par $x_4$	lujvo				jivna;pluta
+ka'arde'i	$x_1$ est une incisive de $x_2$	lujvo				katna;denci
+kabrylai	$x_1$ mesure $x_2$ verres en quantité	lujvo				kabri;klani
+kacmyxra	$x_1$ est une photographie de $x_2$ prise par $x_3$ sur le medium $x_4$	lujvo				kacma;pixra
+kacna'u	$x_1$ est un entier naturel	lujvo				kancu;namcu
+kadnygu'e	$x_1$ est le Canada	lujvo				kadno;gugde
+kafxu'i	$x_1$ est de la caféine avec la pureté $x_2$	lujvo				ckafi;xukmi
+kagja'a	$x_1$ est le président de l'entreprise $x_2$	lujvo				kagni;jatna
+kaksna	$x_1$ est un sanglot de $x_2$ avec les larmes $x_3$ pour la raison $x_4$	lujvo				klaku;sance
+kalgai	$x_1$ est une paupière de $x_2$	lujvo				kanla;gacri
+kalmebykre	$x_1$ est un sourcil de $x_2$	lujvo				kanla;mebri;kerfa
+kamba'i	$x_1$ est la splendeur de $x_2$ selon le standard $x_3$	lujvo				ka;banli
+kamjunmre	$x_1$ évalue la connaissance de $x_2$ des faits $x_3$ sur le sujet $x_4$ comme valant $x_5$ sur l'échelle $x_6$ avec la précision $x_7$	lujvo				ka;djuno;merli
+kamka'o	$x_1$ est la santé de $x_2$ selon la norme $x_3$	lujvo				ka;kanro
+kamtsa	$x_1$ est la force de $x_2$ selon $x_3$ ; $x_2$ est une propriété/qualité	lujvo				ka;tsali
+kapxra	$x_1$ est un tatouage représentant $x_2$ sur $x_3$ fait par $x_4$	lujvo				skapi;pixra
+kargau	$x_1$ ouvre le portail $x_2$ permettant l'accés à $x_3$ par $x_4$	lujvo				kalri;gasnu
+kaurselju'o	$x_1$ relève du sens commun de $x_2$ sur le sujet $x_3$ selon l'épistemologie $x_4$	lujvo				kampu;se;djuno
+kelkubli	$x_1$ est un dé pour le jeu $x_2$ avec $x_3$ faces	lujvo				kelci;kubli
+mipstu	$x_1$ est une cachette cachant $x_2$ à $x_3$ par la méthode $x_4$	lujvo				mipri;stuzi
+mitsmuvla	$x_1$ est un synonyme de $x_2$ selon le standard $x_3$ dans la langue $x_4$	lujvo				mintu;smuni;valsi
+mivdalmuzga	$x_1$ est un zoo avec les animaux $x_2$ à l'endroit $x_3$	lujvo				jmive;danlu;muzga
+mlakla	$x_1$ évite $x_2$ depuis $x_3$ via $x_4$ par les moyens $x_5$	lujvo				mlana;klama
+mlerai	$x_1$ est le plus beau parmi $x_2$ selon $x_3$ dans l'aspect $x_4$ selon le standard $x_5$	lujvo				melbi;traji
+mlibi'e	$x_1$ est une brise venant de $x_2$ avec la vitesse $x_3$	lujvo				milxe;brife
 mo'a roi	trop peu de fois	cmavo-compound
 mo'i be'a	vers le nord	cmavo-compound
 mo'i ca'u	vers l'avant	cmavo-compound
@@ -1513,28 +1513,28 @@ mu'u	exemplifié par	cmavo
 my	lettre « m »	cmavo
 na	négation d'un bridi	cmavo		nar
 na'a	annule les changements d'alphabets	cmavo
-molgai	$x_1$ est une muselière sur $x_2$	lujvo				moklu,gacri
-mriste	$x_1$ est une mailing liste avec les abonnés $x_2$	lujvo				mrilu,liste
-mrobi'o	$x_1$ meurt sous les conditions $x_2$	lujvo				morsi,binxo
-mrodalmuzga	$x_1$ est musée d'histoire naturelle préservant des animaux de type $x_2$ à l'endroit $x_3$	lujvo				morsi,danlu,muzga
+molgai	$x_1$ est une muselière sur $x_2$	lujvo				moklu;gacri
+mriste	$x_1$ est une mailing liste avec les abonnés $x_2$	lujvo				mrilu;liste
+mrobi'o	$x_1$ meurt sous les conditions $x_2$	lujvo				morsi;binxo
+mrodalmuzga	$x_1$ est musée d'histoire naturelle préservant des animaux de type $x_2$ à l'endroit $x_3$	lujvo				morsi;danlu;muzga
 mu'a cu'i	omettant l'exemple	cmavo-compound
 mu'a nai	finissant les exemples	cmavo-compound
-muclai	$x_1$ mesure $x_2$ cuillère	lujvo				smuci,klani
-mu'eske	$x_1$ est une cosmologie basée sur la méthodologie $x_2$	lujvo				munje,saske
+muclai	$x_1$ mesure $x_2$ cuillère	lujvo				smuci;klani
+mu'eske	$x_1$ est une cosmologie basée sur la méthodologie $x_2$	lujvo				munje;saske
 mu'i ma	question : « motivation ? »	cmavo-compound
 mu'i nai	quel que soit la motivation	cmavo-compound					BAI*
-mujyku'e	$x_1$ est universel dans le domaine $x_2$ défini par les règles $x_3$	lujvo				munje,kuspe
+mujyku'e	$x_1$ est universel dans le domaine $x_2$ défini par les règles $x_3$	lujvo				munje;kuspe
 mu ki'o	5000	cmavo-compound
-mulgau	$x_1$ complète $x_2$ selon la propriété $x_3$ selon le standard $x_4$	lujvo				mulno,gasnu
-mumdei	$x_1$ est un vendredi de la semaine $x_2$ du calendrier $x_3$	lujvo				mu,djedi
+mulgau	$x_1$ complète $x_2$ selon la propriété $x_3$ selon le standard $x_4$	lujvo				mulno;gasnu
+mumdei	$x_1$ est un vendredi de la semaine $x_2$ du calendrier $x_3$	lujvo				mu;djedi
 mu mei	est un quintette	cmavo-compound
 mu moi	5ème	cmavo-compound
 mu no	50	cmavo-compound
 mu no no	500	cmavo-compound
 mu'o	fin de la transmission	cmavo
 mu'o nai	transmission à suivre	cmavo-compound
-mutmi'i	$x_1$ est un algorithme ayant la fonction $x_2$	lujvo				mucti,minji
-muvdandu	$x_1$ se déplace de $x_2$ vers $x_3$ en étant suspendu	lujvo				muvdu,dandu
+mutmi'i	$x_1$ est un algorithme ayant la fonction $x_2$	lujvo				mucti;minji
+muvdandu	$x_1$ se déplace de $x_2$ vers $x_3$ en étant suspendu	lujvo				muvdu;dandu
 na a	non x ou y (sumti)	cmavo-compound
 natfe	$x_1$ réfute $x_2$ selon $x_3$	gismu		naf;na'e;natf;natfe	$x_1$ : énoncé. $x_3$ : règles/logique
 natmi	$x_1$ est une nation de peuples $x_2$ personnes partageant même culture/histoire	gismu		nat;nai;natm;natmi
@@ -1545,22 +1545,22 @@ na'i	négation métalinguistique	cmavo
 nai	déclare faux le dernier mot	cmavo
 nau	point de référence	cmavo
 ne'a	après (dans l'espace-temps)	cmavo
-na'acto	$x_1$ dure $x_2$ siècles selon le standard $x_3$	lujvo				nanca,xecto
-nacle'u	$x_1$ est un chiffre dans le système $x_2$ représentant $x_3$ fait référence au symbole, pas à la valeur	lujvo				namcu,lerfu
-nadmau	$x_1$ est plus difficile que $x_2$ pour $x_3$ de la quantité $x_4$	lujvo				nandu,zmadu
+na'acto	$x_1$ dure $x_2$ siècles selon le standard $x_3$	lujvo				nanca;xecto
+nacle'u	$x_1$ est un chiffre dans le système $x_2$ représentant $x_3$ fait référence au symbole, pas à la valeur	lujvo				namcu;lerfu
+nadmau	$x_1$ est plus difficile que $x_2$ pour $x_3$ de la quantité $x_4$	lujvo				nandu;zmadu
 na'e pu'i	n'a jamais	cmavo-compound
 na gi'a	non x ou y (queue de bridi)	cmavo-compound
 na go'i	déclare faux le dernier bridi	cmavo-compound
-naijgi	$x_1$ est un patriote de la nation $x_2$	lujvo				natmi,jgira
+naijgi	$x_1$ est un patriote de la nation $x_2$	lujvo				natmi;jgira
 na ja	non x ou y (tanru)	cmavo-compound
 naxle	$x_1$ est un canal vers $x_2$ depuis $x_3$ par le chemin $x_4$	gismu		nax;xle;naxl;naxle
 na'o	typique	cmavo
-najnimre	$x_1$ est une orange de la variété $x_2$	lujvo				narju,nimre
-nakpinji	$x_1$ est le penis de $x_2$	lujvo				nakni,pinji
-nalceikri	$x_1$ est athée	lujvo				na'e,cevni,krici
-nalra'u	$x_1$ laisse $x_2$ tranquille	lujvo				na'e,raktu
-nalre'ucti	$x_1$ ne mange pas la viande $x_2$	lujvo				na'e,rectu,citka
-nalvai	$x_1$ n'est pas important pour $x_2$ à cause de l'aspect $x_3$	lujvo				na'e,vajni
+najnimre	$x_1$ est une orange de la variété $x_2$	lujvo				narju;nimre
+nakpinji	$x_1$ est le penis de $x_2$	lujvo				nakni;pinji
+nalceikri	$x_1$ est athée	lujvo				na'e;cevni;krici
+nalra'u	$x_1$ laisse $x_2$ tranquille	lujvo				na'e;raktu
+nalre'ucti	$x_1$ ne mange pas la viande $x_2$	lujvo				na'e;rectu;citka
+nalvai	$x_1$ n'est pas important pour $x_2$ à cause de l'aspect $x_3$	lujvo				na'e;vajni
 na'o nai	atypiquement	cmavo-compound
 nejni	$x_1$ est une énergie de type $x_2$ sous la forme $x_3$	gismu		nen;nejn;nejni
 nelci	$x_1$ apprécie $x_2$	gismu		nel;nei;nelc;nelci	$x_2$ : objet/état
@@ -1589,27 +1589,27 @@ ni'u	signe moins des nombre négatifs	cmavo
 no'i	vieux sujet	cmavo
 no'o	valeur standard	cmavo
 nu	abstracteur d'événement	cmavo		nun
-nebysrijge	$x_1$ est une cravatte de matériau $x_2$ portée par $x_3$	lujvo				cnebo,dasri,jgena
-nerkla	$x_1$ entre dans $x_2$ depuis $x_3$ par la route $x_4$ utilisant les moyens $x_5$	lujvo				nenri,klama
-ni'ablo	$x_1$ est un sous-marin transportant $x_2$ propulsé par $x_3$	lujvo				cnita,bloti
-nicygau	$x_1$ range $x_2$ selon $x_3$	lujvo				cnici,gasnu
+nebysrijge	$x_1$ est une cravatte de matériau $x_2$ portée par $x_3$	lujvo				cnebo;dasri;jgena
+nerkla	$x_1$ entre dans $x_2$ depuis $x_3$ par la route $x_4$ utilisant les moyens $x_5$	lujvo				nenri;klama
+ni'ablo	$x_1$ est un sous-marin transportant $x_2$ propulsé par $x_3$	lujvo				cnita;bloti
+nicygau	$x_1$ range $x_2$ selon $x_3$	lujvo				cnici;gasnu
 ni'i ma	question : « logique ? »	cmavo-compound
 ni'i nai	quel que soit la condition suffisante logique	cmavo-compound					BAI*
 nu'a	converti un opérateur mathématique en selbri	cmavo
 nu'e	promis	cmavo
-nilgla	$x_1$ est la température de $x_2$ sur l'échelle $x_3$	lujvo				ni,glare
-nilsutra	$x_1$ est la vitesse sur l'échelle $x_2$ de l'agent $x_3$ dans $x_4$	lujvo			$x_4$ : action	ni,sutra
-nintadni	$x_1$ est débutant dans le sujet $x_2$ selon le standard $x_3$	lujvo				cnino,tadni
-nitkla	$x_1$ descend vers $x_2$ depuis $x_3$ via $x_4$ par les moyens $x_5$	lujvo				cnita,klama
+nilgla	$x_1$ est la température de $x_2$ sur l'échelle $x_3$	lujvo				ni;glare
+nilsutra	$x_1$ est la vitesse sur l'échelle $x_2$ de l'agent $x_3$ dans $x_4$	lujvo			$x_4$ : action	ni;sutra
+nintadni	$x_1$ est débutant dans le sujet $x_2$ selon le standard $x_3$	lujvo				cnino;tadni
+nitkla	$x_1$ descend vers $x_2$ depuis $x_3$ via $x_4$ par les moyens $x_5$	lujvo				cnita;klama
 no da	rien du tout	cmavo-compound
-noltroni'u	$x_1$ est une duchesse regnant sur $x_2$ selon $x_3$ noble de rang intermédiaire	lujvo				nobli,jitro,ninmu
-noltrunau	$x_1$ est le roi de $x_2$ selon la norme $x_3$	lujvo				nobli,turni,nanmu
-noltruni'u	$x_1$ est la reine de $x_2$ selon la norme $x_3$	lujvo				nobli,turni,ninmu
-noltruti'u	$x_1$ est une princesse, fille de $x_2$ qui règne sur $x_3$	lujvo				nobli,turni,tixnu
+noltroni'u	$x_1$ est une duchesse regnant sur $x_2$ selon $x_3$ noble de rang intermédiaire	lujvo				nobli;jitro;ninmu
+noltrunau	$x_1$ est le roi de $x_2$ selon la norme $x_3$	lujvo				nobli;turni;nanmu
+noltruni'u	$x_1$ est la reine de $x_2$ selon la norme $x_3$	lujvo				nobli;turni;ninmu
+noltruti'u	$x_1$ est une princesse, fille de $x_2$ qui règne sur $x_3$	lujvo				nobli;turni;tixnu
 no mo'o	Chapitre 0	cmavo-compound
-nonme'a	$x_1$ est négatif selon la propriété $x_2$ de la quantité $x_3$	lujvo				no,mleca
+nonme'a	$x_1$ est négatif selon la propriété $x_2$ de la quantité $x_3$	lujvo				no;mleca
 no roi	jamais	cmavo-compound
-notci'a	$x_1$ note $x_2$ sur le medium $x_3$ avec $x_4$ ; $x_1$ écrit un mémo	lujvo				notci,ciska
+notci'a	$x_1$ note $x_2$ sur le medium $x_3$ avec $x_4$ ; $x_1$ écrit un mémo	lujvo				notci;ciska
 nu'e cu'i	delié de promesse	cmavo-compound
 nu'e nai	non promis	cmavo-compound
 nukni	$x_1$ est magenta	gismu		nuk;nukn;nukni	adjectif de couleur
@@ -1628,14 +1628,14 @@ o'o	patience	cmavo	patience
 o'u	détente	cmavo	détente
 pa	1	cmavo		pav
 pa'a	en commun avec	cmavo
-numtca	$x_1$ est un village dans la région $x_2$ dans l'unité politique $x_3$ servant la zone $x_4$	lujvo				nurma,tcadu
-nunde'a	$x_1$ est une pause de l'agent $x_2$ jusqu'à $x_3$ en l'état $x_4$ dans l'activité $x_5$	lujvo				nu,denpa
-nungei	$x_1$ est la joie de $x_2$ causée par $x_3$	lujvo				nu,gleki
-nunji'e	$x_1$ est la vie de $x_2$	lujvo				nu,jmive
-nunpe'i	$x_1$ est une rencontre entre $x_2$ et $x_3$ à l'endroit $x_4$	lujvo				nu,penmi
-nurfu'i	$x_1$ est une copie de sauvegarde de $x_2$ sous la forme $x_3$ fait par la méthode $x_4$ comme sécurité contre $x_5$	lujvo				snura,fukpi
-nurxru	$x_1$ sauve $x_2$ du danger $x_3$	lujvo				snura,xruti
-nuznoi	$x_1$ est un exemplaire de journal avec les nouvelles $x_2$ sur le sujet $x_3$ fait par $x_4$ pour $x_5$	lujvo				nuzba,notci
+numtca	$x_1$ est un village dans la région $x_2$ dans l'unité politique $x_3$ servant la zone $x_4$	lujvo				nurma;tcadu
+nunde'a	$x_1$ est une pause de l'agent $x_2$ jusqu'à $x_3$ en l'état $x_4$ dans l'activité $x_5$	lujvo				nu;denpa
+nungei	$x_1$ est la joie de $x_2$ causée par $x_3$	lujvo				nu;gleki
+nunji'e	$x_1$ est la vie de $x_2$	lujvo				nu;jmive
+nunpe'i	$x_1$ est une rencontre entre $x_2$ et $x_3$ à l'endroit $x_4$	lujvo				nu;penmi
+nurfu'i	$x_1$ est une copie de sauvegarde de $x_2$ sous la forme $x_3$ fait par la méthode $x_4$ comme sécurité contre $x_5$	lujvo				snura;fukpi
+nurxru	$x_1$ sauve $x_2$ du danger $x_3$	lujvo				snura;xruti
+nuznoi	$x_1$ est un exemplaire de journal avec les nouvelles $x_2$ sur le sujet $x_3$ fait par $x_4$ pour $x_5$	lujvo				nuzba;notci
 o'a cu'i	modestie	cmavo-compound	modestie
 o'a nai	honte	cmavo-compound	honte
 o bu	lettre « o »	bu-letteral	o
@@ -1655,7 +1655,7 @@ pa'a ku	chacun respectivement	cmavo-compound
 pa bi	18	cmavo-compound
 pa ci	13	cmavo-compound
 pa'e	justice	cmavo
-pacyxlu	$x_1$ soumet $x_2$ à la tentation du péché $x_3$ par le moyen $x_4$, péché selon $x_5$	lujvo				palci,xlura
+pacyxlu	$x_1$ soumet $x_2$ à la tentation du péché $x_3$ par le moyen $x_4$, péché selon $x_5$	lujvo				palci;xlura
 pa'e nai	injustice	cmavo-compound
 pagbu	$x_1$ est une partie de $x_2$ ; $x_2$ est en partie $x_1$	gismu		pag;pau;pagb;pagbu	$x_2$ : entier/masse
 pagre	$x_1$ traverse $x_2$ vers $x_3$ depuis $x_4$	gismu		gre;pagr;pagre	$x_2$ : barrière/médium/portail. $x_3$ : destination. $x_4$ : origine
@@ -1677,16 +1677,16 @@ parbi	$x_1$ est la proportion de $x_2$ rapporté à $x_3$ ($x_2$/$x_3$)	gismu		p
 pastu	$x_1$ est une robe de matériau $x_2$ robe/tunique/manteau	gismu		pas;past;pastu
 pa'i	ratio	cmavo
 pai	nombre pi	cmavo
-pafpa'u	$x_1$ est le grand-père paternel de $x_2$	lujvo				patfu,patfu
-paijdi	$x_1$ rend le verdict $x_2$ à propos de $x_3$	lujvo				pajni,jdice
+pafpa'u	$x_1$ est le grand-père paternel de $x_2$	lujvo				patfu;patfu
+paijdi	$x_1$ rend le verdict $x_2$ à propos de $x_3$	lujvo				pajni;jdice
 pa ki'o	1000	cmavo-compound
 pa mai	premièrement	cmavo-compound
 pa mei	est un singleton	cmavo-compound
-pamjai	$x_1$ caline $x_2$ avec $x_3$ à l'endroit $x_4$	lujvo				prami,jgari
+pamjai	$x_1$ caline $x_2$ avec $x_3$ à l'endroit $x_4$	lujvo				prami;jgari
 pa moi	1er	cmavo-compound
 pa mo'o	Chapitre 1	cmavo-compound
 panlo	$x_1$ est une tranche de $x_2$ portion mince et plate	gismu		pa'o;panl;panlo	$x_2$ : masse
-pampe'o	$x_1$ est un amant de $x_2$ (dans le sens 'un amoureux')	lujvo				prami,pendo
+pampe'o	$x_1$ est un amant de $x_2$ (dans le sens 'un amoureux')	lujvo				prami;pendo
 pa mu	15	cmavo-compound
 panje	$x_1$ est de l'éponge	gismu		panj;panje
 pa no	10	cmavo-compound
@@ -1695,10 +1695,10 @@ pa no moi	10ème	cmavo-compound
 pa no no	100	cmavo-compound
 pa no no mei	est une centaine	cmavo-compound
 pa pa	11	cmavo-compound
-papsimbi'o	$x_1$ font la paix sous les conditions $x_2$	lujvo				panpi,simxu,binxo
+papsimbi'o	$x_1$ font la paix sous les conditions $x_2$	lujvo				panpi;simxu;binxo
 pa re	12	cmavo-compound
 pa re mei	est une douzaine	cmavo-compound
-parkla	$x_1$ rampe jusqu'à $x_2$ depuis $x_3$ via $x_4$ utilisant $x_5$	lujvo				cpare,klama
+parkla	$x_1$ rampe jusqu'à $x_2$ depuis $x_3$ via $x_4$ utilisant $x_5$	lujvo				cpare;klama
 pa so	19	cmavo-compound
 patfu	$x_1$ est le père de $x_2$ ; $x_1$ se comporte paternellement envers $x_2$; [pas nécessairement biologique]	gismu		paf;pa'u;patf;patfu
 patlu	$x_1$ est une patate de type $x_2$ tubercule mangeable	gismu		patl;patlu
@@ -1719,12 +1719,12 @@ pikci	$x_1$ supplie $x_2$ de faire $x_3$	gismu		pikc;pikci
 pilji	$x_1$ est le produit de $x_2$ multiplié par $x_3$	gismu		pi'i;pilj;pilji
 pi'a	matrice de ligne	cmavo
 pi'e	séparateur de chiffre (1h12'12''->1pi'e12pi'e12)	cmavo
-pavdei	$x_1$ est un lundi de la semaine $x_2$ du calendrier $x_3$	lujvo				pa,djedi
+pavdei	$x_1$ est un lundi de la semaine $x_2$ du calendrier $x_3$	lujvo				pa;djedi
 pa vo	14	cmavo-compound
 pa xa	16	cmavo-compound
 petso	$x_1$ est $10^{15}$ de $x_2$ en $x_3$	gismu		pet;pets;petso	$x_3$ : dimension/aspect défaut : unités
 pi'i	multiplication	cmavo
-paxlai	$x_1$ mesure $x_2$ pots	lujvo				patxu,klani
+paxlai	$x_1$ mesure $x_2$ pots	lujvo				patxu;klani
 pa ze	17	cmavo-compound
 pelji	$x_1$ est du papier provenant de la source $x_2$	gismu		ple;pelj;pelji
 pencu	$x_1$ touche $x_2$ avec $x_3$ au point $x_4$	gismu		pec;pe'u;penc;pencu	$x_1$ : agent. $x_3$ : un point sur fa ou un instrument. $x_4$ : sur le corps de fe
@@ -1737,13 +1737,13 @@ pe'i	j'émets l'avis	cmavo
 pei	question : « émotion ? »	cmavo
 pe'u	svp	cmavo
 pi	virgule décimale	cmavo		piz
-pedysi'u	$x_1$ sont des amis	lujvo				pendo,simxu
-pejgau	$x_1$ répend $x_2$ sur $x_3$ depuis $x_4$	lujvo				preja,gasnu
-pelnimre	$x_1$ est un citron de la variété $x_2$	lujvo				pelxu,nimre
-pempau	$x_1$ est un vers du poème $x_2$ sur le sujet $x_3$ par l'auteur $x_4$ pour le public $x_5$	lujvo				pemci,pagbu
-pengau	$x_1$ présente $x_2$ à $x_3$ à l'endroit $x_4$	lujvo				penmi,gasnu
+pedysi'u	$x_1$ sont des amis	lujvo				pendo;simxu
+pejgau	$x_1$ répend $x_2$ sur $x_3$ depuis $x_4$	lujvo				preja;gasnu
+pelnimre	$x_1$ est un citron de la variété $x_2$	lujvo				pelxu;nimre
+pempau	$x_1$ est un vers du poème $x_2$ sur le sujet $x_3$ par l'auteur $x_4$ pour le public $x_5$	lujvo				pemci;pagbu
+pengau	$x_1$ présente $x_2$ à $x_3$ à l'endroit $x_4$	lujvo				penmi;gasnu
 pi du'e	trop parmi	cmavo-compound
-pifygau	$x_1$ emprisonne $x_2$ comme captif de $x_3$ retenu par les moyens $x_4$	lujvo				pinfu,gasnu
+pifygau	$x_1$ emprisonne $x_2$ comme captif de $x_3$ retenu par les moyens $x_4$	lujvo				pinfu;gasnu
 pi ji'i	à peu près tous parmi	cmavo-compound
 pilka	$x_1$ est la croûte de $x_2$	gismu		pil;pi'a;pilk;pilka
 pilno	$x_1$ utilise l'appareil $x_2$ dans le but $x_3$	gismu		pli;piln;pilno
@@ -1768,7 +1768,7 @@ pluja	$x_1$ est complexe dans l'aspect $x_2$ selon la norme $x_3$	gismu		luj;plu
 pluta	$x_1$ est le chemin vers $x_2$ de $x_3$ passant par les points incluant $x_4$	gismu		lut;lu'a;plut;pluta	$x_4$ : ensemble
 pi'o	utilisé par	cmavo
 po'i	dans la séquence	cmavo
-pipkla	$x_1$ saute jusqu'à $x_2$ depuis $x_3$ par la route $x_4$	lujvo				plipe,klama
+pipkla	$x_1$ saute jusqu'à $x_2$ depuis $x_3$ par la route $x_4$	lujvo				plipe;klama
 pi re si'e	est un cinquième de	cmavo-compound
 pi ro	tous parmi	cmavo-compound
 pi ro si'e	est la totalité de	cmavo-compound
@@ -1821,26 +1821,26 @@ pu	marqueur de temps du passé	cmavo
 pu'e	par le processus	cmavo
 pu'i	potentiel démontré	cmavo		pus
 pu'o	avant le début de	cmavo
-pijyske	$x_1$ est une philosophie basée sur la méthodologie $x_2$	lujvo				prije,saske
-plika'e	$x_1$ est capable d'utiliser $x_2$ pour le but $x_3$ sous les conditions $x_4$	lujvo				pilno,kakne
-plixau	$x_1$ est utile pour $x_2$ selon le standard $x_3$	lujvo				pilno,xamgu
-po'edji	$x_1$ veut posséder $x_2$ pour le but $x_3$, possession selon les règles $x_4$	lujvo				ponse,djica
-ponbau	$x_1$ est la langue japonaise utilisée par $x_2$ pour exprimer $x_3$	lujvo				ponjo,bangu
-popygau	$x_1$ casse $x_2$ en morceaux $x_3$	lujvo				porpi,gasnu
-porzu'e	les agents $x_1$ font $x_2$ à tour de rôle dans l'ordre $x_3$ dans le but $x_4$	lujvo				porsi,zukte
-posydi'a	$x_1$ est le prix d'achat de $x_2$ pour le possesseur potentiel $x_3$ par le vendeur $x_4$ selon la norme $x_5$	lujvo				ponse,jdima
-prula'i	$x_1$ est le prédécesseur de $x_2$ dans la séquence $x_3$	lujvo				purci,lamji
-prulamdei	$x_1$ est la veille de $x_2$ selon le standard $x_3$ ; $x_1$ est hier	lujvo				purci,lamji,djedi
+pijyske	$x_1$ est une philosophie basée sur la méthodologie $x_2$	lujvo				prije;saske
+plika'e	$x_1$ est capable d'utiliser $x_2$ pour le but $x_3$ sous les conditions $x_4$	lujvo				pilno;kakne
+plixau	$x_1$ est utile pour $x_2$ selon le standard $x_3$	lujvo				pilno;xamgu
+po'edji	$x_1$ veut posséder $x_2$ pour le but $x_3$, possession selon les règles $x_4$	lujvo				ponse;djica
+ponbau	$x_1$ est la langue japonaise utilisée par $x_2$ pour exprimer $x_3$	lujvo				ponjo;bangu
+popygau	$x_1$ casse $x_2$ en morceaux $x_3$	lujvo				porpi;gasnu
+porzu'e	les agents $x_1$ font $x_2$ à tour de rôle dans l'ordre $x_3$ dans le but $x_4$	lujvo				porsi;zukte
+posydi'a	$x_1$ est le prix d'achat de $x_2$ pour le possesseur potentiel $x_3$ par le vendeur $x_4$ selon la norme $x_5$	lujvo				ponse;jdima
+prula'i	$x_1$ est le prédécesseur de $x_2$ dans la séquence $x_3$	lujvo				purci;lamji
+prulamdei	$x_1$ est la veille de $x_2$ selon le standard $x_3$ ; $x_1$ est hier	lujvo				purci;lamji;djedi
 pu ba	allait avoir lieu	cmavo-compound
 pu ca'a	était actuellement	cmavo-compound
 pu ca'o	était pendant	cmavo-compound
 pu je ba	avant et après	cmavo-compound
 pu je ca	avant et pendant	cmavo-compound
-pukfri	$x_1$ apprécie l'expérience $x_2$	lujvo				pluka,lifri
+pukfri	$x_1$ apprécie l'expérience $x_2$	lujvo				pluka;lifri
 pu pu	passé antérieur	cmavo-compound
 purmo	$x_1$ est de la poudre de matériau $x_2$	gismu		pum;pu'o;purm;purmo
 pu'u	abstracteur de processus	cmavo		puv
-purzga	$x_1$ pressent $x_2$ par les moyens $x_3$ sous les conditions $x_4$	lujvo				purci,zgana
+purzga	$x_1$ pressent $x_2$ par les moyens $x_3$ sous les conditions $x_4$	lujvo				purci;zgana
 pu za	il y a moyennement longtemps	cmavo-compound
 pu ze'a	durée moyenne dans le passé	cmavo-compound
 pu ze'i	pendant une courte période dans le passé	cmavo-compound
@@ -1876,13 +1876,13 @@ ra'i	de la source	cmavo
 rai	avec le superlatif	cmavo
 ra'o	remise à jour des assignement	cmavo
 rau	assez	cmavo
-ra'irgau	$x_1$ conserve $x_2$ sur l'intervalle $x_3$	lujvo				ranji,gasnu
-rakci'a	$x_1$ grave l'inscription $x_2$ sur $x_3$ en utilisant $x_4$	lujvo				sraku,ciska
-raltca	$x_1$ est la ville la plus importante de $x_2$	lujvo			Pas forcément le siège du gouvernement, par exemple New York ou Sydney	ralju,tcadu
-rapsku	$x_1$ repète $x_2$ à $x_3$ via le support $x_4$, $x_5$ fois	lujvo				rapli,cusku
-rarbau	$x_1$ est une langue naturelle utilisée par la communautée $x_2$ pour exprimer $x_3$	lujvo				rarna,bangu
-rastergu'i	$x_1$ est une lampe à huile éclairant $x_2$ avec la lumière $x_3$	lujvo				grasu,te,gusni
-ratmidju	$x_1$ est le noyau de l'atome $x_2$	lujvo				ratni,midju
+ra'irgau	$x_1$ conserve $x_2$ sur l'intervalle $x_3$	lujvo				ranji;gasnu
+rakci'a	$x_1$ grave l'inscription $x_2$ sur $x_3$ en utilisant $x_4$	lujvo				sraku;ciska
+raltca	$x_1$ est la ville la plus importante de $x_2$	lujvo			Pas forcément le siège du gouvernement, par exemple New York ou Sydney	ralju;tcadu
+rapsku	$x_1$ repète $x_2$ à $x_3$ via le support $x_4$, $x_5$ fois	lujvo				rapli;cusku
+rarbau	$x_1$ est une langue naturelle utilisée par la communautée $x_2$ pour exprimer $x_3$	lujvo				rarna;bangu
+rastergu'i	$x_1$ est une lampe à huile éclairant $x_2$ avec la lumière $x_3$	lujvo				grasu;te;gusni
+ratmidju	$x_1$ est le noyau de l'atome $x_2$	lujvo				ratni;midju
 ra'oi	marqueur de rafsi ; il convertit un rafsi en sumti.	experimental cmavo	rafsi		Notez qu'une espace ou une pause est parfois nécessaire avant et/ou après le rafsi. L'analyseur syntaxique zantufa-0.14 et supérieur analyseront ra'oi comme en selma'o RAhOI ( http://guskant.github.io/gerna_cipra/zantufa-0.14.html ). Exemples: ra'oi.cra .i ra'oi.cac .i ra'oicai .i ra'oicacy .i ra'oi.gismy .i ra'oigismu .		RAhOI
 rau mei	est assez	cmavo-compound
 rau moi	est le assez-ième parmi	cmavo-compound
@@ -1898,34 +1898,34 @@ re'i	prêt à recevoir	cmavo
 rei	14 (E en hexadécimal)	cmavo
 re'o	adjacent à	cmavo
 ri	le dernier sumti	cmavo
-raxsku	$x_1$ exprime ironiquement $x_2$ à $x_3$ via $x_4$	lujvo				ranxi,cusku
-rebyrespa	$x_1$ est un lézard de l'espèce $x_2$	lujvo				rebla,respa
+raxsku	$x_1$ exprime ironiquement $x_2$ à $x_3$ via $x_4$	lujvo				ranxi;cusku
+rebyrespa	$x_1$ est un lézard de l'espèce $x_2$	lujvo				rebla;respa
 re'e nai	sacrilège	cmavo-compound
-refygau	$x_1$ refait $x_2$ pour la $x_3$-ème fois	lujvo				krefu,gasnu
+refygau	$x_1$ refait $x_2$ pour la $x_3$-ème fois	lujvo				krefu;gasnu
 re'i nai	pas prêt à recevoir	cmavo-compound
-rejgau	$x_1$ enregistre $x_2$ dans le medium $x_3$	lujvo				vreji,gasnu
+rejgau	$x_1$ enregistre $x_2$ dans le medium $x_3$	lujvo				vreji;gasnu
 re ki'o	2000	cmavo-compound
 respa	$x_1$ est un reptile de type $x_2$	gismu		res;resp;respa
 ri'a	à cause de	cmavo
-relseltu'e	$x_1$ est un bipède avec les jambes $x_2$	lujvo				re,se,tuple
-relxilma'e	$x_1$ est un deux-roues transportant $x_2$ sur la surface $x_3$ propulsé par $x_4$	lujvo				re,xislu,marce
+relseltu'e	$x_1$ est un bipède avec les jambes $x_2$	lujvo				re;se;tuple
+relxilma'e	$x_1$ est un deux-roues transportant $x_2$ sur la surface $x_3$ propulsé par $x_4$	lujvo				re;xislu;marce
 re mai	deuxièmement	cmavo-compound
 re mei	est une paire	cmavo-compound
 re moi	2ème	cmavo-compound
-remsmismani	$x_1$ est un grand singe de l'espèce $x_2$	lujvo				remna,simsa,smani
+remsmismani	$x_1$ est un grand singe de l'espèce $x_2$	lujvo				remna;simsa;smani
 re no	20	cmavo-compound
 re no mei	est 20	cmavo-compound
 re no no	200	cmavo-compound
 renvi	$x_1$ survit à $x_2$ pendant la durée $x_3$	gismu		rev;re'i;renv;renvi
 ri'e	relachement émotionnel	cmavo
-repmi'i	$x_1$ est une moissonneuse récoltant $x_2$ de la source $x_3$	lujvo				crepu,minji
-rerga'a	$x_1$ est un javelot fait en $x_2$ lancé par $x_3$	lujvo				renro,grana
+repmi'i	$x_1$ est une moissonneuse récoltant $x_2$ de la source $x_3$	lujvo				crepu;minji
+rerga'a	$x_1$ est un javelot fait en $x_2$ lancé par $x_3$	lujvo				renro;grana
 re roi	2 fois autant	cmavo-compound
-retsku	$x_1$ pose la question $x_2$ à $x_3$ via le medium $x_4$ sur le sujet $x_5$	lujvo				preti,cusku
+retsku	$x_1$ pose la question $x_2$ à $x_3$ via le medium $x_4$ sur le sujet $x_5$	lujvo				preti;cusku
 ri'a ma	question : « cause ? »	cmavo-compound
 ri'a nai	quel que soit la cause	cmavo-compound					BAI*
 ricfu	$x_1$ est riche en $x_2$	gismu		rif;cfu;ricf;ricfu	$x_2$ : biens/possession/propriété/aspect
-ricfoi	$x_1$ est une forêt de $x_2$ ; $x_2$ est l'espèce dominante	lujvo				tricu,foldi
+ricfoi	$x_1$ est une forêt de $x_2$ ; $x_2$ est l'espèce dominante	lujvo				tricu;foldi
 ri'e nai	contriction émotionnelle	cmavo-compound
 rijno	$x_1$ est de l'argent Ag	gismu		rij;rijn;rijno	métaphore : précieux, qui se ternit
 rilti	la séquence $x_1$ est le rythme de $x_2$	gismu		ril;rilt;rilti	$x_2$ : musique/forme expressive
@@ -1953,24 +1953,24 @@ ro'a	social	cmavo
 ro'e	mental	cmavo
 ro'i	émotionnel	cmavo
 roi	quantificateur de temps	cmavo		rom;roi
-rijyska	$x_1$ est argenté pour l'observateur $x_2$ sous les conditions $x_3$	lujvo				rijno,skari
-ri'ornimre	$x_1$ est un citron vert de l'espèce $x_2$	lujvo				crino,nimre
-rirmamta	$x_1$ est la grand-mère de $x_2$	lujvo				rirni,mamta
-ritygu'e	$x_1$ est la Grande Bretagne Dans le sens de pays	lujvo				brito,gugde
-ri'urgau	$x_1$ retient $x_2$ par la contrainte $x_3$ à $x_4$	lujvo				rinju,gasnu
+rijyska	$x_1$ est argenté pour l'observateur $x_2$ sous les conditions $x_3$	lujvo				rijno;skari
+ri'ornimre	$x_1$ est un citron vert de l'espèce $x_2$	lujvo				crino;nimre
+rirmamta	$x_1$ est la grand-mère de $x_2$	lujvo				rirni;mamta
+ritygu'e	$x_1$ est la Grande Bretagne Dans le sens de pays	lujvo				brito;gugde
+ri'urgau	$x_1$ retient $x_2$ par la contrainte $x_3$ à $x_4$	lujvo				rinju;gasnu
 ro'a nai	antisocial	cmavo-compound
 ro da	chaque chose	cmavo-compound
 ro'e nai	sans esprit	cmavo-compound
 ro'i nai	anti-émotionnel	cmavo-compound
-roksfe	$x_1$ est une surface rocheuse de $x_2$ sur le côté $x_3$ avec les arêtes $x_4$	lujvo				rokci,sefta
-rokyko'a	$x_1$ est un coin en pierre de la structure $x_2$, de type $x_3$	lujvo				rokci,kojna
+roksfe	$x_1$ est une surface rocheuse de $x_2$ sur le côté $x_3$ avec les arêtes $x_4$	lujvo				rokci;sefta
+rokyko'a	$x_1$ est un coin en pierre de la structure $x_2$, de type $x_3$	lujvo				rokci;kojna
 ro mai	finalement	cmavo-compound
 ro moi	est le dernier parmi	cmavo-compound
 ro'o	physique	cmavo
 ro'u	sexuel	cmavo
-rongunma	$x_1$ est l'Union Européenne avec les états membres $x_2$	lujvo				ropno,gunma
-ronru'u	$x_1$ est $x_2$ euros	lujvo				ropno,rupnu
-rontu'a	$x_1$ est l'Europe	lujvo				ropno,tumla
+rongunma	$x_1$ est l'Union Européenne avec les états membres $x_2$	lujvo				ropno;gunma
+ronru'u	$x_1$ est $x_2$ euros	lujvo				ropno;rupnu
+rontu'a	$x_1$ est l'Europe	lujvo				ropno;tumla
 ro'o nai	anti-physique	cmavo-compound
 ro roi	toujours	cmavo-compound
 ro'u nai	abstinence sexuelle	cmavo-compound

@@ -3,8 +3,8 @@ w	d	t	s	g	r	n	v	b
 si'o	abstractor: abstractor de idea/concepto; $x_{1}$ es el concepto que tiene $x_{2}$ de (bridi)	cmavo	NU	concepto	siz
 si'u	{sidju} modal, 1er argumento (aiding agent)             ayudado por ...	cmavo	BAI	con ayuda de
 sicpi	$x_1$ es una cantidad de lluvia/llovizna/precipitación líquida de material/composición x2	experimental gismu		lluvia	sicpi	{bratu}, {snime}, {carvi}
-plajva	$j_1$=$p_2$ es una política por $p_1$ hacedor de política acerca de $j_3$ sujeto de política, $j_1$ es político	lujvo		política		La política como una actividad puede ser "nu plajva" y las ciencias políticas "plajva {saske}"	platu,javni
-simbasygau	$x_1$ intercambia $x_2$ y $x_3$ en circunstancia $x_4$	lujvo		intercambiar		Ver también {simbasti}, {gasnu}	simxu,basti,gasnu
+plajva	$j_1$=$p_2$ es una política por $p_1$ hacedor de política acerca de $j_3$ sujeto de política, $j_1$ es político	lujvo		política		La política como una actividad puede ser "nu plajva" y las ciencias políticas "plajva {saske}"	platu;javni
+simbasygau	$x_1$ intercambia $x_2$ y $x_3$ en circunstancia $x_4$	lujvo		intercambiar		Ver también {simbasti}, {gasnu}	simxu;basti;gasnu
 skargolu	$x_1$ es un caracol de especie $x_2$	fu'ivla		caracol	skargolu	{cakcurnu}
 skomberu	$x_1$ es una caballa de especie $x_2$	fu'ivla		caballa	skomberu
 slaka bu	letra: carácter ',' de lojban	bu-letteral	BY*	coma cerrada
@@ -42,8 +42,8 @@ so'a	dígito/número: casi todos (dígito/número)	cmavo	PA4	casi todos	soj
 so'e	dígito/número: la mayoría	cmavo	PA4	la mayoría	sop
 so'i	dígito/número: muchos	cmavo	PA4	muchos	sor;so'i
 soi	discursivo: marcador de sumti recíprocos; indica una relación recíproca emtre sumti	cmavo	SOI	sumti recíprocos
-snigau	$x_1$ asigna símbolo/variable $x_2$ a valor/referente $x_3$ para observador $x_4$	lujvo		asignar		Ver también {sinxa}, {gasnu}	sinxa,gasnu
-snisimsumji	$x_1$ es la sumatoria de expresión $x_2$ con variable $x_3$ sobre dominio $x_4$	lujvo		sumatoria		Ver también {si'i}	sinxa,simxu,sumji
+snigau	$x_1$ asigna símbolo/variable $x_2$ a valor/referente $x_3$ para observador $x_4$	lujvo		asignar		Ver también {sinxa}, {gasnu}	sinxa;gasnu
+snisimsumji	$x_1$ es la sumatoria de expresión $x_2$ con variable $x_3$ sobre dominio $x_4$	lujvo		sumatoria		Ver también {si'i}	sinxa;simxu;sumji
 smacrkobaiu	$x_1$ es un cobayo/conejillo de Indias de especie $x_2$	fu'ivla		cobayo;conejillo de Indias	smacrkobaiu
 sodnrkali	$x_1$ es potasio (K)	fu'ivla		K;potasio	sodnrkali
 so'e roi	modificador de intervalo: la mayoría de las veces, usualmente	cmavo-compound	ROI*	la mayoría de las veces
@@ -70,7 +70,7 @@ srito	$x_{1}$ refleja cultura/nacionalidad/idioma sánscrito/védico en aspecto 
 sruri	$x_{1}$ rodea/circunda a $x_{2}$ en dirección/dimensión/plano $x_{3}$	gismu		rodear	rur;sru;srur;sruri	Ver también se {nenri},  se {jbini},  {bartu}.
 stagi	$x_{1}$ es un vegetal/parte comestible $x_{2}$ de planta $x_{3}$	gismu		vegetal	stag;stagi
 so'u	dígito/número: pocos	cmavo	PA4	pocos	sot
-solnavni	$x_1$ es una cantidad de helio (He)	lujvo		He;helio		Ver también {solri}, {navni}	solri,navni
+solnavni	$x_1$ es una cantidad de helio (He)	lujvo		He;helio		Ver también {solri}, {navni}	solri;navni
 so moi	selbri cuantificado: convierte 9 en selbri ordinal; $x_{1}$ es noveno entre $x_{2}$ ordenado según regla $x_{3}$	cmavo-compound	MOI*	es noveno entre
 so no	número/cantidad: 90 (noventa)	cmavo-compound	PA*	90
 so no no	número/cantidad: 900 (novecientos)	cmavo-compound	PA*	900
@@ -80,7 +80,7 @@ sputu	$x_{1}$ escupe/esputa $x_{2}$ desde $x_{3}$ hacia $x_{4}$	gismu		escupir	p
 srana	$x_{1}$ concierne/es relevante a $x_{2}$	gismu		concernir	ra'a;sran;srana	Ver también {ckini},  {steci}.		ra'a;se ra'a
 sruma	$x_{1}$ supone/asume que $x_{2}$ (du'u) es cierto acerca de $x_{3}$	gismu		suponer	ru'a;srum;sruma
 so'o	dígito/número: varios	cmavo	PA4	varios	sos
-sorgugje'a	$j_1$ es un imperio compuesto de $g_1$ provincias con $j_2$=$g_3$ territorios	lujvo		imperio		Hecho con {so'i}, {gugde}, {jecta}	so'i,gugde,jecta
+sorgugje'a	$j_1$ es un imperio compuesto de $g_1$ provincias con $j_2$=$g_3$ territorios	lujvo		imperio		Hecho con {so'i}, {gugde}, {jecta}	so'i;gugde;jecta
 so so ce'i	número/cantidad: 99% (número)	cmavo-compound	PA*	99 por ciento
 so'u roi	modificador de intervalo: unas pocas veces	cmavo-compound	ROI*	unas pocas veces
 so ze pi mu	número/cantidad: 97.5	cmavo-compound	PA*	97.5
@@ -284,15 +284,15 @@ toi	terminador elisible: paréntesis derecho/fin de comentario; raramente elisib
 to'o	locación/dirección; alejandose de/directamente hacia afuera de ...	cmavo	FAhA4	hacia fuera de
 to'u	discursivo: \n{to'u} - en breve\n{to'unai} - en detalle	cmavo	UI3	en breve		Ver también {tordu},  {clani},  {tcidu}.
 tu	pro-sumti: aquél/aquélla/aquello; demostrativo distante; indica algo alejado de quien habla y quien escucha	cmavo	KOhA6	aquél;aquello	tuf
-tolcru	$x_1$ prohibe $x_2$ bajo condiciones $x_3$	lujvo		prohibir		Ver también {e'anai}	to'e,curmi
-toldarsi	$x_1$ es tímido/renuente a ser/hacer $x_2$	lujvo		tímido		Ver también {u'ocu'i}	to'e,darsi
-toldarsygau	$x_1$ desanima a $x_2$ para hacer/ser $x_3$	lujvo		desanimar		Ver también {e'enai}	to'e,darsi,gasnu
-tolke'i	$x_1$ es implacable/despiadado con $x_2$ sobre $x_3$	lujvo		despiadado;implacable		Ver también {kusru}, {uunai}	to'e,kecti
-tolprali	$x_1$ es un perjuicio/pérdida contra $x_2$ ocasionado por evento $x_3$	lujvo		pérdida;perjuicio		Ver también {prali}	to'e,prali
-tolsi'a	$x_1$ desestima/falta el respeto a $x_2$	lujvo		desestimar		Ver también {ionai}	to'e,sinma
-toltu'i	$x_1$ discrepa/está en desacuerdo con $x_2$ que $x_3$ (du'u) es cierto sobre $x_4$	lujvo		discrepar		Ver también {ienai}	to'e,tugni
-tolvri	$x_1$ es cobarde en actividad $x_2$ según estándar $x_3$	lujvo		cobarde		Ver también {u'onai}	to'e,virnu
-tolzdi	$x_1$ es aburrido/tedioso para $x_2$ en propiedad/aspecto $x_3$	lujvo		aburrido;tedioso		Ver también {u'inai}	to'e,zdile
+tolcru	$x_1$ prohibe $x_2$ bajo condiciones $x_3$	lujvo		prohibir		Ver también {e'anai}	to'e;curmi
+toldarsi	$x_1$ es tímido/renuente a ser/hacer $x_2$	lujvo		tímido		Ver también {u'ocu'i}	to'e;darsi
+toldarsygau	$x_1$ desanima a $x_2$ para hacer/ser $x_3$	lujvo		desanimar		Ver también {e'enai}	to'e;darsi;gasnu
+tolke'i	$x_1$ es implacable/despiadado con $x_2$ sobre $x_3$	lujvo		despiadado;implacable		Ver también {kusru}, {uunai}	to'e;kecti
+tolprali	$x_1$ es un perjuicio/pérdida contra $x_2$ ocasionado por evento $x_3$	lujvo		pérdida;perjuicio		Ver también {prali}	to'e;prali
+tolsi'a	$x_1$ desestima/falta el respeto a $x_2$	lujvo		desestimar		Ver también {ionai}	to'e;sinma
+toltu'i	$x_1$ discrepa/está en desacuerdo con $x_2$ que $x_3$ (du'u) es cierto sobre $x_4$	lujvo		discrepar		Ver también {ienai}	to'e;tugni
+tolvri	$x_1$ es cobarde en actividad $x_2$ según estándar $x_3$	lujvo		cobarde		Ver también {u'onai}	to'e;virnu
+tolzdi	$x_1$ es aburrido/tedioso para $x_2$ en propiedad/aspecto $x_3$	lujvo		aburrido;tedioso		Ver también {u'inai}	to'e;zdile
 to'u nai	discursivo: \n{to'u } - en breve\n{to'u nai} - en detalle	cmavo-compound	UI*3	en detalle
 tubnu	$x_{1}$ es un tubo/caño/cilindro hueco (forma) de material $x_{2}$, con relleno de material $x_{3}$	gismu		tubo	tu'u;tubn;tubnu
 tugni	$x_{1}$ está de acuerdo/concuerda con $x_{2}$ que $x_{3}$ (du'u) es cierto sobre asunto $x_{4}$	gismu		concordar	tug;tu'i;tugn;tugni	Ver también {sarxe},  {darlu}.
@@ -385,7 +385,7 @@ va'u	{xamgu} modal, 1er argumento complemento beneficiario   beneficiado por ...
 vau	elisible: fin de sumti en bridi simple; en bridi compuesto, seguido por los sumti en común	cmavo	VAU	fin bridi simple
 ve	4ta conversión; intercambia 1er/4to argumentos	cmavo	SE	4ta conversión	vel
 ve'a	intervalo espacial: región espacial media	cmavo	VEhA	intervalo espacial medio
-vanjba	$x1$ es una uva de especie/variedad $x_2$	lujvo		uva			vanju,jbari
+vanjba	$x1$ es una uva de especie/variedad $x_2$	lujvo		uva			vanju;jbari
 ve be'i	{benji} modal, 4to argumento                            orígen de transmisión...	cmavo-compound	BAI*	transmitido desde
 ve ci'e	{ciste} modal, 4to argumento                            como sistema con sinergía en ...	cmavo-compound	BAI*	con sinergía en
 ve cu'u	{cusku} modal, 4to argumento                            en medio de expresión ...	cmavo-compound	BAI*	expresado en medio ...
@@ -441,8 +441,8 @@ vo'u	pro-sumti: repite 5to argumento del bridi principal de esta oración	cmavo	
 vu'i	calificador de sumti: la secuencia de elementos/componentes ...; orden es vago	cmavo	LAhE	la secuencia de
 vu'u	operador matemático n-ario: menos; operador de substracción; ((((a - b) - c) - ...))	cmavo	VUhU1	menos
 xa	dígito/número: 6 (dígito) (seis)	cmavo	PA1	6;seis	xav
-volsmacu	$s_1$=$v_1$ es un murciélago (un mamífero volador perteneciente al orden Chiroptera) de especie/raza $s_2$	lujvo		murciélago			vofli,smacu
-volvygau	$x_1$ devuelve/regresa $x_2$ a persona/estado/lugar anterior/original $x_3$ desde $x_4$	lujvo		devolver			volve,gasnu
+volsmacu	$s_1$=$v_1$ es un murciélago (un mamífero volador perteneciente al orden Chiroptera) de especie/raza $s_2$	lujvo		murciélago			vofli;smacu
+volvygau	$x_1$ devuelve/regresa $x_2$ a persona/estado/lugar anterior/original $x_3$ desde $x_4$	lujvo		devolver			volve;gasnu
 vo moi	selbri cuantificado: convierte 4 en selbri ordinal; $x_{1}$ es cuarto entre $x_{2}$ ordenado según regla $x_{3}$	cmavo-compound	MOI*	es cuarto entre
 vo no	número/cantidad: 40 (cuarenta)	cmavo-compound	PA*	40
 vo no no	número/cantidad: 400 (cuatrocientos)	cmavo-compound	PA*	400
@@ -455,8 +455,8 @@ vu'e	modificador de actitudinal: \n{vu'e} - virtud\n{vu'enai} - pecado	cmavo	UI5
 vu'e nai	modificador de actitudinal: \n{vu'e } - virtud\n{vu'e nai} - pecado	cmavo-compound	UI*5	pecado
 vu'o	une una cláusula/frase relativa a un sumti complejo o sumti conectados lógicamente	cmavo	VUhO	relativo de alcance largo
 vy	letra v	cmavo	BY2	v
-xabmau	$x_1$ es una mayoría/más de la mitad de $x_2$ en propiedad $x_3$ por diferencia $x_4$ según estándar $x_5$	lujvo		mayoría		Ver también {xadba}, {zmadu}, {xabme'a}	xadba,zmadu
-xabme'a	$x_1$ es una minoría/menos de la mitad de $x_2$ en propiedad $x_3$ por diferencia $x_4$ según estándar $x_5$	lujvo		minoría		Ver también {xadba}, {mleca}, {xabmau}	xadba,mleca
+xabmau	$x_1$ es una mayoría/más de la mitad de $x_2$ en propiedad $x_3$ por diferencia $x_4$ según estándar $x_5$	lujvo		mayoría		Ver también {xadba}, {zmadu}, {xabme'a}	xadba;zmadu
+xabme'a	$x_1$ es una minoría/menos de la mitad de $x_2$ en propiedad $x_3$ por diferencia $x_4$ según estándar $x_5$	lujvo		minoría		Ver también {xadba}, {mleca}, {xabmau}	xadba;mleca
 xa ki'o	número/cantidad: 6,000	cmavo-compound	PA*	6,000
 xalni	$x_{1}$ se asusta/aterroriza/entra en pánico por $x_{2}$ (evento)	gismu		asustarse	xaln;xalni
 xamgu	$x_{1}$ es bueno/beneficioso para $x_{2}$ según estándar $x_{3}$	gismu		bueno	xag;xau;xamg;xamgu	Ver también {xlali},  {vrude},  {zabna}.		va'u;se va'u;te va'u
@@ -576,10 +576,10 @@ zo'e	pro-sumti: un valor elíptico/no especificado; valor dado por el contexto	c
 zo'i	locación/dirección; mas cerca que ... /hacia adentro/acercandose desde ...	cmavo	FAhA4	hacia adentro	zor;zo'i
 zoi	cita no lojbánica; el resultado es tratado como un bloque de texto	cmavo	ZOI	cita no lojbánica
 zo'o	modificador de actitudinal: \n{zo'o} - humor\n{zo'onai} - seriedad	cmavo	UI5	humor		Ver también {xajmi},  {junri}.
-zanvi'e	$x_1$ es bienvenido por $x_2$ a lugar/evento $x_3$	lujvo		bienvenido		Ver también {fi'i}, {malvi'e}	zabna,vitke
-zernalfu'e	$x_1$ es inocente de crimen $x_2$ ante juez/autoridad $x_3$	lujvo		inocente		Ver también {u'unai}	zekri,na'e,fuzme
-zilxru	$x_{1}$ vuelve/regresa/retorna a estado/lugar anterior/original $x_{2}$ desde $x_{3}$	lujvo		volver			zi'o,xruti
-zmajavdu'i	$x_1$ es mayor o igual a $x_2$ en propiedad $x_3$ por cantidad $x_4$	lujvo		mayor o igual		Ver también {su'o}	zmadu,ja,dunli
+zanvi'e	$x_1$ es bienvenido por $x_2$ a lugar/evento $x_3$	lujvo		bienvenido		Ver también {fi'i}, {malvi'e}	zabna;vitke
+zernalfu'e	$x_1$ es inocente de crimen $x_2$ ante juez/autoridad $x_3$	lujvo		inocente		Ver también {u'unai}	zekri;na'e;fuzme
+zilxru	$x_{1}$ vuelve/regresa/retorna a estado/lugar anterior/original $x_{2}$ desde $x_{3}$	lujvo		volver			zi'o;xruti
+zmajavdu'i	$x_1$ es mayor o igual a $x_2$ en propiedad $x_3$ por cantidad $x_4$	lujvo		mayor o igual		Ver también {su'o}	zmadu;ja;dunli
 zingibero	$x_1$ es jengibre de especie/variedad $x_2$	fu'ivla		jengibre	zingibero
 zo'o bu	letra: símbolo de humor, ":-)" y formas relacionadas que expresan humor (letra)	bu-letteral	BY*
 zo'o cu'i	modificador de actitudinal: \n{zo'o } - humor\n{zo'o cu'i} - aburrido\n{zo'o nai} - seriedad	cmavo-compound	UI*5	aburrido

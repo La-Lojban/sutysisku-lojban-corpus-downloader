@@ -222,8 +222,8 @@ ce'e	definition 	länkar termer ihop i ett eftertänkt set av termer.		cmavo	CEh
 ce'i	siffra/nummer: % procentsymbol, hundradel.		cmavo	PA3	procent	cez
 ce'o	icke-logisk konjunktion: ordnad sekvenslänk;		cmavo	JOI	i en sekvens med	ce'o
 ci	siffra/nummer: 3 (siffra) [tre].		cmavo	PA1	3;tre	cib
-cernalcando	$ca_1$ är morgonpigg/aktiv under morgon $ce_1$.		lujvo		morgonpigg			cerni,na'e,cando
-cicnysluni	$x_1$ är en blålök (Allium cyaneum) av sort/variant $x_2$.		lujvo		blålök			cicna,sluni
+cernalcando	$ca_1$ är morgonpigg/aktiv under morgon $ce_1$.		lujvo		morgonpigg			cerni;na'e;cando
+cicnysluni	$x_1$ är en blålök (Allium cyaneum) av sort/variant $x_2$.		lujvo		blålök			cicna;sluni
 cidjrburito	$x_1$ är en burrito (mexikansk maträtt med ingredienser insvept i en tortilla) inklusive ingredienser $x_2$.		fu'ivla		burrito	cidjrburito
 cangan	Hong Kong	Från mandarin uttal.	cmevla		Hong Kong
 canxais	Shanghai		cmevla		Shanghai
@@ -277,7 +277,7 @@ ckasu	$x_1$ hånar/förlöjligar/retar/driver med/hånskrattar åt $x_2$ för $x
 ckeji	$x_1$ skäms/känner sig förödmjukad/kränkt under omständigheter $x_2$ inför gemenskap/publik $x_3$.		gismu		skäms	kej;cke;ckej;ckeji
 ci'i	siffra/nummer: oändlighet; följt av nummer => alef-kardinalitet .		cmavo	PA5	oändlighet
 ci'o	{cinmo} modal, 1st place emotionellt förnummen av ...		cmavo	BAI	emotionellt förnummen av
-cifseltse	$z_2$ är en babysitter för spädbarn/bäbis $c_1$=$z_1$.		lujvo		babysitter			cifnu,se,zutse
+cifseltse	$z_2$ är en babysitter för spädbarn/bäbis $c_1$=$z_1$.		lujvo		babysitter			cifnu;se;zutse
 cidjrkusku	$x_1$ är en couscous (berbisk maträtt) inklusive ingredienser $x_2$.	Couscous är en berbisk gryträtt från Nordafrika. Inte endast själva couscous-grynen, som vanligtvis avses på svenska.	fu'ivla		couscous	cidjrkusku
 cidjrfalyfil	$x_1$ är en kvantitet/är gjord av/innehåller falafel [friterade kikärtsbollar] serverad i bröd/på tallrik $x_2$ gjord på/tillsammans med ingredienser $x_3$.		cmevla		falafel
 ci'i roi	tempus intervall modifierare: inträffar oändligt antal gånger, för evigt; målsättningstempus; tid om inget annat anges.		cmavo-compound	ROI*	oändligt antal gånger
@@ -343,7 +343,7 @@ co	tanru inversion operator;		cmavo	CO	tanru inversion	col
 co'e	elliptisk/ospecificerad bridi förhållande.		cmavo	GOhA	göra;ospecificerad bridi	com;co'e
 coi	vokativ: hälsningsfras/hallå/hej/tjena/goddag		cmavo	COI	goddag;hej;hejsan;tjena
 co'o	vokativ: avsked/farväl/hej då.		cmavo	COI	farväl;hej då
-co'acfa	$x_1$ [tillstånd/händelse/process] inleds/initieras/startar/börjar inträffa från dess naturliga start; (intransitivt verb).	Se även {co'a}, {cfari}. x1 startar från första början. Även i betydelsen att 'börja om på nytt' eller 'börja från scratch'.	lujvo		börja från scratch;börja om på nytt;börjar			co'a,cfari
+co'acfa	$x_1$ [tillstånd/händelse/process] inleds/initieras/startar/börjar inträffa från dess naturliga start; (intransitivt verb).	Se även {co'a}, {cfari}. x1 startar från första början. Även i betydelsen att 'börja om på nytt' eller 'börja från scratch'.	lujvo		börja från scratch;börja om på nytt;börjar			co'a;cfari
 ckilus	$x_1$ är Vågen (stjärnbild/stjärntecken).	Symbolen för denna stjärnbild är vågen. Sedan babylonsk tid, så har Vågen varit nära förbundet med lag, rättvisa och hövlighet, då vågen har varit ett vanligt inslag i folks dagliga liv genom tiderna.	cmevla		Vågen
 cmeclax	Namnlös	Bl.a. anonymt mailsvar mjukvara.	cmevla		Namnlös
 coi co'o	vokativ: hälsningsfras i förbigående.		cmavo-compound	COI*	hälsningsfras i förbigående
@@ -680,8 +680,8 @@ grana	$x_{1}$ är en stav/påle/stolpe/mast/stång/käpp/pinne [shape/form] av m
 greku	$x_{1}$ är en ram/struktur/skelett/kontur/disposition som stöjder/bär upp/bestämmer formen av $x_{2}$.		gismu		disposition;ram;struktur	rek;grek;greku
 grute	$x_{1}$ är en frukt [kroppsdel] av art $x_{2}$.		gismu		frukt	rut;grut;grute
 gunma	$x_{1}$ är en massa/lag/hop/ansamling/helhet, tillsammans sammansatt av komponenter $x_{2}$, vilka anses hänger ihop.	En beskrivning i x1 indikerar massegenskap(er) som massan visar upp; massor kan avslöja egenskaper vilka inte kan återfinnas hos enskilda medlemmar i setet, vilka har blivit massifierade.	gismu		ansamling;hop;massa	gum;gunm;gunma
-glatrotci	$x_1$ är ett värmereglage		lujvo		värmereglage			glare,jitro,tutci
-glepe'o	$p_1$=$g_1$ är en sexpartner/knullkompis till $p_2$=$g_2$.		lujvo		KK;knullkompis;sexpartner			gletu,pendo
+glatrotci	$x_1$ är ett värmereglage		lujvo		värmereglage			glare;jitro;tutci
+glepe'o	$p_1$=$g_1$ är en sexpartner/knullkompis till $p_2$=$g_2$.		lujvo		KK;knullkompis;sexpartner			gletu;pendo
 fertis	$x_1$ är Jungfrun (stjärnbild/stjärntecken).	Från {ferti}. Grekerna och romarna associerade Jungfrun med deras vetegudinna, Demeter-Ceres som är moder till Proserpina-Persephone. Därför blev stjärnbilden associerad med fruktbarhet (i både Babylonien, Grekland och Rom). Alternativt så var hon ibland känd som jungfrugudinnan Iustitia eller Astraea, som håller rättvisans våg i sin hand. Eftersom ferti på lojban täcker såväl potentiell som faktisk/förverkligad fertilitet, så har den ursprungliga betydelsen blivit vald, men kan förmodligen ändå tolka namnet på båda sätten (som en fruktbarhetsgudom eller som en fertil jungfru).	cmevla		Jungfrun
 gliban	engelska språket		cmevla		engelska
 guanJOUS	Guangzhou	Guangzhou, även känd som Kanton, ibland även Kwangchou, är en stad på subprovinsiell nivå i södra Kina och huvudstad i provinsen Guangdong. guanJOUS är baserad på mandarinuttal.För namnet baserat på lokal kantonesiskt uttal se {guonJAUS}.	obsolete cmevla		Guangzhou
@@ -777,14 +777,14 @@ mu	siffra/nummer: 5 (siffra) [fem].		cmavo	PA1	5;fem	mum
 no	siffra/nummer: 0 (siffra) [noll].		cmavo	PA1	noll	non
 pa	siffra/nummer: 1 (siffra) [ett].		cmavo	PA1	1;en;ett	pav
 re	siffra/nummer: 2 (siffra) [två].		cmavo	PA1	2;två	rel
-naldamtanko	$t_1$ är en mängd av rökfri tobak/en tobaksbaserad produkt av/från art/sort $t_2$	All tobak och alla tobaksbaserade produkter, men ej enbart nikotinbaserade produkter (ex. läkemedel), som inte är menade att rökas ex. tuggtobak, snuff, snus, tobakstuggummi, iqmik, naswar, gutka, toombak, shammah, etc. Cf. {tanko}, {danmo}, {sigja}.	lujvo		gutka;iqmik;naswar;snuff;snus;tobak;tobaksprodukt;tuggtobak			na'e,danmo,tanko
-nebyti'e	$t_{1}$=$c_{1}$ är en nacke/nacken hos $t_{2}$=$c_{2}$.		lujvo		nacke			cnebo,trixe
-nintadni	$c_2$=$t_1$ är en nybörjare i ämne $c_1$=$t_2$ enligt standard $c_4$		lujvo		novis;nybörjare			cnino,tadni
-nipkenka	$k_1$=$s_1$ är en kladdkaka gjord på ingredienser $k_2$, tillagad enligt metod $k_3$		lujvo		kaka			snipa,kenka
-pamglepe'o	$pe_1$=$g_1$=$pa_1$ är en älskare/älskarinna till $pe_2$=$g_2$=$pa_2$.		lujvo		älskare;älskarinna			prami,gletu,pendo
-pampe'o	$pr_1$=$pe_1$ är en pojkvän/flickvän till $pr_2$=$pe_2$.		lujvo		flickvän;pojkvän			prami,pendo
-saxfri	$l_1$=$s_1$ är lycklig och harmonisk med $l_2$=$s_2$.		lujvo		lycklig			sarxe,lifri
-selkeima'e	$m_1$ är ett lekfordon för transport av $m_2$ på i underlag/medium $m_3$, som drivs med  $m_4$.	Se även fordonsleksak (={ma'erselkei}).	lujvo		lekfordon			se,kelci,marce
+naldamtanko	$t_1$ är en mängd av rökfri tobak/en tobaksbaserad produkt av/från art/sort $t_2$	All tobak och alla tobaksbaserade produkter, men ej enbart nikotinbaserade produkter (ex. läkemedel), som inte är menade att rökas ex. tuggtobak, snuff, snus, tobakstuggummi, iqmik, naswar, gutka, toombak, shammah, etc. Cf. {tanko}, {danmo}, {sigja}.	lujvo		gutka;iqmik;naswar;snuff;snus;tobak;tobaksprodukt;tuggtobak			na'e;danmo;tanko
+nebyti'e	$t_{1}$=$c_{1}$ är en nacke/nacken hos $t_{2}$=$c_{2}$.		lujvo		nacke			cnebo;trixe
+nintadni	$c_2$=$t_1$ är en nybörjare i ämne $c_1$=$t_2$ enligt standard $c_4$		lujvo		novis;nybörjare			cnino;tadni
+nipkenka	$k_1$=$s_1$ är en kladdkaka gjord på ingredienser $k_2$, tillagad enligt metod $k_3$		lujvo		kaka			snipa;kenka
+pamglepe'o	$pe_1$=$g_1$=$pa_1$ är en älskare/älskarinna till $pe_2$=$g_2$=$pa_2$.		lujvo		älskare;älskarinna			prami;gletu;pendo
+pampe'o	$pr_1$=$pe_1$ är en pojkvän/flickvän till $pr_2$=$pe_2$.		lujvo		flickvän;pojkvän			prami;pendo
+saxfri	$l_1$=$s_1$ är lycklig och harmonisk med $l_2$=$s_2$.		lujvo		lycklig			sarxe;lifri
+selkeima'e	$m_1$ är ett lekfordon för transport av $m_2$ på i underlag/medium $m_3$, som drivs med  $m_4$.	Se även fordonsleksak (={ma'erselkei}).	lujvo		lekfordon			se;kelci;marce
 namcrgogolo	$x_{1}$ är en googol [$10^{100}$] av $x_{2}$ i dimension/aspekt $x_{3}$ (enheter om inget annat anges).		fu'ivla		googol	namcrgogolo
 namcrgogolplexu	$x_{1}$ är en googolplex [$10^{googol}$] av $x_{2}$ i dimension/aspekt $x_{3}$ (enheter om inget annat anges).		fu'ivla		googolplex	namcrgogolplexu
 noljedai	$x_1$ är en Jedi med kraft/nivå/rank $x_2$.		fu'ivla		jedi	noljedai
@@ -842,7 +842,7 @@ slovensk	Slovakien		cmevla		Slovakien
 sol	Seoul	Seoul (koreanska: 서울; IPA: [sʌ.ul]), alternativ stavning Söul, är huvudstaden i Sydkorea.	cmevla		Seoul;Söul
 soviet	Sovjetunionen		obsolete cmevla		Sovjetunionen
 zetro	$x_{1}$ är en triljard [$10^{21}$] av $x_{2}$ i dimension/aspekt $x_{3}$ (enheter om inget annat anges).		gismu		1E21;sextiljon;triljard;zetta-	zet;zetr;zetro
-velda'iglu	$g_1$=$v_1$ är en mits [träffyta i form av handske/underarmsskydd] som bärs av $v_2$, och med funktion att bli träffad av [kroppsdel/instrument] $v_3$.	From {velda'i}, {gluta}.	lujvo		mits			ve,darxi,gluta
+velda'iglu	$g_1$=$v_1$ är en mits [träffyta i form av handske/underarmsskydd] som bärs av $v_2$, och med funktion att bli träffad av [kroppsdel/instrument] $v_3$.	From {velda'i}, {gluta}.	lujvo		mits			ve;darxi;gluta
 tabrntromba	$x_1$ är en trumpet.		fu'ivla		trumpet	tabrntromba
 tceremuxa	$x_1$ är en hägg (art Prunus Padus)	Se även {rotsmela}, {smela}.	fu'ivla		hägg	tceremuxa
 uiski	$x_1$ är whiskey, whisky destillerat från $x_2$.		fu'ivla		whiskey;whisky	uiski
@@ -857,12 +857,12 @@ terd	Jorden		cmevla		Jorden
 tix	Dotter		cmevla		Dotter
 tokios	Tokyo		obsolete cmevla		Tokyo
 vo	siffra/nummer: 4 (siffra) [fyra].		cmavo	PA1	4;fyra	von
-kindi'u	$d_1$ är en biograf som visar filmerna $s_1$		lujvo		biograf			skina,dinju
-klisodva	$x_1$ är gjord av/innehåller/är en kvantitet av klar/transparent kolsyrad dryck/läsk med söt smak, av märket $x_2$.	Inte vilken kolsyrad dryck/läsk som helst, men en som är transparent och sötad, såsom Sprite (=sprait), 7-up, Sockerdricka eller liknande. Andra smaker kan tillsättas, vilket uttrycks med tanru, så länge kombinationen inte skiljer sig för mycket från karaktären av klisodva.	lujvo		läsk (transparent typ);sockerdricka			klina,sodva
-ladzanja	$x_1$ är en lasagne.		lujvo		lasagne			ladru,-zanja-
-matryma'etci	$mar_1$=$t_1$ är ett motorredskap som används till  $t_2$, och som transporterar $m_2$ på underlag $m_3$, och som drivs med $m_4$.		lujvo		motorredskap			matra,marce,tutci
-matrytu'ama'e	$m_1$ är ett motordrivet fordon för transport av $m_2$ på i underlag/medium $m_3$, som drivs med  $m_4$.		lujvo		motordrivet fordon			matra,tumla,marce
-xeksodva	$x_1$ är gjord av/innehåller/är en kvantitet av en svart/väldigt mörkfärgad kolsyrad dryck/läsk med cola-smak, av märke $x_2$.	Inte vilken svart, kolsyrad dryck som helst, men en med cola smak, såsom Coca-Cola (={kokaKOlys}), Pepsi, Julmust (=(sfe'ero) xisyjbenunsla xeksodva) e.dyl. Andra smaker kan läggas till, vilket uttrycks med tanru, så länge inte kombinationen skiljer sig för mycket åt från cola-karaktären.	lujvo		cola			xekri,sodva
+kindi'u	$d_1$ är en biograf som visar filmerna $s_1$		lujvo		biograf			skina;dinju
+klisodva	$x_1$ är gjord av/innehåller/är en kvantitet av klar/transparent kolsyrad dryck/läsk med söt smak, av märket $x_2$.	Inte vilken kolsyrad dryck/läsk som helst, men en som är transparent och sötad, såsom Sprite (=sprait), 7-up, Sockerdricka eller liknande. Andra smaker kan tillsättas, vilket uttrycks med tanru, så länge kombinationen inte skiljer sig för mycket från karaktären av klisodva.	lujvo		läsk (transparent typ);sockerdricka			klina;sodva
+ladzanja	$x_1$ är en lasagne.		lujvo		lasagne			ladru;-zanja-
+matryma'etci	$mar_1$=$t_1$ är ett motorredskap som används till  $t_2$, och som transporterar $m_2$ på underlag $m_3$, och som drivs med $m_4$.		lujvo		motorredskap			matra;marce;tutci
+matrytu'ama'e	$m_1$ är ett motordrivet fordon för transport av $m_2$ på i underlag/medium $m_3$, som drivs med  $m_4$.		lujvo		motordrivet fordon			matra;tumla;marce
+xeksodva	$x_1$ är gjord av/innehåller/är en kvantitet av en svart/väldigt mörkfärgad kolsyrad dryck/läsk med cola-smak, av märke $x_2$.	Inte vilken svart, kolsyrad dryck som helst, men en med cola smak, såsom Coca-Cola (={kokaKOlys}), Pepsi, Julmust (=(sfe'ero) xisyjbenunsla xeksodva) e.dyl. Andra smaker kan läggas till, vilket uttrycks med tanru, så länge inte kombinationen skiljer sig för mycket åt från cola-karaktären.	lujvo		cola			xekri;sodva
 jaldiga	$x_1$=$g_1$ är en kofångare (stötfångare) på $x_2$=$j_1$ och mildrar stötar från $x_3$=$j_2$		fu'ivla		kofångare	jaldiga
 jgitrgitara	$x_1$ är en gitarr med plektrum $x_2$.	jgitrgitara är gitarr, och inte den antika lyran (grekiska: κιθάρα, kithāra, latin: cithara;= tcepru xelso jgita/latmo jgita).	fu'ivla		gitarr	jgitrgitara
 jgitrnikelarpa	$x_1$ är en nyckelharpa med stråke $x_2$.		fu'ivla		nyckelharpa	jgitrnikelarpa
@@ -889,7 +889,7 @@ lauDZIS	Lao zi	Lao Zi (老子 (pinyin: Lǎo Zǐ), även stavat Laozi, Lao Tzu oc
 laus	Laos		cmevla		Laos
 LIEtuvas	Litauen		obsolete cmevla		Litauen
 loglytuan	Loglan arbetare		obsolete cmevla		Loglan-arbetare
-matrycarce	$m_1$ är ett motordrivet fordon för transport av $m_2$ på i underlag/medium $m_3$, som drivs med  $m_4$.		lujvo		motordrivet fordon			matra,carce
+matrycarce	$m_1$ är ett motordrivet fordon för transport av $m_2$ på i underlag/medium $m_3$, som drivs med  $m_4$.		lujvo		motordrivet fordon			matra;carce
 lojban	Lojban		cmevla		Lojban
 losanjylys	Los Angeles		cmevla		Los Angeles
 lunmes	$x_1$ är Väduren (stjärnbild/stjärntecken).	Från {lanme} (=får/[lamm/bagge];lojban) och lu (=får;sumerogram). Denna stjärnbild har varit känd som bagge/får sedan babylonsk tid, och blev senare det första tecknet i djurkretsen (600-talet fkr). I hellenistisk astrologi associeras Väduren med det gyllene får i grekisk mytologi som räddade Phrixos.	cmevla		Väduren

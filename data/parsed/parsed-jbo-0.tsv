@@ -252,94 +252,94 @@ ci'u	fi'o {ckilu}	{ckilu}	cmavo	BAI	ci'u
 brivo	$x_1$ fe $x_2$ gismu ja lujvo ja fu'ivla gi'e valsi $x_3$ .i je va'i $x_1$ fe $x_2$ fi $x_3$ selbrivla gi'e nai cmavo be da		experimental gismu			brivo
 celdi	$x_1$ gunma lo prenu poi simxu lo ka ce'u ce'u cinse ja nalcinse prami ku'o po'u $x_2$ je $x_3$ je $x_4$ je $x_5$ li'o li'o li'o	.i mu'a loi pamsi'u cu celdi .i lo jai cafne traji celdi cu se re mei .i ra'oi cle rafsi	experimental gismu		gunma;prami;simxu	celdi
 clinu	$x_1$ crino pu $x_2$ .ije $x_1$ blanu ba $x_2$	{brano}	experimental gismu		crino fa'u blanu pu fa'u ba febu	clinu
-bripre	$x_1$ prenu gi'e se xadni lo se cusku no'u lu'e lo bridi	{bridi} {prenu}	lujvo					bridi,prenu
-brirei	$c_1$ preti lo bridi ku $c_3$ $c_4$		lujvo					bridi,preti
-brireisku	$x_1$ cpedu fi $x_3$ fe lo ka jungau $x_1$ lo du'u $x_2$ brije'u ma kau	srana fa zo {brije'u} .e zo {ju'odji} .e zo {brije'uju'o}.	lujvo					bridi,preti,cusku
-briremseltai	$x_1$ se tarmi lo ka remna gi'e bridi	{bridi} zei {remna} zei {se} zei {tarmi} .i na srana lo si'o {bripre}	lujvo					bridi,remna,se,tarmi
-brisni	$x_1$ sinxa lo bridi be la'e $x_2$ bei lu'i la'e lu'a $x_3$	i $x_2$ {selbrisni} ije $x_3$ {terbrisni} i srana zo {bridi} e zo {sinxa}	lujvo					bridi,sinxa
-brisnismi	$x_1$ te gerna lo catni jbobau lo srana be lo se krasi be lo selma'o be lo pa mei be zo nu jo'u zo noi jo'u zo ga jo'u zo gi gi'e simsa lo brisni lo tarmi gi'e ku'i frica lo brisni lo ka no jonma'o ka'e jbini lu'i ce'u	i srana zo {brisni} e zo {simsa}	lujvo					bridi,sinxa,simsa
-brivla	$x_1$ valsi lo smuni be $x_2$ noi selbri ku $x_3$		lujvo					bridi,valsi
-brivycme	$x_1$ cu se pagbu lo brivla gi'e cmene $x_2$ $x_3$		lujvo					brivo,cmene
+bripre	$x_1$ prenu gi'e se xadni lo se cusku no'u lu'e lo bridi	{bridi} {prenu}	lujvo					bridi;prenu
+brirei	$c_1$ preti lo bridi ku $c_3$ $c_4$		lujvo					bridi;preti
+brireisku	$x_1$ cpedu fi $x_3$ fe lo ka jungau $x_1$ lo du'u $x_2$ brije'u ma kau	srana fa zo {brije'u} .e zo {ju'odji} .e zo {brije'uju'o}.	lujvo					bridi;preti;cusku
+briremseltai	$x_1$ se tarmi lo ka remna gi'e bridi	{bridi} zei {remna} zei {se} zei {tarmi} .i na srana lo si'o {bripre}	lujvo					bridi;remna;se;tarmi
+brisni	$x_1$ sinxa lo bridi be la'e $x_2$ bei lu'i la'e lu'a $x_3$	i $x_2$ {selbrisni} ije $x_3$ {terbrisni} i srana zo {bridi} e zo {sinxa}	lujvo					bridi;sinxa
+brisnismi	$x_1$ te gerna lo catni jbobau lo srana be lo se krasi be lo selma'o be lo pa mei be zo nu jo'u zo noi jo'u zo ga jo'u zo gi gi'e simsa lo brisni lo tarmi gi'e ku'i frica lo brisni lo ka no jonma'o ka'e jbini lu'i ce'u	i srana zo {brisni} e zo {simsa}	lujvo					bridi;sinxa;simsa
+brivla	$x_1$ valsi lo smuni be $x_2$ noi selbri ku $x_3$		lujvo					bridi;valsi
+brivycme	$x_1$ cu se pagbu lo brivla gi'e cmene $x_2$ $x_3$		lujvo					brivo;cmene
 brodyiolpe	sa'e nai sai $x_1$ se ju ro boi $x_1$ cu pa mei gi'e ta'e krati su'oi suzmei gi'e poi'i so'i da poi su'oi lo se krati be ke'a cu ckaji cu se ckaji vo'a ji'a	srana fa nu'i ge zo {lo} je zo {gunma} je zo {krati} gi ga'a su'o jbopre zo {tu'o}	lujvo					brodyiolpe
-bukmu'a	$m_1$ murta $m_2$ $m_3$=$b_1$ poi ke'a bukpu		lujvo					bukpu,murta
-bumgapci	$x_1$ gapci $x_2$ lo nu $x_3$ bumru $x_2$	{bumru} {gapci}	lujvo					bumru,gapci
-burpelxu	$x_1$ skari lo mixre be lo bunre jo'u lo pelxu	{bunre}; {pelxu}; {mixre}; {skari}	lujvo					bunre,pelxu
-caibra	$x_1$ carmi je barda $x_2$ $x_3$	{carmi} {barda}	lujvo					carmi,barda
-ca'idra	$x_1$ drani lo ka ce'u sarxe lo pu se jdice be $x_2$ noi ke'a catni lo se srana be $x_1$		lujvo		ca'idra			catni,drani
-ca'irselzau	$x_1$ se zanru $x_2$ noi catni $x_3$		lujvo					catni,se,zanru
-calbra	$x_1$ barda lo ka ma kau canlu ce'u kei $x_2$	{canlu} {barda}	lujvo		calbra			canlu,barda
-calcma	$x_1$ cmalu lo ka ma kau canlu ce'u kei $x_2$	{canlu} {cmalu}	lujvo		calcma			canlu,cmalu
-calxra	$p_1$ boi pixra $p_2$ boi $p_3$ boi $p_4$=$c_2$ noi se canlu		lujvo					canlu,pixra
-camganra	$x_1$ carmi je ganra $x_2$ $x_3$	{carmi} {ganra}	lujvo					carmi,ganra
-camtoi	$x_1$ troci $x_2$ boi $x_3$ .ije la'e di'u carmi le ka ce'u nu troci kei kei $x_4$	{carmi} {troci}; {a'i}	lujvo		camtoi			carmi,troci
-candakli	$d_1$ dakli $d_2$=$c_1$ po'u loi canre ge'u $d_3$		lujvo					canre,dakli
-canratni	$x_1$ ratni li xei da		lujvo					canre,ratni
-cardikni	$x_1$ dikni lozu'o carna $x_2$ zo'e $x_3$ kei $x_4$		lujvo					carna,dikni
-catryse'i	$x_1$ sefsi lo ka ce'u catra ce'u $x_2$	{sefsi} .i {catra}	lujvo					catra,sevzi
-caudri	$x_1$ badri lo nu $x_1$ claxu $x_2$		lujvo		caudri			claxu,badri
-caurbu'i	$x_1$ me zoi xy … xy		lujvo					claxu,bu
-cazgau	$x_1$ gasnu lo nu $x_2$ cazyfau		lujvo					ca'a,gasnu
-cazyfau	$x_1$ ca'a fasnu		lujvo					ca'a,fasnu
-ceikri	$x_1$=$k_1$ krici lo du'u $x_2$=$c_1$ cevni gi'e zasti		lujvo					cevni,krici
-celgunta	$x_1$ gunta $x_2$ $x_3$ se pi'o $x_4$ poi ke'a cecla $x_5$ $x_6$	zbasu fi zo cecla ce'o zo gunta	lujvo		celgunta			cecla,gunta
-cemci'e	$x_1$ ciste lo cecmu be $x_2$	srana fa zo {cecmu} .e zo {ciste} .e {kluce'u}	lujvo					cecmu,ciste
-cenlai	$x_1$ clani $x_2$ le ka ce'u centi $x_3$ boi $x_4$	{centi} {clani}; {ce'i}	lujvo		cenlai			centi,klani
-cesyvu'e	$x_1$ boi $x_2$ censa gi'e vrude		lujvo					censa,vrude
-cfabalvi	$ko'a$ balvi jenai cabna jenai purci $ko'e$ .ija lonu $ko'a$ cfari cu balvi $ko'e$	{cfari} {balvi}	lujvo					cfari,balvi
-cfagau	$g_1$ gasnu lo nu $c_1$ cfari		lujvo		cfagau			cfari,gasnu
-cfapru	$x_1$ purci $x_2$ noi cfari .i $x_2$ bredi ca $x_1$ le nu $x_2$ cfari	{cfari} {purci}; {bredi}; {pu'o}	lujvo		cfapru		pu'o	cfari,purci
-cfaselsku	$x_2$ se cusku gi'e cfari secu'u $x_1$		lujvo					cfari,se,cusku
-cfisisku	.i lo sisku po'u $x_1$=$s_1$ cu sisku lo cfila po'u $x_2$=$c_1$=$s_2$ lo te sisku p'u $x_3$=$c_2$=$s_3$ seri'a lo fasnu po'u $x_4$=$c_3$		lujvo					cfila,sisku
-cfiste	$x_1$ liste lo cfila be $x_2$	{cfila} {liste}	lujvo					cfila,liste
-ci'asku	$x_1$ ta'i lo nu ciska $x_2$ cu cusku ri $x_3$ fi'o te ciska $x_4$ fi'o ve ciska $x_5$	{ciska} {cusku}	lujvo		ci'asku			ciska,cusku
-cibdei	$x_1$ ci moi lo'i djedi noi pagbu $x_2$ noi jeftu li pa $x_3$	.i frica zo {jednci} noi srana lo si'o detri ku'o lo ka smuni .i srana zo {ci} .e zo {moi} .e zo {djedi} .e zo {jeftu}	lujvo					ci,djedi
-cibnacmei	$x_1$ nacmei li ci boi $x_2$ boi $x_3$ boi $x_4$	{ci} zei {nacmei}	lujvo		cibnacmei			ci,namcu,mei
-cibytu'e	$x_1$ se tuple ci da		lujvo					ci,tuple
-ci'ekle	$x_1$ klesi lo cmima be $x_2$ noi ke'a ciste ku'o gi'e ni'i bo ckini $x_2$ boi $x_3$		lujvo		ci'ekle			ciste,klesi
-ci'ernunbi'o	$x_1$ nu $x_2$ noi ke'a ciste ku'o binxo $x_3$ noi ke'a ciste ku'o $x_4$	{ciste} {nu} {binxo}	lujvo					ciste,nu,binxo
-cilbi'u	$x_1$ bitmu $x_2$ boi $x_3$ gi'e pu se zbasu fi lo cilta	srana fa zo {bitmu} .e zo {cilta} .e zo {garbi'u}	lujvo		cilbi'u			cilta,bitmu
-cimcitsi	$c_1$ citsi lo ka cilmo ku $c_3$	lo lujvo po'u zo {sudycitsi} cu simsa	lujvo					cilmo,citsi
+bukmu'a	$m_1$ murta $m_2$ $m_3$=$b_1$ poi ke'a bukpu		lujvo					bukpu;murta
+bumgapci	$x_1$ gapci $x_2$ lo nu $x_3$ bumru $x_2$	{bumru} {gapci}	lujvo					bumru;gapci
+burpelxu	$x_1$ skari lo mixre be lo bunre jo'u lo pelxu	{bunre}; {pelxu}; {mixre}; {skari}	lujvo					bunre;pelxu
+caibra	$x_1$ carmi je barda $x_2$ $x_3$	{carmi} {barda}	lujvo					carmi;barda
+ca'idra	$x_1$ drani lo ka ce'u sarxe lo pu se jdice be $x_2$ noi ke'a catni lo se srana be $x_1$		lujvo		ca'idra			catni;drani
+ca'irselzau	$x_1$ se zanru $x_2$ noi catni $x_3$		lujvo					catni;se;zanru
+calbra	$x_1$ barda lo ka ma kau canlu ce'u kei $x_2$	{canlu} {barda}	lujvo		calbra			canlu;barda
+calcma	$x_1$ cmalu lo ka ma kau canlu ce'u kei $x_2$	{canlu} {cmalu}	lujvo		calcma			canlu;cmalu
+calxra	$p_1$ boi pixra $p_2$ boi $p_3$ boi $p_4$=$c_2$ noi se canlu		lujvo					canlu;pixra
+camganra	$x_1$ carmi je ganra $x_2$ $x_3$	{carmi} {ganra}	lujvo					carmi;ganra
+camtoi	$x_1$ troci $x_2$ boi $x_3$ .ije la'e di'u carmi le ka ce'u nu troci kei kei $x_4$	{carmi} {troci}; {a'i}	lujvo		camtoi			carmi;troci
+candakli	$d_1$ dakli $d_2$=$c_1$ po'u loi canre ge'u $d_3$		lujvo					canre;dakli
+canratni	$x_1$ ratni li xei da		lujvo					canre;ratni
+cardikni	$x_1$ dikni lozu'o carna $x_2$ zo'e $x_3$ kei $x_4$		lujvo					carna;dikni
+catryse'i	$x_1$ sefsi lo ka ce'u catra ce'u $x_2$	{sefsi} .i {catra}	lujvo					catra;sevzi
+caudri	$x_1$ badri lo nu $x_1$ claxu $x_2$		lujvo		caudri			claxu;badri
+caurbu'i	$x_1$ me zoi xy … xy		lujvo					claxu;bu
+cazgau	$x_1$ gasnu lo nu $x_2$ cazyfau		lujvo					ca'a;gasnu
+cazyfau	$x_1$ ca'a fasnu		lujvo					ca'a;fasnu
+ceikri	$x_1$=$k_1$ krici lo du'u $x_2$=$c_1$ cevni gi'e zasti		lujvo					cevni;krici
+celgunta	$x_1$ gunta $x_2$ $x_3$ se pi'o $x_4$ poi ke'a cecla $x_5$ $x_6$	zbasu fi zo cecla ce'o zo gunta	lujvo		celgunta			cecla;gunta
+cemci'e	$x_1$ ciste lo cecmu be $x_2$	srana fa zo {cecmu} .e zo {ciste} .e {kluce'u}	lujvo					cecmu;ciste
+cenlai	$x_1$ clani $x_2$ le ka ce'u centi $x_3$ boi $x_4$	{centi} {clani}; {ce'i}	lujvo		cenlai			centi;klani
+cesyvu'e	$x_1$ boi $x_2$ censa gi'e vrude		lujvo					censa;vrude
+cfabalvi	$ko'a$ balvi jenai cabna jenai purci $ko'e$ .ija lonu $ko'a$ cfari cu balvi $ko'e$	{cfari} {balvi}	lujvo					cfari;balvi
+cfagau	$g_1$ gasnu lo nu $c_1$ cfari		lujvo		cfagau			cfari;gasnu
+cfapru	$x_1$ purci $x_2$ noi cfari .i $x_2$ bredi ca $x_1$ le nu $x_2$ cfari	{cfari} {purci}; {bredi}; {pu'o}	lujvo		cfapru		pu'o	cfari;purci
+cfaselsku	$x_2$ se cusku gi'e cfari secu'u $x_1$		lujvo					cfari;se;cusku
+cfisisku	.i lo sisku po'u $x_1$=$s_1$ cu sisku lo cfila po'u $x_2$=$c_1$=$s_2$ lo te sisku p'u $x_3$=$c_2$=$s_3$ seri'a lo fasnu po'u $x_4$=$c_3$		lujvo					cfila;sisku
+cfiste	$x_1$ liste lo cfila be $x_2$	{cfila} {liste}	lujvo					cfila;liste
+ci'asku	$x_1$ ta'i lo nu ciska $x_2$ cu cusku ri $x_3$ fi'o te ciska $x_4$ fi'o ve ciska $x_5$	{ciska} {cusku}	lujvo		ci'asku			ciska;cusku
+cibdei	$x_1$ ci moi lo'i djedi noi pagbu $x_2$ noi jeftu li pa $x_3$	.i frica zo {jednci} noi srana lo si'o detri ku'o lo ka smuni .i srana zo {ci} .e zo {moi} .e zo {djedi} .e zo {jeftu}	lujvo					ci;djedi
+cibnacmei	$x_1$ nacmei li ci boi $x_2$ boi $x_3$ boi $x_4$	{ci} zei {nacmei}	lujvo		cibnacmei			ci;namcu;mei
+cibytu'e	$x_1$ se tuple ci da		lujvo					ci;tuple
+ci'ekle	$x_1$ klesi lo cmima be $x_2$ noi ke'a ciste ku'o gi'e ni'i bo ckini $x_2$ boi $x_3$		lujvo		ci'ekle			ciste;klesi
+ci'ernunbi'o	$x_1$ nu $x_2$ noi ke'a ciste ku'o binxo $x_3$ noi ke'a ciste ku'o $x_4$	{ciste} {nu} {binxo}	lujvo					ciste;nu;binxo
+cilbi'u	$x_1$ bitmu $x_2$ boi $x_3$ gi'e pu se zbasu fi lo cilta	srana fa zo {bitmu} .e zo {cilta} .e zo {garbi'u}	lujvo		cilbi'u			cilta;bitmu
+cimcitsi	$c_1$ citsi lo ka cilmo ku $c_3$	lo lujvo po'u zo {sudycitsi} cu simsa	lujvo					cilmo;citsi
 cimny'efku	$x_1$ efku $x_2$ li ci'i boi $x_3$	srana fa zo {cimni} jo'u zo {efku} jo'u zo {ci'i} jo'u zo {cimny'efku} zo'o	lujvo					cimny'efku
-cinsne	$s_1$=$c_1$ senva lo nu vo'a cinse $c_2$ boi $c_3$ boi $c_4$	pu zu ze'i jbotcaci fa lo nu cusku lu ko cinsne li'u lo se tolrinsa poi zukte fi lo nu sipna	lujvo					cinse,senva
-cintolcando	$x_1$ ganse lo ka fizbu ku tu'a lo plibu i $x_1$ cinse ckaji lo ka fizbu		lujvo					cinse,to'e,cando
-cintypu'i	$x_1$ punji $x_2$ noi cinta ku'o $x_3$	.i ckini zo {cinta} .e zo {punji} .e zo {pirlarfi'i}	lujvo					cinta,punji
-cipcta	$x_1$ catlu $x_2$ .i lo nu go'i cu cipra $x_3$ boi $x_2$	{cipra} {catlu}	lujvo					cipra,catlu
-cipmujgau	$x_1$ gasnu lo nu $x_2$ munje poi cipra $x_3$ $x_4$	i srana zo {munje} je zo {cipra}	lujvo					cipra,munje,gasnu
-cipyzu'e	$x_1$ zukte lo ka gau ce'u da cipra fi $x_2$ fe $x_3$ kei lo nu $x_1$ djuno lo du'u xu kau $x_2$ ckaji $x_3$		lujvo		cipyzu'e			cipra,zukte
-cirlydakfu	$d_1$ dakfu le'e cirla ku $d_3$		lujvo					cirla,dakfu
-cizmau	$x_1$ zmadu $x_2$ lo ka ce'u cizra $x_3$ boi $x_4$ kei $x_5$		lujvo					cizra,zmadu
-cizme'a	$x_1$ mleca $x_2$ lo ka ce'u cizra $x_3$ boi $x_4$ kei $x_5$		lujvo					cizra,mleca
-cizytolnei	$x_1$ tolnei $x_2$ ki'u le nu $x_2$ cizra $x_1$ $x_3$		lujvo					cizra,to'e,nelci
-ckabycupsri	$d_1$=$cl_1$=$ck_1$ loi ckabu cu dasri gi'e clupa	.e'u ko tcidu tu'a zo {cupsri}	lujvo					ckabu,clupa,dasri
-ckagai	$x1$ gacri lo ckana		lujvo					ckana,gacri
-ckisku	$x_1$ cusku $x_2$ fi $x_3$ fo $x_4$ fi'o se ciksi $x_5$		lujvo					ciksi,cusku
-ckukajna	$k_1$ kajna $k_2$ lo du'u ce'u te sorcu fa lo cukta	.e'u ko tcidu tu'a zo {cukta} .e zo {kajna} .e zo {sorcu} .e zo {ckusro}	lujvo					cukta,kajna
-ckupoi	$x_1$=$p_1$ porsi fi $x_2$=$c_1$=$p_3$ noi cukta		lujvo					cukta,porsi
-ckupra	$x_1$ cupra $x_2$ noi cukta ku'o $x_3$	{cukta} {cupra}	lujvo		ckupra			cukta,cupra
-clabrato'a	$x1$ tonga lo barda $x2$ gi'e clani		lujvo					clani,barda,tonga
-cladakfu	$x_1$ dakfu fi lo clani gi'e ta'e zilfi'i lo ka xarci	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					clani,dakfu
-cladakyxa'i	$x_1$ xarci $x_2$ $x_3$ gi'e dakfu $x_2$ $x_4$ gi'e clani fi $x_5$	zbasu fi zo {clani} ce'o zo {dakfu} ce'o zo {xarci}	lujvo					clani,dakfu,xarci
-clakeryractu	$x1$ ractu $x2$ gi'e se kerlo lo clani		lujvo					clani,kerlo,ractu
-clatre	lo ka clatre cu ka ko'a goi $x_1$ ko'e goi $x_2$ ko'i goi $x_3$ ko'o goi $x_4$ ce'ai ko'a mitre ko'e ko'i noi ko'a clani ke'a ku'o ko'o	.i .e'u catlu zo'e ne zo {gantre} .e zo {tsutre} .e zo ce'ai .i na'i lo clatre cu clani fi da poi fadni	lujvo					clani,mitre
-clavaxsku	$x1$ cusku $x2$ $x3$ lo clani nu $x1$ vasxu		lujvo					clani,vasxu,cusku
-clubi'o	$x_1$ binxo lo culno be $x_2$	{culno} .i {binxo} .i {tisna}	lujvo					culno,binxo
-clugau	$x_1$ gasnu lo nu $x_2$ culno $x_3$	{culno} {gasnu}	lujvo					culno,gasnu
-cmacai	$ko'a$ cmalu je carmi $ko'e$ $ko'i$	{cmalu} {carmi}	lujvo					cmalu,carmi
-cmacma	$ko'a$ cmalu loka $ko'a$ cmalu $ko'e$ $ko'i$ kei zi'o	{cmalu} {cmalu}	lujvo					cmalu,cmalu
-cmakarzga	$x_1$ zgana $x_2$ $x_3$ $x_4$ pa'o lo cmalu je karli be $x_2$ bei $x_1$		lujvo					cmalu,kalri,zgana
-cmako'i	$x_1$ stagi la'o jutsi Brassica oleracea var. gemmifera jutsi		lujvo					cmalu,kobli
-cmapagjvo	$x_1$ to( valsi )toi $x_2$ $x_3$ lujvo $x_4$ poi ro lo slepau be ke'a cu cmavo gi'a gismu gi'onai rafsi lo cmavo .a gismu		lujvo		lujvo fo zo'e poi ke'a cu po'o cmavo go'a gismu			cmalu,pagbu,lujvo
-cmasai	$x_1$ sanmi $x_2$ noi cmalu $x_3$ $x_4$		lujvo					cmalu,sanmi
-cmatce	$x1$ mutce loka $x1$ cmalu $x2$ $x3$		lujvo					cmalu,mutce
-cmatu'a	$x1$ tumla $x2$ gi'e cmalu		lujvo					cmalu,tumla
-cmecau	$x_1$ claxu loka su'oda cmene ce'u $x_2$ .i va'i noda cmene $x_1$ $x_2$		lujvo					cmene,claxu
-cmejdi	$x_1$ jdice lo du'u $x_2$ cmene $x_3$	srana fa zo {jdice} .e zo {cmene} .e zo {pilno} .e zo {gasnu} .e zo {tcita} .e zo {cmepli}	lujvo		cmejdi			cmene,jdice
-cmepli	$x_1$ tcipli $x_2$ lo ka ce'u cmene $x_3$ .i $x_3$ te cmene fi $x_2$ fe $x_3$	srana fa zo {cmene} .e zo {tcita} .e zo {pilno} .e zo {tcipli}	lujvo		cmepli			cmene,pilno
-cmevla	$x_1$ valsi $x_2$ $x_3$ gi'e cmene po'o ni'i lo vlaturge'a be $x_3$	.i bau la .lojban. da poi valsi cu ganai se fanmo lo zunsna gi cmevla .i bau la .lojban. da poi {cmevla} ce'e de poi {cmene} zo'u ge da me lo pa po'o valsi gi ku'i de me lo su'o pa valsi noi ka'e {cmevla} .i ko viska zo {vlaturge'a} ji'a	lujvo					cmene,valsi
-cmibi'o	$x_1$ binko lo cmima be $x_2$ $x_3$	zbasu fi zo {cmima} ce'o zo {binxo}	lujvo					cmima,binxo
-cmimei	$x_2$ pavmeidza lo ka ce'u cmima $x_1$		lujvo					cmima,mei
-cmuje'u	$x_1$ jetnu gi'e jicmu $x_2$	srana fa zo {jicmu} .e zo {jetnu} .e zo {stura} .e zo {ciste} .e zo {saske} .e zo {djuno} .e zo {sruma} .e zo {logji}	lujvo		cmuje'u			jicmu,jetnu
-cneparbi	$x_1$ parbi le te cenba be fi $x_2$ bei fo le nu $x_3$ cenba fi lo cimnyfrinu kei le te cenba be fi $x_3$	{cenba} {parbi}; {sa'o}	lujvo		cneparbi			cenba,parbi
+cinsne	$s_1$=$c_1$ senva lo nu vo'a cinse $c_2$ boi $c_3$ boi $c_4$	pu zu ze'i jbotcaci fa lo nu cusku lu ko cinsne li'u lo se tolrinsa poi zukte fi lo nu sipna	lujvo					cinse;senva
+cintolcando	$x_1$ ganse lo ka fizbu ku tu'a lo plibu i $x_1$ cinse ckaji lo ka fizbu		lujvo					cinse;to'e;cando
+cintypu'i	$x_1$ punji $x_2$ noi cinta ku'o $x_3$	.i ckini zo {cinta} .e zo {punji} .e zo {pirlarfi'i}	lujvo					cinta;punji
+cipcta	$x_1$ catlu $x_2$ .i lo nu go'i cu cipra $x_3$ boi $x_2$	{cipra} {catlu}	lujvo					cipra;catlu
+cipmujgau	$x_1$ gasnu lo nu $x_2$ munje poi cipra $x_3$ $x_4$	i srana zo {munje} je zo {cipra}	lujvo					cipra;munje;gasnu
+cipyzu'e	$x_1$ zukte lo ka gau ce'u da cipra fi $x_2$ fe $x_3$ kei lo nu $x_1$ djuno lo du'u xu kau $x_2$ ckaji $x_3$		lujvo		cipyzu'e			cipra;zukte
+cirlydakfu	$d_1$ dakfu le'e cirla ku $d_3$		lujvo					cirla;dakfu
+cizmau	$x_1$ zmadu $x_2$ lo ka ce'u cizra $x_3$ boi $x_4$ kei $x_5$		lujvo					cizra;zmadu
+cizme'a	$x_1$ mleca $x_2$ lo ka ce'u cizra $x_3$ boi $x_4$ kei $x_5$		lujvo					cizra;mleca
+cizytolnei	$x_1$ tolnei $x_2$ ki'u le nu $x_2$ cizra $x_1$ $x_3$		lujvo					cizra;to'e;nelci
+ckabycupsri	$d_1$=$cl_1$=$ck_1$ loi ckabu cu dasri gi'e clupa	.e'u ko tcidu tu'a zo {cupsri}	lujvo					ckabu;clupa;dasri
+ckagai	$x1$ gacri lo ckana		lujvo					ckana;gacri
+ckisku	$x_1$ cusku $x_2$ fi $x_3$ fo $x_4$ fi'o se ciksi $x_5$		lujvo					ciksi;cusku
+ckukajna	$k_1$ kajna $k_2$ lo du'u ce'u te sorcu fa lo cukta	.e'u ko tcidu tu'a zo {cukta} .e zo {kajna} .e zo {sorcu} .e zo {ckusro}	lujvo					cukta;kajna
+ckupoi	$x_1$=$p_1$ porsi fi $x_2$=$c_1$=$p_3$ noi cukta		lujvo					cukta;porsi
+ckupra	$x_1$ cupra $x_2$ noi cukta ku'o $x_3$	{cukta} {cupra}	lujvo		ckupra			cukta;cupra
+clabrato'a	$x1$ tonga lo barda $x2$ gi'e clani		lujvo					clani;barda;tonga
+cladakfu	$x_1$ dakfu fi lo clani gi'e ta'e zilfi'i lo ka xarci	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					clani;dakfu
+cladakyxa'i	$x_1$ xarci $x_2$ $x_3$ gi'e dakfu $x_2$ $x_4$ gi'e clani fi $x_5$	zbasu fi zo {clani} ce'o zo {dakfu} ce'o zo {xarci}	lujvo					clani;dakfu;xarci
+clakeryractu	$x1$ ractu $x2$ gi'e se kerlo lo clani		lujvo					clani;kerlo;ractu
+clatre	lo ka clatre cu ka ko'a goi $x_1$ ko'e goi $x_2$ ko'i goi $x_3$ ko'o goi $x_4$ ce'ai ko'a mitre ko'e ko'i noi ko'a clani ke'a ku'o ko'o	.i .e'u catlu zo'e ne zo {gantre} .e zo {tsutre} .e zo ce'ai .i na'i lo clatre cu clani fi da poi fadni	lujvo					clani;mitre
+clavaxsku	$x1$ cusku $x2$ $x3$ lo clani nu $x1$ vasxu		lujvo					clani;vasxu;cusku
+clubi'o	$x_1$ binxo lo culno be $x_2$	{culno} .i {binxo} .i {tisna}	lujvo					culno;binxo
+clugau	$x_1$ gasnu lo nu $x_2$ culno $x_3$	{culno} {gasnu}	lujvo					culno;gasnu
+cmacai	$ko'a$ cmalu je carmi $ko'e$ $ko'i$	{cmalu} {carmi}	lujvo					cmalu;carmi
+cmacma	$ko'a$ cmalu loka $ko'a$ cmalu $ko'e$ $ko'i$ kei zi'o	{cmalu} {cmalu}	lujvo					cmalu;cmalu
+cmakarzga	$x_1$ zgana $x_2$ $x_3$ $x_4$ pa'o lo cmalu je karli be $x_2$ bei $x_1$		lujvo					cmalu;kalri;zgana
+cmako'i	$x_1$ stagi la'o jutsi Brassica oleracea var. gemmifera jutsi		lujvo					cmalu;kobli
+cmapagjvo	$x_1$ to( valsi )toi $x_2$ $x_3$ lujvo $x_4$ poi ro lo slepau be ke'a cu cmavo gi'a gismu gi'onai rafsi lo cmavo .a gismu		lujvo		lujvo fo zo'e poi ke'a cu po'o cmavo go'a gismu			cmalu;pagbu;lujvo
+cmasai	$x_1$ sanmi $x_2$ noi cmalu $x_3$ $x_4$		lujvo					cmalu;sanmi
+cmatce	$x1$ mutce loka $x1$ cmalu $x2$ $x3$		lujvo					cmalu;mutce
+cmatu'a	$x1$ tumla $x2$ gi'e cmalu		lujvo					cmalu;tumla
+cmecau	$x_1$ claxu loka su'oda cmene ce'u $x_2$ .i va'i noda cmene $x_1$ $x_2$		lujvo					cmene;claxu
+cmejdi	$x_1$ jdice lo du'u $x_2$ cmene $x_3$	srana fa zo {jdice} .e zo {cmene} .e zo {pilno} .e zo {gasnu} .e zo {tcita} .e zo {cmepli}	lujvo		cmejdi			cmene;jdice
+cmepli	$x_1$ tcipli $x_2$ lo ka ce'u cmene $x_3$ .i $x_3$ te cmene fi $x_2$ fe $x_3$	srana fa zo {cmene} .e zo {tcita} .e zo {pilno} .e zo {tcipli}	lujvo		cmepli			cmene;pilno
+cmevla	$x_1$ valsi $x_2$ $x_3$ gi'e cmene po'o ni'i lo vlaturge'a be $x_3$	.i bau la .lojban. da poi valsi cu ganai se fanmo lo zunsna gi cmevla .i bau la .lojban. da poi {cmevla} ce'e de poi {cmene} zo'u ge da me lo pa po'o valsi gi ku'i de me lo su'o pa valsi noi ka'e {cmevla} .i ko viska zo {vlaturge'a} ji'a	lujvo					cmene;valsi
+cmibi'o	$x_1$ binko lo cmima be $x_2$ $x_3$	zbasu fi zo {cmima} ce'o zo {binxo}	lujvo					cmima;binxo
+cmimei	$x_2$ pavmeidza lo ka ce'u cmima $x_1$		lujvo					cmima;mei
+cmuje'u	$x_1$ jetnu gi'e jicmu $x_2$	srana fa zo {jicmu} .e zo {jetnu} .e zo {stura} .e zo {ciste} .e zo {saske} .e zo {djuno} .e zo {sruma} .e zo {logji}	lujvo		cmuje'u			jicmu;jetnu
+cneparbi	$x_1$ parbi le te cenba be fi $x_2$ bei fo le nu $x_3$ cenba fi lo cimnyfrinu kei le te cenba be fi $x_3$	{cenba} {parbi}; {sa'o}	lujvo		cneparbi			cenba;parbi
 ciska zei uidje	fi $c_3$=$u_1$ ciska fe $c_2$ gi'e uidje $u_2$ fa zi'o fo zi'o	.e'u ko tcidu tu'a zo {uidje}	zei-lujvo
 ci zei tuple	$x_1$ se tuple ci da		zei-lujvo		ci zei tuple
 bruloni	$x_1$ te runta fi lo cidja poi ba'o febvi	.i ko cilre fi zo {stasu} ji'a	fu'ivla			bruloni
@@ -533,164 +533,164 @@ darca	lo nu $x_1$ muvdu ja klama $x_2$ fo $x_3$ cu mulbi'o .i $x_1$ mo'u muvdu j
 dardi	$x_1$ to'e cliva $x_2$ fi $x_3$	selsmudu'i zo {tolyli'a} .e zo {tsuku} .e zo {darca}	experimental gismu			dardi
 ditcu	$x_1$ temci lo nu $x_2$ cfari ku lo nu $x_2$ tolcfa	srana fa zo {temci}	experimental gismu			ditcu
 fegli	to'e melbi fa $x_1$ boi $x_2$ boi $x_3$		experimental gismu		fegli;to'e melbi	fegli
-cnicni	$x_1$ $x_2$ cinmo lo su'u $x_3$ $x_4$ $x_5$ cinmo		lujvo					cinmo,cinmo
-cnida'o	$x_1$ darno $x_2$ le ka ce'u cinmo $x_3$	{cinmo} {darno}	lujvo		cnida'o			cinmo,darno
-cnijbi	$x_1$ jibni $x_2$ le ka cinmo $x_3$	{cinmo} {jibni}; {o'e}	lujvo		cnijbi			cinmo,jibni
-cnikansa	$x_1$ kansa $x_2$ le nu cinmo $x_3$	{cinmo} {kansa}; {dai}	lujvo		cnikansa			cinmo,kansa
-cnimikce	ge $x_1$ mikce $x_2$ boi $x_3$ boi $x_4$ gi $x_2$ cinmo $x_3$		lujvo					cinmo,mikce
-cnipu'a	$x_1$ pluka $x_2$ fi $x_3$ ji'u lo nu vo'e cinmo lo zabna vo'a		lujvo					cinmo,pluka
-cnirei	$x_1$=$p_1$ preti lo du'u $x_3$=$c_2$=$p_4$ cinmo makau ku $x_2$=$p_3$ $x_3$=$c_3$=$p_4$		lujvo					cinmo,preti
-comco'e	$x_1$ poi'i mi na djuno lo du'u ke'a mo kau	srana fa zo co'e	lujvo					co'e,co'e
-conplimidycamxe	$x_1$ mupli lo ka se pruce $x_2$ .i je lo korbipe be $x_2$ va'o lo nu ri cando cu .arco fi lo pilno be ri fe $x_1$	zo {korbipe} .i zo {pruce} .i zo {cando} .i zo .{arco}	lujvo					condi,pilno,minde,-camxe-
-co'urde'a	$x_1$ co'u denpa $x_2$ $x_3$ $x_4$		lujvo					co'u,denpa
-co'urfa'o	$x_1$ co'u fasnu gi'e poi'i lo fanmo be ke'a cu fasnu .i je lo nu x1 ba di'a fasnu cu jai se kanpe ja jai se birti lo pilno be zo co'urfa'o fai lo ka ce'u no roi ba fasnu	ko catlu zo {co'u} .e zo {fanmo} .e zo {fa'o} .e zo {tolcfa} .e zo {fasnu}	lujvo		co'urfa'o			co'u,fanmo
-co'urji'e	$j_1$ co'u jmive $j_2$	.e'u ko tcidu la'e zo {co'u} .e zo {jmive} .e zo {morsi}	lujvo					co'u,jmive
-cpagau	$x_1$ gasnu lo nu $x_2$ cpacu $x_3$ boi $x_4$	{cpacu}; {gasnu}	lujvo					cpacu,gasnu
-cpesi'u	$x_1$ simxu lo ka ce'u fi ce'u cpedu fe $x_2$ boi $x_3$	{cpedu} {simxu}	lujvo		cpesi'u			cpedu,simxu
-cpetinbe	$x_1$ boi $x_2$ boi $x_3$ te cpedu gi'e tinbe	{cpedu} {tinbe}	lujvo		cpetinbe			cpedu,tinbe
-cpezu'e	$x_1$ zukte $x_2$ noi $x_3$ cpedu ke'a $x_1$ ku'o lo'e nu $x_1$ mansa $x_3$	{cpedu} {zukte}; {vi'o}	lujvo		cpezu'e			cpedu,zukte
-cpitepygau	$x_1$ tamsmi lo remna gi'e na remna gi'e tepygau $x_2$ noi cipni		lujvo		cpitepygau			cipni,terpa,gasnu
-cpizda	$x_1$ stura gi'e se zbasu lo cipni gi'e marbi lo se jbegau sovda .e lo cifnu	srana fa zo {cipni} .e zo {zdani} .e zo {marbi} .e zo {zdatu'a} .e zo {zdaca'u} .e zo {zdastu} .e zo {zdadi'u} .e zo {zdagu'e} .e zo {kumyzda}	lujvo		cpizda			cipni,zdani
-cpuga'ablo	$x_1$ bloti $x_2$ boi $x_3$ pe lo blocpuga'a		lujvo					lacpu,grana,bloti
-cpuga'ali'u	$x_1$ litru $x_2$ boi $x_3$ poi cpuga'ablo		lujvo					lacpu,grana,litru
-cratse	$x_1$ jatna $x_2$ gi'e se tcita lo du'u $x_1$ cratse $x_2$	zo cratse {balcme} ja {nolcme} gi'e dunli lo latmo po'u zoi ba. praesidēns .ba .i ro {jatna} cu poi'i lo nu ke'a cratse cu se sarcu je se banzu lo nu xusra fa {dau'u} jatna je lo se jatna be ri lo du'u dau'u jatna cu cratse .i srana fa zo {ianlaua} je zo {gugja'a} je zo {kagja'a} je zo {presidente}	lujvo					crane,zutse
-crekai	$x_1$ fe $x_2$ fau gi certu gi ckaji	zo {certu} zo {ckaji}	lujvo					certu,ckaji
-crelai	$x_1$ klani $x_2$ lo si'o certu $x_3$	{certu} {klani}	lujvo		crelai			certu,klani
-crezenzu'e	$x_1$ zukte $x_2$ lo nu $x_1$ zenba lo ka ce'u certu $x_2$		lujvo					certu,zenba,zukte
-crigau	.i lo ka ce'u goi $x_1$ crigau ce'u goi $x_2$ ce'u goi $x_3$ cu ka ce'u gasnu cei broda lo nu ce'u cirko ce'u lo nu broda	.i .e'u do catlu tu'a zo {cirko} .e zo {gasnu}	lujvo					cirko,gasnu
-crofanta	$x_1$=$f_1$ fanta lo nu $x_2$=$c_2$ se cortu $x_3$=$c_3$		lujvo					cortu,fanta
-ctikabri	$x1$ kabri $x2$ noi se citka ku'o $x3$		lujvo					citka,kabri
-ctikla	$x_1$ kaikla lo ka ce'u citka $x_2$		lujvo		ctikla			citka,klama
-ctitci	$x_1$ tutci lo ka lo remna cu pilno ce'u lo ka muvgau lo se citka lo moklu .i $x_1$ forca ja smuci ja dakfu	srana fa zo {forca} .e zo {smuci} .e zo {dakfu} .e zo {djazbe}	lujvo		ctitci			citka,tutci
-ctuse'i	$x_1$ sefsi lo ka ce'u ce'u ctuca $x_2$ $x_3$ $x_4$	{ctuca}; {sefsi}	lujvo					ctuca,sevzi
-cumri'a	$x_1$ rinka lo nu $x_2$ cumki	srana fa zo {rinka} .e zo {cumki} .e zo {ka'e} .e zo {jalge} .e zo {kakne} .e zo {co'a} .e zo {va'o}	lujvo		cumri'a			cumki,rinka
-cupsri	$d_1$=$c_1$ $d_2$=$c_2$ dasri gi'e clupa		lujvo					clupa,dasri
-cuska'i	.i lo ka cuska'i cu ka $x_1$ boi $x_2$ boi $x_3$ boi $x_4$ boi $x_5$ ce'ai $x_1$ krati $x_2$ lo ka ce'u cusku $x_3$ boi $x_4$ boi $x_5$	.i .e'u catlu ge zo'e ne zo {cusku} gi zo'e ne zo {krati}	lujvo					cusku,krati
-cusku'i	$x_1$ kurji $x_2$ noi $x_3$ cusku ke'a $x_4$ boi $x_5$	{cusku} {kurji}; {sa'a}	lujvo		cusku'i			cusku,kurji
-cutlunbe	lo cutne be $x_1$ ku lunbe		lujvo					cutne,lunbe
-cutygaipalku	$x_1$ palku $x_2$ gi'e gacri lo cutne be lo dasni	{cutne} {gacri} {palku}	lujvo		cutygaipalku			cutne,gacri,palku
-dabytadji	$x_1$ tadji lo nu damba kei $x_2$ gau $x_3$ poi ke'a damba	lo se damba .e lo te damba cu so'a roi na srana lo tadji .i zbasu fi zo {damba} ce'o zo {tadji}	lujvo					damba,tadji
-dacybatke	$b_1$ batke $b_2$=$d_1$ po'u lo dacru ge'u lo nu lacpu vo'e kei $b_4$		lujvo					dacru,batke
-dadgreku	$x_1$ tutci lo ka da ce'ai da greku $x_2$ noi dandu da	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					dandu,greku
-dadja'i	$j_1$=$d_1$ jadni $j_2$ gi'e dandu $d_2$		lujvo					dandu,jadni
-dadycripu	$c_1$=$d_1$ po'u lo cripu cu danlu $d_2$ $d_3$		lujvo					dandu,cripu
-da'egre	$x_1$ pagre $x_2$ poi danre vo'a ku'o $x_3$ $x_4$		lujvo					danre,pagre
-da'ergau	$g_1$ gasnu lo nu $d_1$ danre $d_2$	.e'u ko zgana tu'a zo {selda'ergau} .e zo {da'erzu'e} .e zo {danre} .e zo {gasnu}	lujvo					danre,gasnu
-da'erjicla	$x1$ jicla je danre $x2$		lujvo					danre,jicla
-dafyfa'i	$f_1$ facki lo du'u ma kau danfu $f_3$=$d_2$ kei zi'o		lujvo		dafyfa'i			danfu,facki
-dagme'esni	$s_1$ sinxa $s_2$=$c_1$ po'u lo cmene be $c_2$=$d_1$ po'u lo dargu ge'u bei $c_3$ ge'u $s_3$		lujvo					dargu,cmene,sinxa
-darsygau	$x_1$ gasnu le nu $x_2$ darsi $x_3$	{darsi} {gasnu}	lujvo		darsygau			darsi,gasnu
-dartro	$x_1$ jitro $x_2$ $x_3$ fau lo nu $x_1$ darno $x_2$		lujvo					darno,jitro
-dartrotci	$x_1$ tutci lo nu dartro $x_2$ $x_3$	srana fa zo {dartro}	lujvo					darno,jitro,tutci
-datcinpa'i	$x_1$ cinse prami lo drata be vo'a lo ka cinse	{drata} {cinse} {prami}	lujvo					drata,cinse,prami
-datkycmo	$x1$ cmoni $x2$ $x3$ tai lo datka		lujvo					datka,cmoni
-datmau	$x_1$ drata ro klesi be $x_2$ poi na du $x_1$ ku'o $x_3$ gi'e zmadu ro klesi be $x_2$ poi na du $x_1$ ku'o $x_3$ $x_4$	lujvo fo lu {drata} {zmadu} li'u .i ji'a zgana zo {xabmau}	lujvo		datmau			drata,zmadu
-datnydatni	$x_1$ datni $x_2$ po'u lo datni ge'u $x_3$	.e'u ko tcidu tu'a zo {datni}	lujvo					datni,datni
-datpre	$x_1$ prenu gi'e drata $x_2$		lujvo					drata,prenu
-datxlagei	$x_1$ gleki $x_2$ noi xlali $x_3$ fi $x_4$ ku'o fi'o te drata be le se xlali bei le gleki $x_5$	{cadnfroide}	lujvo					drata,xlali,gleki
-dekna'a	$x_1$ nanca li 10 pi'i mo'e $x_2$ fi $x_3$	zo {dekto} jo'u zo {nanca} .i va'o lo nu lo re moi be lo terbri na ve jungau cu na'o sruma lo du'u ri'oi re moi cu du li pa	lujvo					dekto,nanca
-dekydugri	$du_1$ dugri $du_2$ li pano		lujvo					dekto,dugri
-demsilka	$x1$ silka $x2$ gi'e denmi		lujvo					denmi,silka
-denbru	$b_1$ burcu lo nu lumci lo denci kei $b_3$		lujvo					denci,burcu
-denfi'e	$x_1$ finpe $x_2$ noi jutsi fi la'o ly. Characidae .ly vau gi'e se denci $x_3$	lo'e denfi'e goi ko'a sojycti gi'e xabju lo ketco rirxe .i lu'o ko'a miskai lo ka lu'a ce'u se denci lo kinli gi'e se xedja lo tsali	lujvo					denci,finpe
-denzalvi	$x_1$ zukte lo ka lo denci be ce'u cu zalvi $x_2$		lujvo					denci,zalvi
-derba'o	$ko'a$ co'a banro $ko'e$ fe'eba'o le dertu	{dertu} {banro}	lujvo					dertu,banro
-dergapru	$x_1$ gapru lo dertu lo terjunta	{dertu} {gapru}	lujvo		dergapru			dertu,gapru
-derske	$x_1$=$s_1$ saske lo si'o dertu ku $x_2$=$s_3$		lujvo					dertu,saske
-detke'u	$x_1$ noi detri cu krefu lo detri be $x_2$ noi pamoi gi'e fasnu ku'o $x_3$ noi namcu ku'o $x_4$ noi te detri be fi vo'a	.i {detri} zei {krefu} .i lo se krefu cu panra lo detri be $x_2$ gi'e ku'i gau na'e cmima lo terbri tezu'e lo nu sampu .i $x_4$ ka'e se smuni lo ciste be fi lo ka krefu to lo terbri cu se manri lo si'o zasni jbotamgau zo {detri} jo'u zo {ciste} toi .i mu'a lo pa djedi po'e lo pa jeftu jonai masti ge'u .e lo pa djedi jonai masti po'e lo pa nanca ge'u .e lo pa nanca po'e loi panono nanca mu'anai	lujvo					detri,krefu
-dikcti	$c_1$ dikni lo nu $c_1$ citka $c_2$ kei zu'i		lujvo					dikni,citka
-dilcau	claxu lo dilnu fa $x_1$ noi na'o tsani	.i {tcima} .i {dilnu} .i {carvi} .i {tsani}	lujvo					dilnu,claxu
-dilcymu'o	li no veldilcu $x_1$ boi $x_2$ .i va'i lo mulna'u cu frinu $x_1$ boi $x_2$		lujvo					dilcu,mulno
-dilcysle	$x_1$ mulna'u gi'e dubmau li pa .ije no da poi ke'a mulna'u gi'e dubmau li pa gi'e dubme'a $x_1$ zo'u: $x_1$ dilcymu'o da		lujvo					dilcu,selci
-dimba'a	$x_1$ barna $x_2$ gi'e sinxa lo du'u $x_2$ se dimna $x_3$		lujvo		dimba'a			dimna,barna
-dimnu'e	$x_1$ nupre pe'aru'e $x_2$ $x_3$ noi maldimna .i ganai $x_2$ na fasnu ja se zukte ja jetnu gi $x_1$ dapma vo'a $x_3$		lujvo					dimna,nupre
-dincfu	$r_1$ ricfu lo jdini		lujvo					jdini,ricfu
-dircau	$x_1$ claxu lo se dicra		lujvo					dicra,claxu
-dircynavni	$x_1$ navni lo ratni be li bi xa	{dirce} {navni}; {ratni}	lujvo					dirce,navni
-ditcma	$x_1$ cmalu lo ka ce'u se ditcu ma kau kei $x_2$		lujvo		ditcma			ditcu,cmalu
-ditybra	$x_1$ barda lo ka ce'u se ditcu ma kau kei $x_2$		lujvo		ditybra			ditcu,barda
-djaske	$x_1$=$s_1$ saske lo si'o cidja ku $x_2$=$s_3$		lujvo					cidja,saske
-djasnuji	$s_1$=$c_1$ snuji $s_2$ $s_3$ gi'e cidja $c_2$		lujvo					cidja,snuji
-djazbe	$x_1$ tutci lo ka ce'u zbepi lo cidja .i $x_1$ palta ja kabri	srana fa zo {palta} .e zo {kabri} .e zo {ctitci}	lujvo		djazbe			cidja,zbepi
-djazbelu'imi'i	$x_1$ minji lo ka ce'u lumci lo djazbe .a lo ctitci	srana fa zo {minji} .e zo {djazbe} .e zo {ctitci}	lujvo		djazbelu'imi'i			cidja,zbepi,lumci,minji
-djecacrytcika	$x_1$ goi ko'a tcika $x_2$ boi $x_3$ .ije $x_1$ sinxa lo mo'e ko'a moi be lu'i ro cacra be li pa bei $x_3$ be'o poi pagbu lo djedi be li pa bei $x_3$	.i {djedi} zei {cacra} zei {tcika} .i srana zo {ti'u'a} to lo terbri cu se manri lo si'o zasni jbotamgau zo {tcika} jo'u zo {ciste} toi	lujvo				ti'u'a	djedi,cacra,tcika
-djefau	pa da poi ctemidju fi $x_2$ zo'u $x_1$ se krasi da gi'e se fanmo lo poi'i ge ke'a ctemidju $x_2$ gi'e balvi da gi no ctemidju cu purci ke'a gi'e balvi da	srana fa zo {djedi} .e zo {ctemidju}	lujvo					djedi,fasnu
-djekarni	$x_1$ karni $x_2$ boi $x_3$ boi $x_4$ di'i ku ca ro djedi	{djedi} {karni}	lujvo		djekarni			djedi,karni
-djijevgau	lo nu $x_1$ zukte da $x_2$ cu selja'e $x_2$ gi'e fasnu	srana fa zo {gasnu} .e zo {zukte}	lujvo					djica,je,gasnu
-djikri	$x_1$ krici lo du'u $x_1$ djica $x_2$	srana fa zo {krici} .e zo {djica}	lujvo		djikri			djica,krici
-djisku	.i go djisku gi $x_1$ cusku lo se du'u $x_1$ djica $x_2$ boi $x_3$ kei $x_4$ boi $x_5$	.i .e'u do catlu ge zo'e ne zo djica gi zo'e ne zo cusku	lujvo					djica,cusku
-djizu'e	$x_1$ zukte su'o da $x_2$ noi $x_1$ djica ke'a	srana fa zo {zukte} .e zo {djica} .e zo {troci} .e zo {gasnu}	lujvo		djizu'e			djica,zukte
-djuse'i	$x_1$ sefsi lo ka ce'u sidju ce'u $x_2$	{sefsi} .i {sidju}	lujvo					sidju,sevzi
-djusi'u	$x_1$ simxu lo ka ce'u ce'u $x_2$ sidju	srana fa zo {sidju} .e zo {simxu}	lujvo					sidju,simxu
-dragau	$x_1$ gasnu lo nu $x_2$ drani $x_3$ boi $x_4$ boi $x_5$	{drani} {gasnu}	lujvo					drani,gasnu
+cnicni	$x_1$ $x_2$ cinmo lo su'u $x_3$ $x_4$ $x_5$ cinmo		lujvo					cinmo;cinmo
+cnida'o	$x_1$ darno $x_2$ le ka ce'u cinmo $x_3$	{cinmo} {darno}	lujvo		cnida'o			cinmo;darno
+cnijbi	$x_1$ jibni $x_2$ le ka cinmo $x_3$	{cinmo} {jibni}; {o'e}	lujvo		cnijbi			cinmo;jibni
+cnikansa	$x_1$ kansa $x_2$ le nu cinmo $x_3$	{cinmo} {kansa}; {dai}	lujvo		cnikansa			cinmo;kansa
+cnimikce	ge $x_1$ mikce $x_2$ boi $x_3$ boi $x_4$ gi $x_2$ cinmo $x_3$		lujvo					cinmo;mikce
+cnipu'a	$x_1$ pluka $x_2$ fi $x_3$ ji'u lo nu vo'e cinmo lo zabna vo'a		lujvo					cinmo;pluka
+cnirei	$x_1$=$p_1$ preti lo du'u $x_3$=$c_2$=$p_4$ cinmo makau ku $x_2$=$p_3$ $x_3$=$c_3$=$p_4$		lujvo					cinmo;preti
+comco'e	$x_1$ poi'i mi na djuno lo du'u ke'a mo kau	srana fa zo co'e	lujvo					co'e;co'e
+conplimidycamxe	$x_1$ mupli lo ka se pruce $x_2$ .i je lo korbipe be $x_2$ va'o lo nu ri cando cu .arco fi lo pilno be ri fe $x_1$	zo {korbipe} .i zo {pruce} .i zo {cando} .i zo .{arco}	lujvo					condi;pilno;minde;-camxe-
+co'urde'a	$x_1$ co'u denpa $x_2$ $x_3$ $x_4$		lujvo					co'u;denpa
+co'urfa'o	$x_1$ co'u fasnu gi'e poi'i lo fanmo be ke'a cu fasnu .i je lo nu x1 ba di'a fasnu cu jai se kanpe ja jai se birti lo pilno be zo co'urfa'o fai lo ka ce'u no roi ba fasnu	ko catlu zo {co'u} .e zo {fanmo} .e zo {fa'o} .e zo {tolcfa} .e zo {fasnu}	lujvo		co'urfa'o			co'u;fanmo
+co'urji'e	$j_1$ co'u jmive $j_2$	.e'u ko tcidu la'e zo {co'u} .e zo {jmive} .e zo {morsi}	lujvo					co'u;jmive
+cpagau	$x_1$ gasnu lo nu $x_2$ cpacu $x_3$ boi $x_4$	{cpacu}; {gasnu}	lujvo					cpacu;gasnu
+cpesi'u	$x_1$ simxu lo ka ce'u fi ce'u cpedu fe $x_2$ boi $x_3$	{cpedu} {simxu}	lujvo		cpesi'u			cpedu;simxu
+cpetinbe	$x_1$ boi $x_2$ boi $x_3$ te cpedu gi'e tinbe	{cpedu} {tinbe}	lujvo		cpetinbe			cpedu;tinbe
+cpezu'e	$x_1$ zukte $x_2$ noi $x_3$ cpedu ke'a $x_1$ ku'o lo'e nu $x_1$ mansa $x_3$	{cpedu} {zukte}; {vi'o}	lujvo		cpezu'e			cpedu;zukte
+cpitepygau	$x_1$ tamsmi lo remna gi'e na remna gi'e tepygau $x_2$ noi cipni		lujvo		cpitepygau			cipni;terpa;gasnu
+cpizda	$x_1$ stura gi'e se zbasu lo cipni gi'e marbi lo se jbegau sovda .e lo cifnu	srana fa zo {cipni} .e zo {zdani} .e zo {marbi} .e zo {zdatu'a} .e zo {zdaca'u} .e zo {zdastu} .e zo {zdadi'u} .e zo {zdagu'e} .e zo {kumyzda}	lujvo		cpizda			cipni;zdani
+cpuga'ablo	$x_1$ bloti $x_2$ boi $x_3$ pe lo blocpuga'a		lujvo					lacpu;grana;bloti
+cpuga'ali'u	$x_1$ litru $x_2$ boi $x_3$ poi cpuga'ablo		lujvo					lacpu;grana;litru
+cratse	$x_1$ jatna $x_2$ gi'e se tcita lo du'u $x_1$ cratse $x_2$	zo cratse {balcme} ja {nolcme} gi'e dunli lo latmo po'u zoi ba. praesidēns .ba .i ro {jatna} cu poi'i lo nu ke'a cratse cu se sarcu je se banzu lo nu xusra fa {dau'u} jatna je lo se jatna be ri lo du'u dau'u jatna cu cratse .i srana fa zo {ianlaua} je zo {gugja'a} je zo {kagja'a} je zo {presidente}	lujvo					crane;zutse
+crekai	$x_1$ fe $x_2$ fau gi certu gi ckaji	zo {certu} zo {ckaji}	lujvo					certu;ckaji
+crelai	$x_1$ klani $x_2$ lo si'o certu $x_3$	{certu} {klani}	lujvo		crelai			certu;klani
+crezenzu'e	$x_1$ zukte $x_2$ lo nu $x_1$ zenba lo ka ce'u certu $x_2$		lujvo					certu;zenba;zukte
+crigau	.i lo ka ce'u goi $x_1$ crigau ce'u goi $x_2$ ce'u goi $x_3$ cu ka ce'u gasnu cei broda lo nu ce'u cirko ce'u lo nu broda	.i .e'u do catlu tu'a zo {cirko} .e zo {gasnu}	lujvo					cirko;gasnu
+crofanta	$x_1$=$f_1$ fanta lo nu $x_2$=$c_2$ se cortu $x_3$=$c_3$		lujvo					cortu;fanta
+ctikabri	$x1$ kabri $x2$ noi se citka ku'o $x3$		lujvo					citka;kabri
+ctikla	$x_1$ kaikla lo ka ce'u citka $x_2$		lujvo		ctikla			citka;klama
+ctitci	$x_1$ tutci lo ka lo remna cu pilno ce'u lo ka muvgau lo se citka lo moklu .i $x_1$ forca ja smuci ja dakfu	srana fa zo {forca} .e zo {smuci} .e zo {dakfu} .e zo {djazbe}	lujvo		ctitci			citka;tutci
+ctuse'i	$x_1$ sefsi lo ka ce'u ce'u ctuca $x_2$ $x_3$ $x_4$	{ctuca}; {sefsi}	lujvo					ctuca;sevzi
+cumri'a	$x_1$ rinka lo nu $x_2$ cumki	srana fa zo {rinka} .e zo {cumki} .e zo {ka'e} .e zo {jalge} .e zo {kakne} .e zo {co'a} .e zo {va'o}	lujvo		cumri'a			cumki;rinka
+cupsri	$d_1$=$c_1$ $d_2$=$c_2$ dasri gi'e clupa		lujvo					clupa;dasri
+cuska'i	.i lo ka cuska'i cu ka $x_1$ boi $x_2$ boi $x_3$ boi $x_4$ boi $x_5$ ce'ai $x_1$ krati $x_2$ lo ka ce'u cusku $x_3$ boi $x_4$ boi $x_5$	.i .e'u catlu ge zo'e ne zo {cusku} gi zo'e ne zo {krati}	lujvo					cusku;krati
+cusku'i	$x_1$ kurji $x_2$ noi $x_3$ cusku ke'a $x_4$ boi $x_5$	{cusku} {kurji}; {sa'a}	lujvo		cusku'i			cusku;kurji
+cutlunbe	lo cutne be $x_1$ ku lunbe		lujvo					cutne;lunbe
+cutygaipalku	$x_1$ palku $x_2$ gi'e gacri lo cutne be lo dasni	{cutne} {gacri} {palku}	lujvo		cutygaipalku			cutne;gacri;palku
+dabytadji	$x_1$ tadji lo nu damba kei $x_2$ gau $x_3$ poi ke'a damba	lo se damba .e lo te damba cu so'a roi na srana lo tadji .i zbasu fi zo {damba} ce'o zo {tadji}	lujvo					damba;tadji
+dacybatke	$b_1$ batke $b_2$=$d_1$ po'u lo dacru ge'u lo nu lacpu vo'e kei $b_4$		lujvo					dacru;batke
+dadgreku	$x_1$ tutci lo ka da ce'ai da greku $x_2$ noi dandu da	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					dandu;greku
+dadja'i	$j_1$=$d_1$ jadni $j_2$ gi'e dandu $d_2$		lujvo					dandu;jadni
+dadycripu	$c_1$=$d_1$ po'u lo cripu cu danlu $d_2$ $d_3$		lujvo					dandu;cripu
+da'egre	$x_1$ pagre $x_2$ poi danre vo'a ku'o $x_3$ $x_4$		lujvo					danre;pagre
+da'ergau	$g_1$ gasnu lo nu $d_1$ danre $d_2$	.e'u ko zgana tu'a zo {selda'ergau} .e zo {da'erzu'e} .e zo {danre} .e zo {gasnu}	lujvo					danre;gasnu
+da'erjicla	$x1$ jicla je danre $x2$		lujvo					danre;jicla
+dafyfa'i	$f_1$ facki lo du'u ma kau danfu $f_3$=$d_2$ kei zi'o		lujvo		dafyfa'i			danfu;facki
+dagme'esni	$s_1$ sinxa $s_2$=$c_1$ po'u lo cmene be $c_2$=$d_1$ po'u lo dargu ge'u bei $c_3$ ge'u $s_3$		lujvo					dargu;cmene;sinxa
+darsygau	$x_1$ gasnu le nu $x_2$ darsi $x_3$	{darsi} {gasnu}	lujvo		darsygau			darsi;gasnu
+dartro	$x_1$ jitro $x_2$ $x_3$ fau lo nu $x_1$ darno $x_2$		lujvo					darno;jitro
+dartrotci	$x_1$ tutci lo nu dartro $x_2$ $x_3$	srana fa zo {dartro}	lujvo					darno;jitro;tutci
+datcinpa'i	$x_1$ cinse prami lo drata be vo'a lo ka cinse	{drata} {cinse} {prami}	lujvo					drata;cinse;prami
+datkycmo	$x1$ cmoni $x2$ $x3$ tai lo datka		lujvo					datka;cmoni
+datmau	$x_1$ drata ro klesi be $x_2$ poi na du $x_1$ ku'o $x_3$ gi'e zmadu ro klesi be $x_2$ poi na du $x_1$ ku'o $x_3$ $x_4$	lujvo fo lu {drata} {zmadu} li'u .i ji'a zgana zo {xabmau}	lujvo		datmau			drata;zmadu
+datnydatni	$x_1$ datni $x_2$ po'u lo datni ge'u $x_3$	.e'u ko tcidu tu'a zo {datni}	lujvo					datni;datni
+datpre	$x_1$ prenu gi'e drata $x_2$		lujvo					drata;prenu
+datxlagei	$x_1$ gleki $x_2$ noi xlali $x_3$ fi $x_4$ ku'o fi'o te drata be le se xlali bei le gleki $x_5$	{cadnfroide}	lujvo					drata;xlali;gleki
+dekna'a	$x_1$ nanca li 10 pi'i mo'e $x_2$ fi $x_3$	zo {dekto} jo'u zo {nanca} .i va'o lo nu lo re moi be lo terbri na ve jungau cu na'o sruma lo du'u ri'oi re moi cu du li pa	lujvo					dekto;nanca
+dekydugri	$du_1$ dugri $du_2$ li pano		lujvo					dekto;dugri
+demsilka	$x1$ silka $x2$ gi'e denmi		lujvo					denmi;silka
+denbru	$b_1$ burcu lo nu lumci lo denci kei $b_3$		lujvo					denci;burcu
+denfi'e	$x_1$ finpe $x_2$ noi jutsi fi la'o ly. Characidae .ly vau gi'e se denci $x_3$	lo'e denfi'e goi ko'a sojycti gi'e xabju lo ketco rirxe .i lu'o ko'a miskai lo ka lu'a ce'u se denci lo kinli gi'e se xedja lo tsali	lujvo					denci;finpe
+denzalvi	$x_1$ zukte lo ka lo denci be ce'u cu zalvi $x_2$		lujvo					denci;zalvi
+derba'o	$ko'a$ co'a banro $ko'e$ fe'eba'o le dertu	{dertu} {banro}	lujvo					dertu;banro
+dergapru	$x_1$ gapru lo dertu lo terjunta	{dertu} {gapru}	lujvo		dergapru			dertu;gapru
+derske	$x_1$=$s_1$ saske lo si'o dertu ku $x_2$=$s_3$		lujvo					dertu;saske
+detke'u	$x_1$ noi detri cu krefu lo detri be $x_2$ noi pamoi gi'e fasnu ku'o $x_3$ noi namcu ku'o $x_4$ noi te detri be fi vo'a	.i {detri} zei {krefu} .i lo se krefu cu panra lo detri be $x_2$ gi'e ku'i gau na'e cmima lo terbri tezu'e lo nu sampu .i $x_4$ ka'e se smuni lo ciste be fi lo ka krefu to lo terbri cu se manri lo si'o zasni jbotamgau zo {detri} jo'u zo {ciste} toi .i mu'a lo pa djedi po'e lo pa jeftu jonai masti ge'u .e lo pa djedi jonai masti po'e lo pa nanca ge'u .e lo pa nanca po'e loi panono nanca mu'anai	lujvo					detri;krefu
+dikcti	$c_1$ dikni lo nu $c_1$ citka $c_2$ kei zu'i		lujvo					dikni;citka
+dilcau	claxu lo dilnu fa $x_1$ noi na'o tsani	.i {tcima} .i {dilnu} .i {carvi} .i {tsani}	lujvo					dilnu;claxu
+dilcymu'o	li no veldilcu $x_1$ boi $x_2$ .i va'i lo mulna'u cu frinu $x_1$ boi $x_2$		lujvo					dilcu;mulno
+dilcysle	$x_1$ mulna'u gi'e dubmau li pa .ije no da poi ke'a mulna'u gi'e dubmau li pa gi'e dubme'a $x_1$ zo'u: $x_1$ dilcymu'o da		lujvo					dilcu;selci
+dimba'a	$x_1$ barna $x_2$ gi'e sinxa lo du'u $x_2$ se dimna $x_3$		lujvo		dimba'a			dimna;barna
+dimnu'e	$x_1$ nupre pe'aru'e $x_2$ $x_3$ noi maldimna .i ganai $x_2$ na fasnu ja se zukte ja jetnu gi $x_1$ dapma vo'a $x_3$		lujvo					dimna;nupre
+dincfu	$r_1$ ricfu lo jdini		lujvo					jdini;ricfu
+dircau	$x_1$ claxu lo se dicra		lujvo					dicra;claxu
+dircynavni	$x_1$ navni lo ratni be li bi xa	{dirce} {navni}; {ratni}	lujvo					dirce;navni
+ditcma	$x_1$ cmalu lo ka ce'u se ditcu ma kau kei $x_2$		lujvo		ditcma			ditcu;cmalu
+ditybra	$x_1$ barda lo ka ce'u se ditcu ma kau kei $x_2$		lujvo		ditybra			ditcu;barda
+djaske	$x_1$=$s_1$ saske lo si'o cidja ku $x_2$=$s_3$		lujvo					cidja;saske
+djasnuji	$s_1$=$c_1$ snuji $s_2$ $s_3$ gi'e cidja $c_2$		lujvo					cidja;snuji
+djazbe	$x_1$ tutci lo ka ce'u zbepi lo cidja .i $x_1$ palta ja kabri	srana fa zo {palta} .e zo {kabri} .e zo {ctitci}	lujvo		djazbe			cidja;zbepi
+djazbelu'imi'i	$x_1$ minji lo ka ce'u lumci lo djazbe .a lo ctitci	srana fa zo {minji} .e zo {djazbe} .e zo {ctitci}	lujvo		djazbelu'imi'i			cidja;zbepi;lumci;minji
+djecacrytcika	$x_1$ goi ko'a tcika $x_2$ boi $x_3$ .ije $x_1$ sinxa lo mo'e ko'a moi be lu'i ro cacra be li pa bei $x_3$ be'o poi pagbu lo djedi be li pa bei $x_3$	.i {djedi} zei {cacra} zei {tcika} .i srana zo {ti'u'a} to lo terbri cu se manri lo si'o zasni jbotamgau zo {tcika} jo'u zo {ciste} toi	lujvo				ti'u'a	djedi;cacra;tcika
+djefau	pa da poi ctemidju fi $x_2$ zo'u $x_1$ se krasi da gi'e se fanmo lo poi'i ge ke'a ctemidju $x_2$ gi'e balvi da gi no ctemidju cu purci ke'a gi'e balvi da	srana fa zo {djedi} .e zo {ctemidju}	lujvo					djedi;fasnu
+djekarni	$x_1$ karni $x_2$ boi $x_3$ boi $x_4$ di'i ku ca ro djedi	{djedi} {karni}	lujvo		djekarni			djedi;karni
+djijevgau	lo nu $x_1$ zukte da $x_2$ cu selja'e $x_2$ gi'e fasnu	srana fa zo {gasnu} .e zo {zukte}	lujvo					djica;je;gasnu
+djikri	$x_1$ krici lo du'u $x_1$ djica $x_2$	srana fa zo {krici} .e zo {djica}	lujvo		djikri			djica;krici
+djisku	.i go djisku gi $x_1$ cusku lo se du'u $x_1$ djica $x_2$ boi $x_3$ kei $x_4$ boi $x_5$	.i .e'u do catlu ge zo'e ne zo djica gi zo'e ne zo cusku	lujvo					djica;cusku
+djizu'e	$x_1$ zukte su'o da $x_2$ noi $x_1$ djica ke'a	srana fa zo {zukte} .e zo {djica} .e zo {troci} .e zo {gasnu}	lujvo		djizu'e			djica;zukte
+djuse'i	$x_1$ sefsi lo ka ce'u sidju ce'u $x_2$	{sefsi} .i {sidju}	lujvo					sidju;sevzi
+djusi'u	$x_1$ simxu lo ka ce'u ce'u $x_2$ sidju	srana fa zo {sidju} .e zo {simxu}	lujvo					sidju;simxu
+dragau	$x_1$ gasnu lo nu $x_2$ drani $x_3$ boi $x_4$ boi $x_5$	{drani} {gasnu}	lujvo					drani;gasnu
 cparaga	$x_1$ spati gi'e jutsi $x_2$ noi ke'a klesi la'o me. Asparagus .me	srana fa zo {spati}	fu'ivla		cparaga	cparaga
 crenzuue	.i lo si'o crenzuue cu si'o ce'u goi $x_1$ zukte lo ka ce'u zenba lo ka ce'u certu ce'uxici goi $x_2$	.i zi'evla zo'e pe zo {crezenzu'e} noi ke'a lujvo fo lu {certu} {zenba} {zukte} li'u	fu'ivla		crezenzu'e	crenzuue
 crituuensa	$x_1$ critoinsa $x_2$ $x_3$.	zo {critoinsa}	fu'ivla		critoinsa	crituuensa
 co'ei	lu fi'o broda fe'u co'ei brode li'u du lu fi'o brode broda fe'u li'u	zo co cu krasi .i plixau lo nu tengau lo smuni be lo valsi pe mu'a ma'oi BAI	experimental cmavo	COhEI	tcita tanru tutci
 da'i nai	tcita le se cusku le du'u la'e ri fatci	{da'i} {nai}; {fatci}	cmavo-compound	UI*
-dakyba'e	$b_1$ balre $b_2$=$d_1$ po'u lo dakfu		lujvo					dakfu,balre
-dakyxa'i	$x_1$ xarci $x_2$ $x_3$ gi'e dakfu $x_2$ $x_4$	zbasu fi zo {dakfu} ce'o zo {xarci}	lujvo					dakfu,xarci
-dalma'e	$x_1$ danlu $x_2$ gi'e marce $x_3$ boi $x_4$ zu'i .i $x_3$ jitro $x_1$ lo ka klama	srana fa zo {danlu} .e zo {marce} .e zo {jitro} .e zo {klama}	lujvo					danlu,marce
-dalpe'o	$x_1$ pendo je se kurji $x_2$ gi'e danlu $x_3$		lujvo					danlu,pendo
-daltsi	tsiju fa $x_1$ fe $x_2$ fi $x_3$ noi danlu $x_4$		lujvo					danlu,tsiju
-dapsku	$c_1$=$d_1$ po'u lo gasnu cu cusku $c_2$ $c_3$=$d_3$ $c_4$ ja'e lo nu lo no'a ku lo se no'a ku dapma $d_3$		lujvo					dapma,cusku
-drazu'e	$x_1$ zukte $x_2$ noi ke'a drani; .i $x_1$ zukte lo drani		lujvo		drazu'e			drani,zukte
-dribi'a	$x_1$ bilma lo ka ce'u badri		lujvo		dribi'a			badri,bilma
-drotabno	$x_1$ marji ke po'o lo cidro ja lo tabno		lujvo					cidro,tabno
-dubdu'i	$x_1$ mintu $x_2$	srana fa zo {mintu} .e zo {dubyfrica}	lujvo					du,dunli
-dubji'isre	$x_1$ srera lo ka ce'u jinvi lo du'u $x_2$ du $x_3$		lujvo		dubji'isre			du,jinvi,srera
-dubju'o	$x_1$ djuno lo du'u $x_2$ du ma kau kei zi'o $x_3$		lujvo		dubju'o			du,djuno
-dubmau	$x_1$ zmadu $x_2$ lo kamdu'o $x_3$		lujvo		dubmau			du,zmadu
-dubmaurai	$x_1$ traji lo ka dubmau kei $x_2$		lujvo					du,zmadu,traji
-dubme'a	$x_1$ mleca $x_2$ lo kamdu'o $x_3$		lujvo		dubme'a			du,mleca
-dubmecrai	$x_1$ traji lo ka dubme'a kei $x_2$		lujvo					du,mleca,traji
-dubyfa'i	$x_1$ facki lo du'u $x_2$ du $x_3$		lujvo					du,facki
-dubyfancu	$f_1$ fancu $f_2$ $f_3$ me'o ma'o fy.boi xy. du li xy.		lujvo					du,fancu
-dubyfrica	$x_1$ drata $x_2$	srana fa zo {drata} .e zo {dubdu'i}	lujvo					du,frica
-dubytolrai	$x_1$ dubmau naku su'o pa cmima be $x_2$		lujvo					du,to'e,traji
-dudyxe'o	$x_1$ xendo $x_2$ lo nu $x_1$ dunda $x_3$ $x_2$		lujvo					dunda,xendo
-du'edji	$x_1$ dukse lo ka ce'u djica $x_2$ $x_3$ kei $x_4$		lujvo					dukse,djica
-dumdu'o	$x_1$ du'u $x_2$ du makau		lujvo					du'u,du
-dunkanpe	da de poi ca ke'a da $x_2$ ckaji zo'u $x_1$ kanpe lo du'u lo ckaji be $x_2$ bei ca de dubdu'i da kei $x_3$		lujvo					dunli,kanpe
-dusfri	$x_1$ lifri $x_2$ noi dukse $x_3$ boi $x_4$	{dukse} {lifri}; {be'unai}	lujvo					dukse,lifri
-dusxasnybi'a	$x_1$ bilma lo dusxasnyselbi'a $x_2$ .i va'i $x_1$ bilma lo ka ce'u se xasne du'e da kei $x_2$		lujvo					dukse,xasne,bilma
-dusxasnyselbi'a	$x_1$ se bilma $x_2$ $x_3$ gi'e ka ce'u se xasne du'e da		lujvo					dukse,xasne,se,bilma
-dutkai	$x_1$ ckaji lo dukti be $x_2$ bei $x_3$		lujvo					dukti,ckaji
-dutse'i	$x_1$ sefsi lo ka ce'u ce'u dukti $x_2$	{dukti}; {sefsi}	lujvo					dukti,sevzi
-dutsi'u	$x_1$ simxu lo ka ce'u ce'u dukti $x_2$	{dukti}; {simxu}	lujvo					dukti,simxu
-dzaze'a	lo ka ce'u kaidza $x_1$ cu zilzena $x_2$	srana fa zo {kaidza} .e zo {zilzena} .e zo {memze'a}	lujvo					da,zenba
-dzibirka	$x_1$ dizlo pagbu be lo birka be $x_2$ gi'e te sepli lo bircidni lo xancidni	{dizlo}; {pagbu}; {birka}; {sepli}; {bircidni}; {xancidni}	lujvo					dizlo,birka
-dzigau	$x_1$ gasnu lonu $x_2$ dizlo $x_3$ $x_4$		lujvo					dizlo,gasnu
-dzitu'e	$x_1$ dizlo pagbu be lo tuple be $x_2$ gi'e te sepli lo tupcidni lo jmacidni	{dizlo}; {pagbu}; {tuple}; {sepli}; {tupcidni}; {jmacidni}	lujvo					dizlo,tuple
-fasybau	$x_1$ bangu $x_2$ fi $x_3$ gi'e se cmene zo .fransez. gi'e jai se krasi tu'a lo fasygu'e	srana fa zo {bangu} .e zo {fraso}	lujvo					fraso,bangu
-faumlu	$x_1$ simlu fi $x_2$ fe lo ka fasnu		lujvo					fasnu,simlu
-faurbanzu	$x_1$ banzu lo ka fasnu ku $x_2$		lujvo					fasnu,banzu
-faurdu'e	$x_1$ dukse lo ka fasnu ku $x_2$	srana fa zo banzuni	lujvo					fasnu,dukse
-faurmidju	$x_1$ midju $x_2$ noi fasnu	selsmudu'i fa zo {farmiju} .i srana fa zo {fasnu} .e zo {midju} .e zo {ca'o}	lujvo		faurmidju		ca'o	fasnu,midju
-faurnu'o	$x_1$ nu'o fasnu		lujvo					fasnu,nu'o
-faursutra	$f_1$=$s_1$ sutra lo ka fasnu		lujvo					fasnu,sutra
-faurtei	$x_1$ fasnu ca $x_2$ poi ke'a temci $x_3$ $x_4$	zbasu fi zo fasnu ce'o zo temci	lujvo					fasnu,temci
-faurza'o	$x_1$ za'o fasnu	zo {za'orfau} mitsmuvla zo faurza'o	lujvo					fasnu,za'o
-fausno	$f_1$=$s_1$ masno lo ka fasnu		lujvo					fasnu,masno
-fauxlu	$x_1$ xlura $x_2$ lo ka fasnu ku $x_3$	srana fa zo {xlura}	lujvo					fasnu,xlura
-faxpikci	$x_1$ pikci $x_2$ lo nu vo'e vo'a fraxu $x_3$		lujvo					fraxu,pikci
-fazgau	$g_1$ gasnu $f_1$ poi ke'a fanza $f_2$	.e'u ko zgana tu'a zo {fanza} .e zo {gasnu}	lujvo					fanza,gasnu
-febysutra	$x_1$ sutra lo ka febvi	{febvi}; {sutra}	lujvo					febvi,sutra
-feglyzvi	$x_1$ zviki $x_2$ noi fegli ku'o $x_3$		lujvo					fegli,zviki
-fegygau	gau $x_1$ boi $x_2$ fengu $x_3$ boi $x_4$		lujvo					fengu,gasnu
-fegyselra'u	$x_1$ se raktu lonu $x_2$ fengu vo'a $x_3$ kei $x_4$		lujvo					fengu,se,raktu
-festoknu	$t_1$ toknu $t_2$=$f_1$ poi ke'a loi festi		lujvo					festi,toknu
-fesydakli	$d_1$ dakli $d_2$=$f_1$ po'u loi festi ge'u $d_3$		lujvo					festi,dakli
-fetfamti	$fa_1$=$fe_1$ famti $fa_2$ $fa_3$ gi'e fetsi	.e'u ko tcitu tu'a zo {nakfamti} .e zo {famti} .e zo {fetsi}	lujvo					fetsi,famti
-fickanpe	da de poi ca ke'a da $x_2$ ckaji zo'u $x_1$ kanpe lo du'u lo ckaji be $x_2$ bei ca de dubyfrica da kei $x_3$	srana fa zo {dunkanpe} .e zo {zmakanpe} .e zo {meckanpe}	lujvo					frica,kanpe
-fikcku	$cu_1$ cukta $cu_2$=$cf_1$ po'u lo cfika ge'u $cu_3$ $cu_4$ $cu_5$		lujvo					cfika,cukta
-filjvo	$l_1$ lujvo $l_2$ poi lo nu ke'a smuni vo'a lo'e jbopre cu frili lo'e jbopre $f_3$ ku'o $l_3$ boi $l_4$		lujvo					frili,lujvo
-filrai	$x_1$ traji fo $x_2$ fe lo ka frili		lujvo					frili,traji
-filseltro	lonu $x1$ se jitro $x2$ $x3$ cu frili $x2$ $x4$		lujvo					frili,se,jitro
-filzai	$x_1$ cmalu zarci lo vrici no'u mu'a $x_2$ ge'u $x_3$	{frili} {zarci}	lujvo		filzai			frili,zarci
-fingubni	ge $x_1$ menctigubni gi ro da se krali lo ka ce'u su'o da finti fo $x_1$ gi'e menctigubgau	zo {finti} zo {gubni} zo {mencti} zo {krali} zo {finkrali}	lujvo					finti,gubni
-finkai	$c_1$ ckaji lo ka finti		lujvo					finti,ckaji
-fi'ortu'a	$x_1$ po'u la .afrikas. cu braplu lo terdi gi'e krasi lo remna		lujvo					friko,tumla
+dakyba'e	$b_1$ balre $b_2$=$d_1$ po'u lo dakfu		lujvo					dakfu;balre
+dakyxa'i	$x_1$ xarci $x_2$ $x_3$ gi'e dakfu $x_2$ $x_4$	zbasu fi zo {dakfu} ce'o zo {xarci}	lujvo					dakfu;xarci
+dalma'e	$x_1$ danlu $x_2$ gi'e marce $x_3$ boi $x_4$ zu'i .i $x_3$ jitro $x_1$ lo ka klama	srana fa zo {danlu} .e zo {marce} .e zo {jitro} .e zo {klama}	lujvo					danlu;marce
+dalpe'o	$x_1$ pendo je se kurji $x_2$ gi'e danlu $x_3$		lujvo					danlu;pendo
+daltsi	tsiju fa $x_1$ fe $x_2$ fi $x_3$ noi danlu $x_4$		lujvo					danlu;tsiju
+dapsku	$c_1$=$d_1$ po'u lo gasnu cu cusku $c_2$ $c_3$=$d_3$ $c_4$ ja'e lo nu lo no'a ku lo se no'a ku dapma $d_3$		lujvo					dapma;cusku
+drazu'e	$x_1$ zukte $x_2$ noi ke'a drani; .i $x_1$ zukte lo drani		lujvo		drazu'e			drani;zukte
+dribi'a	$x_1$ bilma lo ka ce'u badri		lujvo		dribi'a			badri;bilma
+drotabno	$x_1$ marji ke po'o lo cidro ja lo tabno		lujvo					cidro;tabno
+dubdu'i	$x_1$ mintu $x_2$	srana fa zo {mintu} .e zo {dubyfrica}	lujvo					du;dunli
+dubji'isre	$x_1$ srera lo ka ce'u jinvi lo du'u $x_2$ du $x_3$		lujvo		dubji'isre			du;jinvi;srera
+dubju'o	$x_1$ djuno lo du'u $x_2$ du ma kau kei zi'o $x_3$		lujvo		dubju'o			du;djuno
+dubmau	$x_1$ zmadu $x_2$ lo kamdu'o $x_3$		lujvo		dubmau			du;zmadu
+dubmaurai	$x_1$ traji lo ka dubmau kei $x_2$		lujvo					du;zmadu;traji
+dubme'a	$x_1$ mleca $x_2$ lo kamdu'o $x_3$		lujvo		dubme'a			du;mleca
+dubmecrai	$x_1$ traji lo ka dubme'a kei $x_2$		lujvo					du;mleca;traji
+dubyfa'i	$x_1$ facki lo du'u $x_2$ du $x_3$		lujvo					du;facki
+dubyfancu	$f_1$ fancu $f_2$ $f_3$ me'o ma'o fy.boi xy. du li xy.		lujvo					du;fancu
+dubyfrica	$x_1$ drata $x_2$	srana fa zo {drata} .e zo {dubdu'i}	lujvo					du;frica
+dubytolrai	$x_1$ dubmau naku su'o pa cmima be $x_2$		lujvo					du;to'e;traji
+dudyxe'o	$x_1$ xendo $x_2$ lo nu $x_1$ dunda $x_3$ $x_2$		lujvo					dunda;xendo
+du'edji	$x_1$ dukse lo ka ce'u djica $x_2$ $x_3$ kei $x_4$		lujvo					dukse;djica
+dumdu'o	$x_1$ du'u $x_2$ du makau		lujvo					du'u;du
+dunkanpe	da de poi ca ke'a da $x_2$ ckaji zo'u $x_1$ kanpe lo du'u lo ckaji be $x_2$ bei ca de dubdu'i da kei $x_3$		lujvo					dunli;kanpe
+dusfri	$x_1$ lifri $x_2$ noi dukse $x_3$ boi $x_4$	{dukse} {lifri}; {be'unai}	lujvo					dukse;lifri
+dusxasnybi'a	$x_1$ bilma lo dusxasnyselbi'a $x_2$ .i va'i $x_1$ bilma lo ka ce'u se xasne du'e da kei $x_2$		lujvo					dukse;xasne;bilma
+dusxasnyselbi'a	$x_1$ se bilma $x_2$ $x_3$ gi'e ka ce'u se xasne du'e da		lujvo					dukse;xasne;se;bilma
+dutkai	$x_1$ ckaji lo dukti be $x_2$ bei $x_3$		lujvo					dukti;ckaji
+dutse'i	$x_1$ sefsi lo ka ce'u ce'u dukti $x_2$	{dukti}; {sefsi}	lujvo					dukti;sevzi
+dutsi'u	$x_1$ simxu lo ka ce'u ce'u dukti $x_2$	{dukti}; {simxu}	lujvo					dukti;simxu
+dzaze'a	lo ka ce'u kaidza $x_1$ cu zilzena $x_2$	srana fa zo {kaidza} .e zo {zilzena} .e zo {memze'a}	lujvo					da;zenba
+dzibirka	$x_1$ dizlo pagbu be lo birka be $x_2$ gi'e te sepli lo bircidni lo xancidni	{dizlo}; {pagbu}; {birka}; {sepli}; {bircidni}; {xancidni}	lujvo					dizlo;birka
+dzigau	$x_1$ gasnu lonu $x_2$ dizlo $x_3$ $x_4$		lujvo					dizlo;gasnu
+dzitu'e	$x_1$ dizlo pagbu be lo tuple be $x_2$ gi'e te sepli lo tupcidni lo jmacidni	{dizlo}; {pagbu}; {tuple}; {sepli}; {tupcidni}; {jmacidni}	lujvo					dizlo;tuple
+fasybau	$x_1$ bangu $x_2$ fi $x_3$ gi'e se cmene zo .fransez. gi'e jai se krasi tu'a lo fasygu'e	srana fa zo {bangu} .e zo {fraso}	lujvo					fraso;bangu
+faumlu	$x_1$ simlu fi $x_2$ fe lo ka fasnu		lujvo					fasnu;simlu
+faurbanzu	$x_1$ banzu lo ka fasnu ku $x_2$		lujvo					fasnu;banzu
+faurdu'e	$x_1$ dukse lo ka fasnu ku $x_2$	srana fa zo banzuni	lujvo					fasnu;dukse
+faurmidju	$x_1$ midju $x_2$ noi fasnu	selsmudu'i fa zo {farmiju} .i srana fa zo {fasnu} .e zo {midju} .e zo {ca'o}	lujvo		faurmidju		ca'o	fasnu;midju
+faurnu'o	$x_1$ nu'o fasnu		lujvo					fasnu;nu'o
+faursutra	$f_1$=$s_1$ sutra lo ka fasnu		lujvo					fasnu;sutra
+faurtei	$x_1$ fasnu ca $x_2$ poi ke'a temci $x_3$ $x_4$	zbasu fi zo fasnu ce'o zo temci	lujvo					fasnu;temci
+faurza'o	$x_1$ za'o fasnu	zo {za'orfau} mitsmuvla zo faurza'o	lujvo					fasnu;za'o
+fausno	$f_1$=$s_1$ masno lo ka fasnu		lujvo					fasnu;masno
+fauxlu	$x_1$ xlura $x_2$ lo ka fasnu ku $x_3$	srana fa zo {xlura}	lujvo					fasnu;xlura
+faxpikci	$x_1$ pikci $x_2$ lo nu vo'e vo'a fraxu $x_3$		lujvo					fraxu;pikci
+fazgau	$g_1$ gasnu $f_1$ poi ke'a fanza $f_2$	.e'u ko zgana tu'a zo {fanza} .e zo {gasnu}	lujvo					fanza;gasnu
+febysutra	$x_1$ sutra lo ka febvi	{febvi}; {sutra}	lujvo					febvi;sutra
+feglyzvi	$x_1$ zviki $x_2$ noi fegli ku'o $x_3$		lujvo					fegli;zviki
+fegygau	gau $x_1$ boi $x_2$ fengu $x_3$ boi $x_4$		lujvo					fengu;gasnu
+fegyselra'u	$x_1$ se raktu lonu $x_2$ fengu vo'a $x_3$ kei $x_4$		lujvo					fengu;se;raktu
+festoknu	$t_1$ toknu $t_2$=$f_1$ poi ke'a loi festi		lujvo					festi;toknu
+fesydakli	$d_1$ dakli $d_2$=$f_1$ po'u loi festi ge'u $d_3$		lujvo					festi;dakli
+fetfamti	$fa_1$=$fe_1$ famti $fa_2$ $fa_3$ gi'e fetsi	.e'u ko tcitu tu'a zo {nakfamti} .e zo {famti} .e zo {fetsi}	lujvo					fetsi;famti
+fickanpe	da de poi ca ke'a da $x_2$ ckaji zo'u $x_1$ kanpe lo du'u lo ckaji be $x_2$ bei ca de dubyfrica da kei $x_3$	srana fa zo {dunkanpe} .e zo {zmakanpe} .e zo {meckanpe}	lujvo					frica;kanpe
+fikcku	$cu_1$ cukta $cu_2$=$cf_1$ po'u lo cfika ge'u $cu_3$ $cu_4$ $cu_5$		lujvo					cfika;cukta
+filjvo	$l_1$ lujvo $l_2$ poi lo nu ke'a smuni vo'a lo'e jbopre cu frili lo'e jbopre $f_3$ ku'o $l_3$ boi $l_4$		lujvo					frili;lujvo
+filrai	$x_1$ traji fo $x_2$ fe lo ka frili		lujvo					frili;traji
+filseltro	lonu $x1$ se jitro $x2$ $x3$ cu frili $x2$ $x4$		lujvo					frili;se;jitro
+filzai	$x_1$ cmalu zarci lo vrici no'u mu'a $x_2$ ge'u $x_3$	{frili} {zarci}	lujvo		filzai			frili;zarci
+fingubni	ge $x_1$ menctigubni gi ro da se krali lo ka ce'u su'o da finti fo $x_1$ gi'e menctigubgau	zo {finti} zo {gubni} zo {mencti} zo {krali} zo {finkrali}	lujvo					finti;gubni
+finkai	$c_1$ ckaji lo ka finti		lujvo					finti;ckaji
+fi'ortu'a	$x_1$ po'u la .afrikas. cu braplu lo terdi gi'e krasi lo remna		lujvo					friko;tumla
 cu'a zei fancu	$f_1$ fancu $f_2$ $f_3$ me'o ma'o fy.boi xy. du li cu'a xy.		zei-lujvo
 cu'alvu'u	$x_1$ cu'alni le vujnu be $x_2$ bei $x_3$		fu'ivla			cu'alvu'u
 cu'uxna	$x_1$ sanji lo nu $x_1$ ka'e ckini ro $x_3$ fi $x_4$ ku gi'e ca bo zukte lo ka ckini $x_2$ noi me $x_3$ ku'o $x_4$	srana fa zo {cuxna}	fu'ivla			cu'uxna
@@ -702,21 +702,21 @@ djalazani	$x_1$ sanmi lo so'i senta be lo pinta cidjyrpasta be'o jo'u lo sanso j
 djamila	$x_1$ melbi $x_2$ lo ka fasnu .a lo ka zasti .a lo ka fatci .i $x_1$ nu su'o da $x_2$ su'o de melbi .i $x_1$ melbi $x_2$ zi'o .i zi'o $x_2$ melbi lo se nundumu be $x_1$ .i ge lo si'o melbi cu faubri $x_1$ gi lo te brifau be lo si'o melbi bei $x_1$ cu poi'i lo pormoi be li pa bei ke'a cu melbi $x_2$ je'oi mintu lo pormoi be li re bei ke'a ku'o lo pormoi be li ci bei ke'a	zo {melbi} .i zo {brifau}	fu'ivla			djamila
 djirafa	$x_1$ galcla je claselne'o je selba'a rapmarxa mabru $x_2$ noi jutsi la'o jutsi Giraffa camelopardalis jutsi	{rapmarxa}; {mabru}; {jutsi}; {lanme}; {bakni}; {kumte}; {mirli}; {kanba}	fu'ivla			djirafa
 do'a nai	tcita le se cusku le du'u la'e ri mutce ja traji fi le ka mleca	{do'a} {nai}	cmavo-compound	UI*
-dormijbalvi	$ko'a$ balvi lo midju be lo donri be $ko'e$ bei $ko'i$	{donri} {midju} {balvi}	lujvo					donri,midju,balvi
-dracyka'i	$x1$ krati $x2$ lonu $x3$ draci fu $x1$		lujvo					draci,krati
+dormijbalvi	$ko'a$ balvi lo midju be lo donri be $ko'e$ bei $ko'i$	{donri} {midju} {balvi}	lujvo					donri;midju;balvi
+dracyka'i	$x1$ krati $x2$ lonu $x3$ draci fu $x1$		lujvo					draci;krati
 doitclan	cmene lo gugdedu'e		cmevla
 do'au	lo poi'i do zifre lo ka jdice lo du'u ma kau me ke'a	.i simsa zo {nau'o}	experimental cmavo	KOhA7
 doi nai	tcita lo cmene ja ve skicu lo du'u sinxa lo du'u makau ba'e *na* te cusku	se smuni lo natfe be tau'e zo {doi} .i na gendra ma'i lo catni gerna .i gendra ma'i lo cipra gerna	cmavo-compound
-donta'a	$x_1$ tavla lo nau (to lerci nu snigau toi) se tavla be lo cusku be dei (to lerci nu snigau toi) fi $x_2$ fo $x_3$	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					do,tavla
-dorlunra	$x_1$ lunra $x_2$ fi'o te jvinu $x_3$ noi te donri		lujvo					donri,lunra
-dracycku	$c_1$ cukta $c_2$=$d_1$ po'u lo draci ge'u $c_3$ $c_4$ $c_5$		lujvo					draci,cukta
+donta'a	$x_1$ tavla lo nau (to lerci nu snigau toi) se tavla be lo cusku be dei (to lerci nu snigau toi) fi $x_2$ fo $x_3$	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					do;tavla
+dorlunra	$x_1$ lunra $x_2$ fi'o te jvinu $x_3$ noi te donri		lujvo					donri;lunra
+dracycku	$c_1$ cukta $c_2$=$d_1$ po'u lo draci ge'u $c_3$ $c_4$ $c_5$		lujvo					draci;cukta
 de'i'u	fi'o {jefydeidetri}	.i srana zo {jefydeidetri} .e zo {de'i} .e zo {de'i'a} .e zo {de'i'e} .e zo {de'i'i} .e zo {de'i'o}	experimental cmavo	BAI
 denpa bu	lu denpa bu li'u bu'ivla zoi ly...ly.		bu-letteral	BY*
-derdebmatne	$m_1$ matne $m_2$ noi derdembi		lujvo					dertu,dembi,matne
-detcacryvu'u	lo cabna goi cy zo'u: lo cacra be $x_1$ cu vujnu lo detri be cy bei $x_2$ lo detri be cy bei $x_3$		lujvo					detri,cacra,vujnu
-dibmle	$x_1$ melbi $x_2$ boi $x_3$ ta'i lo mukti be lo nu $x_2$ cinmo lo ka $x_1$ dirba ce'u		lujvo					dirba,melbi
-dicnoibejga'a	$x_1$ grana gi'e zilfi'i tu'a lo nu dicnoibe'i		lujvo					dikca,notci,benji,grana
-dijbartu	$b_1$ bartu $b_2$=$d_1$ po'u lo dinju	.e'u ko tcidu tu'a zo {roldzadijbartu}	lujvo					dinju,bartu
+derdebmatne	$m_1$ matne $m_2$ noi derdembi		lujvo					dertu;dembi;matne
+detcacryvu'u	lo cabna goi cy zo'u: lo cacra be $x_1$ cu vujnu lo detri be cy bei $x_2$ lo detri be cy bei $x_3$		lujvo					detri;cacra;vujnu
+dibmle	$x_1$ melbi $x_2$ boi $x_3$ ta'i lo mukti be lo nu $x_2$ cinmo lo ka $x_1$ dirba ce'u		lujvo					dirba;melbi
+dicnoibejga'a	$x_1$ grana gi'e zilfi'i tu'a lo nu dicnoibe'i		lujvo					dikca;notci;benji;grana
+dijbartu	$b_1$ bartu $b_2$=$d_1$ po'u lo dinju	.e'u ko tcidu tu'a zo {roldzadijbartu}	lujvo					dinju;bartu
 densekazu	$x_1$ di'i zukte $x_2$ lo nu $x_1$ de'a nonseka $x_3$	srana fa zo {zukte} .e zo {nonseka} .e zo {dikni} .e zo {kansa} .e zo {penmi} .e zo {xruti}	fu'ivla		densekazu	densekazu
 du'inxo	lo ro temymupli be $x_1$ cu poi'i: ge $x_2$ me ke'a, gi ri'a su'o da ca'au goi ko'a zo'u: co'u zasti fa ke'a poi ke'a se co'a ko'a zasti ku'o, gi'e ba bo zasti co'a ku je fau bo se co'u ko'a fa $x_2$	sa'e nai sai si'o $x_1$ co'a du $x_2$ .i srana fa zo {binxo} je zo .{inxo} je zo {temymupli} je zo {ca'au} je zo {zasti} je zo {ka'inxo} je zo {kaicfa}	fu'ivla			du'inxo
 dukseni	$x_1$ banzuni lo nu $x_2$ narfau		fu'ivla			dukseni
@@ -767,19 +767,19 @@ fai	tcita le se li'erla'i sumti le du'u ri sumti fi lo na'e namcu	{jai}	cmavo	FA
 fa'o	fanmo le se cusku .i na pagbu le fadni gerna	{selsku} {fanmo}	cmavo	FAhO	fa'o
 eksyplini	$x_1$ plini na'e bo lo se plini be la terdi	srana fa zo {plini} .e zo {solri} .e zo {tarci} .e zo {ekso} .e zo {ciste}	lujvo		eksyplini			eksyplini
 endyspa	$x_1$ spati $x_2$ gi'e jmive ne'i su'o spati	srana fa zo {endo} .e zo {ekso} .e zo {spati} .e zo {parbi}	lujvo		endyspa			endyspa
-facfau	$x_1$ fasnu gi'e se facmu'e		lujvo					fatci,fasnu
-facmu'e	$x_1$ munje $x_2$ noi me ro da poi fatci ku po'o ku'o $x_3$		lujvo					fatci,munje
-facyza'i	$x_1$ zasti lo facmu'e		lujvo					fatci,zasti
-fadnysau	$x_1$ ba'o co'a fadni fi lo pu'i se zgana be $x_2$ .i $x_2$ ba'o co'u frati fi $x_1$ fe lo se frati be ca lo nu $x_1$ cnino $x_2$	srana fa zo {slabu} je zo {fadni} je zo {tcaci} je zo {frati}	lujvo					fadni,slabu
-fakli'u	$x_1$ litru $x_2$ tezu'e lonu $x_1$ facki $x_3$ boi $x_2$ kei $x_4$		lujvo					facki,litru
-faktumli'u	$x_1$ litru $x_2$ noi ke'a tumla ku'o $x_3$ gi'e facki $x_4$	{facki} {tumla} {litru}	lujvo		faktumli'u			facki,tumla,litru
-falri'a	$r_1$ po'u lo fasnu cu rinka lo nu $f_1$ $f_2$ $f_3$ $f_4$ farlu kei $r_3$		lujvo					farlu,rinka
-famgau	$x_1$ gasnu lo fanmo be $x_2$	srana fa zo {fanmo} .e zo {gasnu} .e zo {stima} .e zo {tolcfagau}	lujvo		famgau			fanmo,gasnu
-fampi'i	$x_1$ pilji li pa li re li ci li'o $x_2$ .ije $x_2$ fanmo le selpi'i porsi .i $x_1$ nu'a ne'o $x_2$	{fanmo} {pilji}; {ne'o}	lujvo		fampi'i			fanmo,pilji
-famyma'o	$x_1$ cmavo tu'a $x_1$ le du'u $x_1$ fanmo lo se krasi be lo cmavo be $x_2$ kei $x_3$	{fanmo} {cmavo}; {be'o}; {boi}; {do'u}; {fe'u}; {foi}; {fu'o}; {ge'u}; {ke'e}; {kei}; {ku}; {ku'e}; {ku'o}; {le'u}; {li'u}; {lo'o}; {lu'u}; {me'u}; {nu'u}; {se'u}; {te'u}; {toi}; {tu'u}; {vau}; {ve'o}	lujvo		famyma'o			fanmo,cmavo
-fangynavni	$x_1$ navni lo ratni be li mu vo	{fange} {navni}; {ratni}	lujvo					fange,navni
-fardukti	$x_1$ dukti le farna be $x_2$ bei $x_3$ le ka ce'u farna makau makau	{farna} {dukti}	lujvo		fardukti		to'o	farna,dukti
-farstika	$x_1$ stika $x_2$ lo ka ma kau farna ce'u	{farna}; {stika}	lujvo					farna,stika
+facfau	$x_1$ fasnu gi'e se facmu'e		lujvo					fatci;fasnu
+facmu'e	$x_1$ munje $x_2$ noi me ro da poi fatci ku po'o ku'o $x_3$		lujvo					fatci;munje
+facyza'i	$x_1$ zasti lo facmu'e		lujvo					fatci;zasti
+fadnysau	$x_1$ ba'o co'a fadni fi lo pu'i se zgana be $x_2$ .i $x_2$ ba'o co'u frati fi $x_1$ fe lo se frati be ca lo nu $x_1$ cnino $x_2$	srana fa zo {slabu} je zo {fadni} je zo {tcaci} je zo {frati}	lujvo					fadni;slabu
+fakli'u	$x_1$ litru $x_2$ tezu'e lonu $x_1$ facki $x_3$ boi $x_2$ kei $x_4$		lujvo					facki;litru
+faktumli'u	$x_1$ litru $x_2$ noi ke'a tumla ku'o $x_3$ gi'e facki $x_4$	{facki} {tumla} {litru}	lujvo		faktumli'u			facki;tumla;litru
+falri'a	$r_1$ po'u lo fasnu cu rinka lo nu $f_1$ $f_2$ $f_3$ $f_4$ farlu kei $r_3$		lujvo					farlu;rinka
+famgau	$x_1$ gasnu lo fanmo be $x_2$	srana fa zo {fanmo} .e zo {gasnu} .e zo {stima} .e zo {tolcfagau}	lujvo		famgau			fanmo;gasnu
+fampi'i	$x_1$ pilji li pa li re li ci li'o $x_2$ .ije $x_2$ fanmo le selpi'i porsi .i $x_1$ nu'a ne'o $x_2$	{fanmo} {pilji}; {ne'o}	lujvo		fampi'i			fanmo;pilji
+famyma'o	$x_1$ cmavo tu'a $x_1$ le du'u $x_1$ fanmo lo se krasi be lo cmavo be $x_2$ kei $x_3$	{fanmo} {cmavo}; {be'o}; {boi}; {do'u}; {fe'u}; {foi}; {fu'o}; {ge'u}; {ke'e}; {kei}; {ku}; {ku'e}; {ku'o}; {le'u}; {li'u}; {lo'o}; {lu'u}; {me'u}; {nu'u}; {se'u}; {te'u}; {toi}; {tu'u}; {vau}; {ve'o}	lujvo		famyma'o			fanmo;cmavo
+fangynavni	$x_1$ navni lo ratni be li mu vo	{fange} {navni}; {ratni}	lujvo					fange;navni
+fardukti	$x_1$ dukti le farna be $x_2$ bei $x_3$ le ka ce'u farna makau makau	{farna} {dukti}	lujvo		fardukti		to'o	farna;dukti
+farstika	$x_1$ stika $x_2$ lo ka ma kau farna ce'u	{farna}; {stika}	lujvo					farna;stika
 e'ende	$x_1$ koinde $x_2$ boi $x_3$ fau lo nu $x_1$ zukte lo ka ce'u cusku kei lo mukti be lo nu $x_2$ co'a ja ca'o ckaji $x_3$ be'o ja lo nu $x_2$ darsi ja troci ja zukte $x_3$	{e'e}	fu'ivla		e'ende	e'ende
 eilga	zi'o bilga $x_1$ $x_2$ .i va'i ei $x_1$ jetnu ja fasnu		fu'ivla			eilga
 e'inde	$x_1$ minde $x_2$ boi $x_3$ .i $x_1$ koinde $x_2$ boi $x_3$ gi'e ja'e bo gasnu lo nu $x_2$ rinju lo ka ce'u bilga $x_3$ gi'a cinmo lo ka ce'u bilga $x_3$	{e'i}	fu'ivla		e'inde	e'inde
@@ -881,49 +881,49 @@ bavza	$x_1$ fasnu ba za $x_2$ .i $x_1$ fasnu ki $x_3$ ba za $x_2$	zo {ba} zo {za
 besto	$x_1$ fu'e pe'a dunda lo pastu be lo cilro'i be'o po'u $x_2$ te zu'e lo nu py bandu fi $x_3$ noi fagri $x_4$ noi selsnu ku'o gau $x_5$ fu'o noi to'e tugni tu'a $x_6$ noi mriselsku ku'o ki'u $x_7$ je cu na'e sanji lo du'u my cu se mrilu ai da'oi zi'o fi $x_8$ je nai ro se mriste be $x_9$ to fau lo nu cuxycau kei cei broda $x_9$ du la jboste toi noi jai xe be'i my noi'a te spuda $x_{10}$ noi samselmri fo da poi djica lo nu $x_{11}$ noi selma'o to fau lo broda $x_{11}$ du ma'oi se toi cu se cmima lo za'u no'o mei te zu'e lo nu sy ka'e jai se pi'o skicu tu'a $x_{12}$ noi tersu'i $x_{13}$ noi brivla to fau lo broda $x_{13}$ du zo besto toi je cu sinxa de poi bridi fi $x_{14}$ je cu se sumti du'e di mu'i $x_{15}$ noi uu'i zei selcni $x_{16}$ noi ji'a pu finti $x_{17}$ noi brivla je cu sinxa lo bridi be fi $x_{18}$ ku'o je ja'e bo cu du'e roi pilno $x_{19}$ noi cmavo to fau lo broda $x_{19}$ du zo zi'o toi ku'o te zu'e lo nu $x_{13}$ zenba lo ka ce'u plixau fi'o dardu $x_{20}$ kei kei je cu djica lo ka ce'u no roi facki fi zo besto kei ki'u $x_{21}$ je cu na'e sanji ki'u $x_{22}$ lo du'u ranxi se stidi mu'i $x_{23}$ noi nu zdicaudri fa $x_{24}$ noi stidi tu'a zo besto to'e ki'u nai tu'a $x_{25}$ noi xagmau se jinvi lu'u mu'i lo nu zdile fi'o dardu $x_{26}$ kei je cu ku'i za'o djica lo nu zo besto cu dunli $x_{27}$ to fau lo broda $x_{27}$ du zo du toi lo ka xo kau da xi vo sumti la'e ce'u kei kei ki'u $x_{28}$ je cu co'i cinmo co aidji lo ka ce'u jmina $x_{29}$ noi junske tersu'i ku'o mu'i lo nu $x_{16}$ djuno ge lo du'u lo tergi'u be fi $x_{30}$ noi gismu to fau lo broda $x_{30}$ du zo besto toi cu jai se nibli $x_{31}$ noi ca'o zei jufra gi lo du'u lo junske tersu'i cu se pilno fi tu'a $x_{32}$ noi gismu ku'o ve du'o $x_{33}$ to'e ki'u nai lo du'u $x_{34}$ ka'e je'a pilno lo terbri be zo besto be'o po'u $x_{35}$ ga'o bi'i ga'o $x_{36}$ to fau lo broda $x_{35}$ fa'u $x_{36}$ du li pa fa'u $x_7$ toi ge'u je cu djica lo nu dei na'e tcetce clani je bebna xamselsku je cu clamau $x_{37}$ noi xamselsku ku'o je bo cu bebmau $x_{38}$ noi xamselsku ku'o je cu ku'i se i'onmo cei brode $x_{39}$ sei lo du'u brode kei $x_{40}$ fi'o jinvi $x_{41}$ cu nibli se'u je cu ku'i to'e sai zdile $x_{42}$ noi sanji lo du'u $x_{43}$ ka'e pilno zo besto ki'u $x_{45}$	xajmi gismu i claxu lo 44 moi tergi'u	experimental gismu			besto
 fizbu	$x_1$ ue'inmo $x_2$	.i {ue'inmo}	experimental gismu			fizbu
 fizde	$x_1$ ri'enai fu'inai denpa je fizbu $x_2$	.i srana zo {fizbu}	experimental gismu			fizde
-ba'apra	$x_1$ cupra lo barna be $x_2$ bei $x_3$ $x_4$	{barna}; {cupra}	lujvo					barna,cupra
-ba'armo'a	$x_1$ morna lo barna be $x_2$	{barna}; {morna}	lujvo					barna,morna
-babypalne	$p_1$ palne $p_2$ $p_3$ fi'o se tutci fe'u lo'e lo nu lo zbepi cu vreta		lujvo					zbabu,palne
-badgau	$x_1$ gasnu $x_2$ .i je $x_2$ bandu $x_3$ $x_4$	zbasu fi zo {bandu} ce'o zo {gasnu}	lujvo					bandu,gasnu
-badnygrute	$g_1$=$b_1$ $g_2$=$b_2$ grute gi'e badna	.e'u ko tcidu tu'a zo {badnyspa}	lujvo					badna,grute
-badnyspa	$s_1$=$b_1$ $s_2$=$b_2$ spati gi'e badna	.e'u ko tcidu tu'a zo {badnygrute}	lujvo					badna,spati
-badri'a	$x_1$ rinka lo nu $x_2$ badri	srana fa zo {badri} .e zo {rinka} .e zo {cinmo}	lujvo		badri'a			bandu,rinka
-badycau	$x_1$ claxu lo ka da bandu ke'a $x_2$	srana fa zo {bandu} .e zo {ckape}	lujvo					bandu,claxu
-badzga	jo'u gi $x_1$ zgana $x_2$ gi $x_1$ badzu'e $x_2$ fi $x_3$		lujvo					bandu,zgana
-bafcolkercrakre	$x_1$=$b_1$ bakfu lo kerfa be $x_2$=$kerf_2$=$kerl_2$=$c_3$ bei lo lamji be lo kerlo be $x_2$=$kerf_2$=$kerl_2$=$c_3$ be'o goi ko'a bei lo canlu be $x_2$=$kerf_2$=$kerl_2$=$c_3$ be'o bei lo crane be ko'a bei $x_2$=$kerf_2$=$kerl_2$=$c_3$ zi'o	{bakfu} {co} {kerlo} {crane} {kerfa}	lujvo					bakfu,co,kerlo,crane,kerfa
-baigle	$x_1$ bapli lo nu $x_1$ gletu $x_2$		lujvo					bapli,gletu
-bajyjvi	$x_1$ jivna $x_2$ boi $x_3$ boi $x_4$ gi'e bajra $x_5$ boi $x_6$ boi $x_7$	{bajra} {jivna}	lujvo		bajyjvi			bajra,jivna
-bakcange	$x_1$ cange $x_2$ boi $x_3$ boi $x_4$ noi bakni		lujvo					bakni,cange
-bakrycedra	$x_1$ ra'oi .cretaceous. cedra		lujvo					bakri,cedra
-balcre	$x_1$ banli lo ka certu $x_2$ .i ro da poi jicmu $x_2$ zo'u $x_1$ mutce lo ka certu da		lujvo		balcre			banli,certu
-balzai	$x_1$ barda zarci lo vrici no'u mu'a $x_2$ ge'u $x_3$	{banli} {zarci}	lujvo		balzai			banli,zarci
-banbau	$x_1$ bangu $x_2$ $x_3$ poi ke'a bangu	.e'u ko tcidu la'e zo {bangu}	lujvo					bangu,bangu
-barbei	$x_1$ bevri $x_2$ boi $x_3$ noi bartu $x_4$ ku'o $x_4$ boi $x_5$	{bartu} {bevri}	lujvo					bartu,bevri
-barfa'u	$x_1$ farlu lo bartu be $x_2$ be'o lo nenri be $x_2$	srana fa zo {bartu} .e zo {farlu} .e {nerfa'u} .e zo {zvajuko} .e zo {zvafa'i} .e zo {nenri}	lujvo		barfa'u			bartu,farlu
-bargu'e	$x_1$ gugde gi'e bartu $x_2$ noi ke'a gugde	srana fa zo {gugde} .e zo {bartu} .e zo {datygugvi'e} .e zo {stuvi'e} .e zo {litru} .e zo {jbegu'e}	lujvo		bargu'e			bartu,gugde
-barkalri	$x_1$ kalri lo bartu be $x_2$ boi $x_3$	{bartu} {kalri}	lujvo					bartu,kalri
-barkla	$x_1$ klama lo bartu be $x_2$ boi $x_2$ boi $x_3$ boi $x_4$	{bartu} {klama}; {cliva}	lujvo					bartu,klama
-barku'e	$x_1$ kuspe le bartu be $x_2$	{bartu} {kuspe}	lujvo		barku'e			bartu,kuspe
-barli'a	$x_1$ cliva $x_2$ boi $x_3$ se ka'a lo bartu be $x_2$	{bartu} {cliva}	lujvo		barli'a			bartu,cliva
-basxarfri	$x_1$ lifri $x_2$ ta'i lo nu $x_1$ xarpei lo nu $x_1$ basti $x_3$ $x_2$		lujvo					basti,xanri,lifri
-basysi'u	$x_1$ simxu le ka ce'u ce'u basti $x_2$	{basti} {simxu}; {simbasti}	lujvo		basysi'u			basti,simxu
-batkakpa	$x_1$ kakpa $x_2$ $x_3$ $x_4$ gi'e batci $x_3$ $x_2$ $x_4$		lujvo					batci,kakpa
-batkyfoi	$x1$ foldi lo batke be $x1$ bei $x2$ bei $x3$		lujvo					batke,foldi
-baupla	$x_1$ platu $x_2$ noi bangu ku'o $x_3$		lujvo					bangu,platu
-bavlamdei	$x_1$ djefau gi'e se krasi lo nu lo cabdei cu tolcfa	srana fa zo {djefau} .e zo {cabdei} .e zo {prulamdei}	lujvo					balvi,lamji,djedi
-bavlamke'u	$x_1$ krefu gi'e lamji gi'e balvi vau $x_2$	{balvi}, {lamji}, {krefu}, {purlamke'u}, {bavlamdei}	lujvo					balvi,lamji,krefu
-bazysa'u	fa $x_1$ fe $x_2$ banzu gi'e sarcu	selsmudu'i zo {bazyjvesa'u} .i ji'a srana zo {banzu} .e zo {sarcu}	lujvo					banzu,sarcu
-berbi'e	$x_1$ brife $x_2$ noi ke'a berti ku'o $x_3$	{berti} {brife}	lujvo		berbi'e			berti,brife
+ba'apra	$x_1$ cupra lo barna be $x_2$ bei $x_3$ $x_4$	{barna}; {cupra}	lujvo					barna;cupra
+ba'armo'a	$x_1$ morna lo barna be $x_2$	{barna}; {morna}	lujvo					barna;morna
+babypalne	$p_1$ palne $p_2$ $p_3$ fi'o se tutci fe'u lo'e lo nu lo zbepi cu vreta		lujvo					zbabu;palne
+badgau	$x_1$ gasnu $x_2$ .i je $x_2$ bandu $x_3$ $x_4$	zbasu fi zo {bandu} ce'o zo {gasnu}	lujvo					bandu;gasnu
+badnygrute	$g_1$=$b_1$ $g_2$=$b_2$ grute gi'e badna	.e'u ko tcidu tu'a zo {badnyspa}	lujvo					badna;grute
+badnyspa	$s_1$=$b_1$ $s_2$=$b_2$ spati gi'e badna	.e'u ko tcidu tu'a zo {badnygrute}	lujvo					badna;spati
+badri'a	$x_1$ rinka lo nu $x_2$ badri	srana fa zo {badri} .e zo {rinka} .e zo {cinmo}	lujvo		badri'a			bandu;rinka
+badycau	$x_1$ claxu lo ka da bandu ke'a $x_2$	srana fa zo {bandu} .e zo {ckape}	lujvo					bandu;claxu
+badzga	jo'u gi $x_1$ zgana $x_2$ gi $x_1$ badzu'e $x_2$ fi $x_3$		lujvo					bandu;zgana
+bafcolkercrakre	$x_1$=$b_1$ bakfu lo kerfa be $x_2$=$kerf_2$=$kerl_2$=$c_3$ bei lo lamji be lo kerlo be $x_2$=$kerf_2$=$kerl_2$=$c_3$ be'o goi ko'a bei lo canlu be $x_2$=$kerf_2$=$kerl_2$=$c_3$ be'o bei lo crane be ko'a bei $x_2$=$kerf_2$=$kerl_2$=$c_3$ zi'o	{bakfu} {co} {kerlo} {crane} {kerfa}	lujvo					bakfu;co;kerlo;crane;kerfa
+baigle	$x_1$ bapli lo nu $x_1$ gletu $x_2$		lujvo					bapli;gletu
+bajyjvi	$x_1$ jivna $x_2$ boi $x_3$ boi $x_4$ gi'e bajra $x_5$ boi $x_6$ boi $x_7$	{bajra} {jivna}	lujvo		bajyjvi			bajra;jivna
+bakcange	$x_1$ cange $x_2$ boi $x_3$ boi $x_4$ noi bakni		lujvo					bakni;cange
+bakrycedra	$x_1$ ra'oi .cretaceous. cedra		lujvo					bakri;cedra
+balcre	$x_1$ banli lo ka certu $x_2$ .i ro da poi jicmu $x_2$ zo'u $x_1$ mutce lo ka certu da		lujvo		balcre			banli;certu
+balzai	$x_1$ barda zarci lo vrici no'u mu'a $x_2$ ge'u $x_3$	{banli} {zarci}	lujvo		balzai			banli;zarci
+banbau	$x_1$ bangu $x_2$ $x_3$ poi ke'a bangu	.e'u ko tcidu la'e zo {bangu}	lujvo					bangu;bangu
+barbei	$x_1$ bevri $x_2$ boi $x_3$ noi bartu $x_4$ ku'o $x_4$ boi $x_5$	{bartu} {bevri}	lujvo					bartu;bevri
+barfa'u	$x_1$ farlu lo bartu be $x_2$ be'o lo nenri be $x_2$	srana fa zo {bartu} .e zo {farlu} .e {nerfa'u} .e zo {zvajuko} .e zo {zvafa'i} .e zo {nenri}	lujvo		barfa'u			bartu;farlu
+bargu'e	$x_1$ gugde gi'e bartu $x_2$ noi ke'a gugde	srana fa zo {gugde} .e zo {bartu} .e zo {datygugvi'e} .e zo {stuvi'e} .e zo {litru} .e zo {jbegu'e}	lujvo		bargu'e			bartu;gugde
+barkalri	$x_1$ kalri lo bartu be $x_2$ boi $x_3$	{bartu} {kalri}	lujvo					bartu;kalri
+barkla	$x_1$ klama lo bartu be $x_2$ boi $x_2$ boi $x_3$ boi $x_4$	{bartu} {klama}; {cliva}	lujvo					bartu;klama
+barku'e	$x_1$ kuspe le bartu be $x_2$	{bartu} {kuspe}	lujvo		barku'e			bartu;kuspe
+barli'a	$x_1$ cliva $x_2$ boi $x_3$ se ka'a lo bartu be $x_2$	{bartu} {cliva}	lujvo		barli'a			bartu;cliva
+basxarfri	$x_1$ lifri $x_2$ ta'i lo nu $x_1$ xarpei lo nu $x_1$ basti $x_3$ $x_2$		lujvo					basti;xanri;lifri
+basysi'u	$x_1$ simxu le ka ce'u ce'u basti $x_2$	{basti} {simxu}; {simbasti}	lujvo		basysi'u			basti;simxu
+batkakpa	$x_1$ kakpa $x_2$ $x_3$ $x_4$ gi'e batci $x_3$ $x_2$ $x_4$		lujvo					batci;kakpa
+batkyfoi	$x1$ foldi lo batke be $x1$ bei $x2$ bei $x3$		lujvo					batke;foldi
+baupla	$x_1$ platu $x_2$ noi bangu ku'o $x_3$		lujvo					bangu;platu
+bavlamdei	$x_1$ djefau gi'e se krasi lo nu lo cabdei cu tolcfa	srana fa zo {djefau} .e zo {cabdei} .e zo {prulamdei}	lujvo					balvi;lamji;djedi
+bavlamke'u	$x_1$ krefu gi'e lamji gi'e balvi vau $x_2$	{balvi}, {lamji}, {krefu}, {purlamke'u}, {bavlamdei}	lujvo					balvi;lamji;krefu
+bazysa'u	fa $x_1$ fe $x_2$ banzu gi'e sarcu	selsmudu'i zo {bazyjvesa'u} .i ji'a srana zo {banzu} .e zo {sarcu}	lujvo					banzu;sarcu
+berbi'e	$x_1$ brife $x_2$ noi ke'a berti ku'o $x_3$	{berti} {brife}	lujvo		berbi'e			berti;brife
 batke zei uidje	$b_1$=$u_1$ $b_2$=$u_2$ uidje gi'e batke $b_3$ zi'o		zei-lujvo
 batxapa	$x_1$ xadypau $x_2$ gi'e poi'i ka'e ku $x_2$ fesli'a ke'a gi'e cupra su'o basti be ke'a	srana fa zo {xadypau} .e zo {fesli'a} .e zo {cupra} .e zo {basti}	fu'ivla			batxapa
 ba'u cu'i	tcita le se cusku le du'u la'e ri satci	{ba'u} {cu'i}; {satci}	cmavo-compound	UI*
 ba'u nai	tcita le se cusku le du'u la'e ri toldu'e	{ba'u} {nai}; {toldu'e}	cmavo-compound	UI*
-bausmu	$x_1$ te gerna $x_3$ gi'e se smuni $x_2$ fi $x_4$	srana fa zo {smuni}	lujvo					bangu,smuni
-bavmyckafi	$x_1$ ckafi lo bavmi be $x_2$	{bavmi} {ckafi}	lujvo		bavmyckafi			bavmi,ckafi
-bavykri	$x_1$ krici le du'u $x_2$ noi ke'a balvi le nu no'a cu fasnu	{balvi} {krici}; {ba'a}	lujvo		bavykri			balvi,krici
-baxseljibri	$x_1$ se jibri $x_2$ poi ke'a banxa $x_3$ boi $x_4$	{banxa} {se} {jibri}	lujvo					banxa,se,jibri
-bazroi	$x_1$ bazykai lo ka ze'a $x_2$ ce'u xo kau roi fasnu kei $x_3$		lujvo		bazroi			banzu,roi
-befloi	$x_1$ loldi lo betfu be $x_2$		lujvo					betfu,loldi
+bausmu	$x_1$ te gerna $x_3$ gi'e se smuni $x_2$ fi $x_4$	srana fa zo {smuni}	lujvo					bangu;smuni
+bavmyckafi	$x_1$ ckafi lo bavmi be $x_2$	{bavmi} {ckafi}	lujvo		bavmyckafi			bavmi;ckafi
+bavykri	$x_1$ krici le du'u $x_2$ noi ke'a balvi le nu no'a cu fasnu	{balvi} {krici}; {ba'a}	lujvo		bavykri			balvi;krici
+baxseljibri	$x_1$ se jibri $x_2$ poi ke'a banxa $x_3$ boi $x_4$	{banxa} {se} {jibri}	lujvo					banxa;se;jibri
+bazroi	$x_1$ bazykai lo ka ze'a $x_2$ ce'u xo kau roi fasnu kei $x_3$		lujvo		bazroi			banzu;roi
+befloi	$x_1$ loldi lo betfu be $x_2$		lujvo					betfu;loldi
 bebna'ive	$x_1$ se ja'e lo nu $x_1$ boi mo'a da pu'i lifri cu maldukse lo ka ce'u bredi lo ka ce'u krici lo se xusra be lo drata be $x_1$ kei kei gi'e ja'e bo zukte $x_2$	srana fa zo {bebna} .e zo {krici} .e zo {citno} .e zo {makcu}	fu'ivla		bebna'ive	bebna'ive
 berfilanoi	$x1$ srana lo munje pe lo panra be $x2$ noi bangu bei lo ka naldra $x3$		fu'ivla			berfilanoi
 bau'u	$x_1$ se bartu $x_2$ (to'i sumtcita toi)	lu «broda bau'u ko'a» li'u smudu'i lu «broda {xoi} ke'a {bartu} ko'a» li'u .i srana fa zo {ne'i} ji'a	experimental cmavo	FAhA
@@ -931,93 +931,93 @@ be'au	fi'o se banzu	{fi'o} {banzu}	experimental cmavo	BAI	be'au
 be'oi	lu fi'o broda fe'u be'oi ko'a li'u du lu fi'o broda be ko'a fe'u li'u	zo be cu krasi .i plixau lo nu tengau lo smuni be lo valsi pe mu'a ma'oi BAI	experimental cmavo	BEhOI
 be'u cu'i	tcita le se cusku le du'u la'e ri mansa	{be'u} {cu'i}; {mansa}	cmavo-compound	UI*
 be'u nai	tcita le se cusku le du'u la'e ri se dusfri	{be'u} {nai}; {dusfri}	cmavo-compound	UI*
-bicysakta	$x_1$ sakta $x_2$ poi lo bifce ku jajgau $x_1$ lo zdani be lo bifce ke'a ku'o $x_3$	{bifce} {sakta}	lujvo					bifce,sakta
-bidjycau	$x_1$ claxu lo ka ce'u se pagbu lo bidju	{claxu}; {pagbu}; {bidju}	lujvo					bidju,claxu
-bidjylinsi	$x_1$ linsi lo bidju be $x_2$ boi $x_3$ i ta'e lijda sinxa	{bidju} {linsi}	lujvo					bidju,linsi
-bigji'i	$x_1$ jinvi lo du'u $x_2$ bilga $x_3$ $x_4$		lujvo					bilga,jinvi
-bimvrogai	$x_1$ gacri $x_2$ poi vorme $x_3$ $x_4$ lo bitmu $x_3$ $x_4$ $x_5$		lujvo					bitmu,vorme,gacri
+bicysakta	$x_1$ sakta $x_2$ poi lo bifce ku jajgau $x_1$ lo zdani be lo bifce ke'a ku'o $x_3$	{bifce} {sakta}	lujvo					bifce;sakta
+bidjycau	$x_1$ claxu lo ka ce'u se pagbu lo bidju	{claxu}; {pagbu}; {bidju}	lujvo					bidju;claxu
+bidjylinsi	$x_1$ linsi lo bidju be $x_2$ boi $x_3$ i ta'e lijda sinxa	{bidju} {linsi}	lujvo					bidju;linsi
+bigji'i	$x_1$ jinvi lo du'u $x_2$ bilga $x_3$ $x_4$		lujvo					bilga;jinvi
+bimvrogai	$x_1$ gacri $x_2$ poi vorme $x_3$ $x_4$ lo bitmu $x_3$ $x_4$ $x_5$		lujvo					bitmu;vorme;gacri
 bi'ai	sumtcita lo ka ce'u ce'u se narfaunarcu'i		experimental cmavo	CAhA
 bi'ai ku	naku ka'eku naku		cmavo-compound
-bilske	$x_1$=$s_1$ saske lo si'o bilni ku $x_2$=$s_3$		lujvo					bilni,saske
-birjai	.i lo ka ce'u goi $x_1$ birjai ce'u goi $x_2$ ce'u goi $x_3$ cu ka ce'u goi $x_1$ jgari ce'u goi $x_3$ lo birka be $x_1$  ce'u goi $x_4$	.i .e'u do catlu zo'e pe zo {birka} .e zo {jgari} .e zo {pamjai} ji'a	lujvo					birka,jgari
-birjanco	$x_1$ janco lo birka be $x_2$	{birka}; {janco}; {tupyjanco}	lujvo					birka,janco
-birjunla	$x_1$ junla $x_2$ $x_3$ $x_4$ gi'e se dasni ru'u lo xancidni	{birka}, {junla}, {kanjunla}	lujvo					birka,junla
-birjybarja	$ba_1$ barja $ba_2$=$bi_1$ po'u loi birje ku $ba_3$		lujvo					birje,barja
-birke'a	$x_1$ kevna lo poi'i lo birka be $x_2$ lo birjanco be $x_2$ cu jorne	srana fa zo {birka} .e zo {janco} .e zo {kevna} .e zo {xadypau} .e zo {xadni}	lujvo		birke'a			birka,kevna
-birtu'ucaucreka	$cl_1$=$cr_1$ creka $cr_2$ gi'e birtu'ucau	.e'u ko tcidu tu'a zo {birtu'ucau} .e zo {creka}	lujvo					birka,tubnu,claxu,creka
-bislunsa	$x_1$ bisli gi'e lunsa $x_2$ boi $x_3$ boi $x_4$		lujvo					bisli,lunsa
-bisma'a	$x_1$ noi bisli je barda cu fulta $x_2$ noi xamsi	{bisli} {cmana}	lujvo					bisli,cmana
-bitnymei	$x_1$ zilkancu $x_2$ lo bitni be $x_3$ bei $x_4$ .i va'i $x_1$ bitni lo pilji be $x_2$ bei $x_3$ be'o $x_4$		lujvo					bitni,mei
+bilske	$x_1$=$s_1$ saske lo si'o bilni ku $x_2$=$s_3$		lujvo					bilni;saske
+birjai	.i lo ka ce'u goi $x_1$ birjai ce'u goi $x_2$ ce'u goi $x_3$ cu ka ce'u goi $x_1$ jgari ce'u goi $x_3$ lo birka be $x_1$  ce'u goi $x_4$	.i .e'u do catlu zo'e pe zo {birka} .e zo {jgari} .e zo {pamjai} ji'a	lujvo					birka;jgari
+birjanco	$x_1$ janco lo birka be $x_2$	{birka}; {janco}; {tupyjanco}	lujvo					birka;janco
+birjunla	$x_1$ junla $x_2$ $x_3$ $x_4$ gi'e se dasni ru'u lo xancidni	{birka}, {junla}, {kanjunla}	lujvo					birka;junla
+birjybarja	$ba_1$ barja $ba_2$=$bi_1$ po'u loi birje ku $ba_3$		lujvo					birje;barja
+birke'a	$x_1$ kevna lo poi'i lo birka be $x_2$ lo birjanco be $x_2$ cu jorne	srana fa zo {birka} .e zo {janco} .e zo {kevna} .e zo {xadypau} .e zo {xadni}	lujvo		birke'a			birka;kevna
+birtu'ucaucreka	$cl_1$=$cr_1$ creka $cr_2$ gi'e birtu'ucau	.e'u ko tcidu tu'a zo {birtu'ucau} .e zo {creka}	lujvo					birka;tubnu;claxu;creka
+bislunsa	$x_1$ bisli gi'e lunsa $x_2$ boi $x_3$ boi $x_4$		lujvo					bisli;lunsa
+bisma'a	$x_1$ noi bisli je barda cu fulta $x_2$ noi xamsi	{bisli} {cmana}	lujvo					bisli;cmana
+bitnymei	$x_1$ zilkancu $x_2$ lo bitni be $x_3$ bei $x_4$ .i va'i $x_1$ bitni lo pilji be $x_2$ bei $x_3$ be'o $x_4$		lujvo					bitni;mei
 bi'u nai	tcita le se cusku le du'u la'e ri slabu datni	{bi'u} {nai}; {slabu} {datni}	cmavo-compound	UI*
-bixygau	$x_1$ gasnu lonu $x_2$ binxo $x_3$ tu'a $x_1$		lujvo					binxo,gasnu
-blacybo'i	$bo_1$ botpi $bo_2$ loi blaci $bo_4$		lujvo					blaci,botpi
-blacykabri	$b_1$=$c_1$ kabri $c_2$ loi blaci		lujvo					blaci,kabri
-blagrusi	$x_1$ grusi gi'e milxe lo ka blanu	{blanu}; {grusi}	lujvo					blanu,grusi
-blakanla	$x_1$ kanla $x_2$ gi'e poi'i lo kalmu'a be ke'a cu blanu	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					blanu,kanla
-blaselkanla	$x_1$ se kanla lo blanu	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					blanu,se,kanla
-blefa'u	$x1$ farlu $x2$ $x3$ $x4$ gi'e ruble		lujvo					ruble,farlu
-blemau	$x_1$ zmadu $x_2$ lo ni ruble $x_3$ kei $x_4$		lujvo					ruble,zmadu
-bleme'a	$x_1$ mleca $x_2$ lo ni ruble $x_3$ kei $x_4$		lujvo					ruble,mleca
-blokle	$x_1$ klesi lo bloti $x_2$	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					bloti,klesi
-blucri	$x_1$ cirko $x_2$ noi ke'a ciblu $x_1$ ku'o $x_3$		lujvo		blucri			ciblu,cirko
-blupinxe	$x_1$ pinxe lo ciblu be $x_2$ $x_2$	zbasu fi zo {ciblu} ce'o zo {pinxe}	lujvo					ciblu,pinxe
-blusakci	$x_1$ sakci lo ciblu be $x_2$ boi $x_2$	{ciblu} .i {sakci} .i {civla}	lujvo					ciblu,sakci
-bofyglajbu	$x_1$ jubme gi'e se pagbu je se cnita $x_4$ noi cabra gi'e glagau $x_2$ noi zutse ne'a vo'a ku'o ku'o .e $x_3$ noi boxfo gi'e dandu vo'a gi'e gacri lo glaca'u		lujvo					boxfo,glare,jubme
-bogda'u	$x_1$ danlu $x_2$ noi klesi la .vertebrat. ku'o gi'e se bongu da		lujvo					bongu,danlu
-bonsfe	$x_1$ sefta $x_2$ gi'e se tarmi lo boxna	.i {boxna} {sefta}	lujvo					boxna,sefta
-brabra	$x_1$ mutce loka ce'u barda $x_2$ $x_3$ kei zi'o	{barda} {barda}	lujvo					barda,barda
-bracai	$x_1$ carmi loka ce'u barda $x_2$ boi $x_3$ kei $x_3$		lujvo					barda,carmi
-bracakrespa	$x1$ respa $x2$ gi'e se calku gi'e barda		lujvo					barda,calku,respa
-brama'o	$c_1$ cmavo $c_2$ boi $c_3$ gi'e se pagbu lo za'u pa me'o y'y	.i va'i {barda} {cmavo}	lujvo		barda cmavo;clani cmavo			barda,cmavo
-brapagjvo	$x_1$ to( valsi )toi $x_2$ $x_3$ $x_4$ lujvo gi'enai ku'i cmapagjvo		lujvo		lujvo fo zo'e poi da poi ke'a cmavo nagi'enai gismu cu pagbu ke'a			barda,pagbu,lujvo
-bratybakfu	$ba_1$=$br_1$ bakfu loi bratu	.e'u ko tcidu tu'a zo {bratu} .e zo {bakfu}	lujvo					bratu,bakfu
-bratycarvi	$c_1$=$b_1$ po'u loi bratu cu carvi $c_2$ $c_3$		lujvo					bratu,carvi
-bregau	$x_1$ gasnu lo nu $x_2$ bredi $x_3$	srana fa zo {bredi} .e zo {gasnu}	lujvo					bredi,gasnu
-brije'u	fatci fa lo bridi be $x_1$ bei $x_2$	selsmudu'i zo {zilbri} gi'e se srana zo {bridi}	lujvo					bridi,jetnu
-brije'uju'o	$x_1$ djuno lo du'u $x_2$ brije'u ma kau	srana fa zo {brije'u} .e zo {kucli}	lujvo					bridi,jetnu,djuno
-briju'a	$x_1$=$j_1$ noi vlapoi cu jufra fi $x_5$=$j_3$ gi'e sinxa $x_2$=$b_1$ noi bridi $x_3$=$b_2$ $x_4$=$b_3$	ji'a jundi zo {vlamei} .e zo {bridi} .e zo {jufra} .e zo {du'u}	lujvo					bridi,jufra
-brika'i	$x_1$ krati $x_2$ noi bridi $x_3$ boi $x_4$ ku'o le ka ce'u selbri lo cnino	{bridi} {krati}; {broda}, {brode}, {brodi}, {brodo}, {brodu}; {nei}, {no'a}, {go'a}, {go'e}, {go'i}, {go'o}, {go'u}; {bu'a}, {bu'e}, {bu'i}; {co'e}, {mo}; {du}; {sumka'i}; {cei}	lujvo		brika'i			bridi,krati
-brili'e	$x_1$ noi sumti porsi cu lidne $x_2$ noi bridi $x_3$ boi $x_4$	{bridi} {lidne}; {zo'u}	lujvo		brili'e			bridi,lidne
-ca'arcadgau	$g_1$ gasnu lo nu $g_2$=$cab_1$=$can_1$ ca'arcando	.e'u ko tcidu tu'a zo {narca'acadgau} .e zo {ca'arcando}	lujvo					cabra,cando,gasnu
-cabda'o	$x_1$ darno $x_2$ lo ka ce'u ma kau cabna	{cabna} {darno}	lujvo		cabda'o			cabna,darno
-cabdei	$x_1$ djefau lo zva'ati gi'e ca'abna	srana fa zo {nau} .e zo {ca'abna} .e zo {djefau}	lujvo					cabna,djedi
-cabdra	$x_1$ drani lo ka ce'u fasnu ca ma kau .i $x_1$ fasnu ca lo poi'i su'oi da pu jdice ja tugnysi'u lo du'u $x_1$ ba fasnu ca ke'a		lujvo		cabdra			cabna,drani
-cabjbi	$x_1$ jibni $x_2$ lo ka ce'u ma kau cabna		lujvo		cabjbi			cabna,jibni
-cabla'i	$x_1$ lamji $x_2$ lo ka ce'u cabna ma kau	srana fa zo {cabna} .e zo {lamji} .e zo {purci} .e zo {balvi} .e zo {cabjbi} .e zo {sutra} .e zo {clira} .e zo {temsepcau}	lujvo		cabla'i			cabna,lamji
-cacryme'utcika	$x_1$ goi ko'a tcika $x_2$ boi $x_3$ .ije $x_1$ sinxa lo mo'e ko'a moi be lu'i ro mentu be li pa bei $x_3$ be'o poi pagbu lo cacra be li pa bei $x_3$	.i {cacra} zei {mentu} zei {tcika} .i srana zo {ti'u'e} to lo terbri cu se manri lo si'o zasni jbotamgau zo {tcika} jo'u zo {ciste} toi	lujvo				ti'u'e	cacra,mentu,tcika
-cacryminli	$x_1$ $x_2$ pi'ai cacra minli te'ai ni'u pa	ko viska zo {pi'ai} .e zo {te'ai} .e zo {cacra} .e zo {minli}	lujvo					cacra,minli
-cacysku	lonu $x_1$ cusku $x_2$ $x_3$ $x_4$ cu tcaci $x_1$ $x_5$	{tcaci} {cusku}	lujvo					tcaci,cusku
-caflitki	$x_1$ litki $x_2$ va'o lo cafne	{cafygapci}, {cafsligu}	lujvo					cafne,litki
-cafsligu	$x_1$ sligu $x_2$ va'o lo fadni	{caflitki}, {cafygapci}	lujvo					cafne,sligu
-cafygapci	$x_1$ gapci $x_2$ va'o lo cafne	{caflitki}, {cafsligu}	lujvo					cafne,gapci
-cagnybo'o	$x_1$ boxfo gi'e gacri $x_2$ poi cagna		lujvo					cagna,boxfo
-cagyce'u	$x_1$ cecmu $x_2$ .i je $x_1$ ja $x_2$ se cuntu tu'a lo cange	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					cange,cecmu
-fipre'uga'a	.i lo ka ce'u fipre'uga'a ce'u cu ka ce'u goi $x_1$ grana lo rectu be lo finpe be ce'u goi $x_2$	.i .e'u ko catlu zo'e pe zo {finpe} .e zo {rectu} .e zo {grana}	lujvo					finpe,rectu,grana
-firfra	$x1$ frati $x2$ noi flira $x1$ ku'o $x3$ $x4$		lujvo					flira,frati
-firkrevi'u	$x_1$ vimcu $x_2$ poi firkre $x_3$ ku'o $x_3$		lujvo					flira,kerfa,vimcu
-firxunfra	$x_1$ frati lo nu lo vo'a flira ku xunre ku $x_2$ boi $x_3$	ra'u mukti fa lo nu ckeji ja burna ja toldarsi	lujvo					flira,xunre,frati
-fladra	$x_1$ noi tcini ja se zukte cu drani lo ka ce'u sarxe $x_2$ noi flalu .i lo finti be $x_2$ cu .e'ande zi'o $x_1$		lujvo		fladra			flalu,drani
-flajecyxlube'e	$x_1$ jecyxlube'e $x_2$ boi $x_3$ boi $x_4$ gi'e se cmima lo zvati be lo nu lo jecta be $x_4$ te flalu	{flalu} {jecyxlube'e} {jecta} {xlura} {bende}	lujvo		flajecyxlube'e			flalu,jecta,xlura,bende
-flakamni	$x_1$ kamni lo nu $x_2$ flalu kei $x_3$ gi'e xe flalu fi $x_3$	{flalu} {kamni}	lujvo		flakamni			flalu,kamni
-fleca'e	$x_1$ catke $x_2$ zi'o gi'e flecu $x_3$ zi'o zi'o	{flecu} {catke}	lujvo					flecu,catke
-flizu'e	lo ka flizu'e cu ka ce'u goi $x_1$ zukte ce'u goi $x_2$ ce'u goi $x_3$ noi $x_1$ fliba ke'a		lujvo					fliba,zukte
-fluplu	$x_1$ daplu $x_2$ gi'e fulta $x_3$	la'a ti xamrai lo'i ro jbobau valsi	lujvo					fulta,daplu
-fonta'a	$x_1$ tavla $x_2$ boi $x_3$ boi $x_4$ gi'e benji lo sance be lo nu nei ku lo $x_2$ fonxa lo $x_1$ fonxa lo se fonxa		lujvo					fonxa,tavla
-fricau	$x_1$ claxu lo nu $x_1$ lifri $x_2$		lujvo					lifri,claxu
-frigau	$x_1$ gasnu lo nu $x_2$ lifri $x_3$	{lifri} {gasnu}	lujvo					lifri,gasnu
-frimo'i	$x_1$ morji lo du'u lifri $x_2$ kei zi'o		lujvo					lifri,morji
-frinyna'u	$x_1$ namcu gi'e du su'o frinu be lo mulna'u bei lo mulna'u	{frinu} {namcu}; {tolfrinyna'u}, {xarna'u}, {tolxarna'u}, {mrena'u}, {lujna'u}	lujvo					frinu,namcu
-fripindi	$x_1$ toltce ja claxu lo ka lifri $x_2$	zo {lifri} .i zo {pindi}	lujvo					lifri,pindi
-friselsau	$x_1$ se slabu ja djuno lo du'u ma kau li'i ce'u lifri $x_2$ .i $x_1$ pu'i lifri $x_2$		lujvo		friselsau			lifri,se,slabu
-fukygau	$g_1$ gasnu lo nu $f_1$ fukpi $f_2$ $f_3$ $f_4$		lujvo					fukpi,gasnu
-furjargasta	$x_1$=$g1$=$j1$ boi cu gasta pi ji'i pa lo jinmrkromi gi'e jdari zo'e noi se fusra $x_1$=$g1$=$j1$ boi	catlu ji'a: {fusra}, {jdari}, {gasta}	lujvo					fusra,jdari,gasta
-fuzykamni	$x_1$ kamni lo ka ce'u fuzme $x_2$ kei $x_3$		lujvo					fuzme,kamni
+bixygau	$x_1$ gasnu lonu $x_2$ binxo $x_3$ tu'a $x_1$		lujvo					binxo;gasnu
+blacybo'i	$bo_1$ botpi $bo_2$ loi blaci $bo_4$		lujvo					blaci;botpi
+blacykabri	$b_1$=$c_1$ kabri $c_2$ loi blaci		lujvo					blaci;kabri
+blagrusi	$x_1$ grusi gi'e milxe lo ka blanu	{blanu}; {grusi}	lujvo					blanu;grusi
+blakanla	$x_1$ kanla $x_2$ gi'e poi'i lo kalmu'a be ke'a cu blanu	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					blanu;kanla
+blaselkanla	$x_1$ se kanla lo blanu	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					blanu;se;kanla
+blefa'u	$x1$ farlu $x2$ $x3$ $x4$ gi'e ruble		lujvo					ruble;farlu
+blemau	$x_1$ zmadu $x_2$ lo ni ruble $x_3$ kei $x_4$		lujvo					ruble;zmadu
+bleme'a	$x_1$ mleca $x_2$ lo ni ruble $x_3$ kei $x_4$		lujvo					ruble;mleca
+blokle	$x_1$ klesi lo bloti $x_2$	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					bloti;klesi
+blucri	$x_1$ cirko $x_2$ noi ke'a ciblu $x_1$ ku'o $x_3$		lujvo		blucri			ciblu;cirko
+blupinxe	$x_1$ pinxe lo ciblu be $x_2$ $x_2$	zbasu fi zo {ciblu} ce'o zo {pinxe}	lujvo					ciblu;pinxe
+blusakci	$x_1$ sakci lo ciblu be $x_2$ boi $x_2$	{ciblu} .i {sakci} .i {civla}	lujvo					ciblu;sakci
+bofyglajbu	$x_1$ jubme gi'e se pagbu je se cnita $x_4$ noi cabra gi'e glagau $x_2$ noi zutse ne'a vo'a ku'o ku'o .e $x_3$ noi boxfo gi'e dandu vo'a gi'e gacri lo glaca'u		lujvo					boxfo;glare;jubme
+bogda'u	$x_1$ danlu $x_2$ noi klesi la .vertebrat. ku'o gi'e se bongu da		lujvo					bongu;danlu
+bonsfe	$x_1$ sefta $x_2$ gi'e se tarmi lo boxna	.i {boxna} {sefta}	lujvo					boxna;sefta
+brabra	$x_1$ mutce loka ce'u barda $x_2$ $x_3$ kei zi'o	{barda} {barda}	lujvo					barda;barda
+bracai	$x_1$ carmi loka ce'u barda $x_2$ boi $x_3$ kei $x_3$		lujvo					barda;carmi
+bracakrespa	$x1$ respa $x2$ gi'e se calku gi'e barda		lujvo					barda;calku;respa
+brama'o	$c_1$ cmavo $c_2$ boi $c_3$ gi'e se pagbu lo za'u pa me'o y'y	.i va'i {barda} {cmavo}	lujvo		barda cmavo;clani cmavo			barda;cmavo
+brapagjvo	$x_1$ to( valsi )toi $x_2$ $x_3$ $x_4$ lujvo gi'enai ku'i cmapagjvo		lujvo		lujvo fo zo'e poi da poi ke'a cmavo nagi'enai gismu cu pagbu ke'a			barda;pagbu;lujvo
+bratybakfu	$ba_1$=$br_1$ bakfu loi bratu	.e'u ko tcidu tu'a zo {bratu} .e zo {bakfu}	lujvo					bratu;bakfu
+bratycarvi	$c_1$=$b_1$ po'u loi bratu cu carvi $c_2$ $c_3$		lujvo					bratu;carvi
+bregau	$x_1$ gasnu lo nu $x_2$ bredi $x_3$	srana fa zo {bredi} .e zo {gasnu}	lujvo					bredi;gasnu
+brije'u	fatci fa lo bridi be $x_1$ bei $x_2$	selsmudu'i zo {zilbri} gi'e se srana zo {bridi}	lujvo					bridi;jetnu
+brije'uju'o	$x_1$ djuno lo du'u $x_2$ brije'u ma kau	srana fa zo {brije'u} .e zo {kucli}	lujvo					bridi;jetnu;djuno
+briju'a	$x_1$=$j_1$ noi vlapoi cu jufra fi $x_5$=$j_3$ gi'e sinxa $x_2$=$b_1$ noi bridi $x_3$=$b_2$ $x_4$=$b_3$	ji'a jundi zo {vlamei} .e zo {bridi} .e zo {jufra} .e zo {du'u}	lujvo					bridi;jufra
+brika'i	$x_1$ krati $x_2$ noi bridi $x_3$ boi $x_4$ ku'o le ka ce'u selbri lo cnino	{bridi} {krati}; {broda}, {brode}, {brodi}, {brodo}, {brodu}; {nei}, {no'a}, {go'a}, {go'e}, {go'i}, {go'o}, {go'u}; {bu'a}, {bu'e}, {bu'i}; {co'e}, {mo}; {du}; {sumka'i}; {cei}	lujvo		brika'i			bridi;krati
+brili'e	$x_1$ noi sumti porsi cu lidne $x_2$ noi bridi $x_3$ boi $x_4$	{bridi} {lidne}; {zo'u}	lujvo		brili'e			bridi;lidne
+ca'arcadgau	$g_1$ gasnu lo nu $g_2$=$cab_1$=$can_1$ ca'arcando	.e'u ko tcidu tu'a zo {narca'acadgau} .e zo {ca'arcando}	lujvo					cabra;cando;gasnu
+cabda'o	$x_1$ darno $x_2$ lo ka ce'u ma kau cabna	{cabna} {darno}	lujvo		cabda'o			cabna;darno
+cabdei	$x_1$ djefau lo zva'ati gi'e ca'abna	srana fa zo {nau} .e zo {ca'abna} .e zo {djefau}	lujvo					cabna;djedi
+cabdra	$x_1$ drani lo ka ce'u fasnu ca ma kau .i $x_1$ fasnu ca lo poi'i su'oi da pu jdice ja tugnysi'u lo du'u $x_1$ ba fasnu ca ke'a		lujvo		cabdra			cabna;drani
+cabjbi	$x_1$ jibni $x_2$ lo ka ce'u ma kau cabna		lujvo		cabjbi			cabna;jibni
+cabla'i	$x_1$ lamji $x_2$ lo ka ce'u cabna ma kau	srana fa zo {cabna} .e zo {lamji} .e zo {purci} .e zo {balvi} .e zo {cabjbi} .e zo {sutra} .e zo {clira} .e zo {temsepcau}	lujvo		cabla'i			cabna;lamji
+cacryme'utcika	$x_1$ goi ko'a tcika $x_2$ boi $x_3$ .ije $x_1$ sinxa lo mo'e ko'a moi be lu'i ro mentu be li pa bei $x_3$ be'o poi pagbu lo cacra be li pa bei $x_3$	.i {cacra} zei {mentu} zei {tcika} .i srana zo {ti'u'e} to lo terbri cu se manri lo si'o zasni jbotamgau zo {tcika} jo'u zo {ciste} toi	lujvo				ti'u'e	cacra;mentu;tcika
+cacryminli	$x_1$ $x_2$ pi'ai cacra minli te'ai ni'u pa	ko viska zo {pi'ai} .e zo {te'ai} .e zo {cacra} .e zo {minli}	lujvo					cacra;minli
+cacysku	lonu $x_1$ cusku $x_2$ $x_3$ $x_4$ cu tcaci $x_1$ $x_5$	{tcaci} {cusku}	lujvo					tcaci;cusku
+caflitki	$x_1$ litki $x_2$ va'o lo cafne	{cafygapci}, {cafsligu}	lujvo					cafne;litki
+cafsligu	$x_1$ sligu $x_2$ va'o lo fadni	{caflitki}, {cafygapci}	lujvo					cafne;sligu
+cafygapci	$x_1$ gapci $x_2$ va'o lo cafne	{caflitki}, {cafsligu}	lujvo					cafne;gapci
+cagnybo'o	$x_1$ boxfo gi'e gacri $x_2$ poi cagna		lujvo					cagna;boxfo
+cagyce'u	$x_1$ cecmu $x_2$ .i je $x_1$ ja $x_2$ se cuntu tu'a lo cange	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					cange;cecmu
+fipre'uga'a	.i lo ka ce'u fipre'uga'a ce'u cu ka ce'u goi $x_1$ grana lo rectu be lo finpe be ce'u goi $x_2$	.i .e'u ko catlu zo'e pe zo {finpe} .e zo {rectu} .e zo {grana}	lujvo					finpe;rectu;grana
+firfra	$x1$ frati $x2$ noi flira $x1$ ku'o $x3$ $x4$		lujvo					flira;frati
+firkrevi'u	$x_1$ vimcu $x_2$ poi firkre $x_3$ ku'o $x_3$		lujvo					flira;kerfa;vimcu
+firxunfra	$x_1$ frati lo nu lo vo'a flira ku xunre ku $x_2$ boi $x_3$	ra'u mukti fa lo nu ckeji ja burna ja toldarsi	lujvo					flira;xunre;frati
+fladra	$x_1$ noi tcini ja se zukte cu drani lo ka ce'u sarxe $x_2$ noi flalu .i lo finti be $x_2$ cu .e'ande zi'o $x_1$		lujvo		fladra			flalu;drani
+flajecyxlube'e	$x_1$ jecyxlube'e $x_2$ boi $x_3$ boi $x_4$ gi'e se cmima lo zvati be lo nu lo jecta be $x_4$ te flalu	{flalu} {jecyxlube'e} {jecta} {xlura} {bende}	lujvo		flajecyxlube'e			flalu;jecta;xlura;bende
+flakamni	$x_1$ kamni lo nu $x_2$ flalu kei $x_3$ gi'e xe flalu fi $x_3$	{flalu} {kamni}	lujvo		flakamni			flalu;kamni
+fleca'e	$x_1$ catke $x_2$ zi'o gi'e flecu $x_3$ zi'o zi'o	{flecu} {catke}	lujvo					flecu;catke
+flizu'e	lo ka flizu'e cu ka ce'u goi $x_1$ zukte ce'u goi $x_2$ ce'u goi $x_3$ noi $x_1$ fliba ke'a		lujvo					fliba;zukte
+fluplu	$x_1$ daplu $x_2$ gi'e fulta $x_3$	la'a ti xamrai lo'i ro jbobau valsi	lujvo					fulta;daplu
+fonta'a	$x_1$ tavla $x_2$ boi $x_3$ boi $x_4$ gi'e benji lo sance be lo nu nei ku lo $x_2$ fonxa lo $x_1$ fonxa lo se fonxa		lujvo					fonxa;tavla
+fricau	$x_1$ claxu lo nu $x_1$ lifri $x_2$		lujvo					lifri;claxu
+frigau	$x_1$ gasnu lo nu $x_2$ lifri $x_3$	{lifri} {gasnu}	lujvo					lifri;gasnu
+frimo'i	$x_1$ morji lo du'u lifri $x_2$ kei zi'o		lujvo					lifri;morji
+frinyna'u	$x_1$ namcu gi'e du su'o frinu be lo mulna'u bei lo mulna'u	{frinu} {namcu}; {tolfrinyna'u}, {xarna'u}, {tolxarna'u}, {mrena'u}, {lujna'u}	lujvo					frinu;namcu
+fripindi	$x_1$ toltce ja claxu lo ka lifri $x_2$	zo {lifri} .i zo {pindi}	lujvo					lifri;pindi
+friselsau	$x_1$ se slabu ja djuno lo du'u ma kau li'i ce'u lifri $x_2$ .i $x_1$ pu'i lifri $x_2$		lujvo		friselsau			lifri;se;slabu
+fukygau	$g_1$ gasnu lo nu $f_1$ fukpi $f_2$ $f_3$ $f_4$		lujvo					fukpi;gasnu
+furjargasta	$x_1$=$g1$=$j1$ boi cu gasta pi ji'i pa lo jinmrkromi gi'e jdari zo'e noi se fusra $x_1$=$g1$=$j1$ boi	catlu ji'a: {fusra}, {jdari}, {gasta}	lujvo					fusra;jdari;gasta
+fuzykamni	$x_1$ kamni lo ka ce'u fuzme $x_2$ kei $x_3$		lujvo					fuzme;kamni
 frisefa	lo su'u $x_1$ lifri $x_2$ cu se fanta $x_3$	zo {lifri} .i zo {fanta} .i zo {li'inta}	fu'ivla		frisefa	frisefa
 fu'i nai	tcita le se cusku le du'u la'e ri nandu	{fu'i} {nai}; {nandu}	cmavo-compound	UI*
-fuktra	$x_1$ zukte lo ka tarti lo fukpi be lo se tarti be $x_2$ be'o no'u $x_3$		lujvo		fuktra			fukpi,tarti
-fuzma'u	$x_1$ makcu xoi ke'a banzuni lo nu $x_1$ fuzme $x_2$ $x_3$		lujvo					fuzme,makcu
-ga'arkembisladru	$x_1$ grana joi bisyladru fi'o bisyladru fe'u $x_2$=$b_1$=$l_1$ fi'o grana fe'u $x_3$=$g_1$		lujvo					grana,ke,bisli,ladru
-gacybo'i	$b_1$ botpi loi gapci $b_3$ $b_4$		lujvo					gapci,botpi
+fuktra	$x_1$ zukte lo ka tarti lo fukpi be lo se tarti be $x_2$ be'o no'u $x_3$		lujvo		fuktra			fukpi;tarti
+fuzma'u	$x_1$ makcu xoi ke'a banzuni lo nu $x_1$ fuzme $x_2$ $x_3$		lujvo					fuzme;makcu
+ga'arkembisladru	$x_1$ grana joi bisyladru fi'o bisyladru fe'u $x_2$=$b_1$=$l_1$ fi'o grana fe'u $x_3$=$g_1$		lujvo					grana;ke;bisli;ladru
+gacybo'i	$b_1$ botpi loi gapci $b_3$ $b_4$		lujvo					gapci;botpi
 ca'abna	$x_1$ cabna lo nu mi dei do nau cusku		fu'ivla			ca'abna
 ca'arno	$x_1$ darno $x_2$ lo ka ce'u cabna ce'u	smudu'i zo {cabda'o} .i srana fa zo {ca'ibni} .e zo {pu'ibni} .e zo {pu'arno} .e zo {ba'ibni} .e zo {ba'arno}	fu'ivla		ca'arno	ca'arno
 ca'arxe	$x_1$ sarxe lo cabna cedra $x_2$	srana fa zo {sarxe} .e zo {cabna} .e zo {cedra} .i smudu'i zo {cabrxe}	fu'ivla		ca'arxe	ca'arxe
@@ -1027,7 +1027,7 @@ ca'engau	$x_2$ jetnu ja fasnu ri'a lo nu $x_1$ smusku ja jinvi $x_2$	srana fa zo
 ca'ai	jorne lo li'erla'i valsi .i je smuni la'e zo ca'a	.i va'o lo nu da'i zo ca'a cmavo ma'oi NA gi'e se smuni lo du'u ro da poi cumki munje zo'u lo bridi cu jetnu da kei kei lu JA ca'ai li'u .e lo'u GA ca'ai le'u galfi lo smuni be lo se kuspe be vo'a la'e lu ca'a ku lo se kuspe li'u .i srana lo'u {na}-{nai}, {ka'e}-{lau'i}, {nu'o}-{nu'oi}, {pu'i}-{pu'ei}, {ca'a}-{ca'ai}, {ja'a}-{ja'ai} le'u .e lo modal zei logji pe la kripkes .i mupli fa lu ta se vinji tu noi farlu (ku'o) .i na ja ca'ai ta mrobi'o li'u noi smudu'i lu na ku ta se vinji tu noi farlu (ku'o) .i ja ca'a ku ta mrobi'o li'u	experimental cmavo	NAI
 ca'au	sinxa lo poi'i ta'e va'o lo nu no da .eksplisi sumti lo tense sumtcita cu sruma lo du'u ke'a ri sumti	va'i ta'e ku lu pu ca'au li'u dunli lu pu ku li'u .i lo ka se sinxa zo ca'au cu fancuka lo ka ce'u noi sumtcita cu lidne	experimental cmavo	KOhA7
 canlu bu	lu canlu bu li'u bu'ivla zoi gy. .gy.		bu-letteral
-ca'orgreku	$g_1$ greku lo canko po'u $g_2$=$c_1$		lujvo					canko,greku
+ca'orgreku	$g_1$ greku lo canko po'u $g_2$=$c_1$		lujvo					canko;greku
 ba'arno	$x_1$ balvi $x_2$ gi'e ca'arno $x_2$	smudu'i zo {bavda'o} .i srana fa zo {ca'ibni} .e zo {ca'arno} .e zo {pu'ibni} .e zo {pu'arno} .e zo {ba'ibni}	fu'ivla		ba'arno	ba'arno
 ba'ibni	$x_1$ balvi $x_2$ gi'e ca'ibni $x_2$	smudu'i zo {bavjbi} .i srana fa zo {ca'ibni} .e zo {ca'arno} .e zo {pu'ibni} .e zo {pu'arno} .e zo {ba'arno}	fu'ivla		ba'ibni	ba'ibni
 baitni	$x_1$ bitnymei $x_2$ li bi li re	fadni gradu fi lo ni barda fa lo datni kei ra'a lo'e skami	fu'ivla			baitni
@@ -1358,145 +1358,145 @@ kibro	$x_1$ ckini lo kulnu ja cecmu ja tutci pe lo munje se tcana be lo skami $x
 lenga	$x_1$ bangu gi'e ka'e se pilno $x_2$ noi prenu gi'e ckaji lo ka $x_2$ noi prenu ka'e tavla zu'ai fo ce'u		experimental gismu			lenga
 loglo	$x_1$ ckini lo kulnu ja bangu ja cecmu pe la .loglan. x2	{ckini}; {kulnu}; {bangu}; {cecmu}	experimental gismu			loglo
 menre	$x_1$ me $x_2$		experimental gismu			menre
-gairvau	$v_1$ vasru $v_2$=$g_2$ poi ke'a se gacri $g_1$		lujvo					gacri,vasru
-galbirka	$x_1$ galtu pagbu be lo birka be $x_2$ gi'e te sepli lo birjanco lo bircidni	{galtu}; {pagbu}; {birka}; {sepli}; {birjanco}; {bircidni}	lujvo					galtu,birka
-galjdika	$x1$ jdika loka $x1$ galtu $x2$ kei $x3$		lujvo					galtu,jdika
-galkla	$x1$ klama $x2$ noi galtu $x3$ ku'o $x3$ $x4$ $x5$		lujvo					galtu,klama
-galtu'e	$x_1$ galtu pagbu be lo tuple be $x_2$ gi'e te sepli lo tupyjanco lo tupcidni	{galtu}; {pagbu}; {tuple}; {sepli}; {tupyjanco}; {tupcidni}	lujvo					galtu,tuple
-gancai	$x_1$ carmi loka ce'u ganra $x_2$ boi $x_3$ kei $x_3$		lujvo					ganra,carmi
-ganji'a	$x_1$ jimca $x_2$ noi ke'a na'o xadni ku'o gi'e rango $x_2$ lo ka ce'u ganse $x_3$	srana fa zo {jimca} .e zo {birka} .e zo {ganse} .e zo {rango} .e zo {cinki}	lujvo		ganji'a			ganra,jinga
-gantre	lo ka gantre cu ka ko'a goi $x_1$ ko'e goi $x_2$ ko'i goi $x_3$ ko'o goi $x_4$ ce'ai ko'a mitre ko'e ko'i noi ko'a ganra ke'a ku'o ko'o	.i .e'u catlu zo'e ne zo {clatre} .e zo {tsutre} .e zo ce'ai .i na'i lo gantre cu ganra fi da poi fadni	lujvo					ganra,mitre
-ga'orga'a	$x1$ grana $x2$ gi'e te ganlo fi $x3$ fe $x4$		lujvo					ganlo,grana
-ga'ormolsa'a	$x_1$ sanga $x_2$ boi $x_3$ fau lo nu lo moklu be vo'a cu ganlo		lujvo		ga'ormolsa'a			ganlo,moklu,sanga
-gapkla	$x_1$ klama $x_2$ noi ke'a gapru $x_3$ ku'o $x_3$ boi $x_4$ boi $x_5$	{gapru} {klama}; {nitkla}	lujvo					gapru,klama
-garbi'u	$x_1$ bitmu $x_2$ boi $x_3$ gi'e pu se zbasu fi lo garna	srana fa zo {bitmu} .e zo {garna} .e zo {sepli} .e zo {pagre} .e zo {cilbi'u}	lujvo		garbi'u			garna,bitmu
-gasmo'i	$x_1$ frimo'i lo ka ganse $x_2$		lujvo					ganse,morji
-gaspu'a	lo nu ganse $x_1$ cu pluka $x_2$		lujvo					ganse,pluka
-gastcica	$x_1$ tcica $x_2$ lo nu $x_2$ ganse $x_3$ boi $x_4$ boi $x_5$	.e'u ko tcidu tu'a zo {ganse} .e zo {tcica} .e zo {prugastcica} .e zo {narprugastcica}	lujvo					ganse,tcica
-gaukla	$g_1$ gasnu lonu $k_1$ klama $k_2$ $k_3$ $k_4$ $k_5$ kei		lujvo					gasnu,klama
-gaupli	$x_1$ pilno $x_2$ lo ka gasnu $x_3$		lujvo					gasnu,pilno
-gaurbasyvla	ga je $x_1$ basyvla $x_2$ $x_3$ $x_4$ gi $x_5$ snigau $x_1$ $x_2$ $x_6$		lujvo					gasnu,basti,valsi
-gaxykafke	$x_1$ kafke $x_2$ lo ganxo be $x_1$.		lujvo					ganxo,kafke
-gekmau	$x_1$ zmadu $x_2$ lo ka gleki $x_3$ kei $x_4$	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					gleki,zmadu
-gendra	$x_1$ drani lo ka te gerna fi vo'o ku $x_2$ boi $x_3$		lujvo					gerna,drani
-gendu'i	ni'o ro da zo'u ro de zo'u $x_3$ gerna fi lo konkatena be da bei $x_1$ bei de be'o jo lo konkatena be da bei $x_2$ bei de		lujvo					gerna,dunli
-gensu'a	$x_1$ gerna stura $x_2$ .ije $x_3$ gerna $x_4$ boi $x_2$	{gerna} {stura}; {genturfa'i}	lujvo					gerna,stura
-gimste	$x_1$ liste $x_2$ noi gismu vau $x_3$ fo $x_4$	srana fa zo {gismu} .e zo {liste} .e zo {vlaste}	lujvo					gismu,liste
-glajdika	$x_1$ jdika lo ni glare	{glare}; {jdika}	lujvo					glare,jdika
-glanejni	$x_1$ nejni lo ka glare ku $x_2$		lujvo					glare,nejni
-glaselblu	$x_1$ se ciblu lo glare	{glare}; {ciblu}	lujvo					glare,se,ciblu
-glatrotci	$x_1$ trotci lo glare		lujvo					glare,jitro,tutci
-glaze'a	$x_1$ zenba lo ka glare	{glare}; {zenba}	lujvo					glare,zenba
-glebre	$g_1$=$b_1$ bredi lo nu vo'a gletu $g_2$		lujvo					gletu,bredi
-glefantyta'u	$x_1$ taxfu $x_2$ lo ka ce'u fanta lo nu $x_2$ gletu da	.i .e'u lanli zo {taxfu} je zo {fanta} je zo {gletu}	lujvo					gletu,fanta,taxfu
-glepe'o	$x_1$ boi $x_2$ gletu gi'e pendo		lujvo		glepe'o			gletu,pendo
-glibau	$x_1$ bangu $x_2$ fi $x_3$ gi'e se cmene zo .inglic. gi'e jai se krasi tu'a lo gligu'e	srana fa zo {bangu} .e zo {gligu'e}	lujvo					glico,bangu
-glupreselkei	$x_1$ selkei $x_2$ gi'e prenu gi'e gluta $x_3$		lujvo					gluta,prenu,se,kelci
-gramykemjipselfa'u	$x_1$=$g_1$=$j_2$=$f_2$ noi se nilbra li ji'i no ku'o se jipno $x_2$=$j_1$=$f_4$ noi ve farlu vo'a ku'o gi'e grame $x_3$=$g_2$		lujvo					-gram-,ke,jipno,se,farlu
-greke'a	$x_1$=$k_1$ kevna $x_2$=$k_2$=$p_2$ .i je pagre ri $x_3$=$p_3$ $x_4$=$p_4$ fa $x_5$=$p_1$	lujvo fo lo tanru zo {pagre} zo {kevna} .i sa'enai da greke'a de di na'e bo di .inaja da greke'a le se pagbu be ge de gi di	lujvo					pagre,kevna
-gubgudytrusi'o	$x_1$ sidbo lo nu $x_2$ se turni kei $x_3$ se ti'i lo nu lo te gundi cu gubni	{gubni} {gundi} {turni} {sidbo}	lujvo		gubgudytrusi'o			gubni,gundi,turni,sidbo
-gubjungau	$j_1$ jungau fi $jg_3$=$g_1$ fe $jg_2$=$g_2$ $jg_4$ .ije $jg_3$=$g_1$ gubni $jg_2$=$g_2$		lujvo					gubni,djuno,gasnu
-gubytcita	$x_1$ tcita $x_2$ $x_3$ gi'e gubni $x_4$		lujvo					gubni,tcita
-guglypevgri	$x_1$ me la guglygri ku kibysnustu $x_2$ boi $x_3$ .i ta'u kibysnustu xoi te ciste fi la guglygri ku noi kibzva la'o zoi https://groups.google.com zoi		lujvo					gugle,pe'a,girzu
-guglyzamgri	$x_1$ me la guglygri ku kibysnustu $x_2$ boi $x_3$ .i ta'u kibysnustu xoi te ciste fi la guglygri ku noi kibzva la'o zoi https://groups.google.com zoi		lujvo					gugle,zai'e,girzu
-gugnai	$x_1$ natmi gi'e poi'i $x_2$ se kosmu ja se te se karxusa lo ka gugde ke'a	zo {natmi} .i zo {gugde} .i zo {kosmu} .i zo {karxusa}	lujvo					gugde,natmi
-gugykruca	lu'i $x_1$ noi ko'a gugde ke'a lu'u kruca lu'i zo'e noi na'e bo ko'a gugde ke'a lu'u $x_2$	{gugde} {kruca}	lujvo					gugde,kruca
-gu'irsutra	$x_1$ sutra $x_2$ setai lo gusni vetai loka sutra		lujvo					gusni,sutra
-gumni'i	$x1$ nibli $x2$ .ije $x1$ joi $x2$ nibli $x3$ .ije $x1$ joi $x2$ joi $x3$ nibli $x4$ .ije ...li'o		lujvo		nibli			gunma,nibli
-gunbre	$b_1$=$g_1$ bredi lo nu vo'a gunka $g_2$ $g_3$		lujvo					gunka,bredi
-gunde'a	$x_1$ ge cabybi'i lo nu $x_2$ co'a de'a gunka $x_3$ kei jo'u lo nu $x_2$ di'a gunka $x_3$ gi jai ze'a zifre fai $x_2$ lo ka ce'u surla	srana fa zo {surla} .e zo {zifre} .e zo {temci} .e zo {gunka} .e zo {jibri}	lujvo					gunka,denpa
-gunfrivei	$x_1$ vreji fi $x_2$ fo $x_3$ fe lo se ke lifri ja gunka ke'e be vo'i		lujvo					gunka,lifri,vreji
-gunrivzu'e	.i lo ka gunrivzu'e cu ka ce'u goi $x_1$ zukte lo ka ce'u rivbi lo ka ce'u gunka ce'u xi ci goi $x_2$ zo'e kei ce'u xi re goi $x_3$ kei zo'e		lujvo					gunka,rivbi,zukte
-gurmu'u	$x_1$ muvdu $x_2$ boi $x_3$ boi $x_4$ fau lo nu $x_1$ gunro $x_4$		lujvo					gunro,muvdu
-guskli	$k_1$ klina $k_2$=$g_1$ poi ke'a gusni		lujvo					gusni,klina
-gusli'i	$x1$ linji lo gusni be $x2$ bei $x3$		lujvo					gusni,linji
-gusminra	$x_1$ minra $x_2$ noi gusni vo'a $x_3$		lujvo					gusni,minra
-gusybatke	$b_1$ batke $b_2$ fo $b_4$ fi lo nu lo no'a ku jitro $g_3$ po'u lo gusni		lujvo					gusni,batke
-gusysli	$x_1$ slilu $x_2$ lo ka ce'u te gusni jo'u lo ka ce'u na te gusni		lujvo		gusysli			gusni,slilu
-gusysutmu'u	$x1$ sutra lonu $x1$ muvdu $x2$ $x3$ $x4$ kei tai lo gusni		lujvo					gusni,sutra,muvdu
-gutnerkla	$x_1$ $x_2$ nerkla gi'e gunta $x_3$		lujvo					gunta,nenri,klama
-jaxri'a	$x_1$ jai rinka $x_2$ $x_3$ fai $x_4$	simsa zo {jaxyki'u} je zo {jaxmu'i}	lujvo					jai,rinka
-jaxspo	.i lo ka ce'u goi $x_1$ jaxspo ce'u goi $x_2$ ce'u goi $x_3$ cu ka ce'u goi $x_1$ jai daspo ce'u goi $x_2$ fai ce'u $x_3$	.i .e'u ko catlu zo'e pe zo {jai} .e zo {daspo}	lujvo					jai,daspo
-jaxtcica	$x_1$ jai tcica $x_2$ $x_3$ fai $x_4$		lujvo					jai,tcica
-jaxyclira	$x_1$ jai clira $x_2$ fai $x_3$		lujvo					jai,clira
-jaxydicra	$x_1$ jai dicra $x_2$ $x_3$ fai $x_4$		lujvo					jai,dicra
-jaxyjde	$x_1$ jai kajde $x_2$ $x_3$ fai $x_4$		lujvo					jai,kajde
-jaxyjenca	$x_1$ jai jenca $x_2$ fai $x_3$		lujvo					jai,jenca
-jaxyjursa	$x_1$ jai jursa $x_2$ fai $x_3$		lujvo					jai,jursa
-jaxyka'a	$x_1$ jai katna $x_2$ $x_3$ fai $x_4$		lujvo					jai,katna
-jaxyki'u	$x_1$ jai krinu $x_2$ fai $x_3$	simsa zo {jaxri'a} je zo {jaxmu'i}	lujvo					jai,krinu
-jaxyvlile	$x_1$ jai vlile fai $x_2$		lujvo					jai,vlile
-jaxyxai	$x_1$ jai xrani $x_2$ $x_3$ $x_4$ fai $x_5$		lujvo					jai,xrani
-jaxyxaksu	$x_1$ jai xaksu $x_2$ fai $x_3$		lujvo					jai,xaksu
-jbebau	$x_1$ bangu gi'e poi'i su'o da co'a lo nu $x_2$ jbena cu tavla $x_2$ zi'o ke'a	srana fa zo {jbena} .e zo {bangu} .e zo {jbegu'e} .e zo {verclibau} .e zo {jbojbe}	lujvo		jbebau			jbena,bangu
-jbegu'e	$x_1$ gugde $x_2$ gi'e jai bu'u jbena fai $x_2$	srana fa zo {jbena} .e zo {gugde} .e zo {jbebau} .e zo {krasi}	lujvo		jbegu'e			jbena,gugde
-jbeseltei	$x_2$ temci lo nu $x_1$ jbena kei lo cabna		lujvo					jbena,se,temci
-jbetei	fasnu fa lo se temci be $x_1$ bei lo nu $x_2$ jbena		lujvo					jbena,temci
-jbijikca	$x_1$ jbini je jikca $x_2$	{jbini}; {jikca}	lujvo					jibni,jikca
-jbili'u	$x1$ litru lo jibni be $x2$ $x3$		lujvo					jibni,litru
-jbisimgau	$x_1$ gasnu lo nu $x_2$ simxu lo ka ce'u ce'u jibni $x_3$	{jibni}; {simxu}; {gasnu}	lujvo					jibni,simxu,gasnu
-jbobadna	to nalri'i toi $x_1$ jbopre		lujvo					lojbo,badna
-jbobau	$x_1$ bangu $x_2$ fi $x_3$ gi'e me la .lojban.	srana fa zo {lojbo}	lujvo					lojbo,bangu
-jbobausmi	$s_1$ simsa la lojban $s_3$	.e'u ko tcidu la'e zo {lojban} lu'u .e la'e zo {simsa} lu'u .e la'e zo {jbobau}	lujvo					lojbo,bangu,simsa
-jbocre	$x_1$ certu lo ka pilno lo jbobau	srana fa zo {certu} .e zo {jbobau}	lujvo					lojbo,certu
-jbojbe	$l_1$=$j_1$ co'a lojbo ba zi lo nu vo'a jbena .i sa'e su'o pa rirni be lo go'i cu ro roi tavla lo go'i fo lo jbobau po'o		lujvo					lojbo,jbena
-jboklu	$l_1$=$k_1$ lojbo lo kulnu	from {lojbo} and {kulnu}	lujvo					lojbo,kulnu
-jbole'u	$le_1$=$lo_1$ lerfu le lojbo ku $le_3$	.e'u ko viska tu'a la'e zo {lerfu}	lujvo					lojbo,lerfu
-jbonunsla	.i lo ka jbonunsla cu ka ko'a ko'e ko'i ko'o ce'ai ce'u goi $x_1$ nu ko'a goi $x_2$ salci ko'e goi $x_3$ zi'e noi ke'a lojbo  ko'i goi $x_4$ ku'o ko'o goi $x_5$	.i .e'u catlu ge zo'e ne zo {salci} gi zo'e ne zo {lojbo}	lujvo					lojbo,nu,salci
-jbopre	$x_1$ prenu gi'e lojbo $x_2$	srana fa zo {prenu} .e zo {lojbo}	lujvo					lojbo,prenu
-jbosarxe	$x_1$ sarxe lo'e te flese ja se pensi ja kulnu poi lojbo ku $x_2$		lujvo					lojbo,sarxe
-jboselbau	$x_1$ se bangu $x_2$ noi jbobau ku'o $x_3$		lujvo					lojbo,se,bangu
-jboselkei	$x_1$ se kelci $x_2$ gi'e lojbo $x_3$	{lojbo} {se} {kelci}	lujvo					lojbo,se,kelci
-jbosnu	$x_1$ simxu lo ka ce'u ce'u tavla $x_2$ lo jbobau	srana fa zo {casnu} .e zo {jbobau}	lujvo					lojbo,casnu
-jbovla	$x_1$ valsi $x_2$ lo jbobau		lujvo					lojbo,valsi
-jbovlaste	$x_1$ liste $x_2$ noi jbovla vau $x_3$ fo $x_4$	srana fa zo {vlaste} .e zo {jbovla}	lujvo					lojbo,valsi,liste
-jdagu'epa'i	$x_1$ troci lo nu lo lijda cu flalu fi loi se gugde be $x_2$ kei je cu gugypa'i $x_2$		lujvo					lijda,gugde,prami
-jdaske	$x_1$=$s_1$ saske lo si'o lijda ku $x_2$=$s_3$		lujvo					lijda,saske
-jecra'a	$x_1$ srana lo jecta be $x_2$	{jecta} {srana}	lujvo					jecta,srana
-jecybriju	$x_1$ briju $x_2$ noi ke'a fuzme lo nu $x_3$ se jecta	{jecta} {briju}	lujvo		jecybriju			jecta,briju
-jecyxlube'e	$x_1$ bende $x_2$ boi $x_3$ lo nu xlura lo jecta be $x_4$	{jecta} {xlura} {bende}	lujvo		jecyxlube'e			jecta,xlura,bende
-jefydeidetri	$x_1$ goi ko'a detri $x_2$ boi $x_3$ .ije $x_1$ sinxa lo mo'e ko'a moi be lu'i ro djedi be li pa bei $x_3$ be'o poi pagbu lo jeftu be li pa bei $x_3$	.i {jeftu} zei {djedi} zei {detri} .i srana zo {de'i'u} .e zo {detke'u} to lo terbri cu se manri lo si'o zasni jbotamgau zo {detri} jo'u zo {ciste} toi	lujvo				de'i'u	jeftu,djedi,detri
-jelka'e	$x_1$ kakne lo ka jelca kei $x_2$	{jelca}; {kakne}	lujvo					jelca,kakne
-jenselte'a	$x1$ jenca $x2$ gi'e se terpa $x2$		lujvo					jenca,se,terpa
-jente'a	$x1$ terpa $x2$ noi jenca $x1$		lujvo					jenca,terpa
-jetfrica	lo jezyje'u be $x_1$ cu dubyfrica lo jezyje'u be $x_2$	srana fa zo {jetydu'i} .e zo {dubyfrica}	lujvo					jetnu,frica
-jetlai	$x_1$ klani $x_2$ le ka ce'u jetnu $x_3$ kei $x_4$	{jetnu} {klani}; {jei}	lujvo		jetlai			jetnu,klani
-jetmlu	$x_1$ simlu fi $x_2$ fe lo ka ce'u $x_3$ jetnu	srana fa zo {faumlu}	lujvo					jetnu,simlu
-jetrinsku	$x_2$ jetnu ki'u lo nu ri se smusku $x_1$	srana fa zo {ca'e}	lujvo					jetnu,krinu,cusku
-jetydu'i	lo jezyje'u be $x_1$ cu dubdu'i lo jezyje'u be $x_2$	srana fa zo {jetfrica} .e zo {zilvlina} .e zo {zilkanxe} .e zo {go} .e zo {jo} .e zo {gi'o} .e zo .{o}	lujvo					jetnu,dunli
+gairvau	$v_1$ vasru $v_2$=$g_2$ poi ke'a se gacri $g_1$		lujvo					gacri;vasru
+galbirka	$x_1$ galtu pagbu be lo birka be $x_2$ gi'e te sepli lo birjanco lo bircidni	{galtu}; {pagbu}; {birka}; {sepli}; {birjanco}; {bircidni}	lujvo					galtu;birka
+galjdika	$x1$ jdika loka $x1$ galtu $x2$ kei $x3$		lujvo					galtu;jdika
+galkla	$x1$ klama $x2$ noi galtu $x3$ ku'o $x3$ $x4$ $x5$		lujvo					galtu;klama
+galtu'e	$x_1$ galtu pagbu be lo tuple be $x_2$ gi'e te sepli lo tupyjanco lo tupcidni	{galtu}; {pagbu}; {tuple}; {sepli}; {tupyjanco}; {tupcidni}	lujvo					galtu;tuple
+gancai	$x_1$ carmi loka ce'u ganra $x_2$ boi $x_3$ kei $x_3$		lujvo					ganra;carmi
+ganji'a	$x_1$ jimca $x_2$ noi ke'a na'o xadni ku'o gi'e rango $x_2$ lo ka ce'u ganse $x_3$	srana fa zo {jimca} .e zo {birka} .e zo {ganse} .e zo {rango} .e zo {cinki}	lujvo		ganji'a			ganra;jinga
+gantre	lo ka gantre cu ka ko'a goi $x_1$ ko'e goi $x_2$ ko'i goi $x_3$ ko'o goi $x_4$ ce'ai ko'a mitre ko'e ko'i noi ko'a ganra ke'a ku'o ko'o	.i .e'u catlu zo'e ne zo {clatre} .e zo {tsutre} .e zo ce'ai .i na'i lo gantre cu ganra fi da poi fadni	lujvo					ganra;mitre
+ga'orga'a	$x1$ grana $x2$ gi'e te ganlo fi $x3$ fe $x4$		lujvo					ganlo;grana
+ga'ormolsa'a	$x_1$ sanga $x_2$ boi $x_3$ fau lo nu lo moklu be vo'a cu ganlo		lujvo		ga'ormolsa'a			ganlo;moklu;sanga
+gapkla	$x_1$ klama $x_2$ noi ke'a gapru $x_3$ ku'o $x_3$ boi $x_4$ boi $x_5$	{gapru} {klama}; {nitkla}	lujvo					gapru;klama
+garbi'u	$x_1$ bitmu $x_2$ boi $x_3$ gi'e pu se zbasu fi lo garna	srana fa zo {bitmu} .e zo {garna} .e zo {sepli} .e zo {pagre} .e zo {cilbi'u}	lujvo		garbi'u			garna;bitmu
+gasmo'i	$x_1$ frimo'i lo ka ganse $x_2$		lujvo					ganse;morji
+gaspu'a	lo nu ganse $x_1$ cu pluka $x_2$		lujvo					ganse;pluka
+gastcica	$x_1$ tcica $x_2$ lo nu $x_2$ ganse $x_3$ boi $x_4$ boi $x_5$	.e'u ko tcidu tu'a zo {ganse} .e zo {tcica} .e zo {prugastcica} .e zo {narprugastcica}	lujvo					ganse;tcica
+gaukla	$g_1$ gasnu lonu $k_1$ klama $k_2$ $k_3$ $k_4$ $k_5$ kei		lujvo					gasnu;klama
+gaupli	$x_1$ pilno $x_2$ lo ka gasnu $x_3$		lujvo					gasnu;pilno
+gaurbasyvla	ga je $x_1$ basyvla $x_2$ $x_3$ $x_4$ gi $x_5$ snigau $x_1$ $x_2$ $x_6$		lujvo					gasnu;basti;valsi
+gaxykafke	$x_1$ kafke $x_2$ lo ganxo be $x_1$.		lujvo					ganxo;kafke
+gekmau	$x_1$ zmadu $x_2$ lo ka gleki $x_3$ kei $x_4$	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					gleki;zmadu
+gendra	$x_1$ drani lo ka te gerna fi vo'o ku $x_2$ boi $x_3$		lujvo					gerna;drani
+gendu'i	ni'o ro da zo'u ro de zo'u $x_3$ gerna fi lo konkatena be da bei $x_1$ bei de be'o jo lo konkatena be da bei $x_2$ bei de		lujvo					gerna;dunli
+gensu'a	$x_1$ gerna stura $x_2$ .ije $x_3$ gerna $x_4$ boi $x_2$	{gerna} {stura}; {genturfa'i}	lujvo					gerna;stura
+gimste	$x_1$ liste $x_2$ noi gismu vau $x_3$ fo $x_4$	srana fa zo {gismu} .e zo {liste} .e zo {vlaste}	lujvo					gismu;liste
+glajdika	$x_1$ jdika lo ni glare	{glare}; {jdika}	lujvo					glare;jdika
+glanejni	$x_1$ nejni lo ka glare ku $x_2$		lujvo					glare;nejni
+glaselblu	$x_1$ se ciblu lo glare	{glare}; {ciblu}	lujvo					glare;se;ciblu
+glatrotci	$x_1$ trotci lo glare		lujvo					glare;jitro;tutci
+glaze'a	$x_1$ zenba lo ka glare	{glare}; {zenba}	lujvo					glare;zenba
+glebre	$g_1$=$b_1$ bredi lo nu vo'a gletu $g_2$		lujvo					gletu;bredi
+glefantyta'u	$x_1$ taxfu $x_2$ lo ka ce'u fanta lo nu $x_2$ gletu da	.i .e'u lanli zo {taxfu} je zo {fanta} je zo {gletu}	lujvo					gletu;fanta;taxfu
+glepe'o	$x_1$ boi $x_2$ gletu gi'e pendo		lujvo		glepe'o			gletu;pendo
+glibau	$x_1$ bangu $x_2$ fi $x_3$ gi'e se cmene zo .inglic. gi'e jai se krasi tu'a lo gligu'e	srana fa zo {bangu} .e zo {gligu'e}	lujvo					glico;bangu
+glupreselkei	$x_1$ selkei $x_2$ gi'e prenu gi'e gluta $x_3$		lujvo					gluta;prenu;se;kelci
+gramykemjipselfa'u	$x_1$=$g_1$=$j_2$=$f_2$ noi se nilbra li ji'i no ku'o se jipno $x_2$=$j_1$=$f_4$ noi ve farlu vo'a ku'o gi'e grame $x_3$=$g_2$		lujvo					-gram-;ke;jipno;se;farlu
+greke'a	$x_1$=$k_1$ kevna $x_2$=$k_2$=$p_2$ .i je pagre ri $x_3$=$p_3$ $x_4$=$p_4$ fa $x_5$=$p_1$	lujvo fo lo tanru zo {pagre} zo {kevna} .i sa'enai da greke'a de di na'e bo di .inaja da greke'a le se pagbu be ge de gi di	lujvo					pagre;kevna
+gubgudytrusi'o	$x_1$ sidbo lo nu $x_2$ se turni kei $x_3$ se ti'i lo nu lo te gundi cu gubni	{gubni} {gundi} {turni} {sidbo}	lujvo		gubgudytrusi'o			gubni;gundi;turni;sidbo
+gubjungau	$j_1$ jungau fi $jg_3$=$g_1$ fe $jg_2$=$g_2$ $jg_4$ .ije $jg_3$=$g_1$ gubni $jg_2$=$g_2$		lujvo					gubni;djuno;gasnu
+gubytcita	$x_1$ tcita $x_2$ $x_3$ gi'e gubni $x_4$		lujvo					gubni;tcita
+guglypevgri	$x_1$ me la guglygri ku kibysnustu $x_2$ boi $x_3$ .i ta'u kibysnustu xoi te ciste fi la guglygri ku noi kibzva la'o zoi https://groups.google.com zoi		lujvo					gugle;pe'a;girzu
+guglyzamgri	$x_1$ me la guglygri ku kibysnustu $x_2$ boi $x_3$ .i ta'u kibysnustu xoi te ciste fi la guglygri ku noi kibzva la'o zoi https://groups.google.com zoi		lujvo					gugle;zai'e;girzu
+gugnai	$x_1$ natmi gi'e poi'i $x_2$ se kosmu ja se te se karxusa lo ka gugde ke'a	zo {natmi} .i zo {gugde} .i zo {kosmu} .i zo {karxusa}	lujvo					gugde;natmi
+gugykruca	lu'i $x_1$ noi ko'a gugde ke'a lu'u kruca lu'i zo'e noi na'e bo ko'a gugde ke'a lu'u $x_2$	{gugde} {kruca}	lujvo					gugde;kruca
+gu'irsutra	$x_1$ sutra $x_2$ setai lo gusni vetai loka sutra		lujvo					gusni;sutra
+gumni'i	$x1$ nibli $x2$ .ije $x1$ joi $x2$ nibli $x3$ .ije $x1$ joi $x2$ joi $x3$ nibli $x4$ .ije ...li'o		lujvo		nibli			gunma;nibli
+gunbre	$b_1$=$g_1$ bredi lo nu vo'a gunka $g_2$ $g_3$		lujvo					gunka;bredi
+gunde'a	$x_1$ ge cabybi'i lo nu $x_2$ co'a de'a gunka $x_3$ kei jo'u lo nu $x_2$ di'a gunka $x_3$ gi jai ze'a zifre fai $x_2$ lo ka ce'u surla	srana fa zo {surla} .e zo {zifre} .e zo {temci} .e zo {gunka} .e zo {jibri}	lujvo					gunka;denpa
+gunfrivei	$x_1$ vreji fi $x_2$ fo $x_3$ fe lo se ke lifri ja gunka ke'e be vo'i		lujvo					gunka;lifri;vreji
+gunrivzu'e	.i lo ka gunrivzu'e cu ka ce'u goi $x_1$ zukte lo ka ce'u rivbi lo ka ce'u gunka ce'u xi ci goi $x_2$ zo'e kei ce'u xi re goi $x_3$ kei zo'e		lujvo					gunka;rivbi;zukte
+gurmu'u	$x_1$ muvdu $x_2$ boi $x_3$ boi $x_4$ fau lo nu $x_1$ gunro $x_4$		lujvo					gunro;muvdu
+guskli	$k_1$ klina $k_2$=$g_1$ poi ke'a gusni		lujvo					gusni;klina
+gusli'i	$x1$ linji lo gusni be $x2$ bei $x3$		lujvo					gusni;linji
+gusminra	$x_1$ minra $x_2$ noi gusni vo'a $x_3$		lujvo					gusni;minra
+gusybatke	$b_1$ batke $b_2$ fo $b_4$ fi lo nu lo no'a ku jitro $g_3$ po'u lo gusni		lujvo					gusni;batke
+gusysli	$x_1$ slilu $x_2$ lo ka ce'u te gusni jo'u lo ka ce'u na te gusni		lujvo		gusysli			gusni;slilu
+gusysutmu'u	$x1$ sutra lonu $x1$ muvdu $x2$ $x3$ $x4$ kei tai lo gusni		lujvo					gusni;sutra;muvdu
+gutnerkla	$x_1$ $x_2$ nerkla gi'e gunta $x_3$		lujvo					gunta;nenri;klama
+jaxri'a	$x_1$ jai rinka $x_2$ $x_3$ fai $x_4$	simsa zo {jaxyki'u} je zo {jaxmu'i}	lujvo					jai;rinka
+jaxspo	.i lo ka ce'u goi $x_1$ jaxspo ce'u goi $x_2$ ce'u goi $x_3$ cu ka ce'u goi $x_1$ jai daspo ce'u goi $x_2$ fai ce'u $x_3$	.i .e'u ko catlu zo'e pe zo {jai} .e zo {daspo}	lujvo					jai;daspo
+jaxtcica	$x_1$ jai tcica $x_2$ $x_3$ fai $x_4$		lujvo					jai;tcica
+jaxyclira	$x_1$ jai clira $x_2$ fai $x_3$		lujvo					jai;clira
+jaxydicra	$x_1$ jai dicra $x_2$ $x_3$ fai $x_4$		lujvo					jai;dicra
+jaxyjde	$x_1$ jai kajde $x_2$ $x_3$ fai $x_4$		lujvo					jai;kajde
+jaxyjenca	$x_1$ jai jenca $x_2$ fai $x_3$		lujvo					jai;jenca
+jaxyjursa	$x_1$ jai jursa $x_2$ fai $x_3$		lujvo					jai;jursa
+jaxyka'a	$x_1$ jai katna $x_2$ $x_3$ fai $x_4$		lujvo					jai;katna
+jaxyki'u	$x_1$ jai krinu $x_2$ fai $x_3$	simsa zo {jaxri'a} je zo {jaxmu'i}	lujvo					jai;krinu
+jaxyvlile	$x_1$ jai vlile fai $x_2$		lujvo					jai;vlile
+jaxyxai	$x_1$ jai xrani $x_2$ $x_3$ $x_4$ fai $x_5$		lujvo					jai;xrani
+jaxyxaksu	$x_1$ jai xaksu $x_2$ fai $x_3$		lujvo					jai;xaksu
+jbebau	$x_1$ bangu gi'e poi'i su'o da co'a lo nu $x_2$ jbena cu tavla $x_2$ zi'o ke'a	srana fa zo {jbena} .e zo {bangu} .e zo {jbegu'e} .e zo {verclibau} .e zo {jbojbe}	lujvo		jbebau			jbena;bangu
+jbegu'e	$x_1$ gugde $x_2$ gi'e jai bu'u jbena fai $x_2$	srana fa zo {jbena} .e zo {gugde} .e zo {jbebau} .e zo {krasi}	lujvo		jbegu'e			jbena;gugde
+jbeseltei	$x_2$ temci lo nu $x_1$ jbena kei lo cabna		lujvo					jbena;se;temci
+jbetei	fasnu fa lo se temci be $x_1$ bei lo nu $x_2$ jbena		lujvo					jbena;temci
+jbijikca	$x_1$ jbini je jikca $x_2$	{jbini}; {jikca}	lujvo					jibni;jikca
+jbili'u	$x1$ litru lo jibni be $x2$ $x3$		lujvo					jibni;litru
+jbisimgau	$x_1$ gasnu lo nu $x_2$ simxu lo ka ce'u ce'u jibni $x_3$	{jibni}; {simxu}; {gasnu}	lujvo					jibni;simxu;gasnu
+jbobadna	to nalri'i toi $x_1$ jbopre		lujvo					lojbo;badna
+jbobau	$x_1$ bangu $x_2$ fi $x_3$ gi'e me la .lojban.	srana fa zo {lojbo}	lujvo					lojbo;bangu
+jbobausmi	$s_1$ simsa la lojban $s_3$	.e'u ko tcidu la'e zo {lojban} lu'u .e la'e zo {simsa} lu'u .e la'e zo {jbobau}	lujvo					lojbo;bangu;simsa
+jbocre	$x_1$ certu lo ka pilno lo jbobau	srana fa zo {certu} .e zo {jbobau}	lujvo					lojbo;certu
+jbojbe	$l_1$=$j_1$ co'a lojbo ba zi lo nu vo'a jbena .i sa'e su'o pa rirni be lo go'i cu ro roi tavla lo go'i fo lo jbobau po'o		lujvo					lojbo;jbena
+jboklu	$l_1$=$k_1$ lojbo lo kulnu	from {lojbo} and {kulnu}	lujvo					lojbo;kulnu
+jbole'u	$le_1$=$lo_1$ lerfu le lojbo ku $le_3$	.e'u ko viska tu'a la'e zo {lerfu}	lujvo					lojbo;lerfu
+jbonunsla	.i lo ka jbonunsla cu ka ko'a ko'e ko'i ko'o ce'ai ce'u goi $x_1$ nu ko'a goi $x_2$ salci ko'e goi $x_3$ zi'e noi ke'a lojbo  ko'i goi $x_4$ ku'o ko'o goi $x_5$	.i .e'u catlu ge zo'e ne zo {salci} gi zo'e ne zo {lojbo}	lujvo					lojbo;nu;salci
+jbopre	$x_1$ prenu gi'e lojbo $x_2$	srana fa zo {prenu} .e zo {lojbo}	lujvo					lojbo;prenu
+jbosarxe	$x_1$ sarxe lo'e te flese ja se pensi ja kulnu poi lojbo ku $x_2$		lujvo					lojbo;sarxe
+jboselbau	$x_1$ se bangu $x_2$ noi jbobau ku'o $x_3$		lujvo					lojbo;se;bangu
+jboselkei	$x_1$ se kelci $x_2$ gi'e lojbo $x_3$	{lojbo} {se} {kelci}	lujvo					lojbo;se;kelci
+jbosnu	$x_1$ simxu lo ka ce'u ce'u tavla $x_2$ lo jbobau	srana fa zo {casnu} .e zo {jbobau}	lujvo					lojbo;casnu
+jbovla	$x_1$ valsi $x_2$ lo jbobau		lujvo					lojbo;valsi
+jbovlaste	$x_1$ liste $x_2$ noi jbovla vau $x_3$ fo $x_4$	srana fa zo {vlaste} .e zo {jbovla}	lujvo					lojbo;valsi;liste
+jdagu'epa'i	$x_1$ troci lo nu lo lijda cu flalu fi loi se gugde be $x_2$ kei je cu gugypa'i $x_2$		lujvo					lijda;gugde;prami
+jdaske	$x_1$=$s_1$ saske lo si'o lijda ku $x_2$=$s_3$		lujvo					lijda;saske
+jecra'a	$x_1$ srana lo jecta be $x_2$	{jecta} {srana}	lujvo					jecta;srana
+jecybriju	$x_1$ briju $x_2$ noi ke'a fuzme lo nu $x_3$ se jecta	{jecta} {briju}	lujvo		jecybriju			jecta;briju
+jecyxlube'e	$x_1$ bende $x_2$ boi $x_3$ lo nu xlura lo jecta be $x_4$	{jecta} {xlura} {bende}	lujvo		jecyxlube'e			jecta;xlura;bende
+jefydeidetri	$x_1$ goi ko'a detri $x_2$ boi $x_3$ .ije $x_1$ sinxa lo mo'e ko'a moi be lu'i ro djedi be li pa bei $x_3$ be'o poi pagbu lo jeftu be li pa bei $x_3$	.i {jeftu} zei {djedi} zei {detri} .i srana zo {de'i'u} .e zo {detke'u} to lo terbri cu se manri lo si'o zasni jbotamgau zo {detri} jo'u zo {ciste} toi	lujvo				de'i'u	jeftu;djedi;detri
+jelka'e	$x_1$ kakne lo ka jelca kei $x_2$	{jelca}; {kakne}	lujvo					jelca;kakne
+jenselte'a	$x1$ jenca $x2$ gi'e se terpa $x2$		lujvo					jenca;se;terpa
+jente'a	$x1$ terpa $x2$ noi jenca $x1$		lujvo					jenca;terpa
+jetfrica	lo jezyje'u be $x_1$ cu dubyfrica lo jezyje'u be $x_2$	srana fa zo {jetydu'i} .e zo {dubyfrica}	lujvo					jetnu;frica
+jetlai	$x_1$ klani $x_2$ le ka ce'u jetnu $x_3$ kei $x_4$	{jetnu} {klani}; {jei}	lujvo		jetlai			jetnu;klani
+jetmlu	$x_1$ simlu fi $x_2$ fe lo ka ce'u $x_3$ jetnu	srana fa zo {faumlu}	lujvo					jetnu;simlu
+jetrinsku	$x_2$ jetnu ki'u lo nu ri se smusku $x_1$	srana fa zo {ca'e}	lujvo					jetnu;krinu;cusku
+jetydu'i	lo jezyje'u be $x_1$ cu dubdu'i lo jezyje'u be $x_2$	srana fa zo {jetfrica} .e zo {zilvlina} .e zo {zilkanxe} .e zo {go} .e zo {jo} .e zo {gi'o} .e zo .{o}	lujvo					jetnu;dunli
 je'u nai	tcita le se cusku le du'u la'e ri jitfa	{je'u} {nai}; {jitfa}	cmavo-compound	UI*
 jidge	$x_1$ se gaurtcini fi $x_2$ va'o $x_3$		experimental gismu			jidge
-jezyje'u	$x_1$ fe $x_3$ jei $x_2$ fatci	srana fa zo {jei}	lujvo					jei,jetnu
-jgidu'esku	$x1$ cusku $x2$ noi $x1$ dukse loka $x1$ jgira ke'a ku'o $x3$ $x4$		lujvo					jgira,dukse,cusku
-jibybre	$b_1$=$j_2$ bredi lo nu $j_1$ jibri vo'a		lujvo					jibri,bredi
-jibykai	.i $x_1$ ckaji lo jibri be $x_1$	.i .e'u zgana ge zo'e ne zo {gunka} gi zo'e ne zo {jibri}	lujvo					jibri,ckaji
-ji'eske	$x_1$=$s_1$ saske lo si'o jmive ku $x_2$=$s_3$		lujvo					jmive,saske
-jifkritrazu'e	$x_1$ zukte lo ka ce'u tarti $x_2$ kei lo nu $x_3$ krici $x_4$ noi ke'a jitfa $x_5$		lujvo		jifkritrazu'e			jitfa,krici,tarti,zukte
-jifmlu	$x_1$ simlu lo ka ce'u jitfa $x_3$ kei $x_2$		lujvo					jitfa,simlu
-jifyjunxu'a	$x_1$ xusra $x_2$ noi $x_1$ djuno lo du'u ke'a jitfa $x_3$		lujvo		jifyjunxu'a			jitfa,djuno,xusra
-jigycitri	$x_1$ citri $x_2$ fi $x_3$ noi ke'a jinga fi vo'e $x_4$	lujvo ve fi'e lo si'o loi jinga loi citri cu finti .i ka'e se pilno do'e lo pa mei valsi jufra lo ka cusku lu'e la'e di'u .i lo se jinga na te lujvo ki'u lo nu la'a lo se jinga cu za'i finti loi citri be loi te jinga	lujvo		citri fi loi jinga;jinga citri			jinga,citri
-ji'isku	$x_1$=$j_1$=$c_1$ cusku $x_2$=$c_2$ noi vo'a jinvi la'e ke'a $x_3$=$j_3$ $x_6$=$j_4$ ku'o $x_4$=$c_3$ $x_5$=$c_4$		lujvo		ji'isku			jinvi,cusku
-ji'isre	$x_1$ srera lo ka ce'u jinvi $x_2$ boi $x_3$		lujvo					jinvi,srera
-jikci'e	$x_1$ jikca ciste (to mi tatpi .i ba ...		lujvo		jikci'e			jikca,ciste
-jikfanta	$x_1$ fanta lo nu $x_2$ vo'a jikca	ra'u srana lo kibro	lujvo					jikca,fanta
-jikmenbi'a	$x_1$ menbi'a $x_2$ noi srana lo nu jikca kei $x_3$	{jikca} {menbi'a} {menli} {bilma} {ka'enri'u}	lujvo		jikmenbi'a			jikca,menli,bilma
-jikselvai	$x_1$=$v_2$ se vajni leka ce'u jikca $x_2$=$j_2$ kei $x_3$=$v_3$		lujvo		jikselvai			jikca,se,vajni
-jiksi'u	$x_1$ simxu lo ka ce'u ce'u jikca	{jikca}; {simxu}	lujvo					jikca,simxu
-jiktra	$x_1$ tarti $x_2$ lo nu $x_1$ jikca $x_3$		lujvo					jikca,tarti
-jilkemdicysro	$s_1$ $s_3$ dicysro se ma'e loi jilra	.e'u ko zgana tu'a zo dicysro .e zo jilka	lujvo					jilka,ke,dikca,sorcu
-jimbo'i	$b_1$ botpi $b_2$ loi jinme $b_4$		lujvo					jinme,botpi
-jincyba'e	$b_1$ balre $j_1$ po'u lo jinci		lujvo					jinci,balre
-jinmapku	$x1$ mapku $x2$ gi'e djine $x2$		lujvo					djine,mapku
-jipcyfe'i	$x1$ fetsi $x2$ gi'e jipci $x2$		lujvo					jipci,fetsi
-jirvi'odja	$x_1$ cidja gi'e vitno lo ka ce'u cidja kei ri'a lo nu $x_1$ jinru $x_2$	.i $x_2$ ka'e mu'a {silna} gi'a {slami} gi'a {xalka} gi'a {sakta} gi'a {bicysakta} gi'a {sobysanso} gi'a {furso'epesxu} gi'a {mledi} {pesxu} mu'anai .i {jinru} {vitno} {cidja} .i ko karbi lo dei valsi zo {slamystogau}	lujvo					jinru,vitno,cidja
-jisrycfu	$x_1$ ricfu lo jisra	{jisra}; {ricfu}	lujvo					jisra,ricfu
-jisystota'u	$x1$ taxfu $x2$ lonu $x2$ stodi loka $x2$ jinsa $x3$		lujvo					jinsa,stodi,taxfu
-jitcau	$x_1$ claxu lo ka da jimte ce'u $x_2$	{jimte}; {claxu}; {cimni}	lujvo					jimte,claxu
-jmatamji	$t_1$ tamji $t_2$=$j_1$ po'u lo jamfu lo $t_3$=$j_2$.	.e'u ko tcidu tu'a zo {xantamji} .e zo {tamji}.	lujvo					jamfu,tamji
-jmivyckape	$x_1$ ka'e rinka lo nu $x_2$ morsi		lujvo					jmive,ckape
-jonma'o	$x_1$ cmavo $x_2$ le du'u $x_3$ jorne $x_4$ boi $x_1$ kei $x_5$	{jorne} {cmavo}; {ja}, {je}, {jo}, {ju}, {je'i}; {ga}, {ge}, {go}, {gu}, {ge'i}; {a}, {e}, {o}, {u}, {ji}; {gi'a}, {gi'e}, {gi'o}, {gi'u}, {gi'i}; {gu'a}, {gu'e}, {gu'o}, {gu'u}, {gu'i}; {joi}, {ce}, {ce'o}, {jo'u}, {fa'u}, {jo'e}, {ku'a}, {pi'u}; {bi'i}	lujvo		jonma'o			jorne,cmavo
-jonsi'u	$x_1$ simxu le ka ce'u ce'u jorne $x_2$	{jorne} {simxu}	lujvo		jonsi'u			jorne,simxu
-jonsumji	ro cmima be $x_2$ .a $x_3$ cu cmima $x_1$ ije ro cmima be $x_1$ cu smima $x_2$ .a $x_3$	{jorne} {sumji}; {jo'e}; {terkruca}	lujvo		jonsumji			jorne,sumji
+jezyje'u	$x_1$ fe $x_3$ jei $x_2$ fatci	srana fa zo {jei}	lujvo					jei;jetnu
+jgidu'esku	$x1$ cusku $x2$ noi $x1$ dukse loka $x1$ jgira ke'a ku'o $x3$ $x4$		lujvo					jgira;dukse;cusku
+jibybre	$b_1$=$j_2$ bredi lo nu $j_1$ jibri vo'a		lujvo					jibri;bredi
+jibykai	.i $x_1$ ckaji lo jibri be $x_1$	.i .e'u zgana ge zo'e ne zo {gunka} gi zo'e ne zo {jibri}	lujvo					jibri;ckaji
+ji'eske	$x_1$=$s_1$ saske lo si'o jmive ku $x_2$=$s_3$		lujvo					jmive;saske
+jifkritrazu'e	$x_1$ zukte lo ka ce'u tarti $x_2$ kei lo nu $x_3$ krici $x_4$ noi ke'a jitfa $x_5$		lujvo		jifkritrazu'e			jitfa;krici;tarti;zukte
+jifmlu	$x_1$ simlu lo ka ce'u jitfa $x_3$ kei $x_2$		lujvo					jitfa;simlu
+jifyjunxu'a	$x_1$ xusra $x_2$ noi $x_1$ djuno lo du'u ke'a jitfa $x_3$		lujvo		jifyjunxu'a			jitfa;djuno;xusra
+jigycitri	$x_1$ citri $x_2$ fi $x_3$ noi ke'a jinga fi vo'e $x_4$	lujvo ve fi'e lo si'o loi jinga loi citri cu finti .i ka'e se pilno do'e lo pa mei valsi jufra lo ka cusku lu'e la'e di'u .i lo se jinga na te lujvo ki'u lo nu la'a lo se jinga cu za'i finti loi citri be loi te jinga	lujvo		citri fi loi jinga;jinga citri			jinga;citri
+ji'isku	$x_1$=$j_1$=$c_1$ cusku $x_2$=$c_2$ noi vo'a jinvi la'e ke'a $x_3$=$j_3$ $x_6$=$j_4$ ku'o $x_4$=$c_3$ $x_5$=$c_4$		lujvo		ji'isku			jinvi;cusku
+ji'isre	$x_1$ srera lo ka ce'u jinvi $x_2$ boi $x_3$		lujvo					jinvi;srera
+jikci'e	$x_1$ jikca ciste (to mi tatpi .i ba ...		lujvo		jikci'e			jikca;ciste
+jikfanta	$x_1$ fanta lo nu $x_2$ vo'a jikca	ra'u srana lo kibro	lujvo					jikca;fanta
+jikmenbi'a	$x_1$ menbi'a $x_2$ noi srana lo nu jikca kei $x_3$	{jikca} {menbi'a} {menli} {bilma} {ka'enri'u}	lujvo		jikmenbi'a			jikca;menli;bilma
+jikselvai	$x_1$=$v_2$ se vajni leka ce'u jikca $x_2$=$j_2$ kei $x_3$=$v_3$		lujvo		jikselvai			jikca;se;vajni
+jiksi'u	$x_1$ simxu lo ka ce'u ce'u jikca	{jikca}; {simxu}	lujvo					jikca;simxu
+jiktra	$x_1$ tarti $x_2$ lo nu $x_1$ jikca $x_3$		lujvo					jikca;tarti
+jilkemdicysro	$s_1$ $s_3$ dicysro se ma'e loi jilra	.e'u ko zgana tu'a zo dicysro .e zo jilka	lujvo					jilka;ke;dikca;sorcu
+jimbo'i	$b_1$ botpi $b_2$ loi jinme $b_4$		lujvo					jinme;botpi
+jincyba'e	$b_1$ balre $j_1$ po'u lo jinci		lujvo					jinci;balre
+jinmapku	$x1$ mapku $x2$ gi'e djine $x2$		lujvo					djine;mapku
+jipcyfe'i	$x1$ fetsi $x2$ gi'e jipci $x2$		lujvo					jipci;fetsi
+jirvi'odja	$x_1$ cidja gi'e vitno lo ka ce'u cidja kei ri'a lo nu $x_1$ jinru $x_2$	.i $x_2$ ka'e mu'a {silna} gi'a {slami} gi'a {xalka} gi'a {sakta} gi'a {bicysakta} gi'a {sobysanso} gi'a {furso'epesxu} gi'a {mledi} {pesxu} mu'anai .i {jinru} {vitno} {cidja} .i ko karbi lo dei valsi zo {slamystogau}	lujvo					jinru;vitno;cidja
+jisrycfu	$x_1$ ricfu lo jisra	{jisra}; {ricfu}	lujvo					jisra;ricfu
+jisystota'u	$x1$ taxfu $x2$ lonu $x2$ stodi loka $x2$ jinsa $x3$		lujvo					jinsa;stodi;taxfu
+jitcau	$x_1$ claxu lo ka da jimte ce'u $x_2$	{jimte}; {claxu}; {cimni}	lujvo					jimte;claxu
+jmatamji	$t_1$ tamji $t_2$=$j_1$ po'u lo jamfu lo $t_3$=$j_2$.	.e'u ko tcidu tu'a zo {xantamji} .e zo {tamji}.	lujvo					jamfu;tamji
+jmivyckape	$x_1$ ka'e rinka lo nu $x_2$ morsi		lujvo					jmive;ckape
+jonma'o	$x_1$ cmavo $x_2$ le du'u $x_3$ jorne $x_4$ boi $x_1$ kei $x_5$	{jorne} {cmavo}; {ja}, {je}, {jo}, {ju}, {je'i}; {ga}, {ge}, {go}, {gu}, {ge'i}; {a}, {e}, {o}, {u}, {ji}; {gi'a}, {gi'e}, {gi'o}, {gi'u}, {gi'i}; {gu'a}, {gu'e}, {gu'o}, {gu'u}, {gu'i}; {joi}, {ce}, {ce'o}, {jo'u}, {fa'u}, {jo'e}, {ku'a}, {pi'u}; {bi'i}	lujvo		jonma'o			jorne;cmavo
+jonsi'u	$x_1$ simxu le ka ce'u ce'u jorne $x_2$	{jorne} {simxu}	lujvo		jonsi'u			jorne;simxu
+jonsumji	ro cmima be $x_2$ .a $x_3$ cu cmima $x_1$ ije ro cmima be $x_1$ cu smima $x_2$ .a $x_3$	{jorne} {sumji}; {jo'e}; {terkruca}	lujvo		jonsumji			jorne;sumji
 jisrnxananase	$x_1$ jisra $x_2$ po'u loi grutrxananase		fu'ivla			jisrnxananase
 jo'atnu	$x_1$ jetnu jonai jitfa	zo {jo'a} .e zo {jetnu} krasi gi'e srana .i zo {jitfa} .e zo {na'itfa} srana	fu'ivla			jo'atnu
 jo'ai	galfi lo porsi no'u lo selbritcita ce'o lo selbrisle lo selbrisle i je lo terbri be lo selbrisle cu stodi lo ka porsi ma kau	i mupli fa lu citno jo'ai ba'o jatna li'u e lu jo'ai ba'o se cliva zdadi'u li'u i srana zo {jai}	experimental cmavo	JAI
@@ -1526,41 +1526,41 @@ ka'a	fi'o {klama}	{klama}	cmavo	BAI	ka'a
 ka'e	fi'o se cumki	{cumki}	cmavo	CAhA	ka'e
 ka'i	fi'o {krati}	{krati}	cmavo	BAI	ka'i
 kai	fi'o {ckaji}	{ckaji}	cmavo	BAI	kai
-judgau	$x_1$ gasnu le nu $x_2$ jundi $x_3$	{jundi} {gasnu}; {ju'i}	lujvo		judgau			jundi,gasnu
-jufmei	$x_1$ su'omei lo'i jufra be $x_2$ be'o $x_3$	{jufra} zei {mei}; {ni'o}, {no'i}	lujvo		jufmei			jufra,mei
-jufsle	$j_1 = s_1$ jufra $j_2$ $j_3$ gi'e selci lo jufra .i va'i le go'i na selpau zo .i gi'e ka'e selpau zo zo'u	srana zo {jufra} .e zo {jufmei}	lujvo					jufra,selci
-juknyxarju	$x_1$ ckaji ro selkai be lo jukni xarju		lujvo					jukni,xarju
-jukyju'e	$x_1$ julne gi'e se jivbu lo jukni te zu'e lo nu kavbu lo cinki		lujvo		jukyju'e			jukni,julne
-jungau	$x_1$ gasnu le nu $x_2$ djuno $x_3$ boi $x_4$ boi $x_5$	{djuno} {gasnu}	lujvo		jungau			djuno,gasnu
-juntycau	.i $x_1$ claxu lo ka makau ce'u $x_2$ junta	.i simsa zo nonseljunta	lujvo					junta,claxu
-ju'odji	$x_1$ djica lo nu $x_1$ djuno lo du'u $x_2$ brije'u ma kau		lujvo					djuno,djica
-jupkosta	$x_1$ kosta gi'e jai bandu lo selpi'a taxfu lo nu ri co'u jinsa kei gi'e na'o se dasni ca lo nu jukpa kei		lujvo					jukpa,kosta
-jupsfe	$x_1$ sefta $x_3$ gi'e jai te jukpa $x_2$	simsa zo {toknu} lo ka sumti be ce'u stura	lujvo					jukpa,sefta
-jutlei	$x_1$ klesi $x_2$ noi jutsi		lujvo					jutsi,klesi
-jutmi'u	$x_1$ dunli $x_2$ lo ka ce'u ce'u jutlei		lujvo					jutsi,mintu
-juvykanxe	$x_1$ kanxe $x_2$ le vlina be $x_3$ bei le natfe be $x_3$	{kanxe}; {vlina}; {natfe}; {ju}; {gu}; {u}; {gi'u}; {gu'u}	lujvo		juvykanxe			ju,kanxe
-jvilu'a	$x1$ pluta $x2$ $x3$ $x4$ gi'e jai te jivna		lujvo					jivna,pluta
-jvocmevla	$x_1$ cmevla $x_2$ la .lojban. gi'e simsa lo lujvo lo ka ce'u porsi fi lo rafsi kei gi'e ku'i se fanmo lo rafsi poi na ka'e fanmo lo lujvo	.i mu'a zo .{lojban}. .e zo .{mergug}. .e zo .{camgusmis}. cu jvocmevla .i li'a fi'o catni ku lo jvocmevla cu cmevla po'o .ije ku'i so'eroiku lo rafpoi cu ve jinvi fi lo smuni .i ko catlu zo {cmevla} .e zo {lujvo} ji'a	lujvo					lujvo,cmene,valsi
-jvofi'i	$f_1$ finti $l_1$=$f_2$ poi ke'a lujvo $l_2$=$f_3$ $l_3$ $l_4$=$f_4$		lujvo					lujvo,finti
-jvomi'u	$m_1$=$l_1$ poi ke'a lujvo cu mintu $m_2$=$l_1$ poi ke'a lujvo ku'o lo gerna be la lojban		lujvo					lujvo,mintu
-jvotau	$x_1$ veljvo fo $x_2$		lujvo					lujvo,tanru
-ka'arvi'u	$x1$ vimcu $x2$ $x3$ $x4$ gi'e katna $x3$ $x2$ jo'u $x4$		lujvo					katna,vimcu
-kacmyxra	$x_1$ pixra $x_2$ boi $x_3$ boi $x_4$ se pi'o lo kacma	{kacma} {pixra}	lujvo		kacmyxra			kacma,pixra
-ka'ecli	$x_1$ fe $x_2$ se ja'e gi tadni ja .ecre gi co'a kakne ja certu	zo {kakne} .i zo {certu} .i zo {cilre} .i zo {tadni} .i zo .{ecre} .i lo ka'ecli na bi'ai zukte lo ka ka'ecli	lujvo					kakne,cilre
-ka'ectu	$x_1$ gidva ja sidju $x_2$ lo ka ka'ecli $x_3$	zo {kakne} .i zo {ka'ecli} .i zo {ctuca} .i zo {gidva} .i zo {sidju}	lujvo					kakne,ctuca
-ka'enri'u	$x_1$ rinju $x_2$ boi $x_3$ noi ke'a se kakne	{kakne} {rinju} {tolka'e} {xadri'u} {menri'u} {menbi'a}	lujvo		ka'enri'u			kakne,rinju
-kafybarja	$b_1$ barja $b_2$=$c_1$ po'u loi ckafi ku $b_3$	.e'u ko tcidu tu'a zo {crekafpra} .e zo {kafpra}	lujvo					ckafi,barja
-kaicne	$x_1$ ki'icne lo ka ce'u ce'u ckaji kei $x_2$ fi $x_3$	srana fa zo {ki'icne} .e zo {cenba} .e zo {xruti}	lujvo					ckaji,cenba
-kaidji	$x_1$ djica lo nu ckaji $x_2$ kei $x_3$		lujvo					ckaji,djica
-kaidza	.i lo ka kaidza cu ka ko'a ko'e ce'ai vei mo'e ko'a goi $x_1$ da zo'u da me'au ko'e goi $x_2$	.i selbri fi'o smuni zo'e ne zo da .i mu'a go li ro kaidza lo ka ce'u broda gi ro da zo'u da broda .i zo kaidza mintu zo {dzadza}	lujvo					ckaji,da
-kaikla	$x_1$ klama lo stuzi poi bu'u ke'a $x_1$ ckaji $x_2$ .i $x_1$ zukte lo ka klama lo stuzi kei lo nu bu'u ri $x_1$ ckaji $x_2$	kaikla lo ka citka (= {ctikla})	lujvo		kaikla			ckaji,klama
-kainrelmei	$x_1$ cu re mei lo ro ckaji be $x_2$	{ckaji}; {re}; {mei}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}	lujvo					ckaji,re,mei
-kainrolmei	$x_1$ cu ro mei lo ro ckaji be $x_2$	{ckaji}; {ro}; {mei}; {olkai}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji,ro,mei
-kairbazmei	$x_1$ cu rau mei lo ro ckaji be $x_2$ gi'e jai banzu fai lo ka ce'u memkai li xo kau kei $x_3$	{ckaji}; {rau}; {mei}; {banzu}; {memkai}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairdusmei}; {kairmobmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji,banzu,mei
-kaircu'a	$x_1$ cuxna le du'u $x_2$ ckaji $x_4$ kei lu'i ro da poi cmima $x_3$ zo'u le du'u da ckaji $x_4$		lujvo					ckaji,cuxna
-kairdu'a	gau $x_1$ ckaji $x_2$ fa $x_3$		lujvo					ckaji,dunda
-kairdusmei	$x_1$ cu du'e mei lo ro ckaji be $x_2$ gi'e dukse lo ka ce'u memkai li xo kau kei $x_3$	{ckaji}; {du'e}; {mei}; {dukse}; {memkai}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairbazmei}; {kairmobmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji,dukse,mei
-kairji'i	$x_1$ jinvi lo du'u $x_2$ ckaji $x_3$ kei $x_2$ $x_4$		lujvo					ckaji,jinvi
+judgau	$x_1$ gasnu le nu $x_2$ jundi $x_3$	{jundi} {gasnu}; {ju'i}	lujvo		judgau			jundi;gasnu
+jufmei	$x_1$ su'omei lo'i jufra be $x_2$ be'o $x_3$	{jufra} zei {mei}; {ni'o}, {no'i}	lujvo		jufmei			jufra;mei
+jufsle	$j_1 = s_1$ jufra $j_2$ $j_3$ gi'e selci lo jufra .i va'i le go'i na selpau zo .i gi'e ka'e selpau zo zo'u	srana zo {jufra} .e zo {jufmei}	lujvo					jufra;selci
+juknyxarju	$x_1$ ckaji ro selkai be lo jukni xarju		lujvo					jukni;xarju
+jukyju'e	$x_1$ julne gi'e se jivbu lo jukni te zu'e lo nu kavbu lo cinki		lujvo		jukyju'e			jukni;julne
+jungau	$x_1$ gasnu le nu $x_2$ djuno $x_3$ boi $x_4$ boi $x_5$	{djuno} {gasnu}	lujvo		jungau			djuno;gasnu
+juntycau	.i $x_1$ claxu lo ka makau ce'u $x_2$ junta	.i simsa zo nonseljunta	lujvo					junta;claxu
+ju'odji	$x_1$ djica lo nu $x_1$ djuno lo du'u $x_2$ brije'u ma kau		lujvo					djuno;djica
+jupkosta	$x_1$ kosta gi'e jai bandu lo selpi'a taxfu lo nu ri co'u jinsa kei gi'e na'o se dasni ca lo nu jukpa kei		lujvo					jukpa;kosta
+jupsfe	$x_1$ sefta $x_3$ gi'e jai te jukpa $x_2$	simsa zo {toknu} lo ka sumti be ce'u stura	lujvo					jukpa;sefta
+jutlei	$x_1$ klesi $x_2$ noi jutsi		lujvo					jutsi;klesi
+jutmi'u	$x_1$ dunli $x_2$ lo ka ce'u ce'u jutlei		lujvo					jutsi;mintu
+juvykanxe	$x_1$ kanxe $x_2$ le vlina be $x_3$ bei le natfe be $x_3$	{kanxe}; {vlina}; {natfe}; {ju}; {gu}; {u}; {gi'u}; {gu'u}	lujvo		juvykanxe			ju;kanxe
+jvilu'a	$x1$ pluta $x2$ $x3$ $x4$ gi'e jai te jivna		lujvo					jivna;pluta
+jvocmevla	$x_1$ cmevla $x_2$ la .lojban. gi'e simsa lo lujvo lo ka ce'u porsi fi lo rafsi kei gi'e ku'i se fanmo lo rafsi poi na ka'e fanmo lo lujvo	.i mu'a zo .{lojban}. .e zo .{mergug}. .e zo .{camgusmis}. cu jvocmevla .i li'a fi'o catni ku lo jvocmevla cu cmevla po'o .ije ku'i so'eroiku lo rafpoi cu ve jinvi fi lo smuni .i ko catlu zo {cmevla} .e zo {lujvo} ji'a	lujvo					lujvo;cmene;valsi
+jvofi'i	$f_1$ finti $l_1$=$f_2$ poi ke'a lujvo $l_2$=$f_3$ $l_3$ $l_4$=$f_4$		lujvo					lujvo;finti
+jvomi'u	$m_1$=$l_1$ poi ke'a lujvo cu mintu $m_2$=$l_1$ poi ke'a lujvo ku'o lo gerna be la lojban		lujvo					lujvo;mintu
+jvotau	$x_1$ veljvo fo $x_2$		lujvo					lujvo;tanru
+ka'arvi'u	$x1$ vimcu $x2$ $x3$ $x4$ gi'e katna $x3$ $x2$ jo'u $x4$		lujvo					katna;vimcu
+kacmyxra	$x_1$ pixra $x_2$ boi $x_3$ boi $x_4$ se pi'o lo kacma	{kacma} {pixra}	lujvo		kacmyxra			kacma;pixra
+ka'ecli	$x_1$ fe $x_2$ se ja'e gi tadni ja .ecre gi co'a kakne ja certu	zo {kakne} .i zo {certu} .i zo {cilre} .i zo {tadni} .i zo .{ecre} .i lo ka'ecli na bi'ai zukte lo ka ka'ecli	lujvo					kakne;cilre
+ka'ectu	$x_1$ gidva ja sidju $x_2$ lo ka ka'ecli $x_3$	zo {kakne} .i zo {ka'ecli} .i zo {ctuca} .i zo {gidva} .i zo {sidju}	lujvo					kakne;ctuca
+ka'enri'u	$x_1$ rinju $x_2$ boi $x_3$ noi ke'a se kakne	{kakne} {rinju} {tolka'e} {xadri'u} {menri'u} {menbi'a}	lujvo		ka'enri'u			kakne;rinju
+kafybarja	$b_1$ barja $b_2$=$c_1$ po'u loi ckafi ku $b_3$	.e'u ko tcidu tu'a zo {crekafpra} .e zo {kafpra}	lujvo					ckafi;barja
+kaicne	$x_1$ ki'icne lo ka ce'u ce'u ckaji kei $x_2$ fi $x_3$	srana fa zo {ki'icne} .e zo {cenba} .e zo {xruti}	lujvo					ckaji;cenba
+kaidji	$x_1$ djica lo nu ckaji $x_2$ kei $x_3$		lujvo					ckaji;djica
+kaidza	.i lo ka kaidza cu ka ko'a ko'e ce'ai vei mo'e ko'a goi $x_1$ da zo'u da me'au ko'e goi $x_2$	.i selbri fi'o smuni zo'e ne zo da .i mu'a go li ro kaidza lo ka ce'u broda gi ro da zo'u da broda .i zo kaidza mintu zo {dzadza}	lujvo					ckaji;da
+kaikla	$x_1$ klama lo stuzi poi bu'u ke'a $x_1$ ckaji $x_2$ .i $x_1$ zukte lo ka klama lo stuzi kei lo nu bu'u ri $x_1$ ckaji $x_2$	kaikla lo ka citka (= {ctikla})	lujvo		kaikla			ckaji;klama
+kainrelmei	$x_1$ cu re mei lo ro ckaji be $x_2$	{ckaji}; {re}; {mei}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}	lujvo					ckaji;re;mei
+kainrolmei	$x_1$ cu ro mei lo ro ckaji be $x_2$	{ckaji}; {ro}; {mei}; {olkai}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji;ro;mei
+kairbazmei	$x_1$ cu rau mei lo ro ckaji be $x_2$ gi'e jai banzu fai lo ka ce'u memkai li xo kau kei $x_3$	{ckaji}; {rau}; {mei}; {banzu}; {memkai}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairdusmei}; {kairmobmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji;banzu;mei
+kaircu'a	$x_1$ cuxna le du'u $x_2$ ckaji $x_4$ kei lu'i ro da poi cmima $x_3$ zo'u le du'u da ckaji $x_4$		lujvo					ckaji;cuxna
+kairdu'a	gau $x_1$ ckaji $x_2$ fa $x_3$		lujvo					ckaji;dunda
+kairdusmei	$x_1$ cu du'e mei lo ro ckaji be $x_2$ gi'e dukse lo ka ce'u memkai li xo kau kei $x_3$	{ckaji}; {du'e}; {mei}; {dukse}; {memkai}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairbazmei}; {kairmobmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji;dukse;mei
+kairji'i	$x_1$ jinvi lo du'u $x_2$ ckaji $x_3$ kei $x_2$ $x_4$		lujvo					ckaji;jinvi
 greku zei uidje	$u_1$=$g_1$ greku lo uidje po'u $g_2$ ge'u gi'e uidje $u_2$		zei-lujvo
 gambaru	$x_1$ fu'inai ku'i a'i zukte ja gunka $x_2$ tezu'e $x_3$		fu'ivla			gambaru
 ganbaru	$x_1$ fu'inai ku'i a'i zukte ja gunka $x_2$ tezu'e $x_3$		fu'ivla			ganbaru
@@ -1646,67 +1646,67 @@ ja'i	fi'o {javni}	{javni}	cmavo	BAI	ja'i
 jai	tcita lo selbrisle le du'u le pamoi sumti cu simbasti lo sumti be fi lo na'e namcu	{fai}	cmavo	JAI	jai	jax
 ja'o	tcita le se cusku le du'u la'e ri se nibli	{nibli}	cmavo	UI2	ja'o
 jau	saclu li paci li paxa		cmavo	PA2	jau
-jabyboi	$x_1$ bolci $x_2$ gi'e janbe $x_3$	{janbe} {bolci}	lujvo		jabyboi			janbe,bolci
-jacre'ipenbi	$x_1$ penbi lo renvi be lo nu lo djacu ku vanbi be'o $x_2$	{djacu} {renvi} {penbi}	lujvo					djacu,renvi,penbi
-jadypo'a	.i lo ka jadypo'a cu ka ce'u goi $x_1$ cu jadni ce'u goi $x_2$ gi'e spoja ce'u goi $x_3$	i e'o ko cilre fi tu'a zo {spoja} .e zo {jadni}	lujvo					jadni,spoja
-jaklu'a	$l_1$ pluta $l_2$ boi $l_3$ boi $l_4$ gi'e jarki		lujvo					jarki,pluta
-jamstu	$x_1$ stuzi lo nu jamna		lujvo		jamstu			jamna,stuzi
-jancelxa'i	$x1$ xarci $x2$ $x3$ gi'e cecla $x4$ re'o lo janco be lo birka bei $x3$		lujvo					janco,cecla,xarci
-ja'orzu'e	$x_1$ zukte $x_2$ lo nu vo'a $x_3$ jarco $x_4$		lujvo					jarco,zukte
-jarbi'o	$x_1$ binxo lo jdari be $x_2$	.e'u ko tcidu tu'a zo {jdari} .e zo {binxo}	lujvo					jdari,binxo
-jaurcarvi	$c_1$=$b_1$ po'u loi djacu cu carvi $c_2$ $c_3$		lujvo					djacu,carvi
-jaurgacmi'imle	$x_1$ melbi $x_2$ boi $x_3$ lo ka jaurgacmi'i		lujvo					djacu,gapci,minji,melbi
-jaurjinru	$j_1$ jinru $j_2$=$d_1$ poi ke'a djacu		lujvo					djacu,jinru
-jaursabytu'u	$x_1$ tubnu $x_2$ lo djacu poi ke'a se sabji lo mu'a jecta	{djacu} {sabji} {tubnu}	lujvo		jaursabytu'u			djacu,sabji,tubnu
-jaursabytu'uvro	$x_1$ vorme fo lo jaursabytu'u	{jaursabytu'u} {vorme} {djacu} {sabji} {tubnu}	lujvo		jaursabytu'uvro			djacu,sabji,tubnu,vorme
-jaurxa'u	$x_1$ xabju lo djacu	{djacu}; {xabju}	lujvo					djacu,xabju
-ja'urxe'a	$x_1$ jgalu je xedja $x_2$ .i va'i $x_1$ cu xedja $x_2$ gi'e marji je tarmi simsa lo jgalu	zbasu fi zo {jgalu} ce'o zo {xedja}	lujvo					jgalu,xedja
-jausmi	$x_1$ simsa lo djacu $x_2$	{djacu}; {simsa}	lujvo					djacu,simsa
-jaxfenki	$x_1$ jai fenki $x_2$ fai $x_3$		lujvo					jai,fenki
-jaxfi'u	$x_1$ jai cfipu $x_2$ $x_3$ fai $x_4$		lujvo					jai,cfipu
-jaxlerci	$x_1$ jai lerci $x_2$ fai $x_3$		lujvo					jai,lerci
-jaxmu'i	$x_1$ jai mukti $x_2$ $x_3$ fai $x_4$	simsa zo {jaxri'a} je zo {jaxyki'u}	lujvo					jai,mukti
-jaxnabmi	$x_1$ jai nabmi $x_2$ $x_3$ fai $x_4$		lujvo					jai,nabmi
-jaxnalvai	.i lo ka ce'u goi $x_1$ jaxnalvai ce'u goi $x_2$ ce'u goi $x_3$ ce'u goi $x_4$ cu ka ce'u goi $x_1$ jai na'e vajni ce'u goi $x_2$ ce'u goi $x_3$ fai ce'u goi $x_4$	.i .e'u ko catlu zo'e pe zo {jai} .e zo {na'e} .e zo {vajni}	lujvo					jai,na'e,vajni
-jaxnunco'e	$x_1$ jai nu me'au $x_2$		lujvo					jai,nu,co'e
-jaxpu'a	.i lo ka ce'u goi $x_1$ jaxpu'a ce'u goi $x_2$ ce'u goi $x_3$ ce'u goi $x_4$ cu ka ce'u goi $x_1$ zi'e noi fasnu cu jai pluka ce'u goi $x_2$ ce'u goi $x_3$ zi'e noi vanbi ku'o fai ce'u goi $x_4$	.i du'o mi ti pamoi lujvo fo lo se cmima be zo jai .i ta'onai .e'u ko catlu tu'a zo {jai} li'a .e zo {pluka}	lujvo					jai,pluka
-kairmobmei	$x_1$ cu mo'a mei lo ro ckaji be $x_2$ gi'e toldu'e lo ka ce'u memkai li xo kau kei $x_3$	{ckaji}; {mo'a}; {mei}; {toldu'e}; {memkai}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji,mo'a,mei
-kairpai	$x_1$ pajni lo du'u $x_2$ ckaji $x_3$		lujvo					ckaji,pajni
-kairpau	$x_1$ noi zilkai cu pagbu $x_2$ noi zilkai .i va'i $x_1$ me lo poi'i $x_2$ mintu me'ei me'au ro me ke'a	simsa lo du'u ro ckaji be $x_2$ {bi'ai} ckaji $x_1$	lujvo					ckaji,pagbu
-kairpavmei	$x_1$ cu pa mei lo ro ckaji be $x_2$	{ckaji}; {pa}; {mei}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kainrelmei}	lujvo					ckaji,pa,mei
-kairsojmei	$x_1$ cu so'a mei lo ro ckaji be $x_2$	{ckaji}; {so'a}; {mei}; {kainrolmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji,so'a,mei
-kairsopmei	$x_1$ cu so'e mei lo ro ckaji be $x_2$	{ckaji}; {so'e}; {mei}; {kainrolmei}; {kairsojmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji,so'e,mei
-kairsormei	$x_1$ cu so'i mei lo ro ckaji be $x_2$	{ckaji}; {so'i}; {mei}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsosmei}; {kairsotmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji,so'i,mei
-kairsosmei	$x_1$ cu so'o mei lo ro ckaji be $x_2$	{ckaji}; {so'o}; {mei}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsotmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji,so'o,mei
-kairsotmei	$x_1$ cu so'u mei lo ro ckaji be $x_2$	{ckaji}; {so'u}; {mei}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji,so'u,mei
-kaitcu	$x_1$ nitcu lo nu $x_1$ ckaji $x_2$ kei $x_3$		lujvo					ckaji,nitcu
-kakydirgo	$x_1$ dirgo lo se klaku be $x_2$ bei $x_3$ boi $x_4$	{klaku} {dirgo}	lujvo		kakydirgo			klaku,dirgo
-kalgaisligau	$x1$ gasnu lonu lo gacri be lo kanla be $x1$ cu slilu		lujvo					kanla,gacri,slilu,gasnu
-kambla	$x_1$ ka blanu	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					ka,blanu
-kamdu'o	$x_1$ ka ce'u du ma kau		lujvo		kamdu'o			ka,du
-kamymeckezrai	$x_1$ traji $x_2$ lo ka mleca kei ku $x_3$		lujvo		traji fi lo ka mleca			ka,mleca,kei,traji
-kancauxa'u	no da kansa $x_1$ lo ka ce'u xabju $x_2$		lujvo					kansa,claxu,xabju
-kandi'o	$x_1$ dirgo lo se klaku be $x_2$ bei fau lo nu $x_1$ rinci lo kanla be $x_2$	smudu'i zo {kakydirgo} .i srana fa zo {dirgo} .e zo {kanla} .e zo {klaku} .e zo {badri} .e zo {cinmo}	lujvo		kandi'o			kansa,dinko
-kansimgau	$x_1$ gasnu lo nu $x_2$ simxu lo ka ce'u ce'u kansa $x_3$	{kansa}; {simxu}; {gasnu}; {zbasu}	lujvo					kansa,simxu,gasnu
-kansi'u	$x_1$ simxu le ka ce'u ce'u kansa $x_2$	{kansa} {simxu}; {jo'u}	lujvo		kansi'u			kansa,simxu
-karcyckiku	$c_1$ ckiku $c_2$=$k_1$ po'u lo karce ku $c_3$		lujvo					karce,ckiku
-karcykla	$x_1$ klama $x_2$ fi $x_3$ fo $x_4$ fu $x_5$ noi karce	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					karce,klama
-ka'urji'a	$x_1$ jinga lo kantu be lo se jinga $x_2$ boi $x_3$		lujvo					kantu,jinga
-kaurselju'o	$x_1$ kampu lo selju'o be $x_2$ bei $x_3$ bei $x_4$	.i {kampu} {se} {djuno}	lujvo					kampu,se,djuno
-kaxyje'u	lo jetnu cu kanxe $x_1$ fi $x_2$		lujvo					kanxe,jetnu
-ke'acfu	$x_1$ ricfu lo kevna be $x_1$	{kevna}; {ricfu}; {panje}	lujvo					kevna,ricfu
-ke'atci	$t_1$ tutci lo'e nu ke'a gasnu lo nu kevna		lujvo					kevna,tutci
-keidji	.i lo ka keidji cu ka ce'u goi $x_1$ djica lo nu $x_1$ kelci ce'u xi re goi $x_2$ kei ce'u goi $x_3$	.i .e'u do catlu ge tu'a zo kelci gi tu'a zo djica	lujvo					kelci,djica
-keitci	$x_1$ tutci lo ka se kelci	srana fa zo {keldai} .e zo {kelci} .e zo {selkei}	lujvo					kelci,tutci
-keldai	$x_1$ dacti gi'e se pilno fi lo ka kelci		lujvo		keldai			kelci,dacti
-kelka'u	$x_1$ kantu lo nu $x_2$ kelci $x_3$	{kelci} {kantu}	lujvo					kelci,kantu
-kelmuvdai	$x_1$ keldai gi'e pagbu $x_2$ noi selkei ku'o gi'e ro mei lo keldai poi lo kelci be $x_2$ muvgau $x_1$	lo {caxmati} zo'u lo {kelta'o} na je lo {keldai} poi sanli lo kelta'o cu kelmuvdai	lujvo		kelmuvdai			kelci,muvdu,dacti
-kelnomfli	$x_1$ te jinga fo la se kelci	.i la se kelci cu selkei .i cumki fa lo nu ba'e te po'o jinga fo K (to zo jinga no'e mapti vau ja'o toi) .i va'i ka'e fliba po'o .i lo nu pensi la se kelci cu se jalge lo nu fliba tu'a K .i lo nu cusku lu mi kelnomfli cu se jalge lo nu lo tirna cu pensi K gi'eja'ebo fliba tu'a K	lujvo					kelci,-nom-,fliba
-kelta'o	$x_1$ tanbo gi'e na'o se pilno lo kelci lo ka kelci $x_2$ fau lo nu lo keldai ja lo kelmuvdai cu cpana ja sanli $x_1$		lujvo		kelta'o			kelci,tanbo
-ke'usku	le nu $x_1$ cusku $x_2$ boi $x_3$ boi $x_4$ cu krefu lo nu $x_1$ cusku $x_2$ boi $x_3$ boi $x_4$ kei $x_5$ .i $x_1$ boi vei $x_5$ re'u cusku $x_2$ boi $x_3$ boi $x_4$	{krefu} {cusku}; {ke'o}	lujvo		ke'usku			krefu,cusku
-kevdi'u	$d_1$=$k_1$ cu lolni'a dinju gi'e te kakpa ni'a ja ne'i $k_2$ gi'e te pilno $d_2$		lujvo		kevdi'u			kevna,dinju
-kevgau	$x_1$ gasnu lo nu $x_2$ kevna $x_3$	{kevna}; {gasnu}	lujvo					kevna,gasnu
-kicymatci	$m_1$=$k_2$ matci gi'e se kicne $k_1$	.e'u ko tcidu tu'a zo {matci} .e zo {kicne}	lujvo					kicne,matci
+jabyboi	$x_1$ bolci $x_2$ gi'e janbe $x_3$	{janbe} {bolci}	lujvo		jabyboi			janbe;bolci
+jacre'ipenbi	$x_1$ penbi lo renvi be lo nu lo djacu ku vanbi be'o $x_2$	{djacu} {renvi} {penbi}	lujvo					djacu;renvi;penbi
+jadypo'a	.i lo ka jadypo'a cu ka ce'u goi $x_1$ cu jadni ce'u goi $x_2$ gi'e spoja ce'u goi $x_3$	i e'o ko cilre fi tu'a zo {spoja} .e zo {jadni}	lujvo					jadni;spoja
+jaklu'a	$l_1$ pluta $l_2$ boi $l_3$ boi $l_4$ gi'e jarki		lujvo					jarki;pluta
+jamstu	$x_1$ stuzi lo nu jamna		lujvo		jamstu			jamna;stuzi
+jancelxa'i	$x1$ xarci $x2$ $x3$ gi'e cecla $x4$ re'o lo janco be lo birka bei $x3$		lujvo					janco;cecla;xarci
+ja'orzu'e	$x_1$ zukte $x_2$ lo nu vo'a $x_3$ jarco $x_4$		lujvo					jarco;zukte
+jarbi'o	$x_1$ binxo lo jdari be $x_2$	.e'u ko tcidu tu'a zo {jdari} .e zo {binxo}	lujvo					jdari;binxo
+jaurcarvi	$c_1$=$b_1$ po'u loi djacu cu carvi $c_2$ $c_3$		lujvo					djacu;carvi
+jaurgacmi'imle	$x_1$ melbi $x_2$ boi $x_3$ lo ka jaurgacmi'i		lujvo					djacu;gapci;minji;melbi
+jaurjinru	$j_1$ jinru $j_2$=$d_1$ poi ke'a djacu		lujvo					djacu;jinru
+jaursabytu'u	$x_1$ tubnu $x_2$ lo djacu poi ke'a se sabji lo mu'a jecta	{djacu} {sabji} {tubnu}	lujvo		jaursabytu'u			djacu;sabji;tubnu
+jaursabytu'uvro	$x_1$ vorme fo lo jaursabytu'u	{jaursabytu'u} {vorme} {djacu} {sabji} {tubnu}	lujvo		jaursabytu'uvro			djacu;sabji;tubnu;vorme
+jaurxa'u	$x_1$ xabju lo djacu	{djacu}; {xabju}	lujvo					djacu;xabju
+ja'urxe'a	$x_1$ jgalu je xedja $x_2$ .i va'i $x_1$ cu xedja $x_2$ gi'e marji je tarmi simsa lo jgalu	zbasu fi zo {jgalu} ce'o zo {xedja}	lujvo					jgalu;xedja
+jausmi	$x_1$ simsa lo djacu $x_2$	{djacu}; {simsa}	lujvo					djacu;simsa
+jaxfenki	$x_1$ jai fenki $x_2$ fai $x_3$		lujvo					jai;fenki
+jaxfi'u	$x_1$ jai cfipu $x_2$ $x_3$ fai $x_4$		lujvo					jai;cfipu
+jaxlerci	$x_1$ jai lerci $x_2$ fai $x_3$		lujvo					jai;lerci
+jaxmu'i	$x_1$ jai mukti $x_2$ $x_3$ fai $x_4$	simsa zo {jaxri'a} je zo {jaxyki'u}	lujvo					jai;mukti
+jaxnabmi	$x_1$ jai nabmi $x_2$ $x_3$ fai $x_4$		lujvo					jai;nabmi
+jaxnalvai	.i lo ka ce'u goi $x_1$ jaxnalvai ce'u goi $x_2$ ce'u goi $x_3$ ce'u goi $x_4$ cu ka ce'u goi $x_1$ jai na'e vajni ce'u goi $x_2$ ce'u goi $x_3$ fai ce'u goi $x_4$	.i .e'u ko catlu zo'e pe zo {jai} .e zo {na'e} .e zo {vajni}	lujvo					jai;na'e;vajni
+jaxnunco'e	$x_1$ jai nu me'au $x_2$		lujvo					jai;nu;co'e
+jaxpu'a	.i lo ka ce'u goi $x_1$ jaxpu'a ce'u goi $x_2$ ce'u goi $x_3$ ce'u goi $x_4$ cu ka ce'u goi $x_1$ zi'e noi fasnu cu jai pluka ce'u goi $x_2$ ce'u goi $x_3$ zi'e noi vanbi ku'o fai ce'u goi $x_4$	.i du'o mi ti pamoi lujvo fo lo se cmima be zo jai .i ta'onai .e'u ko catlu tu'a zo {jai} li'a .e zo {pluka}	lujvo					jai;pluka
+kairmobmei	$x_1$ cu mo'a mei lo ro ckaji be $x_2$ gi'e toldu'e lo ka ce'u memkai li xo kau kei $x_3$	{ckaji}; {mo'a}; {mei}; {toldu'e}; {memkai}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji;mo'a;mei
+kairpai	$x_1$ pajni lo du'u $x_2$ ckaji $x_3$		lujvo					ckaji;pajni
+kairpau	$x_1$ noi zilkai cu pagbu $x_2$ noi zilkai .i va'i $x_1$ me lo poi'i $x_2$ mintu me'ei me'au ro me ke'a	simsa lo du'u ro ckaji be $x_2$ {bi'ai} ckaji $x_1$	lujvo					ckaji;pagbu
+kairpavmei	$x_1$ cu pa mei lo ro ckaji be $x_2$	{ckaji}; {pa}; {mei}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kainrelmei}	lujvo					ckaji;pa;mei
+kairsojmei	$x_1$ cu so'a mei lo ro ckaji be $x_2$	{ckaji}; {so'a}; {mei}; {kainrolmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji;so'a;mei
+kairsopmei	$x_1$ cu so'e mei lo ro ckaji be $x_2$	{ckaji}; {so'e}; {mei}; {kainrolmei}; {kairsojmei}; {kairsormei}; {kairsosmei}; {kairsotmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji;so'e;mei
+kairsormei	$x_1$ cu so'i mei lo ro ckaji be $x_2$	{ckaji}; {so'i}; {mei}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsosmei}; {kairsotmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji;so'i;mei
+kairsosmei	$x_1$ cu so'o mei lo ro ckaji be $x_2$	{ckaji}; {so'o}; {mei}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsotmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji;so'o;mei
+kairsotmei	$x_1$ cu so'u mei lo ro ckaji be $x_2$	{ckaji}; {so'u}; {mei}; {kainrolmei}; {kairsojmei}; {kairsopmei}; {kairsormei}; {kairsosmei}; {kairmobmei}; {kairbazmei}; {kairdusmei}; {kairpavmei}; {kainrelmei}	lujvo					ckaji;so'u;mei
+kaitcu	$x_1$ nitcu lo nu $x_1$ ckaji $x_2$ kei $x_3$		lujvo					ckaji;nitcu
+kakydirgo	$x_1$ dirgo lo se klaku be $x_2$ bei $x_3$ boi $x_4$	{klaku} {dirgo}	lujvo		kakydirgo			klaku;dirgo
+kalgaisligau	$x1$ gasnu lonu lo gacri be lo kanla be $x1$ cu slilu		lujvo					kanla;gacri;slilu;gasnu
+kambla	$x_1$ ka blanu	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					ka;blanu
+kamdu'o	$x_1$ ka ce'u du ma kau		lujvo		kamdu'o			ka;du
+kamymeckezrai	$x_1$ traji $x_2$ lo ka mleca kei ku $x_3$		lujvo		traji fi lo ka mleca			ka;mleca;kei;traji
+kancauxa'u	no da kansa $x_1$ lo ka ce'u xabju $x_2$		lujvo					kansa;claxu;xabju
+kandi'o	$x_1$ dirgo lo se klaku be $x_2$ bei fau lo nu $x_1$ rinci lo kanla be $x_2$	smudu'i zo {kakydirgo} .i srana fa zo {dirgo} .e zo {kanla} .e zo {klaku} .e zo {badri} .e zo {cinmo}	lujvo		kandi'o			kansa;dinko
+kansimgau	$x_1$ gasnu lo nu $x_2$ simxu lo ka ce'u ce'u kansa $x_3$	{kansa}; {simxu}; {gasnu}; {zbasu}	lujvo					kansa;simxu;gasnu
+kansi'u	$x_1$ simxu le ka ce'u ce'u kansa $x_2$	{kansa} {simxu}; {jo'u}	lujvo		kansi'u			kansa;simxu
+karcyckiku	$c_1$ ckiku $c_2$=$k_1$ po'u lo karce ku $c_3$		lujvo					karce;ckiku
+karcykla	$x_1$ klama $x_2$ fi $x_3$ fo $x_4$ fu $x_5$ noi karce	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					karce;klama
+ka'urji'a	$x_1$ jinga lo kantu be lo se jinga $x_2$ boi $x_3$		lujvo					kantu;jinga
+kaurselju'o	$x_1$ kampu lo selju'o be $x_2$ bei $x_3$ bei $x_4$	.i {kampu} {se} {djuno}	lujvo					kampu;se;djuno
+kaxyje'u	lo jetnu cu kanxe $x_1$ fi $x_2$		lujvo					kanxe;jetnu
+ke'acfu	$x_1$ ricfu lo kevna be $x_1$	{kevna}; {ricfu}; {panje}	lujvo					kevna;ricfu
+ke'atci	$t_1$ tutci lo'e nu ke'a gasnu lo nu kevna		lujvo					kevna;tutci
+keidji	.i lo ka keidji cu ka ce'u goi $x_1$ djica lo nu $x_1$ kelci ce'u xi re goi $x_2$ kei ce'u goi $x_3$	.i .e'u do catlu ge tu'a zo kelci gi tu'a zo djica	lujvo					kelci;djica
+keitci	$x_1$ tutci lo ka se kelci	srana fa zo {keldai} .e zo {kelci} .e zo {selkei}	lujvo					kelci;tutci
+keldai	$x_1$ dacti gi'e se pilno fi lo ka kelci		lujvo		keldai			kelci;dacti
+kelka'u	$x_1$ kantu lo nu $x_2$ kelci $x_3$	{kelci} {kantu}	lujvo					kelci;kantu
+kelmuvdai	$x_1$ keldai gi'e pagbu $x_2$ noi selkei ku'o gi'e ro mei lo keldai poi lo kelci be $x_2$ muvgau $x_1$	lo {caxmati} zo'u lo {kelta'o} na je lo {keldai} poi sanli lo kelta'o cu kelmuvdai	lujvo		kelmuvdai			kelci;muvdu;dacti
+kelnomfli	$x_1$ te jinga fo la se kelci	.i la se kelci cu selkei .i cumki fa lo nu ba'e te po'o jinga fo K (to zo jinga no'e mapti vau ja'o toi) .i va'i ka'e fliba po'o .i lo nu pensi la se kelci cu se jalge lo nu fliba tu'a K .i lo nu cusku lu mi kelnomfli cu se jalge lo nu lo tirna cu pensi K gi'eja'ebo fliba tu'a K	lujvo					kelci;-nom-;fliba
+kelta'o	$x_1$ tanbo gi'e na'o se pilno lo kelci lo ka kelci $x_2$ fau lo nu lo keldai ja lo kelmuvdai cu cpana ja sanli $x_1$		lujvo		kelta'o			kelci;tanbo
+ke'usku	le nu $x_1$ cusku $x_2$ boi $x_3$ boi $x_4$ cu krefu lo nu $x_1$ cusku $x_2$ boi $x_3$ boi $x_4$ kei $x_5$ .i $x_1$ boi vei $x_5$ re'u cusku $x_2$ boi $x_3$ boi $x_4$	{krefu} {cusku}; {ke'o}	lujvo		ke'usku			krefu;cusku
+kevdi'u	$d_1$=$k_1$ cu lolni'a dinju gi'e te kakpa ni'a ja ne'i $k_2$ gi'e te pilno $d_2$		lujvo		kevdi'u			kevna;dinju
+kevgau	$x_1$ gasnu lo nu $x_2$ kevna $x_3$	{kevna}; {gasnu}	lujvo					kevna;gasnu
+kicymatci	$m_1$=$k_2$ matci gi'e se kicne $k_1$	.e'u ko tcidu tu'a zo {matci} .e zo {kicne}	lujvo					kicne;matci
 kalbasa	$x_1$ vastci lo litki gi'e ba'o se zbasu lo kurbita poi ke'a pu se kuntygau gi'e pu se sudgygau	srana fa zo {kurbita} .e zo {vastci} .e zo {kunti} .e zo {sudga} .e zo {litki} .e zo {botpi}	fu'ivla		kalbasa	kalbasa
 kamcedu	$x_1$ ka ce'u du $x_2$		fu'ivla			kamcedu
 kamrngogolo	$x_1$ kamre li dau te'a dau bi'ete'a re ku to $A^{(A^2)}$ toi $x_2$ ku $x_3$ to lo gradu cu tecycuxskicauzmi $x_3$ toi	{kamre}	fu'ivla		kamre li dau te'a dau bi'ete'a re	kamrngogolo
@@ -1737,19 +1737,19 @@ ki'o	namcu .i kilto le lidne namcu	{namcu}; {kilto}	cmavo	PA3	ki'o
 ki'u	fi'o {krinu}	{krinu}	cmavo	BAI	ki'u
 kinfi	ro da ro de zo'u da .e de me $x_2$ .i na ja ga nai da de gi de da me'au $x_1$	zo {kinra} .i zo {takni}	experimental gismu			kinfi
 kinra	ro me $x_2$ cu sefsi $x_1$	zo {sefsi} .i zo {kinfi} .i zo {takni}	experimental gismu			kinra
-ki'icne	$x_1$ ckini $x_3$ fa'u $x_4$ co'a fa'u co'u fi $x_2$	srana fa zo {cenba} .e zo {kaicne}	lujvo					ckini,cenba
-ki'irsi'u	$x_1$ simxu lo ka ce'u ce'u ckini $x_2$	{ckini}; {simxu}	lujvo					ckini,simxu
-kilpunli	$x_1$ kinli gi'e punli $x_2$	srana fa zo {kinli} .e zo {punli}	lujvo					kinli,punli
-kindi'u	$d_1$ dinju lo nu jarco fe tu'a $s_1$ po'u lo skina		lujvo					skina,dinju
-kinpei	$x_1$=$p_1$=$s_3$=$s_4$ pensi $x_2$=$p_2$=$s_2$ ta'i lo nu $x_3$=$s_1$ noi ke'a simsa lo skina be vo'e cu xanri vo'a		lujvo					skina,pensi
-kinzga	$x_1$ zgana $x_2$ noi skina	srana fa zo {zgana} .e zo {skina}	lujvo					skina,zgana
-ki'ogra	$x_1$ klani $x_2$ lo sornai rauci'e ni marji .i $x_1$ kilto lo ka grake $x_2$	{klani}; {sornai}; {rauci'e}; {kilto}; {grake}	lujvo					kilto,grake
-ki'otre	$x_1$ mitre le kilto be $x_2$ boi $x_3$ boi $x_4$	{kilto} {mitre}	lujvo		ki'otre			kilto,mitre
-kitybo'i	$b_1$ botpi $b_2$ loi kliti $b_4$		lujvo					kliti,botpi
-klagau	$x_1$ gasnu lonu $x_2$ klama $x_3$	or «x1 jai gau klama fai x2 x3» / «x2 klama x3 gau x1»	lujvo					klama,gasnu
-klagi'a	$x_1$ gidva $x_2$ lo nu klama $x_3$ boi $x_4$ boi $x_5$	{klama} {gidva}	lujvo		klagi'a			klama,gidva
-klakla	$x_1$ klama $x_2$ boi $x_3$ boi lo me $x_4$ boi $x_5$ ibabo $x_1$ klama $x_3$ boi $x_2$ boi lo me $x_4$ boi $x_5$ ije lo ve go'e jo'u lo ve go'i du $x_4$	ji'a lu x1 klama x2 boi x2 boi x3 boi jo'u x4 boi x5 li'u	lujvo					klama,klama
-klamu'o	.i lo ka klamu'o cu ka ce'u goi $x_1$ mulno lo ka ce'u klama ce'u xi re goi $x_2$ ce'u xi re goi $x_3$ ce'u xi re goi $x_4$ ce'u xi re goi $x_5$ kei ce'u goi $x_6$	.i .e'u do zgana ge zo'e ne zo {klama} gi zo'e ne zo {mulno}	lujvo					klama,mulno
+ki'icne	$x_1$ ckini $x_3$ fa'u $x_4$ co'a fa'u co'u fi $x_2$	srana fa zo {cenba} .e zo {kaicne}	lujvo					ckini;cenba
+ki'irsi'u	$x_1$ simxu lo ka ce'u ce'u ckini $x_2$	{ckini}; {simxu}	lujvo					ckini;simxu
+kilpunli	$x_1$ kinli gi'e punli $x_2$	srana fa zo {kinli} .e zo {punli}	lujvo					kinli;punli
+kindi'u	$d_1$ dinju lo nu jarco fe tu'a $s_1$ po'u lo skina		lujvo					skina;dinju
+kinpei	$x_1$=$p_1$=$s_3$=$s_4$ pensi $x_2$=$p_2$=$s_2$ ta'i lo nu $x_3$=$s_1$ noi ke'a simsa lo skina be vo'e cu xanri vo'a		lujvo					skina;pensi
+kinzga	$x_1$ zgana $x_2$ noi skina	srana fa zo {zgana} .e zo {skina}	lujvo					skina;zgana
+ki'ogra	$x_1$ klani $x_2$ lo sornai rauci'e ni marji .i $x_1$ kilto lo ka grake $x_2$	{klani}; {sornai}; {rauci'e}; {kilto}; {grake}	lujvo					kilto;grake
+ki'otre	$x_1$ mitre le kilto be $x_2$ boi $x_3$ boi $x_4$	{kilto} {mitre}	lujvo		ki'otre			kilto;mitre
+kitybo'i	$b_1$ botpi $b_2$ loi kliti $b_4$		lujvo					kliti;botpi
+klagau	$x_1$ gasnu lonu $x_2$ klama $x_3$	or «x1 jai gau klama fai x2 x3» / «x2 klama x3 gau x1»	lujvo					klama;gasnu
+klagi'a	$x_1$ gidva $x_2$ lo nu klama $x_3$ boi $x_4$ boi $x_5$	{klama} {gidva}	lujvo		klagi'a			klama;gidva
+klakla	$x_1$ klama $x_2$ boi $x_3$ boi lo me $x_4$ boi $x_5$ ibabo $x_1$ klama $x_3$ boi $x_2$ boi lo me $x_4$ boi $x_5$ ije lo ve go'e jo'u lo ve go'i du $x_4$	ji'a lu x1 klama x2 boi x2 boi x3 boi jo'u x4 boi x5 li'u	lujvo					klama;klama
+klamu'o	.i lo ka klamu'o cu ka ce'u goi $x_1$ mulno lo ka ce'u klama ce'u xi re goi $x_2$ ce'u xi re goi $x_3$ ce'u xi re goi $x_4$ ce'u xi re goi $x_5$ kei ce'u goi $x_6$	.i .e'u do zgana ge zo'e ne zo {klama} gi zo'e ne zo {mulno}	lujvo					klama;mulno
 ki'inmoi	lo du'u $x_3$ li pa dubmau kei goi dy zo'u ge ganai me'au dy gi $x_1$ me'au $x_4$ lo ki'inmoi be $x_2$ bei li mo'e $x_3$ vu'u pa bei $x_4$ gi ga me'au dy gi $x_1$ fe $x_2$ me'au $x_4$	finti lo sidbo fa la tsani	fu'ivla			ki'inmoi
 ki'irsi	ro da ro de lamli'e $x_1$ nagi'a ckini $x_2$		fu'ivla			ki'irsi
 kinjazu	$x_1$ se zu'e lo ka ce'u vo'o ckini $x_2$ cu jarco lo ka ce'u vo'o ckini $x_3$ kei ku $x_4$		fu'ivla			kinjazu
@@ -1819,95 +1819,95 @@ la'i	lu'i la	{selcmi} {cmene} {gadri}; {lu'i} {la}	cmavo	LA	la'i
 lai	lu'o la	{cmene} {gadri}; {gunma}; {lu'o} {la}	cmavo	LA	lai
 kloje	ro da poi me $x_1$ zo'u lo me'au $x_2$ be da cu me $x_1$.	panra zo {klojere} fi lo ka na zi'evla	experimental gismu			kloje
 laldo	$x_1$ clani lo ka ma kau temci lo nu ce'u jbena kei lo cabna .i $x_1$ to'e citno	{clani}; {temci}; {jbena}; {cabna}; {citno}	experimental gismu			laldo
-klasta	$x_1$ stali lo ka ce'u klama $x_2$	srana fa zo {stali} .e zo {klama}	lujvo		klasta			klama,stali
-klasutra	$x_1$ sutra lonu vo'a klama $x_2$ $x_3$ $x_4$ $x_5$		lujvo					klama,sutra
-klatcu	$x_1$ nitcu lo ka ce'u klama $x_2$ kei $x_3$	srana fa zo {klama} .e zo {nitcu} .e zo {zvati} .e zo {bilga} .e zo {zifre} .e zo {cliva}	lujvo		klatcu			klama,nitcu
-kleci'e	$x_1$ ciste lo su'u ma kau klesi ma kau	srana fa zo {klesi} .e zo {ciste} (to lo smuvelski pu'o .ai xagze'a toi)	lujvo		kleci'e			klesi,ciste
-klecmi	$x_1$ cmima ja se gunma $x_2$ noi klesi $x_3$ $x_4$		lujvo					klesi,cmima
-kligau	.i lo ka ce'u goi $x_1$ kligau ce'u goi $x_2$ ce'u goi $x_3$ cu ka ce'u gasnu lo nu ce'u klina ce'u	.i .e'u ko catlu zo'e pe zo {klina} .e zo {gasnu}	lujvo		to clear			klina,gasnu
-kluske	$s_1$ saske $s_2$=$k_1$ noi kulnu		lujvo		kluske			kulnu,saske
-koizva	$x_1$ zvati le korbi be $x_2$ boi $x_3$	{korbi} {zvati}; {te'e}	lujvo		koizva			korbi,zvati
-kolcna	$c_1$ canpa loi kolme		lujvo					kolme,canpa
-krafamtei	$x_1$ temci le krasi be $x_2$ le fanmo be $x_2$	{krasi} {fanmo} {temci}; {ze'a}, {ze'e}, {ze'i}, {ze'u}	lujvo		krafamtei		ze'a	krasi,fanmo,temci
-kralyma'u	$x_1$ makcu xoi ke'a banzuni lo nu $x_1$ se krali $x_2$ $x_3$		lujvo					krali,makcu
-krebakfu	$x_1$ bakfu lo kerfa be $x_2$	{kerfa}; {bakfu}	lujvo					kerfa,bakfu
-krecau	$x_1$ se zvati no kerfa .i $x_1$ kerfa claxu	srana fa zo {sedykrecau}	lujvo					kerfa,claxu
-krilacri	$x_1$ lacri $x_2$ $x_3$ gi'e krici lo du'u $x_2$ ba zukte $x_3$ gi'enai ba traide $x_1$		lujvo					krici,lacri
-kritcica	$x_1$ tcica $x_2$ lo ka ce'u krici $x_3$ $x_4$		lujvo					krici,tcica
-kucmei	su'oi da zo'u ge da me $x_1$ gi da me $x_2$ .i ro'oi me $x_3$ ge me $x_1$ gi me $x_2$	{kruca}; {me}; {fatri}; {dunli}; {simsa}; {su'oi}	lujvo		kucmei			kruca,mei
-kucyga'a	$x_1$ remei lo grana be $x_2$ gi'e simxu lo ka ce'u ce'u kruca i mu'a se pilno fi lo nu lo prenu cu dandu gi'e se sfasa gi'a se catra	{kruca} {grana}	lujvo					kruca,grana
-kucyga'asni	$x_1$ sinxa lo kucyga'a i ta'e xriso sinxa lo nu la iesus dandu lo kucyga'a	{kruca} {grana} {sinxa}; {kucyga'a}	lujvo					kruca,grana,sinxa
-kucysi'u	$x_1$ simxu lo ka ce'u ce'u kruca $x_2$	{kruca}; {simxu}	lujvo					kruca,simxu
-ku'erda'o	$x_1$ darno $x_2$ loka $x_1$ kuspe $x_3$		lujvo					kuspe,darno
-kuflenku	$x_1$ lenku ta'i lo se kufra be $x_2$		lujvo					kufra,lenku
-kufygau	$x_1$ gasnu lo nu $x_2$ kufra $x_3$	{kufra}; {gasnu}	lujvo					kufra,gasnu
-kufygla	$x_1$ glare ta'i lo se kufra be $x_2$		lujvo					kufra,glare
-kukrai	$x1$ traji fo $x2$ fe loka $x1$ kukte $x3$		lujvo					kukte,traji
-kuktce	$m_1$=$k_1$ mutce lo ka ce'u kukte $k_2$		lujvo					kukte,mutce
-kulmu'o	$x_1$ mulno lo ka ve ckule $x_3$ boi $x_4$ boi $x_2$ boi $x_5$ kei $x_5$		lujvo					ckule,mulno
-kumbartu	$b_1$ bartu $b_2$=$k_1$ po'u lo kumfa		lujvo					kumfa,bartu
-kumyzda	$x_1$ zdani $x_2$ gi'e stura su'oi kumfa	srana fa zo {zdani} .e zo {kumfa} .e zo {stura} .e zo {zdatu'a} .e zo {zdaca'u} .e zo {zdastu} .e zo {zdadi'u} .e zo {zdagu'e} .e zo {cpizda}	lujvo		kumyzda			kumfa,zdani
-kunske	$x_1$=$s_1$ saske lo si'o kunra ku $x_2$=$s_3$	.e'u ko tcidu tu'a zo {derske}	lujvo					kunra,saske
-kurtenfa	$t_1$ tenfa $t_2$ li re	{kurfa} {tenfa}	lujvo		kurtenfa			kurfa,tenfa
-kustru	$x_1$ kusru je turni $x_2$	{kusru} {turni}	lujvo					kusru,turni
-kutlerpoi	$x_1$ lerpoi gi'e porsi fi no da		lujvo					kunti,lerfu,porsi
-kutpoi	$x_1$ porsi fi no da		lujvo					kunti,porsi
-kutygunma	$x_1$ gunma no da		lujvo					kunti,gunma
+klasta	$x_1$ stali lo ka ce'u klama $x_2$	srana fa zo {stali} .e zo {klama}	lujvo		klasta			klama;stali
+klasutra	$x_1$ sutra lonu vo'a klama $x_2$ $x_3$ $x_4$ $x_5$		lujvo					klama;sutra
+klatcu	$x_1$ nitcu lo ka ce'u klama $x_2$ kei $x_3$	srana fa zo {klama} .e zo {nitcu} .e zo {zvati} .e zo {bilga} .e zo {zifre} .e zo {cliva}	lujvo		klatcu			klama;nitcu
+kleci'e	$x_1$ ciste lo su'u ma kau klesi ma kau	srana fa zo {klesi} .e zo {ciste} (to lo smuvelski pu'o .ai xagze'a toi)	lujvo		kleci'e			klesi;ciste
+klecmi	$x_1$ cmima ja se gunma $x_2$ noi klesi $x_3$ $x_4$		lujvo					klesi;cmima
+kligau	.i lo ka ce'u goi $x_1$ kligau ce'u goi $x_2$ ce'u goi $x_3$ cu ka ce'u gasnu lo nu ce'u klina ce'u	.i .e'u ko catlu zo'e pe zo {klina} .e zo {gasnu}	lujvo		to clear			klina;gasnu
+kluske	$s_1$ saske $s_2$=$k_1$ noi kulnu		lujvo		kluske			kulnu;saske
+koizva	$x_1$ zvati le korbi be $x_2$ boi $x_3$	{korbi} {zvati}; {te'e}	lujvo		koizva			korbi;zvati
+kolcna	$c_1$ canpa loi kolme		lujvo					kolme;canpa
+krafamtei	$x_1$ temci le krasi be $x_2$ le fanmo be $x_2$	{krasi} {fanmo} {temci}; {ze'a}, {ze'e}, {ze'i}, {ze'u}	lujvo		krafamtei		ze'a	krasi;fanmo;temci
+kralyma'u	$x_1$ makcu xoi ke'a banzuni lo nu $x_1$ se krali $x_2$ $x_3$		lujvo					krali;makcu
+krebakfu	$x_1$ bakfu lo kerfa be $x_2$	{kerfa}; {bakfu}	lujvo					kerfa;bakfu
+krecau	$x_1$ se zvati no kerfa .i $x_1$ kerfa claxu	srana fa zo {sedykrecau}	lujvo					kerfa;claxu
+krilacri	$x_1$ lacri $x_2$ $x_3$ gi'e krici lo du'u $x_2$ ba zukte $x_3$ gi'enai ba traide $x_1$		lujvo					krici;lacri
+kritcica	$x_1$ tcica $x_2$ lo ka ce'u krici $x_3$ $x_4$		lujvo					krici;tcica
+kucmei	su'oi da zo'u ge da me $x_1$ gi da me $x_2$ .i ro'oi me $x_3$ ge me $x_1$ gi me $x_2$	{kruca}; {me}; {fatri}; {dunli}; {simsa}; {su'oi}	lujvo		kucmei			kruca;mei
+kucyga'a	$x_1$ remei lo grana be $x_2$ gi'e simxu lo ka ce'u ce'u kruca i mu'a se pilno fi lo nu lo prenu cu dandu gi'e se sfasa gi'a se catra	{kruca} {grana}	lujvo					kruca;grana
+kucyga'asni	$x_1$ sinxa lo kucyga'a i ta'e xriso sinxa lo nu la iesus dandu lo kucyga'a	{kruca} {grana} {sinxa}; {kucyga'a}	lujvo					kruca;grana;sinxa
+kucysi'u	$x_1$ simxu lo ka ce'u ce'u kruca $x_2$	{kruca}; {simxu}	lujvo					kruca;simxu
+ku'erda'o	$x_1$ darno $x_2$ loka $x_1$ kuspe $x_3$		lujvo					kuspe;darno
+kuflenku	$x_1$ lenku ta'i lo se kufra be $x_2$		lujvo					kufra;lenku
+kufygau	$x_1$ gasnu lo nu $x_2$ kufra $x_3$	{kufra}; {gasnu}	lujvo					kufra;gasnu
+kufygla	$x_1$ glare ta'i lo se kufra be $x_2$		lujvo					kufra;glare
+kukrai	$x1$ traji fo $x2$ fe loka $x1$ kukte $x3$		lujvo					kukte;traji
+kuktce	$m_1$=$k_1$ mutce lo ka ce'u kukte $k_2$		lujvo					kukte;mutce
+kulmu'o	$x_1$ mulno lo ka ve ckule $x_3$ boi $x_4$ boi $x_2$ boi $x_5$ kei $x_5$		lujvo					ckule;mulno
+kumbartu	$b_1$ bartu $b_2$=$k_1$ po'u lo kumfa		lujvo					kumfa;bartu
+kumyzda	$x_1$ zdani $x_2$ gi'e stura su'oi kumfa	srana fa zo {zdani} .e zo {kumfa} .e zo {stura} .e zo {zdatu'a} .e zo {zdaca'u} .e zo {zdastu} .e zo {zdadi'u} .e zo {zdagu'e} .e zo {cpizda}	lujvo		kumyzda			kumfa;zdani
+kunske	$x_1$=$s_1$ saske lo si'o kunra ku $x_2$=$s_3$	.e'u ko tcidu tu'a zo {derske}	lujvo					kunra;saske
+kurtenfa	$t_1$ tenfa $t_2$ li re	{kurfa} {tenfa}	lujvo		kurtenfa			kurfa;tenfa
+kustru	$x_1$ kusru je turni $x_2$	{kusru} {turni}	lujvo					kusru;turni
+kutlerpoi	$x_1$ lerpoi gi'e porsi fi no da		lujvo					kunti;lerfu;porsi
+kutpoi	$x_1$ porsi fi no da		lujvo					kunti;porsi
+kutygunma	$x_1$ gunma no da		lujvo					kunti;gunma
 kutysetmima	$x_1$ setmima no da		lujvo					kutysetmima
 kutyuenzi	$x_1$ me lu li'u .i va'i $x_1$ uenzi gi'e se pagbu no valsi ja lerfu		lujvo					kutyuenzi
-lacyse'i	$x_1$ sefsi lo ka ce'u lacri ce'u $x_2$	{sefsi} .i {lacri}	lujvo					lacri,sevzi
-ladmatne	$x_1$ matne lo ladru be $x_2$		lujvo					ladru,matne
-ladypu'o	$p_1$ purmo $p_2$=$l_1$ po'u loi ladru	.e'u ko tcidu tu'a zo {ladru} .e zo {purmo}	lujvo					ladru,purmo
-la'erji'i	$x_1$ jinvi le du'u $x_2$ lakne $x_3$ kei $x_2$ boi $x_3$	{lakne} {jinvi}; {bavykri}; {uenai}	lujvo		la'erji'i			lakne,jinvi
-la'erlai	$x_1$ klani $x_2$ le ka ce'u lakne $x_3$	{lakne} {klani}; {zilpa'a}; {cu'o}	lujvo		la'erlai			lakne,klani
-lafmi'i	$x_1$ minji lo ka lafmuvgau lo prenu .a lo dacti lo dijysenta lo drata be ri	lo te lujvo cu mo'a pa mei ni'i lo du'u lo {lafmi'i} za'o {lafmi'i} ca lo ka vasru no da .i te zu'e lo nu sazri lo {lafmi'i} kei ko viska zo {pilno} .e zo {gasnu} .e zo {klama}	lujvo					lafti,minji
-lafydadblo	$x_1$ bloti $x_2$ noi ke'a dandu je se lafti ku'o $x_3$	{lafti} {dandu} {bloti} {lafydadma'e}	lujvo		lafydadblo			lafti,dandu,bloti
-lafydadma'e	$x_1$ marce $x_2$ noi ke'a dandu je se lafti ku'o $x_3$ noi ke'a se dandu ku'o $x_4$	{lafti} {dandu} {marce}	lujvo		lafydadma'e			lafti,dandu,marce
-lafydadykarce	$x_1$ karce $x_2$ noi ke'a dandu je se lafti ku'o $x_3$	{lafti} {dandu} {karce} {lafydadma'e}	lujvo		lafydadykarce			lafti,dandu,karce
-lairka'e	$x_1$ kakne le ka ce'u klani $x_2$ boi $x_3$	{klani} {kakne}	lujvo		lairka'e			klani,kakne
-lairtcinyske	$x_1$ te ganzu ja ciste ja stura lo datni be lo tcini be lo klani be'o bei $x_2$	i srana zo {klani} e zo {tcini} e zo {saske}	lujvo					klani,tcini,saske
-lakpinsi	$p_1$ pinsi $p_2$=$l_1$ po'u loi lakse ge'u $p_3$		lujvo					lakse,pinsi
-lamgre	$x_1$ lampagre $x_2$ fi $x_3$ fo $x_4$	selsmudu'i zo {lampagre}	lujvo					lamji,pagre
-lamja'e	$x_1$ jalge $x_2$ .e no drata poi jalge $x_2$		lujvo					lamji,jalge
-lamli'e	$x_1$ fe $x_2$ fi $x_3$ lidne gi'e lamji	smudu'i zo {li'erla'i}	lujvo					lamji,lidne
-lamsi'u	$x_1$ simxu lo ka ce'u ce'u lamji $x_2$	{lamji}; {simxu}	lujvo					lamji,simxu
-landegna'u	li no veldilcu $x_1$ noi mulna'u ku'o li re .i va'i $x_1$ dilcymu'o li re		lujvo					lanme,degji,namcu
-lantro	$x_1$ jitro $x_2$ noi $x_3$ .olkai lo ka se gunma ke'a kei gi'e lanme	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					lanme,jitro
-la'ornacle'u	$x_1$ nacle'u lo latmo $x_2$	me'o .ibu fa'u me'o vy. fa'u me'o xy. fa'u me'o cy. fa'u me'o dy. fa'u me'o my. la'ornacle'u li 1 fa'u li 5 fa'u li 10 fa'u li 50 fa'u li 100 fa'u li 500 fa'u li 1000	lujvo					latmo,namcu,lerfu
-lardai	$x_1$ larcu gi'e se cupra fi lo larcu be $x_2$	{larcu} {dacti}	lujvo		lardai			larcu,dacti
-larja'ostu	$x_1$ stuzi lo nu jarco seju .arco $x_2$ noi larcu	simsa lo muzga .i ku'i lo muzga ta'e sorcu .i je lo se larja'ostu ta'e se pleji je se vecnu	lujvo					larcu,jarco,stuzi
-larmuzga	$x_1$ muzga $x_2$ noi lardai ku'o $x_3$	{larcu} {muzga}; {lardai}	lujvo		larmuzga			larcu,muzga
-larpra	$x_1$ cupra $x_2$ lo larcu be $x_3$	{larcu} {cupra}	lujvo		larpra			larcu,cupra
-lasybo'i	$b_1$ botpi $b_2$ loi slasi $b_4$		lujvo					slasi,botpi
-lasydakli	$d_1$=$s_1$ dakli $d_2$ loi slasi		lujvo					slasi,dakli
-latxli	$x_1$ nixli gi'e ckaji su'o se ckaji be lo'e mlatu		lujvo					mlatu,nixli
-laucmo	$x1$ cmoni $x2$ noi cladu $x1$ ku'o $x3$		lujvo					cladu,cmoni
-laurmi'a	$cm_1$=$cl_1$ cladu $cm_2$ $cm_3$ ta'i lo nu vo'a cmila		lujvo					cladu,cmila
-la'uske	$x_1$=$s_1$ saske lo si'o lalxu ku $x_2$=$s_3$		lujvo					lalxu,saske
-lazdu'i	$x_1$ dunli $x_2$ lo ka ma kau ce'u lanzu	zo {lazyki'i} .e zo {lazmi'u} smusmi .i zo {lanzu} .i zo {dunli}	lujvo					lanzu,dunli
-laznynavni	$x_1$ navni lo ratni be li pa bi	{lazni} {navni}; {ratni}	lujvo					lazni,navni
-lazyki'i	su'o lanzu [to be fi $x_3$ toi] cu se cmima $x_1$ je $x_2$	srana fa zo {lanzu}	lujvo					lanzu,ckini
-lebyse'i	$x_1$ sefsi lo ka ce'u lebna ce'u $x_2$	{sefsi} .i {lebna}	lujvo					lebna,sevzi
-lebysutra	$x_1$ sutra lonu lebna $x_2$ $x_3$		lujvo					lebna,sutra
-lecyduspru	$x_1$ purci lo poi'i lo nu da'i $x_1$ fasnu ca ke'a cu lercydu'e $x_2$	srana zo {clirau} si zo {cliryraunzu}	lujvo					lerci,dukse,purci
-leicmi	$x_1$ cmima ja se gunma ja menre $x_2$ noi klesi $x_3$ $x_4$		lujvo					klesi,cmima
-lekselblu	$x_1$ se ciblu lo lenku	{lenku} .i {ciblu}	lujvo					lenku,se,ciblu
-lekyze'a	$x_1$ zenba lo ka lenku	{lenku}; {zenba}	lujvo					lenku,zenba
-lerfendi	$x_1$ fendi $x_2$ noi valsi ja jufra ku'o $x_3$ noi lerfu	{lerpoi}	lujvo		lerfendi			lerfu,fendi
-lervla	$v_1$ valsi $v_2$=$l_1$ po'u lo lerfu ku $v_3$	.e'u ko viska tu'a la'e zo {valsi} .e la'e zo {lerfu}	lujvo					lerfu,valsi
-li'erla'i	$x_1$ boi $x_2$ boi $x_3$ lidne gi'e lamji	smudu'i zo {lamli'e}	lujvo		li'erla'i			lidne,lamji
-lifselsau	$x_1$ se slabu ja djuno lo du'u ma kau li'i ce'u lifri $x_2$ .i $x_1$ pu'i lifri su'o mupli be $x_2$		lujvo		lifselsau			lifri,se,slabu
-li'ismi	$x_1$ simsa lo linji lo ka pa da cimde ce'u	{simsa}; {linji}; {cimde}	lujvo					linji,simsa
-lijnilcla	$x_1$ nilcla $x_2$ poi ke'a linji $x_3$ ku'o zu'i $x_4$	pa da no'u zu'i ka'e se clani lo linji	lujvo					linji,ni,clani
-likcri	$x_1$=$c_1$ cirko $x_2$=$c_2$=$l_1$ noi litki $x_4$=$l_2$ ku'o $x_3$=$c_3$		lujvo					litki,cirko
-likro'i	$r_1$=$l_1$ $r_2$=$l_2$ rokci $r_3$ gi'e litki $l_3$		lujvo					litki,rokci
-liskle	$x_1$ klesi lo lisri $x_2$	liskle lo ka lo {mencti} be ce'u na'o terpa ja xanka (= {terpylisri}); liskle lo ka ralju srana lo nu prami (= {pramylisri})	lujvo		liskle			lisri,klesi
-lisycku	$c_1$ cukta $c_2$=$l_1$ po'u lo lisri ge'u $c_3$ $c_4$ $c_5$		lujvo					lisri,cukta
-li'urdakli	$x_1$ po lo litru cu dakli $x_2$ $x_3$		lujvo					litru,dakli
-li'ursutyjvi	$x_1$ jivna $x_2$ lo ka ce'u sutra lo ka ce'u litru $x_3$ boi $x_4$ kei kei $x_5$	.i mu'a la .formulas. pamoi cu nu karce li'ursutyjvi .i da'i pilno zo zi'o tu'a lo nu jivna zi'o .i mupli fa lo nu sutra co samkei .i selcme ri fa lo glico no'u zo'oi speedrun .i ku'i metfo milxe fa lo nu pilno zo litru tu'a la'e de'u	lujvo					litru,sutra,jivna
-lizdu'o	$x_1$ li'imdu lo ka ce'u du $x_2$ kei $x_2$		lujvo					li'i,du
-lojysarxe	$x_1$ sarxe lo'e logji $x_2$		lujvo					logji,sarxe
-lojysra	$x_1$ poi se cusku cu mulno logji bo ciksi le du'u $x_2$ poi me'oi .theorem. gi'a bridi cu jetnu kei gi'e se sarji pe'a $x_3$ poi logji ja kampu bo selju'o klesi		lujvo		proof			logji,sarji
+lacyse'i	$x_1$ sefsi lo ka ce'u lacri ce'u $x_2$	{sefsi} .i {lacri}	lujvo					lacri;sevzi
+ladmatne	$x_1$ matne lo ladru be $x_2$		lujvo					ladru;matne
+ladypu'o	$p_1$ purmo $p_2$=$l_1$ po'u loi ladru	.e'u ko tcidu tu'a zo {ladru} .e zo {purmo}	lujvo					ladru;purmo
+la'erji'i	$x_1$ jinvi le du'u $x_2$ lakne $x_3$ kei $x_2$ boi $x_3$	{lakne} {jinvi}; {bavykri}; {uenai}	lujvo		la'erji'i			lakne;jinvi
+la'erlai	$x_1$ klani $x_2$ le ka ce'u lakne $x_3$	{lakne} {klani}; {zilpa'a}; {cu'o}	lujvo		la'erlai			lakne;klani
+lafmi'i	$x_1$ minji lo ka lafmuvgau lo prenu .a lo dacti lo dijysenta lo drata be ri	lo te lujvo cu mo'a pa mei ni'i lo du'u lo {lafmi'i} za'o {lafmi'i} ca lo ka vasru no da .i te zu'e lo nu sazri lo {lafmi'i} kei ko viska zo {pilno} .e zo {gasnu} .e zo {klama}	lujvo					lafti;minji
+lafydadblo	$x_1$ bloti $x_2$ noi ke'a dandu je se lafti ku'o $x_3$	{lafti} {dandu} {bloti} {lafydadma'e}	lujvo		lafydadblo			lafti;dandu;bloti
+lafydadma'e	$x_1$ marce $x_2$ noi ke'a dandu je se lafti ku'o $x_3$ noi ke'a se dandu ku'o $x_4$	{lafti} {dandu} {marce}	lujvo		lafydadma'e			lafti;dandu;marce
+lafydadykarce	$x_1$ karce $x_2$ noi ke'a dandu je se lafti ku'o $x_3$	{lafti} {dandu} {karce} {lafydadma'e}	lujvo		lafydadykarce			lafti;dandu;karce
+lairka'e	$x_1$ kakne le ka ce'u klani $x_2$ boi $x_3$	{klani} {kakne}	lujvo		lairka'e			klani;kakne
+lairtcinyske	$x_1$ te ganzu ja ciste ja stura lo datni be lo tcini be lo klani be'o bei $x_2$	i srana zo {klani} e zo {tcini} e zo {saske}	lujvo					klani;tcini;saske
+lakpinsi	$p_1$ pinsi $p_2$=$l_1$ po'u loi lakse ge'u $p_3$		lujvo					lakse;pinsi
+lamgre	$x_1$ lampagre $x_2$ fi $x_3$ fo $x_4$	selsmudu'i zo {lampagre}	lujvo					lamji;pagre
+lamja'e	$x_1$ jalge $x_2$ .e no drata poi jalge $x_2$		lujvo					lamji;jalge
+lamli'e	$x_1$ fe $x_2$ fi $x_3$ lidne gi'e lamji	smudu'i zo {li'erla'i}	lujvo					lamji;lidne
+lamsi'u	$x_1$ simxu lo ka ce'u ce'u lamji $x_2$	{lamji}; {simxu}	lujvo					lamji;simxu
+landegna'u	li no veldilcu $x_1$ noi mulna'u ku'o li re .i va'i $x_1$ dilcymu'o li re		lujvo					lanme;degji;namcu
+lantro	$x_1$ jitro $x_2$ noi $x_3$ .olkai lo ka se gunma ke'a kei gi'e lanme	lo dei valsi cu se liste la jbovlaste mu'i lo nu vo'a se mupli lo pagbu be la'o gy.CLL.gy.	lujvo					lanme;jitro
+la'ornacle'u	$x_1$ nacle'u lo latmo $x_2$	me'o .ibu fa'u me'o vy. fa'u me'o xy. fa'u me'o cy. fa'u me'o dy. fa'u me'o my. la'ornacle'u li 1 fa'u li 5 fa'u li 10 fa'u li 50 fa'u li 100 fa'u li 500 fa'u li 1000	lujvo					latmo;namcu;lerfu
+lardai	$x_1$ larcu gi'e se cupra fi lo larcu be $x_2$	{larcu} {dacti}	lujvo		lardai			larcu;dacti
+larja'ostu	$x_1$ stuzi lo nu jarco seju .arco $x_2$ noi larcu	simsa lo muzga .i ku'i lo muzga ta'e sorcu .i je lo se larja'ostu ta'e se pleji je se vecnu	lujvo					larcu;jarco;stuzi
+larmuzga	$x_1$ muzga $x_2$ noi lardai ku'o $x_3$	{larcu} {muzga}; {lardai}	lujvo		larmuzga			larcu;muzga
+larpra	$x_1$ cupra $x_2$ lo larcu be $x_3$	{larcu} {cupra}	lujvo		larpra			larcu;cupra
+lasybo'i	$b_1$ botpi $b_2$ loi slasi $b_4$		lujvo					slasi;botpi
+lasydakli	$d_1$=$s_1$ dakli $d_2$ loi slasi		lujvo					slasi;dakli
+latxli	$x_1$ nixli gi'e ckaji su'o se ckaji be lo'e mlatu		lujvo					mlatu;nixli
+laucmo	$x1$ cmoni $x2$ noi cladu $x1$ ku'o $x3$		lujvo					cladu;cmoni
+laurmi'a	$cm_1$=$cl_1$ cladu $cm_2$ $cm_3$ ta'i lo nu vo'a cmila		lujvo					cladu;cmila
+la'uske	$x_1$=$s_1$ saske lo si'o lalxu ku $x_2$=$s_3$		lujvo					lalxu;saske
+lazdu'i	$x_1$ dunli $x_2$ lo ka ma kau ce'u lanzu	zo {lazyki'i} .e zo {lazmi'u} smusmi .i zo {lanzu} .i zo {dunli}	lujvo					lanzu;dunli
+laznynavni	$x_1$ navni lo ratni be li pa bi	{lazni} {navni}; {ratni}	lujvo					lazni;navni
+lazyki'i	su'o lanzu [to be fi $x_3$ toi] cu se cmima $x_1$ je $x_2$	srana fa zo {lanzu}	lujvo					lanzu;ckini
+lebyse'i	$x_1$ sefsi lo ka ce'u lebna ce'u $x_2$	{sefsi} .i {lebna}	lujvo					lebna;sevzi
+lebysutra	$x_1$ sutra lonu lebna $x_2$ $x_3$		lujvo					lebna;sutra
+lecyduspru	$x_1$ purci lo poi'i lo nu da'i $x_1$ fasnu ca ke'a cu lercydu'e $x_2$	srana zo {clirau} si zo {cliryraunzu}	lujvo					lerci;dukse;purci
+leicmi	$x_1$ cmima ja se gunma ja menre $x_2$ noi klesi $x_3$ $x_4$		lujvo					klesi;cmima
+lekselblu	$x_1$ se ciblu lo lenku	{lenku} .i {ciblu}	lujvo					lenku;se;ciblu
+lekyze'a	$x_1$ zenba lo ka lenku	{lenku}; {zenba}	lujvo					lenku;zenba
+lerfendi	$x_1$ fendi $x_2$ noi valsi ja jufra ku'o $x_3$ noi lerfu	{lerpoi}	lujvo		lerfendi			lerfu;fendi
+lervla	$v_1$ valsi $v_2$=$l_1$ po'u lo lerfu ku $v_3$	.e'u ko viska tu'a la'e zo {valsi} .e la'e zo {lerfu}	lujvo					lerfu;valsi
+li'erla'i	$x_1$ boi $x_2$ boi $x_3$ lidne gi'e lamji	smudu'i zo {lamli'e}	lujvo		li'erla'i			lidne;lamji
+lifselsau	$x_1$ se slabu ja djuno lo du'u ma kau li'i ce'u lifri $x_2$ .i $x_1$ pu'i lifri su'o mupli be $x_2$		lujvo		lifselsau			lifri;se;slabu
+li'ismi	$x_1$ simsa lo linji lo ka pa da cimde ce'u	{simsa}; {linji}; {cimde}	lujvo					linji;simsa
+lijnilcla	$x_1$ nilcla $x_2$ poi ke'a linji $x_3$ ku'o zu'i $x_4$	pa da no'u zu'i ka'e se clani lo linji	lujvo					linji;ni;clani
+likcri	$x_1$=$c_1$ cirko $x_2$=$c_2$=$l_1$ noi litki $x_4$=$l_2$ ku'o $x_3$=$c_3$		lujvo					litki;cirko
+likro'i	$r_1$=$l_1$ $r_2$=$l_2$ rokci $r_3$ gi'e litki $l_3$		lujvo					litki;rokci
+liskle	$x_1$ klesi lo lisri $x_2$	liskle lo ka lo {mencti} be ce'u na'o terpa ja xanka (= {terpylisri}); liskle lo ka ralju srana lo nu prami (= {pramylisri})	lujvo		liskle			lisri;klesi
+lisycku	$c_1$ cukta $c_2$=$l_1$ po'u lo lisri ge'u $c_3$ $c_4$ $c_5$		lujvo					lisri;cukta
+li'urdakli	$x_1$ po lo litru cu dakli $x_2$ $x_3$		lujvo					litru;dakli
+li'ursutyjvi	$x_1$ jivna $x_2$ lo ka ce'u sutra lo ka ce'u litru $x_3$ boi $x_4$ kei kei $x_5$	.i mu'a la .formulas. pamoi cu nu karce li'ursutyjvi .i da'i pilno zo zi'o tu'a lo nu jivna zi'o .i mupli fa lo nu sutra co samkei .i selcme ri fa lo glico no'u zo'oi speedrun .i ku'i metfo milxe fa lo nu pilno zo litru tu'a la'e de'u	lujvo					litru;sutra;jivna
+lizdu'o	$x_1$ li'imdu lo ka ce'u du $x_2$ kei $x_2$		lujvo					li'i;du
+lojysarxe	$x_1$ sarxe lo'e logji $x_2$		lujvo					logji;sarxe
+lojysra	$x_1$ poi se cusku cu mulno logji bo ciksi le du'u $x_2$ poi me'oi .theorem. gi'a bridi cu jetnu kei gi'e se sarji pe'a $x_3$ poi logji ja kampu bo selju'o klesi		lujvo		proof			logji;sarji
 lojban zei simsa	$s_1$ simsa la lojban $s_3$	.e'u ko tcidu la'e zo {lojban} lu'u .e la'e zo {simsa}	zei-lujvo
 li'imdu	$x_1$ $x_3$ li'i me'au $x_2$ noi nundumu ja zilkai		fu'ivla			li'imdu
 li'inta	$x_1$ fanta lo nu $x_2$ lifri $x_3$	srana fa zo {lifri} .e zo {fanta} .e zo {friselfanta} .e zo {frisefa}	fu'ivla		li'inta	li'inta
@@ -1933,53 +1933,53 @@ ly	papamoi lerfu le lojbo	{lerfu}	cmavo	BY2	L;ly
 ma	sumka'i preti	{sumka'i} {preti}	cmavo	KOhA	ma
 ma'a	mi jo'u do jo'u lo drata be mi .e do		cmavo	KOhA3	ma'a
 ma'e	fi'o {marji}	{marji}	cmavo	BAI	ma'e
-lujrinsku	.i lo ka lujrinsku cu ka ko'a ko'e ko'i ko'o ko'u fo'a ce'ai ko'a goi $x_1$ cusku lo se du'u ko'e goi $x_2$ krinu lo nu ko'i goi $x_3$ pluja ko'o goi $x_4$ ko'u goi $x_5$ kei kei fo'a goi $x_6$		lujvo					pluja,krinu,cusku
-lumse'i	$x_1$ sefsi lo ka ce'u lumci ce'u $x_2$ boi $x_3$	{sefsi} .i {lumci}	lujvo					lumci,sevzi
-lutnilcla	$x_1$ nilcla $x_2$ poi ke'a pluta $x_3$ boi $x_4$ boi $x_5$ ku'o zu'i $x_6$	pa da no'u zu'i ka'e se clani lo pluta	lujvo					pluta,ni,clani
-ma'arcpana	$cp_1$ cpana $cp_2$=$cm_1$ poi ke'a cmana	.e'u ko tcidu tu'a zo {cmana} .e zo {cmana}	lujvo					cmana,cpana
-ma'ervi'e	$x_1$ vitke $x_2$ noi se marce $x_3$		lujvo					marce,vitke
-mafpli	$p_1$=$m_3$ cu te se makfa $p_2$=$m_1$ tepi'o $p_3$		lujvo					makfa,pilno
-ma'irdeidetri	$x_1$ goi ko'a detri $x_2$ boi $x_3$ .ije $x_1$ sinxa lo mo'e ko'a moi be lu'i ro djedi be li pa bei $x_3$ be'o poi pagbu lo masti be li pa bei $x_3$	.i {masti} zei {djedi} zei {detri} .i srana zo {de'i'o} .e zo {detke'u} to lo terbri cu se manri lo si'o zasni jbotamgau zo {detri} jo'u zo {ciste} toi	lujvo				de'i'o	masti,djedi,detri
-ma'irdetri	$x_1$ goi ko'a detri $x_2$ boi $x_3$ .ije $x_1$ sinxa lo mo'e ko'a moi be lu'i ro masti be li pa bei $x_3$ be'o poi pagbu lo nanca be li pa bei $x_3$	.i {masti} zei {detri} to lo terbri cu se manri lo si'o zasni jbotamgau zo {detri} jo'u zo {ciste} toi .i srana zo {de'i'i} .e zo {detke'u} .e zo {masnpa} .e zo {masnre} .e zo {masnci} .e zo {masnvo} .e zo {masnmu} .e zo {masnxa} .e zo {masnze} .e zo {masnbi} .e zo {masnso} .e zo {masndau} .e zo {masnfei} .e zo {masngai} .e zo {masnjau} .e zo {masnrei} .a bo {masnxei} .e zo {masnvai}	lujvo				de'i'i	masti,detri
-ma'irjefydetri	$x_1$ goi ko'a detri $x_2$ boi $x_3$ .ije $x_1$ sinxa lo mo'e ko'a moi be lu'i ro jeftu be li pa bei $x_3$ be'o poi pagbu lo masti be li pa bei $x_3$	.i {masti} zei {jeftu} zei {detri} .i srana zo {detke'u} to lo terbri cu se manri lo si'o zasni jbotamgau zo {detri} jo'u zo {ciste} toi	lujvo					masti,jeftu,detri
-majgybra	$x_1$ barda lo ka ma kau ce'u majga ku $x_2$	srana fa zo {majga}	lujvo					majga,barda
-malclaxu	$x_1$ mabla lo ka ce'u claxu $x_2$ .i $x_1$ nitcu je claxu $x_2$ .i lo nu $x_1$ claxu $x_2$ cu xlali	to'e malclaxu (= {zanclaxu})	lujvo		malclaxu			mabla,claxu
-malfri	$x_1$ lifri $x_2$ noi mabla	{lifri}; {mabla}; {zanfri}	lujvo					mabla,lifri
-malgli	lo nu $x_1$ noi jufra fi lo jbobau cu panra lo glibau selsmudu'i cu na'e drani ja mapti gi'e mabla fi $x_2$	srana fa zo {glico} .e zo {mabla}	lujvo					mabla,glico
-malpre	$x_1$ mabla $x_2$ $x_3$ gi'e prenu		lujvo					mabla,prenu
-malselfu'a	$x_1$ se funca $x_2$ noi mabla	{mabla}; {funca}	lujvo					mabla,se,funca
-malsmu	$x_1$ noi mabla cu smuni $x_2$ boi $x_3$		lujvo		malsmu			mabla,smuni
-malterkesri	$x_1$ te kesri $x_2$ $x_3$ noi mabla		lujvo					mabla,te,kesri
-malvi'e	$x_1$ vitke $x_2$ boi $x_3$ gi'e mabla le ka ce'u no'a kei $x_2$	{mabla} {vitke}; {fi'inai}; {zanvi'e}	lujvo					mabla,vitke
-malvla	$x_1$ valsi $x_2$ noi malsmu ku'o $x_3$	ko catlu zo {zanvla} ji'a	lujvo		malvla			mabla,valsi
-mampa'u	$x_1$ patfu lo mamta be $x_2$		lujvo					mamta,patfu
-mamymamta	$x_1$ mamta lo mamta be $x_2$		lujvo					mamta,mamta
-manbu'e	$x_1$ manku je bunre	{manku}; {bunre}	lujvo					manku,bunre
-manfybli	$b_1$=$m_1$ manfo lo ka ce'u se tarmi ku gi'e bliku $b_2$ $b_3$.		lujvo					manfo,bliku
-markai	$x_1$ ckaji $x_2$ ma'i $x_3$ .i va'i $x_3$ manri lo du'u $x_1$ ckaji $x_2$		lujvo					manri,ckaji
-matlydakli	$d_1$=$m_1$ dakli $d_2$ loi matli		lujvo					matli,dakli
-matryselre'e	$x_1$ poi se matra $x_2$ ku'o se trene $x_3$ $x_4$ vo'a		lujvo					matra,se,trene
-mavystasu	$x1$ stasu lo mavji be $x2$		lujvo					mavji,stasu
-meckanpe	da de poi ca ke'a da $x_2$ ckaji zo'u $x_1$ kanpe lo du'u lo ckaji be $x_2$ bei ca de cu dubme'a da $x_3$ kei $x_4$	srana fa zo {zmakanpe}	lujvo					mleca,kanpe
-mecyjavdu'i	$x_1$ mleca $x_2$ boi $x_3$ boi $x_4$ .ija $x_1$ dunli $x_2$ boi $x_3$	{mleca} {ja} {dunli}; {su'e}	lujvo		mecyjavdu'i			mleca,ja,dunli
-memymau	$x_1$ zmadu $x_2$ lo ka ce'u xo kau mei		lujvo		memymau			mei,zmadu
-memyze'a	$x_1$ zenba lo ka ce'u xo kau mei kei $x_2$	.e'u catlu zo {memjdika} ji'a	lujvo		memyze'a			mei,zenba
-menri'u	$x_1$ rinju $x_2$ noi srana lo menli farvi ku'o $x_3$ noi srana lo menli	{menli} {rinju} {ka'enri'u}	lujvo		menri'u			menli,rinju
-menryjinvi	$x_1$ jinvi lo du'u $x_2$ menre $x_3$	srana fa zo {menre} .e zo {jinvi} .e zo {kancu}	lujvo		menryjinvi			menre,jinvi
-menseika'e	$x_1$ kakne lo nu $x_2$ menli sepli $x_3$ zi'o kei $x_4$		lujvo					menli,sepli,kakne
-mensku	$x1$ cusku $x2$ $x1$ lo menli be $x1$		lujvo					menli,cusku
-meryru'ubu'i	$x_1$ me me'o meryru'u bu	.i lo sinxa cu selcme zoi gy. dollar .gy	lujvo					merko,rupnu,bu
-metnidytcika	$x_1$ goi ko'a tcika $x_2$ boi $x_3$ .ije $x_1$ sinxa lo mo'e ko'a moi be lu'i ro snidu be li pa bei $x_3$ be'o poi pagbu lo mentu be li pa bei $x_3$	.i {mentu} zei {snidu} zei {tcika} .i srana zo {ti'u'i} to lo terbri cu se manri lo si'o zasni jbotamgau zo {tcika} jo'u zo {ciste} toi	lujvo				ti'u'i	mentu,snidu,tcika
-mi'arckasu	$cm_1$=$ck_1$ ckasu $ck_2$ $ck_3$ lo nu cisma	.e'u ko tcidu tu'a zo {cmila} .e zo {ckasu}	lujvo					cmila,ckasu
-mibykla	$x_1$ klama mi $x_2$ $x_3$ $x_4$		lujvo					mi,klama
-mibzda	$x_1$ zdani lo cusku		lujvo		mibzda			mi,zdani
-micyxu'i	$x_1$ xukmi $x_2$ gi'e ve mikce fi $x_3$	{mikce} {xukmi}	lujvo		micyxu'i			mikce,xukmi
-mi'ercpesku	$x_1$ cusku $x_2$ $x_3$ $x_4$ gi'e cpedu la'e vo'e vo'i lonu vo'a minde vo'i la'e vo'e		lujvo					minde,cpedu,cusku
-mi'irkai	.i $x_1$ ckaji lo se minji be $x_1$	.i naku lo minji cu roroi ckaji lo se minji .i ka'e spofu mu'a .i ji'a mu'a lo {solgu'iborkemdicyprami'i} cu mi'irkai ca lo nicte naku .i zoi .raf. sel .raf. na se pilno fi tu'a lo dei lujvo .imu'ibo no da smuni lu ckaji lo minji li'u	lujvo		akti			minji,ckaji
-mijgresirji	$x_1$ sirji $x_2$ boi $x_3$ gi'e pagre le midju be $x_4$ be'o $x_2$ boi $x_3$	{midju} {pagre} {sirji}	lujvo		mijgresirji			midju,pagre,sirji
-mijravysirji	$x_1$ sirji $x_2$ boi $x_3$ ije $x_2$ ragve le midju be $x_4$ be'o $x_3$	{midju} {ragve} {sirji}; {mijgresirji}	lujvo		mijravysirji			midju,ragve,sirji
-mijyzva	$x_1$ zvati lo midju be $x_2$	srana fa zo {zvati} .e zo {midju}	lujvo		mijyzva			midju,zvati
-mikybontoknu	$x_1$ toknu $x_2$ sepi'o lo boxna be lo dicma bei fu lo klanrxertsi be li so gei ji'irepivomu ge'a pano		lujvo					mikri,boxna,toknu
+lujrinsku	.i lo ka lujrinsku cu ka ko'a ko'e ko'i ko'o ko'u fo'a ce'ai ko'a goi $x_1$ cusku lo se du'u ko'e goi $x_2$ krinu lo nu ko'i goi $x_3$ pluja ko'o goi $x_4$ ko'u goi $x_5$ kei kei fo'a goi $x_6$		lujvo					pluja;krinu;cusku
+lumse'i	$x_1$ sefsi lo ka ce'u lumci ce'u $x_2$ boi $x_3$	{sefsi} .i {lumci}	lujvo					lumci;sevzi
+lutnilcla	$x_1$ nilcla $x_2$ poi ke'a pluta $x_3$ boi $x_4$ boi $x_5$ ku'o zu'i $x_6$	pa da no'u zu'i ka'e se clani lo pluta	lujvo					pluta;ni;clani
+ma'arcpana	$cp_1$ cpana $cp_2$=$cm_1$ poi ke'a cmana	.e'u ko tcidu tu'a zo {cmana} .e zo {cmana}	lujvo					cmana;cpana
+ma'ervi'e	$x_1$ vitke $x_2$ noi se marce $x_3$		lujvo					marce;vitke
+mafpli	$p_1$=$m_3$ cu te se makfa $p_2$=$m_1$ tepi'o $p_3$		lujvo					makfa;pilno
+ma'irdeidetri	$x_1$ goi ko'a detri $x_2$ boi $x_3$ .ije $x_1$ sinxa lo mo'e ko'a moi be lu'i ro djedi be li pa bei $x_3$ be'o poi pagbu lo masti be li pa bei $x_3$	.i {masti} zei {djedi} zei {detri} .i srana zo {de'i'o} .e zo {detke'u} to lo terbri cu se manri lo si'o zasni jbotamgau zo {detri} jo'u zo {ciste} toi	lujvo				de'i'o	masti;djedi;detri
+ma'irdetri	$x_1$ goi ko'a detri $x_2$ boi $x_3$ .ije $x_1$ sinxa lo mo'e ko'a moi be lu'i ro masti be li pa bei $x_3$ be'o poi pagbu lo nanca be li pa bei $x_3$	.i {masti} zei {detri} to lo terbri cu se manri lo si'o zasni jbotamgau zo {detri} jo'u zo {ciste} toi .i srana zo {de'i'i} .e zo {detke'u} .e zo {masnpa} .e zo {masnre} .e zo {masnci} .e zo {masnvo} .e zo {masnmu} .e zo {masnxa} .e zo {masnze} .e zo {masnbi} .e zo {masnso} .e zo {masndau} .e zo {masnfei} .e zo {masngai} .e zo {masnjau} .e zo {masnrei} .a bo {masnxei} .e zo {masnvai}	lujvo				de'i'i	masti;detri
+ma'irjefydetri	$x_1$ goi ko'a detri $x_2$ boi $x_3$ .ije $x_1$ sinxa lo mo'e ko'a moi be lu'i ro jeftu be li pa bei $x_3$ be'o poi pagbu lo masti be li pa bei $x_3$	.i {masti} zei {jeftu} zei {detri} .i srana zo {detke'u} to lo terbri cu se manri lo si'o zasni jbotamgau zo {detri} jo'u zo {ciste} toi	lujvo					masti;jeftu;detri
+majgybra	$x_1$ barda lo ka ma kau ce'u majga ku $x_2$	srana fa zo {majga}	lujvo					majga;barda
+malclaxu	$x_1$ mabla lo ka ce'u claxu $x_2$ .i $x_1$ nitcu je claxu $x_2$ .i lo nu $x_1$ claxu $x_2$ cu xlali	to'e malclaxu (= {zanclaxu})	lujvo		malclaxu			mabla;claxu
+malfri	$x_1$ lifri $x_2$ noi mabla	{lifri}; {mabla}; {zanfri}	lujvo					mabla;lifri
+malgli	lo nu $x_1$ noi jufra fi lo jbobau cu panra lo glibau selsmudu'i cu na'e drani ja mapti gi'e mabla fi $x_2$	srana fa zo {glico} .e zo {mabla}	lujvo					mabla;glico
+malpre	$x_1$ mabla $x_2$ $x_3$ gi'e prenu		lujvo					mabla;prenu
+malselfu'a	$x_1$ se funca $x_2$ noi mabla	{mabla}; {funca}	lujvo					mabla;se;funca
+malsmu	$x_1$ noi mabla cu smuni $x_2$ boi $x_3$		lujvo		malsmu			mabla;smuni
+malterkesri	$x_1$ te kesri $x_2$ $x_3$ noi mabla		lujvo					mabla;te;kesri
+malvi'e	$x_1$ vitke $x_2$ boi $x_3$ gi'e mabla le ka ce'u no'a kei $x_2$	{mabla} {vitke}; {fi'inai}; {zanvi'e}	lujvo					mabla;vitke
+malvla	$x_1$ valsi $x_2$ noi malsmu ku'o $x_3$	ko catlu zo {zanvla} ji'a	lujvo		malvla			mabla;valsi
+mampa'u	$x_1$ patfu lo mamta be $x_2$		lujvo					mamta;patfu
+mamymamta	$x_1$ mamta lo mamta be $x_2$		lujvo					mamta;mamta
+manbu'e	$x_1$ manku je bunre	{manku}; {bunre}	lujvo					manku;bunre
+manfybli	$b_1$=$m_1$ manfo lo ka ce'u se tarmi ku gi'e bliku $b_2$ $b_3$.		lujvo					manfo;bliku
+markai	$x_1$ ckaji $x_2$ ma'i $x_3$ .i va'i $x_3$ manri lo du'u $x_1$ ckaji $x_2$		lujvo					manri;ckaji
+matlydakli	$d_1$=$m_1$ dakli $d_2$ loi matli		lujvo					matli;dakli
+matryselre'e	$x_1$ poi se matra $x_2$ ku'o se trene $x_3$ $x_4$ vo'a		lujvo					matra;se;trene
+mavystasu	$x1$ stasu lo mavji be $x2$		lujvo					mavji;stasu
+meckanpe	da de poi ca ke'a da $x_2$ ckaji zo'u $x_1$ kanpe lo du'u lo ckaji be $x_2$ bei ca de cu dubme'a da $x_3$ kei $x_4$	srana fa zo {zmakanpe}	lujvo					mleca;kanpe
+mecyjavdu'i	$x_1$ mleca $x_2$ boi $x_3$ boi $x_4$ .ija $x_1$ dunli $x_2$ boi $x_3$	{mleca} {ja} {dunli}; {su'e}	lujvo		mecyjavdu'i			mleca;ja;dunli
+memymau	$x_1$ zmadu $x_2$ lo ka ce'u xo kau mei		lujvo		memymau			mei;zmadu
+memyze'a	$x_1$ zenba lo ka ce'u xo kau mei kei $x_2$	.e'u catlu zo {memjdika} ji'a	lujvo		memyze'a			mei;zenba
+menri'u	$x_1$ rinju $x_2$ noi srana lo menli farvi ku'o $x_3$ noi srana lo menli	{menli} {rinju} {ka'enri'u}	lujvo		menri'u			menli;rinju
+menryjinvi	$x_1$ jinvi lo du'u $x_2$ menre $x_3$	srana fa zo {menre} .e zo {jinvi} .e zo {kancu}	lujvo		menryjinvi			menre;jinvi
+menseika'e	$x_1$ kakne lo nu $x_2$ menli sepli $x_3$ zi'o kei $x_4$		lujvo					menli;sepli;kakne
+mensku	$x1$ cusku $x2$ $x1$ lo menli be $x1$		lujvo					menli;cusku
+meryru'ubu'i	$x_1$ me me'o meryru'u bu	.i lo sinxa cu selcme zoi gy. dollar .gy	lujvo					merko;rupnu;bu
+metnidytcika	$x_1$ goi ko'a tcika $x_2$ boi $x_3$ .ije $x_1$ sinxa lo mo'e ko'a moi be lu'i ro snidu be li pa bei $x_3$ be'o poi pagbu lo mentu be li pa bei $x_3$	.i {mentu} zei {snidu} zei {tcika} .i srana zo {ti'u'i} to lo terbri cu se manri lo si'o zasni jbotamgau zo {tcika} jo'u zo {ciste} toi	lujvo				ti'u'i	mentu;snidu;tcika
+mi'arckasu	$cm_1$=$ck_1$ ckasu $ck_2$ $ck_3$ lo nu cisma	.e'u ko tcidu tu'a zo {cmila} .e zo {ckasu}	lujvo					cmila;ckasu
+mibykla	$x_1$ klama mi $x_2$ $x_3$ $x_4$		lujvo					mi;klama
+mibzda	$x_1$ zdani lo cusku		lujvo		mibzda			mi;zdani
+micyxu'i	$x_1$ xukmi $x_2$ gi'e ve mikce fi $x_3$	{mikce} {xukmi}	lujvo		micyxu'i			mikce;xukmi
+mi'ercpesku	$x_1$ cusku $x_2$ $x_3$ $x_4$ gi'e cpedu la'e vo'e vo'i lonu vo'a minde vo'i la'e vo'e		lujvo					minde;cpedu;cusku
+mi'irkai	.i $x_1$ ckaji lo se minji be $x_1$	.i naku lo minji cu roroi ckaji lo se minji .i ka'e spofu mu'a .i ji'a mu'a lo {solgu'iborkemdicyprami'i} cu mi'irkai ca lo nicte naku .i zoi .raf. sel .raf. na se pilno fi tu'a lo dei lujvo .imu'ibo no da smuni lu ckaji lo minji li'u	lujvo		akti			minji;ckaji
+mijgresirji	$x_1$ sirji $x_2$ boi $x_3$ gi'e pagre le midju be $x_4$ be'o $x_2$ boi $x_3$	{midju} {pagre} {sirji}	lujvo		mijgresirji			midju;pagre;sirji
+mijravysirji	$x_1$ sirji $x_2$ boi $x_3$ ije $x_2$ ragve le midju be $x_4$ be'o $x_3$	{midju} {ragve} {sirji}; {mijgresirji}	lujvo		mijravysirji			midju;ragve;sirji
+mijyzva	$x_1$ zvati lo midju be $x_2$	srana fa zo {zvati} .e zo {midju}	lujvo		mijyzva			midju;zvati
+mikybontoknu	$x_1$ toknu $x_2$ sepi'o lo boxna be lo dicma bei fu lo klanrxertsi be li so gei ji'irepivomu ge'a pano		lujvo					mikri;boxna;toknu
 ilkai	$x_1$ namcu gi'e se sinxa $x_2$ noi lerpoi	brivo panra zo {li} .i zo {namcu} .i zo {sinxa} .i zo {lerpoi}	fu'ivla			ilkai
 ilka'u	$x_2$ suzmeidza lo ka ce'u me $x_1$ gi'e ckaji $x_3$	srana fa zo {zilkancu} .e zo {kancu} .e zo {kaidza}	fu'ivla			ilka'u
 indika	lo poi'i ke'a nilyla'e $x_2$ va'o $x_1$ cu dubmau lo poi'i ke'a nilyla'e $x_2$ va'onai $x_1$ .i $x_1$ xoi racli cu krinu lo nu lo da'i pajni cu zenba lo ka birti $x_2$		fu'ivla			indika

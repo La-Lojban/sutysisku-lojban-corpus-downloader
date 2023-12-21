@@ -1338,4 +1338,4 @@ zutse	$x_1$ ül $x_2$ felületen	(Lásd még: {stizu}, {cpana}, {vreta})	gismu	�
 zvati	$x_1$ tárgy/esemény jelen van $x_2$ helyen/esemény helyén	(Lásd még: {stuzi}, {jbini}, {nenri}, {vasru}, {cpana}, {diklo}, {jibni}, {cabna}, {lamji}, {tcini}, {xabju}, {jmive}, {jundi}, {vitke})	gismu	jelen van	zva;zvat;zvati
 kanpe	$x_1$ számít $x_2$ esemény bekövetkeztére, amelyre $x_3$ esélyt lát	$x_3$ alapértelmezett értéke li so’a (1-hez közeli érték); kísérleti gismu (Lásd még: {pacna})	experimental gismu	számít valamire	kanpe
 laldo	$x_1$ öreg/idős/régi $x_2$ mérce szerint	Javasolt változtatás, loglanból átvéve (Lásd még: {citno})	experimental gismu	öreg	laldo
-volvygau	$x_1$ visszaállítja/visszateszi $x_2$-t $x_3$ eredeti/korábbi állapotba/helyzetbe/helyre $x_4$-ből	Lásd még: {benji}, {krefu}, {rapli}, {rinka}	lujvo	visszaállít		volve,gasnu
+volvygau	$x_1$ visszaállítja/visszateszi $x_2$-t $x_3$ eredeti/korábbi állapotba/helyzetbe/helyre $x_4$-ből	Lásd még: {benji}, {krefu}, {rapli}, {rinka}	lujvo	visszaállít		volve;gasnu
