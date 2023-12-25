@@ -305,7 +305,7 @@ function addCache({ cachedDefinition, excludeKeys = [] }: { cachedDefinition: an
     .join(';')
     .toLowerCase();
   const cache2 = cache
-    .replace(/[ \u2000-\u206F\u2E00-\u2E7F\\!"#$%&()*+,./:<=>?@[\]^`{|}~：？。，《》「」『』－（）]/g, ';')
+    .replace(/[ \u2000-\u206F\u2E00-\u2E7F\\!"#$%&()*+,./:<=>?@[\]^`{|}~：？。，《》「」『』－（）«»]/g, ';')
     .split(';');
   cache = cache.replace(
     /[ \u2000-\u206F\u2E00-\u2E7F\\!"#$%&()*+,\-./:<=>?@[\]^`{|}~：？。，《》「」『』－（）]/g,
@@ -411,8 +411,7 @@ async function ningauLeDeksiSutysisku({
         json[word].r = json[word].r ?? [];
         if (
           json[word].t === 'gismu' ||
-          json[word].t === 'experimental gismu' ||
-          (json[word].t || '').indexOf("fu'ivla") >= 0
+          json[word].t === 'experimental gismu'
         ) {
           json[word].r.push(word);
         } else if (json[word].t === 'lujvo') {
