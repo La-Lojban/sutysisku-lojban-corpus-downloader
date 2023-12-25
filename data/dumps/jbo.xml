@@ -6983,9 +6983,9 @@
     <username>xorxes</username>
     <realname>Jorge Llambias</realname>
   </user>
-  <definition>$x1$ nalcadgau lo xadni fi&apos;o rilti lo rilti be $x_2$</definition>
+  <definition>$x_1$ nalcadgau lo xadni fi&apos;o rilti lo rilti be $x_2$</definition>
   <definitionid>64513</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>{nalcadgau}; {xadni}; {rilti}; {zgike}</notes>
 </valsi>
 <valsi word="da'o" type="cmavo">
@@ -18148,8 +18148,8 @@
   </user>
   <definition>$x_1$ gasnu lonu $x_2$ klama $x_3$</definition>
   <definitionid>73429</definitionid>
-  <score>2</score>
-  <notes>or «x1 jai gau klama fai x2 x3» / «x2 klama x3 gau x1»</notes>
+  <score>3</score>
+  <notes>va&apos;i fabu jai gau klama fai febu fibu .i va&apos;i febu klama fibu gau fabu</notes>
 </valsi>
 <valsi word="klagi'a" type="lujvo">
   <user>

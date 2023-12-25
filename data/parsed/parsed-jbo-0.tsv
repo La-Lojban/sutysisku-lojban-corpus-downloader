@@ -395,7 +395,7 @@ damri	$x_1$ zgitci gi'e se pagbu $x_2$ noi te darxi $x_1$ te zu'e lo nu $x_1$ de
 danfu	$x_1$ mapti $x_2$ noi preti ja nabmi ku'o lo ka fapro	{mapti}; {preti}; {nabmi}; {fapro}; {spuda}; {frati}; {ciksi}	gismu			daf;danf;danfu
 danlu	$x_1$ jmive gi'e sorselsle gi'e ka'e ganse gi'e ka'e zukte lo ka ce'u muvdu kei gi'e jutsi $x_2$	srana fa zo {sorselsle} .e zo {pavyselsle} .e zo {ganse} .e zo {jmive} .e zo {jutsi} .e zo {banfi} .e zo {cinki} .e zo {finpe} .e zo {jukni} .e zo {respa} .e zo {since} .e zo {mabru} .e zo {bakni}	gismu		danlu	dal;da'u;danl;danlu
 danre	$x_1$ gasnu ja bapli lo nu $x_2$ tende $x_3$	{gasnu}; {bapli}; {tende}; {catke}; {lacpu}	gismu			da'e;danr;danre
-dansu	$x1$ nalcadgau lo xadni fi'o rilti lo rilti be $x_2$	{nalcadgau}; {xadni}; {rilti}; {zgike}	gismu			dans;dansu
+dansu	$x_1$ nalcadgau lo xadni fi'o rilti lo rilti be $x_2$	{nalcadgau}; {xadni}; {rilti}; {zgike}	gismu			dans;dansu
 daplu	$x_1$ tumla gi'e mulno se sruri $x_2$ noi ke'a na'o litki ku'o su'o cimde		gismu		daplu	plu;dapl;daplu
 dapma	$x_1$ gasnu ja djisku lo nu $x_2$ se dimna $x_3$ noi mabla	{gasnu}; {djisku}; {dimna}; {mabla}	gismu			dap;dapm;dapma
 darlu	$x_1$ sabji lo krinu be lo nu jinvi $x_2$ .e nai $x_3$	{sabji}; {krinu}; {jinvi}	gismu			dau;darl;darlu
@@ -1746,7 +1746,7 @@ kinzga	$x_1$ zgana $x_2$ noi skina	srana fa zo {zgana} .e zo {skina}	lujvo					s
 ki'ogra	$x_1$ klani $x_2$ lo sornai rauci'e ni marji .i $x_1$ kilto lo ka grake $x_2$	{klani}; {sornai}; {rauci'e}; {kilto}; {grake}	lujvo					kilto;grake
 ki'otre	$x_1$ mitre le kilto be $x_2$ boi $x_3$ boi $x_4$	{kilto} {mitre}	lujvo		ki'otre			kilto;mitre
 kitybo'i	$b_1$ botpi $b_2$ loi kliti $b_4$		lujvo					kliti;botpi
-klagau	$x_1$ gasnu lonu $x_2$ klama $x_3$	or «x1 jai gau klama fai x2 x3» / «x2 klama x3 gau x1»	lujvo					klama;gasnu
+klagau	$x_1$ gasnu lonu $x_2$ klama $x_3$	va'i fabu jai gau klama fai febu fibu .i va'i febu klama fibu gau fabu	lujvo					klama;gasnu
 klagi'a	$x_1$ gidva $x_2$ lo nu klama $x_3$ boi $x_4$ boi $x_5$	{klama} {gidva}	lujvo		klagi'a			klama;gidva
 klakla	$x_1$ klama $x_2$ boi $x_3$ boi lo me $x_4$ boi $x_5$ ibabo $x_1$ klama $x_3$ boi $x_2$ boi lo me $x_4$ boi $x_5$ ije lo ve go'e jo'u lo ve go'i du $x_4$	ji'a lu x1 klama x2 boi x2 boi x3 boi jo'u x4 boi x5 li'u	lujvo					klama;klama
 klamu'o	.i lo ka klamu'o cu ka ce'u goi $x_1$ mulno lo ka ce'u klama ce'u xi re goi $x_2$ ce'u xi re goi $x_3$ ce'u xi re goi $x_4$ ce'u xi re goi $x_5$ kei ce'u goi $x_6$	.i .e'u do zgana ge zo'e ne zo {klama} gi zo'e ne zo {mulno}	lujvo					klama;mulno
