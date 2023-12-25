@@ -129,21 +129,21 @@ volsmacu	$s_1$=$v_1$ est une chauve-souris (un mammifère volant de l'ordre des 
 vricycti	$x_1$ est omnivore		lujvo				vrici;citka
 xagytcerai	$x_1$=$m_1$=$t_1$ est Excellentissime (titre honorifique).		lujvo				xamgu;mutce;traji
 xaicku	$x_1$ est un livre détérioré/site web attaqué par $x_2$ selon la propriété $x_3$ (ka).	Voir aussi {cukta}, {xrani}.	lujvo	livre détérioré;site web attaqué			xrani;cukta
-altamru	$x_1$ est une palmier dattier/dattier/Phoenix dactylifera L. (arbre ou fruit) de l'espèce / variété $x_2$.		fu'ivla	dattier;palmier dattier	altamru
-angila	$x_1$ est une anguille de l'espèce / variété $x_2$		fu'ivla	anguille	angila
-bankutumu	$x_1$ est la langue avec le code ISO 639-3 ''ktm'' (Kurti)	Voir aussi {bangu}	fu'ivla	Kurti	bankutumu
-banmupuke	$x_1$ est la langue avec le code ISO 639-3 ''mpq'' (Matís).	Voir aussi {bangu}	fu'ivla	Matís	banmupuke
-ca'abna	$x_1$ se passe actuellement.	Voir aussi {cabna}.	fu'ivla	actuellement;maintenant;présentement	ca'abna
-cidjrxonido	$x_1$ est un hot-dog		fu'ivla	hot-dog	cidjrxonido
-ckuliki	$x_1$ est un moustique de l'espèce / variété $x_2$	Voir aussi {blusfani}	fu'ivla	moustique	ckuliki
-ernace	$x_1$ est un hérisson d'espéce $x_2$	voir aussi {jesymabru}	fu'ivla	hérisson	ernace
-fragari	$x_1$ est une fraise d'espèce/variété $x_2$		fu'ivla	fraise	fragari
-gugdrxelvo	$g_1$ est Suisse		fu'ivla	Suisse	gugdrxelvo
-kamxada	$x_1$ est un camarade de $x_2$, unis dans $x_3$ (ka).	Plus impersonel que {pendo}, puisque pendo n'indique pas le lien précis entre les personnes. Pourtant, «kamxada» indique un sentiment union important qui le rend différent de {kansa}.	fu'ivla	camarade	kamxada
-karkaju	$x_1$ est un carcajou de variété $x_2$		fu'ivla	carcajou	karkaju
-kurbarile	$x_1$ est un/du courbaril d'espèce/de varieté $x_2$	Grand arbre césalpinioïde du Brésil et de la Guyane qui donne une résine fragrante qui autrefois était fossilisée en ambre.	fu'ivla	courbaril	kurbarile
-mlongena	$x_1$ est une aubergine de variété $x_2$	voir aussi {patlu}, {tamca}, {kapsiku}, {labnyjba}	fu'ivla	aubergine	mlongena
-odbenu	$x_1$ est un morse de race $x_2$		fu'ivla	morse	odbenu
+altamru	$x_1$ est une palmier dattier/dattier/Phoenix dactylifera L. (arbre ou fruit) de l'espèce / variété $x_2$.		fu'ivla	dattier;palmier dattier
+angila	$x_1$ est une anguille de l'espèce / variété $x_2$		fu'ivla	anguille
+bankutumu	$x_1$ est la langue avec le code ISO 639-3 ''ktm'' (Kurti)	Voir aussi {bangu}	fu'ivla	Kurti
+banmupuke	$x_1$ est la langue avec le code ISO 639-3 ''mpq'' (Matís).	Voir aussi {bangu}	fu'ivla	Matís
+ca'abna	$x_1$ se passe actuellement.	Voir aussi {cabna}.	fu'ivla	actuellement;maintenant;présentement
+cidjrxonido	$x_1$ est un hot-dog		fu'ivla	hot-dog
+ckuliki	$x_1$ est un moustique de l'espèce / variété $x_2$	Voir aussi {blusfani}	fu'ivla	moustique
+ernace	$x_1$ est un hérisson d'espéce $x_2$	voir aussi {jesymabru}	fu'ivla	hérisson
+fragari	$x_1$ est une fraise d'espèce/variété $x_2$		fu'ivla	fraise
+gugdrxelvo	$g_1$ est Suisse		fu'ivla	Suisse
+kamxada	$x_1$ est un camarade de $x_2$, unis dans $x_3$ (ka).	Plus impersonel que {pendo}, puisque pendo n'indique pas le lien précis entre les personnes. Pourtant, «kamxada» indique un sentiment union important qui le rend différent de {kansa}.	fu'ivla	camarade
+karkaju	$x_1$ est un carcajou de variété $x_2$		fu'ivla	carcajou
+kurbarile	$x_1$ est un/du courbaril d'espèce/de varieté $x_2$	Grand arbre césalpinioïde du Brésil et de la Guyane qui donne une résine fragrante qui autrefois était fossilisée en ambre.	fu'ivla	courbaril
+mlongena	$x_1$ est une aubergine de variété $x_2$	voir aussi {patlu}, {tamca}, {kapsiku}, {labnyjba}	fu'ivla	aubergine
+odbenu	$x_1$ est un morse de race $x_2$		fu'ivla	morse
 kenyDAS	le Canada	Cf. {KEnydys}, {kadnygu'e}, {gugdecu'a}.	cmevla	Canada
 fau'u	Je suis désolé(e)!/Désolé(e)!/Pardonnez-moi!	cf. {fraxu}, {u'u}.	experimental cmavo	désolé		COI
 jo'au	Changer la version/le dialecte de l'analyseur syntaxique/parser.	{do'u} est le terminateur élidable. Il faut que la morphologie et la grammmaire de cmevla/sumti/selbri qui suit {jo'au} soient conformées à la version 134 de la page « BPFK Section: PEG Morphology Algorithm (l'algorithme morphologique de PEG) » sur le site web lojban.org et la grammaire officielle afin qu'une locution de {jo'au} forme un modifiant libre qui est compatible avec toutes les versions/tous les dialectes de l'analyseur syntaxique/parser du lojban : par exemple, « jo'au jie bu » ainsi que « jo'au xy xi xei » ne sont pas des locutions significatives. Dans l'usage standard, une locution de {jo'au} se trouve tout au début de la totalité d'un texte, à l'inverse de l'usage de {fa'o}. La portée de la signification d'une locution de {jo'au} s'étend sur la partie suivante jusqu'à la prochaine locution de {jo'au}. Optionnellement, si la première locution de {jo'au} se trouve au milieu d'un texte, la portée de la signification s'étend à partir du début du texte jusqu'à la prochaine locution de {jo'au}. Exemples de la signification : jo'au cylyly xi papipa (le yacc officiel et le jbofi'e http://www.lojban.org/jboski/ ) ; jo'au camxes (la peg actuelle http://camxes.lojban.org/ ) ; jo'au iocixes (zasni gerna de la xorxes https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ) ; jo'au zantufa xi nopipapa (zantufa version 0.11 http://guskant.github.io/gerna_cipra/zantufa-0.11.html ) ; jo'au ilmentufa xi renopavopi'epapapi'erevo (ilmentufa version 2014-11-24 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ) ; jo'au fancylojban (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau .)	experimental cmavo	dialecte d'analyseur syntaxique du lojban;version d'analyseur syntaxique du lojban		COI3

@@ -5,8 +5,8 @@ si'u	{sidju} modal, 1er argumento (aiding agent)             ayudado por ...	cma
 sicpi	$x_1$ es una cantidad de lluvia/llovizna/precipitación líquida de material/composición x2	experimental gismu		lluvia	sicpi	{bratu}, {snime}, {carvi}
 plajva	$j_1$=$p_2$ es una política por $p_1$ hacedor de política acerca de $j_3$ sujeto de política, $j_1$ es político	lujvo		política		La política como una actividad puede ser "nu plajva" y las ciencias políticas "plajva {saske}"	platu;javni
 simbasygau	$x_1$ intercambia $x_2$ y $x_3$ en circunstancia $x_4$	lujvo		intercambiar		Ver también {simbasti}, {gasnu}	simxu;basti;gasnu
-skargolu	$x_1$ es un caracol de especie $x_2$	fu'ivla		caracol	skargolu	{cakcurnu}
-skomberu	$x_1$ es una caballa de especie $x_2$	fu'ivla		caballa	skomberu
+skargolu	$x_1$ es un caracol de especie $x_2$	fu'ivla		caracol		{cakcurnu}
+skomberu	$x_1$ es una caballa de especie $x_2$	fu'ivla		caballa
 slaka bu	letra: carácter ',' de lojban	bu-letteral	BY*	coma cerrada
 slami	$x_{1}$ es una cantidad de ácido de composición $x_{2}$	gismu		ácido	slam;slami
 slanu	$x_{1}$ es un cilindro (forma) de material $x_{2}$	gismu		cilindro	slan;slanu
@@ -44,8 +44,8 @@ so'i	dígito/número: muchos	cmavo	PA4	muchos	sor;so'i
 soi	discursivo: marcador de sumti recíprocos; indica una relación recíproca emtre sumti	cmavo	SOI	sumti recíprocos
 snigau	$x_1$ asigna símbolo/variable $x_2$ a valor/referente $x_3$ para observador $x_4$	lujvo		asignar		Ver también {sinxa}, {gasnu}	sinxa;gasnu
 snisimsumji	$x_1$ es la sumatoria de expresión $x_2$ con variable $x_3$ sobre dominio $x_4$	lujvo		sumatoria		Ver también {si'i}	sinxa;simxu;sumji
-smacrkobaiu	$x_1$ es un cobayo/conejillo de Indias de especie $x_2$	fu'ivla		cobayo;conejillo de Indias	smacrkobaiu
-sodnrkali	$x_1$ es potasio (K)	fu'ivla		K;potasio	sodnrkali
+smacrkobaiu	$x_1$ es un cobayo/conejillo de Indias de especie $x_2$	fu'ivla		cobayo;conejillo de Indias
+sodnrkali	$x_1$ es potasio (K)	fu'ivla		K;potasio
 so'e roi	modificador de intervalo: la mayoría de las veces, usualmente	cmavo-compound	ROI*	la mayoría de las veces
 so'i mei	selbri cuantificado: convierte muchos en cardinal; $x_{1}$ son muchos $x_{2}$	cmavo-compound	MOI*	es un montón
 so'i roi	modificador de intervalo: muchas veces	cmavo-compound	ROI*	muchas veces
@@ -184,8 +184,8 @@ te	3ra conversión; intercambia 1er/3er argumentos	cmavo	SE	3ra conversión	ter
 te'a	operador matemático binario: potencia; exponencial; (a elevado a la potencia b)	cmavo	VUhU2	potencia
 te'e	locación/dirección; bordeando	cmavo	FAhA3	bordeando
 tei	letra compuesta sigue; usado para letras multi-carácter	cmavo	TEI	lerfu compuesto
-tcandana	$x_1$ es un sándalo de especie/variedad $x_2$	fu'ivla		sándalo	tcandana
-tci'ile	$x_1$ refleja cultura/nacionalidad/geografía chilena en aspecto $x_2$	fu'ivla			tci'ile
+tcandana	$x_1$ es un sándalo de especie/variedad $x_2$	fu'ivla		sándalo
+tci'ile	$x_1$ refleja cultura/nacionalidad/geografía chilena en aspecto $x_2$	fu'ivla
 te bau	{bangu} modal, 3er argumento (expresión)                lenguaje expresando ...	cmavo-compound	BAI*	expresando
 te be'i	{benji} modal, 3er argumento (receptor)                 enviado a ...	cmavo-compound	BAI*	enviado a
 te ca'i	{catni} modal, 3er argumento                            autoritativamente; con autoridad basada en ...	cmavo-compound	BAI*	autoridad basada en
@@ -331,8 +331,8 @@ u'i nai	actitudinal: \n{u'i } - diversión\n{u'i nai} - tedio	cmavo-compound	UI*
 ui nai	actitudinal: \n{ui } - felicidad\n{ui nai} - tristeza	cmavo-compound	UI*1	tristeza
 u'o	actitudinal: \n{u'o} - coraje\n{u'ocu'i} - timidez\n{u'onai} - cobardía	cmavo	UI1	coraje		Ver también {virnu}.
 uo	actitudinal: \n{uo} - culminación\n{uonai} - incompletitud	cmavo	UI1	culminación		Ver también {mulno},  {mansa},  {fanmo},  {snada}.
-uiski	$x_1$ es whisky destilado de $x_2$	fu'ivla		whisky	uiski
-ulmu	$x_1$ es un olmo de especie/variedad $x_2$	fu'ivla		olmo	ulmu
+uiski	$x_1$ es whisky destilado de $x_2$	fu'ivla		whisky
+ulmu	$x_1$ es un olmo de especie/variedad $x_2$	fu'ivla		olmo
 u'o cu'i	actitudinal: \n{u'o } - coraje\n{u'o cu'i} - timidez\n{u'o nai} - cobardía	cmavo-compound	UI*1	timidez
 u'o nai	actitudinal: \n{u'o } - coraje\n{u'o cu'i} - timidez\n{u'o nai} - cobardía	cmavo-compound	UI*1	cobardía
 uo nai	actitudinal: \n{uo } - completitud\n{uo nai} - incompletitud	cmavo-compound	UI*1	incompletitud
@@ -373,7 +373,7 @@ va	distancia espacial: allí, allá; a una distancia media	cmavo	VA	allí	vaz
 va'a	operador matemático unitario: inverso aditivo; (- a)	cmavo	VUhU3	inverso aditivo
 vai	dígito/número: dígito hexadecimal F (decimal 15) (quince)	cmavo	PA2	dígito hexadecimal F
 ve'e	intervalo espacial: totalidad del espacio	cmavo	VEhA	intervalo espacial total	ve'e
-urci	$x_1$ es un roble/zumaque de especie/variedad $x_2$	fu'ivla		roble;zumaque	urci
+urci	$x_1$ es un roble/zumaque de especie/variedad $x_2$	fu'ivla		roble;zumaque
 u'u cu'i	actitudinal: \n{u'u } - arrepentimiento\n{u'u cu'i} - falta de arrepentimiento\n{u'u nai} - inocencia	cmavo-compound	UI*1	falta de arrepentimiento
 u'u nai	actitudinal: \n{u'u } - arrepentimiento\n{u'u cu'i} - falta de arrepentimiento\n{u'u nai} - inocencia	cmavo-compound	UI*1	inocencia
 uu nai	actitudinal: \n{uu } - piedad\n{uu nai} - crueldad	cmavo-compound	UI*1	crueldad
@@ -490,7 +490,7 @@ xirma	$x_{1}$ es un caballo/yegua/potro/potrillo/pony de especie/raza $x_{2}$	gi
 xislu	$x_{1}$ es una rueda de aparato/vehículo $x_{2}$, de material $x_{3}$	gismu		rueda	xil;xi'u;xisl;xislu	Ver también {pulni}.
 xlali	$x_{1}$ es malo/perjudicial para $x_{2}$ según estándar $x_{3}$	gismu		malo	xla;xlal;xlali	Ver también {xamgu},  {palci},  {mabla}.
 xe	5ta conversión; intercambia 1er/5to argumentos	cmavo	SE	5ta conversión	xel
-xarcufu	$x_1$ es una alcachofa/alcaucil de especie/variedad	fu'ivla		alcachofa;alcaucil	xarcufu
+xarcufu	$x_1$ es una alcachofa/alcaucil de especie/variedad	fu'ivla		alcachofa;alcaucil
 xa vo ki'o	número/cantidad: 64,000	cmavo-compound	PA*	64,000
 xe be'i	{benji} modal, 5to argumento (medio)                    transmitido via ...	cmavo-compound	BAI*	transmitido vía
 xispo	$x_{1}$ refleja cultura/nacionalidad/idioma hispanoamericano/hispano en aspecto $x_{2}$	gismu		hispánico	xip;xisp;xispo	Ver también {ketco},  {spano}.
@@ -580,7 +580,7 @@ zanvi'e	$x_1$ es bienvenido por $x_2$ a lugar/evento $x_3$	lujvo		bienvenido		Ve
 zernalfu'e	$x_1$ es inocente de crimen $x_2$ ante juez/autoridad $x_3$	lujvo		inocente		Ver también {u'unai}	zekri;na'e;fuzme
 zilxru	$x_{1}$ vuelve/regresa/retorna a estado/lugar anterior/original $x_{2}$ desde $x_{3}$	lujvo		volver			zi'o;xruti
 zmajavdu'i	$x_1$ es mayor o igual a $x_2$ en propiedad $x_3$ por cantidad $x_4$	lujvo		mayor o igual		Ver también {su'o}	zmadu;ja;dunli
-zingibero	$x_1$ es jengibre de especie/variedad $x_2$	fu'ivla		jengibre	zingibero
+zingibero	$x_1$ es jengibre de especie/variedad $x_2$	fu'ivla		jengibre
 zo'o bu	letra: símbolo de humor, ":-)" y formas relacionadas que expresan humor (letra)	bu-letteral	BY*
 zo'o cu'i	modificador de actitudinal: \n{zo'o } - humor\n{zo'o cu'i} - aburrido\n{zo'o nai} - seriedad	cmavo-compound	UI*5	aburrido
 zo'o nai	modificador de actitudinal: \n{zo'o } - humor\n{zo'o cu'i} - aburrido\n{zo'o nai} - seriedad	cmavo-compound	UI*5	seriedad

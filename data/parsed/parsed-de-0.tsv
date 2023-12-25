@@ -1245,8 +1245,8 @@ velripyzbe	$z_1$ ist das Widerlager am Brückenende $z_2$=$c_4$ der Brücke $c_1
 velylumxu'i	$xu_1$=$l_4$ ist eine Menge des Reinigungsmittels $xu_2$ in der Reinheit $xu_3$.	lujvo	Reinigungsmittel		Siehe auch: {ve}, {lumci}, {xukmi}.		ve;lumci;xukmi
 turing zei sucyskami	$sk_1$ ist eine Turing-Maschine für Zweck $sk_2$.	zei-lujvo	Turing-Maschine		Siehe: {sucyskami}.
 ubutycys zei cacra	$c_1$ ist $c_2$ Stunden lang (Standardmäßig 1 Stunde) nach dem Zeitstandard Coordinated Universal Time (UTC).	zei-lujvo	UTC-Stunde
-tranrzalpetre	$x_1$ ist etwas Salpeter.	fu'ivla	Salpeter	tranrzalpetre	Vgl. {trano}.
-tsuktsu'ange	$x_1$ ist in Zugzwang	fu'ivla	Zugzwang	tsuktsu'ange
+tranrzalpetre	$x_1$ ist etwas Salpeter.	fu'ivla	Salpeter		Vgl. {trano}.
+tsuktsu'ange	$x_1$ ist in Zugzwang	fu'ivla	Zugzwang
 ui nai	Attitudinal: Fröhlichkeit – Traurigkeit.	cmavo-compound	Traurigkeit		Siehe auch {badri}.	UI*1
 venfu	$x_1$ nimmt Rache an/rächt sich an/zahlt es $x_2$ heim (Person) für Unrecht $x_3$ (nu) mit Rache/Vergeltung $x_4$ (nu)	gismu	sich rächen	vef;venf;venfu
 vensa	$x_1$ ist Frühling [erwärmende Jahreszeit] von Jahr $x_2$ an Ort $x_3$; (Adjektiv:) $x_1$ ist frühlingshaft	gismu	Frühling	ves;vens;vensa
@@ -1502,7 +1502,7 @@ cirlydakfu	$d_1$ ist ein Käsemesser mit einer Klinge aus dem Material $d_3$.	lu
 ckabo'o	$b_1$ ist ein Bettlaken aus dem Material $b_2$.	lujvo	Bettlaken				ckana;boxfo
 ckabu'u	$b_1$ ist Bettwäsche von Material $b_2$	lujvo	Bettwäsche				ckana;bukpu
 ckabycupsri	$d_1$=$cl_1$=$ck_1$ ist ein Gummiband.	lujvo	Gummiband		Vgl. {cupsri}.		ckabu;clupa;dasri
-cadnfroide	$x_1$ verspürt Schadenfreude über das Ereignis $x_2$.	fu'ivla	Schadenfreude verspüren	cadnfroide	Siehe auch: {funca}, {gleki}, {zdile}.
+cadnfroide	$x_1$ verspürt Schadenfreude über das Ereignis $x_2$.	fu'ivla	Schadenfreude verspüren		Siehe auch: {funca}, {gleki}, {zdile}.
 canlu bu	Leerzeichen.	bu-letteral	Leerzeichen		Unicode-Codepoint U+20	BY*
 canro'i	$r_1$=$c_1$ ist etwas/besteht aus Sandstein vom Typ/aus Komposition $r_2$=$c_3$ von dem Ort/von der Quelle $r_3$=$c_2$.	lujvo	Sandstein		Vgl. {canre}, {rokci}.		canre;rokci
 ca'orgreku	$g_1$ ist ein Fenterrahmen des Fensters $g_2$=$c_1$.	lujvo	Fensterrahmen				canko;greku
@@ -1844,159 +1844,159 @@ milis zei sucyskami	$sk_1$ ist ein Mealy-Automat für Zweck $sk_2$.	zei-lujvo	Me
 mur zei sucyskami	$sk_1$ ist ein Moore-Automat für Zweck $sk_2$.	zei-lujvo	Moore-Automat		Siehe: {sucyskami}.
 te'o zei dugri	$d_1$ ist der natürliche Logarithmus von $d_2$.	zei-lujvo	natürlicher Logarithmus		Siehe auch {te'o}, {dugri}, {reldugri}, {pavnondugri}.
 to'a zei lerfu	$x_1$ (»la'e zo «+BY/Wort+»bu«) ist ein Kleinbuchstabe / eine Minuskel im Alphabet/Zeichensatz $x_2$, darstellend $x_3$.	zei-lujvo	Kleinbuchstabe		Siehe auch {to'a}, {lerfu} und {ga'e zei lerfu}.
-anste	$x_1$ fühlt Existenzangst.	fu'ivla		anste	Nur ein sumti; um »Angst wegen irgendwas« auszudrücken, benutze {terpa}.
-atna	$x_1$ ist ein Lotus, eine Pflanze/Blume/ein Kraut von Art/Gattung $x_2$.	fu'ivla	Lotus	atna	Es ist die gleiche Definition wie {latna}, allerdings ohne die kulturell-bezogenen sumti $x_3$ und $x_4$.
-aufklerunge	$x_1$ (Vorgang/Konzept) ist Aufklärung im Sinne von Philosophie $x_2$	fu'ivla	Aufklärung	aufklerunge
-bamrdinamite	$x_1$ ist eine Bombe / eine Sprengvorrichtung, welche Dynamit als Sprengstoff verwendet.	fu'ivla	Dynamit	bamrdinamite	Siehe auch: {granrdinamite}.
-bandu'e'u	$x_1$ ist die Sprache mit dem ISO-639-3-Code »deu« (Deutsch).	fu'ivla	Deutsch	bandu'e'u	Vgl. {dotybau}, {baurgusuve}.
-bolrbasketo	$x_1$ ist ein Basketball.	fu'ivla	Basketball	bolrbasketo
-bolrbeiso	$x_1$ ist ein Baseball.	fu'ivla	Baseball	bolrbeiso
-bolrbliiardo	$x_1$ ist eine Billardkugel.	fu'ivla	Billardkugel	bolrbliiardo	Siehe auch: {bliiardo}, {bolci}.
-bolrbolingo	$x_1$ ist eine Bowlingkugel.	fu'ivla	Bowlingkugel	bolrbolingo
-bolrgolfo	$x_1$ ist ein Golfball.	fu'ivla	Golfball	bolrgolfo
-bolrkriketi	$x_1$ ist ein Cricketball.	fu'ivla	Cricketball	bolrkriketi	Siehe auch: {kriketi}.
-bolrkroke	$x_1$ ist ein Krocketball.	fu'ivla	Krocketball	bolrkroke	Vgl. {kelcrkroke}, {kro'oke}.
-bolrvolei	$x_1$ ist ein Volleyball.	fu'ivla	Volleyball	bolrvolei
-botrportcelanu	$bo_1$ ist eine Porzellanflasche/-buddel/-tiegel/-urne/ein verschließbarer Behälter aus Perzellan für $bo_2$ mit dem Deckel $bo_4$.	fu'ivla	Porzellanflasche	botrportcelanu	Siehe auch: {stakrportcelanu}.
-cekrti	$x_1$ ist ein T-Shirt, gemacht aus dem Material $x_2$.	fu'ivla	T-Shirt	cekrti	Siehe auch: {creka}.
-cidjrburito	$x_1$ ist ein Burrito [Mexikanisches Gericht aus Zutaten, die in einem Tortilla eingewickelt sind] mit Zutaten $x_2$.	fu'ivla	Burrito	cidjrburito
-cidjrtako	$x_1$ ist ein Taco.	fu'ivla	Taco	cidjrtako
-cidjrtcilekonkarne	$x_1$ ist etwas Chili con carne.	fu'ivla	Chili con carne	cidjrtcilekonkarne
-cidjrxonido	$x_1$ ist ein Hotdog	fu'ivla	Hot Dog	cidjrxonido
-cirlrlimburge	$x_1$ ist eine gewisse Menge an/enthält/besteht aus Limburger aus Quelle $x_2$.	fu'ivla	Limburger	cirlrlimburge	Vgl. {cirla}.
-cizrkafka	$x_1$ ist für $x_2$ (Beobachter) kafkaesk in Eigenschaft/Hinsicht $x_3$ (ka).	fu'ivla	kafkaesk	cizrkafka
-cmavnra'o	$x_1$ ist das selma'o "RAhO".	fu'ivla	selma'o "RAhO"	cmavnra'o
-cmavnroi	$x_1$ ist das selma'o "ROI".	fu'ivla	selma'o "ROI"	cmavnroi
-cmavrba'e	$x_1$ ist das selma'o "BAhE".	fu'ivla	selma'o "BAhE"	cmavrba'e
-cmavrbai	$x_1$ ist das selma'o "BAI".	fu'ivla	selma'o "BAI"	cmavrbai
-cmavrbe	$x_1$ ist das selma'o "BE".	fu'ivla	selma'o "BE"	cmavrbe
-cmavrbei	$x_1$ ist das selma'o "BEI".	fu'ivla	selma'o "BEI"	cmavrbei
-cmavrbe'o	$x_1$ ist das selma'o "BEhO".	fu'ivla	selma'o "BEhO"	cmavrbe'o
-cmavrbi'e	$x_1$ ist das selma'o "BIhE".	fu'ivla	selma'o "BIhE"	cmavrbi'e
-cmavrbi'i	$x_1$ ist das selma'o "BIhI".	fu'ivla	selma'o "BIhI"	cmavrbi'i
-cmavrbo	$x_1$ ist das selma'o "BO".	fu'ivla	selma'o "BO"	cmavrbo
-cmavrboi	$x_1$ ist das selma'o "BOI".	fu'ivla	selma'o "BOI"	cmavrboi
-cmavrbu	$x_1$ ist das selma'o "BU".	fu'ivla	selma'o "BU"	cmavrbu
-cmavrca'a	$x_1$ ist das selma'o "CAhA".	fu'ivla	selma'o "CAhA"	cmavrca'a
-cmavrcai	$x_1$ ist das selma'o "CAI".	fu'ivla	selma'o "CAI"	cmavrcai
-cmavrce'e	$x_1$ ist das selma'o "CEhE".	fu'ivla	selma'o "CEhE"	cmavrce'e
-cmavrcei	$x_1$ ist das selma'o "CEI".	fu'ivla	selma'o "CEI"	cmavrcei
-cmavrco	$x_1$ ist das selma'o "CO".	fu'ivla	selma'o "CO"	cmavrco
-cmavrcoi	$x_1$ ist das selma'o "COI".	fu'ivla	selma'o "COI"	cmavrcoi
-cmavrcu	$x_1$ ist das selma'o "CU".	fu'ivla	selma'o "CU"	cmavrcu
-cmavrcu'e	$x_1$ ist das selma'o "CUhE".	fu'ivla	selma'o "CUhE"	cmavrcu'e
-cmavrda'o	$x_1$ ist das selma'o "DAhO".	fu'ivla	selma'o "DAhO"	cmavrda'o
-cmavrdepsna	$x_1$ ist das selma'o "Y".	fu'ivla	selma'o "Y"	cmavrdepsna
-cmavrdoi	$x_1$ ist das selma'o "DOI".	fu'ivla	selma'o "DOI"	cmavrdoi
-cmavrdo'u	$x_1$ ist das selma'o "DOhU".	fu'ivla	selma'o "DOhU"	cmavrdo'u
-cmavrfa	$x_1$ ist das selma'o "FA".	fu'ivla	selma'o "FA"	cmavrfa
-cmavrfa'a	$x_1$ ist das selma'o "FAhA".	fu'ivla	selma'o "FAhA"	cmavrfa'a
-cmavrfa'o	$x_1$ ist das selma'o "FAhO".	fu'ivla	selma'o "FAhO"	cmavrfa'o
-cmavrfe'e	$x_1$ ist das selma'o "FEhE".	fu'ivla	selma'o "FEhE"	cmavrfe'e
-cmavrfe'u	$x_1$ ist das selma'o "FEhU".	fu'ivla	selma'o "FEhU"	cmavrfe'u
-cmavrfi'o	$x_1$ ist das selma'o "FIhO".	fu'ivla	selma'o "FIhO"	cmavrfi'o
-cmavrfoi	$x_1$ ist das selma'o "FOI".	fu'ivla	selma'o "FOI"	cmavrfoi
-cmavrfu'a	$x_1$ ist das selma'o "FUhA".	fu'ivla	selma'o "FUhA"	cmavrfu'a
-cmavrfu'e	$x_1$ ist das selma'o "FUhE".	fu'ivla	selma'o "FUhE"	cmavrfu'e
-cmavrfu'o	$x_1$ ist das selma'o "FUhO".	fu'ivla	selma'o "FUhO"	cmavrfu'o
-cmavrga	$x_1$ ist das selma'o "GA".	fu'ivla	selma'o "GA"	cmavrga
-cmavrga'o	$x_1$ ist das selma'o "GAhO".	fu'ivla	selma'o "GAhO"	cmavrga'o
-cmavrge'u	$x_1$ ist das selma'o "GEhU".	fu'ivla	selma'o "GEhU"	cmavrge'u
-cmavrgi	$x_1$ ist das selma'o "GI".	fu'ivla	selma'o "GI"	cmavrgi
-cmavrgi'a	$x_1$ ist das selma'o "GIhA".	fu'ivla	selma'o "GIhA"	cmavrgi'a
-cmavrgo'a	$x_1$ ist das selma'o "GOhA".	fu'ivla	selma'o "GOhA"	cmavrgo'a
-cmavrgoi	$x_1$ ist das selma'o "GOI".	fu'ivla	selma'o "GOI"	cmavrgoi
-cmavrgu'a	$x_1$ ist das selma'o "GUhA".	fu'ivla	selma'o "GUhA"	cmavrgu'a
-cmavrja	$x_1$ ist das selma'o "JA".	fu'ivla	selma'o "JA"	cmavrja
-cmavrjai	$x_1$ ist das selma'o "JAI".	fu'ivla	selma'o "JAI"	cmavrjai
-cmavrjo'i	$x_1$ ist das selma'o "JOhI".	fu'ivla	selma'o "JOhI"	cmavrjo'i
-cmavrjoi	$x_1$ ist das selma'o "JOI".	fu'ivla	selma'o "JOI"	cmavrjoi
-cmavrke	$x_1$ ist das selma'o "KE".	fu'ivla	selma'o "KE"	cmavrke
-cmavrke'e	$x_1$ ist das selma'o "KEhE".	fu'ivla	selma'o "KEhE"	cmavrke'e
-cmavrkei	$x_1$ ist das selma'o "KEI".	fu'ivla	selma'o "KEI"	cmavrkei
-cmavrki	$x_1$ ist das selma'o "KI".	fu'ivla	selma'o "KI"	cmavrki
-cmavrko'a	$x_1$ ist das selma'o "KOhA".	fu'ivla	selma'o "KOhA"	cmavrko'a
-cmavrku	$x_1$ ist das selma'o "KU".	fu'ivla	selma'o "KU"	cmavrku
-cmavrku'e	$x_1$ ist das selma'o "KUhE".	fu'ivla	selma'o "KUhE"	cmavrku'e
-cmavrku'o	$x_1$ ist das selma'o "KUhO".	fu'ivla	selma'o "KUhO"	cmavrku'o
-cmavrla	$x_1$ ist das selma'o "LA".	fu'ivla	selma'o "LA"	cmavrla
-cmavrla'e	$x_1$ ist das selma'o "LAhE".	fu'ivla	selma'o "LAhE"	cmavrla'e
-cmavrlau	$x_1$ ist das selma'o "LAU".	fu'ivla	selma'o "LAU"	cmavrlau
-cmavrle	$x_1$ ist das selma'o "LE".	fu'ivla	selma'o "LE"	cmavrle
-cmavrlerfu	$x_1$ ist das selma'o "BY".	fu'ivla	selma'o "BY"	cmavrlerfu
-cmavrle'u	$x_1$ ist das selma'o "LEhU".	fu'ivla	selma'o "LEhU"	cmavrle'u
-cmavrli	$x_1$ ist das selma'o "LI".	fu'ivla	selma'o "LI"	cmavrli
-cmavrli'u	$x_1$ ist das selma'o "LIhU".	fu'ivla	selma'o "LIhU"	cmavrli'u
-cmavrlo'o	$x_1$ ist das selma'o "LOhO".	fu'ivla	selma'o "LOhO"	cmavrlo'o
-cmavrlo'u	$x_1$ ist das selma'o "LOhU".	fu'ivla	selma'o "LOhU"	cmavrlo'u
-cmavrlu	$x_1$ ist das selma'o "LU".	fu'ivla	selma'o "LU"	cmavrlu
-cmavrlu'u	$x_1$ ist das selma'o "LUhU".	fu'ivla	selma'o "LUhU"	cmavrlu'u
-cmavrmai	$x_1$ ist das selma'o "MAI".	fu'ivla	selma'o "MAI"	cmavrmai
-cmavrma'o	$x_1$ ist das selma'o "MAhO".	fu'ivla	selma'o "MAhO"	cmavrma'o
-cmavrme	$x_1$ ist das selma'o "ME".	fu'ivla	selma'o "ME"	cmavrme
-cmavrme'u	$x_1$ ist das selma'o "MEhU".	fu'ivla	selma'o "MEhU"	cmavrme'u
-cmavrmo'e	$x_1$ ist das selma'o "MOhE".	fu'ivla	selma'o "MOhE"	cmavrmo'e
-cmavrmo'i	$x_1$ ist das selma'o "MOhI".	fu'ivla	selma'o "MOhI"	cmavrmo'i
-cmavrmoi	$x_1$ ist das selma'o "MOI".	fu'ivla	selma'o "MOI"	cmavrmoi
-cmavrna	$x_1$ ist das selma'o "NA".	fu'ivla	selma'o "NA"	cmavrna
-cmavrna'e	$x_1$ ist das selma'o "NAhE".	fu'ivla	selma'o "NAhE"	cmavrna'e
-cmavrnai	$x_1$ ist das selma'o "NAI".	fu'ivla	selma'o "NAI"	cmavrnai
-cmavrna'u	$x_1$ ist das selma'o "NAhU".	fu'ivla	selma'o "NAhU"	cmavrna'u
-cmavrni'e	$x_1$ ist das selma'o "NIhE".	fu'ivla	selma'o "NIhE"	cmavrni'e
-cmavrni'o	$x_1$ ist das selma'o "NIhO".	fu'ivla	selma'o "NIhO"	cmavrni'o
-cmavrnoi	$x_1$ ist das selma'o "NOI".	fu'ivla	selma'o "NOI"	cmavrnoi
-cmavrnu	$x_1$ ist das selma'o "NU".	fu'ivla	selma'o "NU"	cmavrnu
-cmavrnu'a	$x_1$ ist das selma'o "NUhA".	fu'ivla	selma'o "NUhA"	cmavrnu'a
-cmavrnu'i	$x_1$ ist das selma'o "NUhI".	fu'ivla	selma'o "NUhI"	cmavrnu'i
-cmavrnu'u	$x_1$ ist das selma'o "NUhU".	fu'ivla	selma'o "NUhU"	cmavrnu'u
-cmavrpa	$x_1$ ist das selma'o "PA".	fu'ivla	selma'o "PA"	cmavrpa
-cmavrpe'e	$x_1$ ist das selma'o "PEhE".	fu'ivla	selma'o "PEhE"	cmavrpe'e
-cmavrpe'o	$x_1$ ist das selma'o "PEhO".	fu'ivla	selma'o "PEhO"	cmavrpe'o
-cmavrpu	$x_1$ ist das selma'o "PU".	fu'ivla	selma'o "PU"	cmavrpu
-cmavrsa	$x_1$ ist das selma'o "SA".	fu'ivla	selma'o "SA"	cmavrsa
-cmavrse	$x_1$ ist das selma'o "SE".	fu'ivla	selma'o "SE"	cmavrse
-cmavrsei	$x_1$ ist das selma'o "SEI".	fu'ivla	selma'o "SEI"	cmavrsei
-cmavrse'u	$x_1$ ist das selma'o "SEhU".	fu'ivla	selma'o "SEhU"	cmavrse'u
-cmavrsi	$x_1$ ist das selma'o "SI".	fu'ivla	selma'o "SI"	cmavrsi
-cmavrsoi	$x_1$ ist das selma'o "SOI".	fu'ivla	selma'o "SOI"	cmavrsoi
-cmavrsu	$x_1$ ist das selma'o "SU".	fu'ivla	selma'o "SU"	cmavrsu
-cmavrta'e	$x_1$ ist das selma'o "TAhE".	fu'ivla	selma'o "TAhE"	cmavrta'e
-cmavrtei	$x_1$ ist das selma'o "TEI".	fu'ivla	selma'o "TEI"	cmavrtei
-cmavrte'u	$x_1$ ist das selma'o "TEhU".	fu'ivla	selma'o "TEhU"	cmavrte'u
-cmavrto	$x_1$ ist das selma'o "TO".	fu'ivla	selma'o "TO"	cmavrto
-cmavrtoi	$x_1$ ist das selma'o "TOI".	fu'ivla	selma'o "TOI"	cmavrtoi
-cmavrtu'e	$x_1$ ist das selma'o "TUhE".	fu'ivla	selma'o "TUhE"	cmavrtu'e
-cmavrtu'u	$x_1$ ist das selma'o "TUhU".	fu'ivla	selma'o "TUhU"	cmavrtu'u
-cmavrva	$x_1$ ist das selma'o "VA".	fu'ivla	selma'o "VA"	cmavrva
-cmavrvau	$x_1$ ist das selma'o "VAU".	fu'ivla	selma'o "VAU"	cmavrvau
-cmavrve'a	$x_1$ ist das selma'o "VEhA".	fu'ivla	selma'o "VEhA"	cmavrve'a
-cmavrvei	$x_1$ ist das selma'o "VEI".	fu'ivla	selma'o "VEI"	cmavrvei
-cmavrve'o	$x_1$ ist das selma'o "VEhO".	fu'ivla	selma'o "VEhO"	cmavrve'o
-cmavrvi'a	$x_1$ ist das selma'o "VIhA".	fu'ivla	selma'o "VIhA"	cmavrvi'a
-cmavrvu'o	$x_1$ ist das selma'o "VUhO".	fu'ivla	selma'o "VUhO"	cmavrvu'o
-cmavrvu'u	$x_1$ ist das selma'o "VUhU".	fu'ivla	selma'o "VUhU"	cmavrvu'u
-cmavrxavo	$x_1$ ist das selma'o "A".	fu'ivla	selma'o "A"	cmavrxavo
-cmavrxi	$x_1$ ist das selma'o "XI".	fu'ivla	selma'o "XI"	cmavrxi
-cmavrxivo	$x_1$ ist das selma'o "I".	fu'ivla	selma'o "I"	cmavrxivo
-cmavrza'o	$x_1$ ist das selma'o "ZAhO".	fu'ivla	selma'o "ZAhO"	cmavrza'o
-cmavrze'a	$x_1$ ist das selma'o "ZEhA".	fu'ivla	selma'o "ZEhA"	cmavrze'a
-dakrmatcete	$x_1$ ist eine Machete mit einer Klinge aus dem Material $x_2$.	fu'ivla	Machete	dakrmatcete
-ekra	$x_1$ ist eine Anzeige [Technik] des Ausgabegeräts $x_2$.	fu'ivla	Anzeige	ekra
-genjrtensai	$x_1$ ist die Wurzel der Roten-Bete-Pflanze $x_2$ (wissenschaftlicher Name: »Beta vulgaris subsp. vulgaris var. conditiva«).	fu'ivla		genjrtensai	Siehe auch: {spatrtensai}.
-gerkrtciuaua	$x_1$ ist ein Chihuahua der Varietät $x_2$.	fu'ivla	Chihuahua	gerkrtciuaua	Typ-3-Form von »{tciuaua}«. Siehe auch: {gerku}
-gernciba'inu	$x_1$ ist ein Shiba.	fu'ivla	Shiba	gernciba'inu	Vgl. {gerku}.
-granrbeiso	$x_1$ ist ein Baseballschläger aus dem Material $x_2$.	fu'ivla	Baseballschläger	granrbeiso	Siehe auch: {bolrbeiso}.
-granrdinamite	$x_1$ ist eine Dynamitstange.	fu'ivla	Dynamitstange	granrdinamite	Siehe auch: {bamrdinamite}.
-grutrgranate	$x_1$ ist ein Granatapfel (Frucht einer Punica granatum) der Varietät $x_2$.	fu'ivla	Granatapfel	grutrgranate
-grutrxananase	$x_1$ ist eine Ananas (Frucht) der Art/Varietät $x_2$.	fu'ivla	Ananas	grutrxananase	Siehe auch: {bromeli}, {grute}.
-gurnrbulguru	$x_1$ ist etwas Bulgur.	fu'ivla	Bulgur	gurnrbulguru
-iglu	$x_1$ ist ein Iglu.	fu'ivla	Iglu	iglu	Siehe auch {dinju}, {bisli}, {inuit}.
-jadrdjekolenterne	$x_1$ ist eine Jack O’Lantern.	fu'ivla	Halloween-Kürbis;Jack-o’-lantern;Jack O’Lantern	jadrdjekolenterne	Vgl.: {guzmrkukurbita}.
-jajrlanparti	$x_1$ (Masse aus Leuten/jo'u) veranstalten gemeinsam eine LAN-Party am Ort $x_2$ und kommen von $x_3$ (Ort oder Orte [Masse/jo'u]).	fu'ivla	LAN-Party veranstalten	jajrlanparti	Siehe auch: LAN-Party (Ereignis) ({nunrlanparti}), versammeln ({jmaji}), LAN ({selklosamseltcana}), Videosiel ({samyzilkei}).
-jemnrsapfiro	$x_1$ ist ein Saphir [Edelstein] des Typs $x_2$ aus Quelle $x_3$.	fu'ivla	Saphir	jemnrsapfiro	Vgl. {kunrsapfiro}, {jemna}.
-jimrmifrile	$x_1$ ist eine Menge an/enthält/besteht aus Mithril mit Zusammensetzung aus unter anderem $x_2$.	fu'ivla	Mithril	jimrmifrile	Siehe auch {jinme}.
-jisrnxananase	$x_1$ ist etwas Ananassaft gemacht aus Ananas/Ananassen $x_2$.	fu'ivla	Ananassaft	jisrnxananase	Siehe auch: {grutrxananase}, {jisra}.
-judrnporte	$x_1$ ist die Portnummer des Prozesses $x_2$, das auf Computer $x_3$ läuft; Portnummer benutzt vom Protokoll $x_4$.	fu'ivla	Port;Portnummer	judrnporte	$x_2$ kann ein Client- oder ein Serverprozess sein. Vgl. {samjudri}. $x_4$ muss spezifisch zur Portnummer sein, also zum Beispiel TCP (={tycypys}), UDP (={ubudypys}).
-krilrkartso	$x_1$ ist ein Quarzkristall aus Komposition $x_2$ in Form/Anordnung $x_3$.	fu'ivla	Quarz;Quarzkristall	krilrkartso	Vgl. {kunrkartso}, {krili}
-kunrkartso	$x_1$ ist etwas Quarz gefördert/abgebaut an Ort/in Mine $x_2$.	fu'ivla	Quarz	kunrkartso	Vgl. {krilrkartso}, {kunra}.
-kunrsapfiro	$x_1$ ist ein/enthält/besteht aus Saphir [Mineral] des Typs $x_2$, gefördert aus $x_3$ [Mine/Bergwerk/usw.].	fu'ivla	Saphir	kunrsapfiro	Vgl. {jemnrsapfiro}, {kunra}
+anste	$x_1$ fühlt Existenzangst.	fu'ivla			Nur ein sumti; um »Angst wegen irgendwas« auszudrücken, benutze {terpa}.
+atna	$x_1$ ist ein Lotus, eine Pflanze/Blume/ein Kraut von Art/Gattung $x_2$.	fu'ivla	Lotus		Es ist die gleiche Definition wie {latna}, allerdings ohne die kulturell-bezogenen sumti $x_3$ und $x_4$.
+aufklerunge	$x_1$ (Vorgang/Konzept) ist Aufklärung im Sinne von Philosophie $x_2$	fu'ivla	Aufklärung
+bamrdinamite	$x_1$ ist eine Bombe / eine Sprengvorrichtung, welche Dynamit als Sprengstoff verwendet.	fu'ivla	Dynamit		Siehe auch: {granrdinamite}.
+bandu'e'u	$x_1$ ist die Sprache mit dem ISO-639-3-Code »deu« (Deutsch).	fu'ivla	Deutsch		Vgl. {dotybau}, {baurgusuve}.
+bolrbasketo	$x_1$ ist ein Basketball.	fu'ivla	Basketball
+bolrbeiso	$x_1$ ist ein Baseball.	fu'ivla	Baseball
+bolrbliiardo	$x_1$ ist eine Billardkugel.	fu'ivla	Billardkugel		Siehe auch: {bliiardo}, {bolci}.
+bolrbolingo	$x_1$ ist eine Bowlingkugel.	fu'ivla	Bowlingkugel
+bolrgolfo	$x_1$ ist ein Golfball.	fu'ivla	Golfball
+bolrkriketi	$x_1$ ist ein Cricketball.	fu'ivla	Cricketball		Siehe auch: {kriketi}.
+bolrkroke	$x_1$ ist ein Krocketball.	fu'ivla	Krocketball		Vgl. {kelcrkroke}, {kro'oke}.
+bolrvolei	$x_1$ ist ein Volleyball.	fu'ivla	Volleyball
+botrportcelanu	$bo_1$ ist eine Porzellanflasche/-buddel/-tiegel/-urne/ein verschließbarer Behälter aus Perzellan für $bo_2$ mit dem Deckel $bo_4$.	fu'ivla	Porzellanflasche		Siehe auch: {stakrportcelanu}.
+cekrti	$x_1$ ist ein T-Shirt, gemacht aus dem Material $x_2$.	fu'ivla	T-Shirt		Siehe auch: {creka}.
+cidjrburito	$x_1$ ist ein Burrito [Mexikanisches Gericht aus Zutaten, die in einem Tortilla eingewickelt sind] mit Zutaten $x_2$.	fu'ivla	Burrito
+cidjrtako	$x_1$ ist ein Taco.	fu'ivla	Taco
+cidjrtcilekonkarne	$x_1$ ist etwas Chili con carne.	fu'ivla	Chili con carne
+cidjrxonido	$x_1$ ist ein Hotdog	fu'ivla	Hot Dog
+cirlrlimburge	$x_1$ ist eine gewisse Menge an/enthält/besteht aus Limburger aus Quelle $x_2$.	fu'ivla	Limburger		Vgl. {cirla}.
+cizrkafka	$x_1$ ist für $x_2$ (Beobachter) kafkaesk in Eigenschaft/Hinsicht $x_3$ (ka).	fu'ivla	kafkaesk
+cmavnra'o	$x_1$ ist das selma'o "RAhO".	fu'ivla	selma'o "RAhO"
+cmavnroi	$x_1$ ist das selma'o "ROI".	fu'ivla	selma'o "ROI"
+cmavrba'e	$x_1$ ist das selma'o "BAhE".	fu'ivla	selma'o "BAhE"
+cmavrbai	$x_1$ ist das selma'o "BAI".	fu'ivla	selma'o "BAI"
+cmavrbe	$x_1$ ist das selma'o "BE".	fu'ivla	selma'o "BE"
+cmavrbei	$x_1$ ist das selma'o "BEI".	fu'ivla	selma'o "BEI"
+cmavrbe'o	$x_1$ ist das selma'o "BEhO".	fu'ivla	selma'o "BEhO"
+cmavrbi'e	$x_1$ ist das selma'o "BIhE".	fu'ivla	selma'o "BIhE"
+cmavrbi'i	$x_1$ ist das selma'o "BIhI".	fu'ivla	selma'o "BIhI"
+cmavrbo	$x_1$ ist das selma'o "BO".	fu'ivla	selma'o "BO"
+cmavrboi	$x_1$ ist das selma'o "BOI".	fu'ivla	selma'o "BOI"
+cmavrbu	$x_1$ ist das selma'o "BU".	fu'ivla	selma'o "BU"
+cmavrca'a	$x_1$ ist das selma'o "CAhA".	fu'ivla	selma'o "CAhA"
+cmavrcai	$x_1$ ist das selma'o "CAI".	fu'ivla	selma'o "CAI"
+cmavrce'e	$x_1$ ist das selma'o "CEhE".	fu'ivla	selma'o "CEhE"
+cmavrcei	$x_1$ ist das selma'o "CEI".	fu'ivla	selma'o "CEI"
+cmavrco	$x_1$ ist das selma'o "CO".	fu'ivla	selma'o "CO"
+cmavrcoi	$x_1$ ist das selma'o "COI".	fu'ivla	selma'o "COI"
+cmavrcu	$x_1$ ist das selma'o "CU".	fu'ivla	selma'o "CU"
+cmavrcu'e	$x_1$ ist das selma'o "CUhE".	fu'ivla	selma'o "CUhE"
+cmavrda'o	$x_1$ ist das selma'o "DAhO".	fu'ivla	selma'o "DAhO"
+cmavrdepsna	$x_1$ ist das selma'o "Y".	fu'ivla	selma'o "Y"
+cmavrdoi	$x_1$ ist das selma'o "DOI".	fu'ivla	selma'o "DOI"
+cmavrdo'u	$x_1$ ist das selma'o "DOhU".	fu'ivla	selma'o "DOhU"
+cmavrfa	$x_1$ ist das selma'o "FA".	fu'ivla	selma'o "FA"
+cmavrfa'a	$x_1$ ist das selma'o "FAhA".	fu'ivla	selma'o "FAhA"
+cmavrfa'o	$x_1$ ist das selma'o "FAhO".	fu'ivla	selma'o "FAhO"
+cmavrfe'e	$x_1$ ist das selma'o "FEhE".	fu'ivla	selma'o "FEhE"
+cmavrfe'u	$x_1$ ist das selma'o "FEhU".	fu'ivla	selma'o "FEhU"
+cmavrfi'o	$x_1$ ist das selma'o "FIhO".	fu'ivla	selma'o "FIhO"
+cmavrfoi	$x_1$ ist das selma'o "FOI".	fu'ivla	selma'o "FOI"
+cmavrfu'a	$x_1$ ist das selma'o "FUhA".	fu'ivla	selma'o "FUhA"
+cmavrfu'e	$x_1$ ist das selma'o "FUhE".	fu'ivla	selma'o "FUhE"
+cmavrfu'o	$x_1$ ist das selma'o "FUhO".	fu'ivla	selma'o "FUhO"
+cmavrga	$x_1$ ist das selma'o "GA".	fu'ivla	selma'o "GA"
+cmavrga'o	$x_1$ ist das selma'o "GAhO".	fu'ivla	selma'o "GAhO"
+cmavrge'u	$x_1$ ist das selma'o "GEhU".	fu'ivla	selma'o "GEhU"
+cmavrgi	$x_1$ ist das selma'o "GI".	fu'ivla	selma'o "GI"
+cmavrgi'a	$x_1$ ist das selma'o "GIhA".	fu'ivla	selma'o "GIhA"
+cmavrgo'a	$x_1$ ist das selma'o "GOhA".	fu'ivla	selma'o "GOhA"
+cmavrgoi	$x_1$ ist das selma'o "GOI".	fu'ivla	selma'o "GOI"
+cmavrgu'a	$x_1$ ist das selma'o "GUhA".	fu'ivla	selma'o "GUhA"
+cmavrja	$x_1$ ist das selma'o "JA".	fu'ivla	selma'o "JA"
+cmavrjai	$x_1$ ist das selma'o "JAI".	fu'ivla	selma'o "JAI"
+cmavrjo'i	$x_1$ ist das selma'o "JOhI".	fu'ivla	selma'o "JOhI"
+cmavrjoi	$x_1$ ist das selma'o "JOI".	fu'ivla	selma'o "JOI"
+cmavrke	$x_1$ ist das selma'o "KE".	fu'ivla	selma'o "KE"
+cmavrke'e	$x_1$ ist das selma'o "KEhE".	fu'ivla	selma'o "KEhE"
+cmavrkei	$x_1$ ist das selma'o "KEI".	fu'ivla	selma'o "KEI"
+cmavrki	$x_1$ ist das selma'o "KI".	fu'ivla	selma'o "KI"
+cmavrko'a	$x_1$ ist das selma'o "KOhA".	fu'ivla	selma'o "KOhA"
+cmavrku	$x_1$ ist das selma'o "KU".	fu'ivla	selma'o "KU"
+cmavrku'e	$x_1$ ist das selma'o "KUhE".	fu'ivla	selma'o "KUhE"
+cmavrku'o	$x_1$ ist das selma'o "KUhO".	fu'ivla	selma'o "KUhO"
+cmavrla	$x_1$ ist das selma'o "LA".	fu'ivla	selma'o "LA"
+cmavrla'e	$x_1$ ist das selma'o "LAhE".	fu'ivla	selma'o "LAhE"
+cmavrlau	$x_1$ ist das selma'o "LAU".	fu'ivla	selma'o "LAU"
+cmavrle	$x_1$ ist das selma'o "LE".	fu'ivla	selma'o "LE"
+cmavrlerfu	$x_1$ ist das selma'o "BY".	fu'ivla	selma'o "BY"
+cmavrle'u	$x_1$ ist das selma'o "LEhU".	fu'ivla	selma'o "LEhU"
+cmavrli	$x_1$ ist das selma'o "LI".	fu'ivla	selma'o "LI"
+cmavrli'u	$x_1$ ist das selma'o "LIhU".	fu'ivla	selma'o "LIhU"
+cmavrlo'o	$x_1$ ist das selma'o "LOhO".	fu'ivla	selma'o "LOhO"
+cmavrlo'u	$x_1$ ist das selma'o "LOhU".	fu'ivla	selma'o "LOhU"
+cmavrlu	$x_1$ ist das selma'o "LU".	fu'ivla	selma'o "LU"
+cmavrlu'u	$x_1$ ist das selma'o "LUhU".	fu'ivla	selma'o "LUhU"
+cmavrmai	$x_1$ ist das selma'o "MAI".	fu'ivla	selma'o "MAI"
+cmavrma'o	$x_1$ ist das selma'o "MAhO".	fu'ivla	selma'o "MAhO"
+cmavrme	$x_1$ ist das selma'o "ME".	fu'ivla	selma'o "ME"
+cmavrme'u	$x_1$ ist das selma'o "MEhU".	fu'ivla	selma'o "MEhU"
+cmavrmo'e	$x_1$ ist das selma'o "MOhE".	fu'ivla	selma'o "MOhE"
+cmavrmo'i	$x_1$ ist das selma'o "MOhI".	fu'ivla	selma'o "MOhI"
+cmavrmoi	$x_1$ ist das selma'o "MOI".	fu'ivla	selma'o "MOI"
+cmavrna	$x_1$ ist das selma'o "NA".	fu'ivla	selma'o "NA"
+cmavrna'e	$x_1$ ist das selma'o "NAhE".	fu'ivla	selma'o "NAhE"
+cmavrnai	$x_1$ ist das selma'o "NAI".	fu'ivla	selma'o "NAI"
+cmavrna'u	$x_1$ ist das selma'o "NAhU".	fu'ivla	selma'o "NAhU"
+cmavrni'e	$x_1$ ist das selma'o "NIhE".	fu'ivla	selma'o "NIhE"
+cmavrni'o	$x_1$ ist das selma'o "NIhO".	fu'ivla	selma'o "NIhO"
+cmavrnoi	$x_1$ ist das selma'o "NOI".	fu'ivla	selma'o "NOI"
+cmavrnu	$x_1$ ist das selma'o "NU".	fu'ivla	selma'o "NU"
+cmavrnu'a	$x_1$ ist das selma'o "NUhA".	fu'ivla	selma'o "NUhA"
+cmavrnu'i	$x_1$ ist das selma'o "NUhI".	fu'ivla	selma'o "NUhI"
+cmavrnu'u	$x_1$ ist das selma'o "NUhU".	fu'ivla	selma'o "NUhU"
+cmavrpa	$x_1$ ist das selma'o "PA".	fu'ivla	selma'o "PA"
+cmavrpe'e	$x_1$ ist das selma'o "PEhE".	fu'ivla	selma'o "PEhE"
+cmavrpe'o	$x_1$ ist das selma'o "PEhO".	fu'ivla	selma'o "PEhO"
+cmavrpu	$x_1$ ist das selma'o "PU".	fu'ivla	selma'o "PU"
+cmavrsa	$x_1$ ist das selma'o "SA".	fu'ivla	selma'o "SA"
+cmavrse	$x_1$ ist das selma'o "SE".	fu'ivla	selma'o "SE"
+cmavrsei	$x_1$ ist das selma'o "SEI".	fu'ivla	selma'o "SEI"
+cmavrse'u	$x_1$ ist das selma'o "SEhU".	fu'ivla	selma'o "SEhU"
+cmavrsi	$x_1$ ist das selma'o "SI".	fu'ivla	selma'o "SI"
+cmavrsoi	$x_1$ ist das selma'o "SOI".	fu'ivla	selma'o "SOI"
+cmavrsu	$x_1$ ist das selma'o "SU".	fu'ivla	selma'o "SU"
+cmavrta'e	$x_1$ ist das selma'o "TAhE".	fu'ivla	selma'o "TAhE"
+cmavrtei	$x_1$ ist das selma'o "TEI".	fu'ivla	selma'o "TEI"
+cmavrte'u	$x_1$ ist das selma'o "TEhU".	fu'ivla	selma'o "TEhU"
+cmavrto	$x_1$ ist das selma'o "TO".	fu'ivla	selma'o "TO"
+cmavrtoi	$x_1$ ist das selma'o "TOI".	fu'ivla	selma'o "TOI"
+cmavrtu'e	$x_1$ ist das selma'o "TUhE".	fu'ivla	selma'o "TUhE"
+cmavrtu'u	$x_1$ ist das selma'o "TUhU".	fu'ivla	selma'o "TUhU"
+cmavrva	$x_1$ ist das selma'o "VA".	fu'ivla	selma'o "VA"
+cmavrvau	$x_1$ ist das selma'o "VAU".	fu'ivla	selma'o "VAU"
+cmavrve'a	$x_1$ ist das selma'o "VEhA".	fu'ivla	selma'o "VEhA"
+cmavrvei	$x_1$ ist das selma'o "VEI".	fu'ivla	selma'o "VEI"
+cmavrve'o	$x_1$ ist das selma'o "VEhO".	fu'ivla	selma'o "VEhO"
+cmavrvi'a	$x_1$ ist das selma'o "VIhA".	fu'ivla	selma'o "VIhA"
+cmavrvu'o	$x_1$ ist das selma'o "VUhO".	fu'ivla	selma'o "VUhO"
+cmavrvu'u	$x_1$ ist das selma'o "VUhU".	fu'ivla	selma'o "VUhU"
+cmavrxavo	$x_1$ ist das selma'o "A".	fu'ivla	selma'o "A"
+cmavrxi	$x_1$ ist das selma'o "XI".	fu'ivla	selma'o "XI"
+cmavrxivo	$x_1$ ist das selma'o "I".	fu'ivla	selma'o "I"
+cmavrza'o	$x_1$ ist das selma'o "ZAhO".	fu'ivla	selma'o "ZAhO"
+cmavrze'a	$x_1$ ist das selma'o "ZEhA".	fu'ivla	selma'o "ZEhA"
+dakrmatcete	$x_1$ ist eine Machete mit einer Klinge aus dem Material $x_2$.	fu'ivla	Machete
+ekra	$x_1$ ist eine Anzeige [Technik] des Ausgabegeräts $x_2$.	fu'ivla	Anzeige
+genjrtensai	$x_1$ ist die Wurzel der Roten-Bete-Pflanze $x_2$ (wissenschaftlicher Name: »Beta vulgaris subsp. vulgaris var. conditiva«).	fu'ivla			Siehe auch: {spatrtensai}.
+gerkrtciuaua	$x_1$ ist ein Chihuahua der Varietät $x_2$.	fu'ivla	Chihuahua		Typ-3-Form von »{tciuaua}«. Siehe auch: {gerku}
+gernciba'inu	$x_1$ ist ein Shiba.	fu'ivla	Shiba		Vgl. {gerku}.
+granrbeiso	$x_1$ ist ein Baseballschläger aus dem Material $x_2$.	fu'ivla	Baseballschläger		Siehe auch: {bolrbeiso}.
+granrdinamite	$x_1$ ist eine Dynamitstange.	fu'ivla	Dynamitstange		Siehe auch: {bamrdinamite}.
+grutrgranate	$x_1$ ist ein Granatapfel (Frucht einer Punica granatum) der Varietät $x_2$.	fu'ivla	Granatapfel
+grutrxananase	$x_1$ ist eine Ananas (Frucht) der Art/Varietät $x_2$.	fu'ivla	Ananas		Siehe auch: {bromeli}, {grute}.
+gurnrbulguru	$x_1$ ist etwas Bulgur.	fu'ivla	Bulgur
+iglu	$x_1$ ist ein Iglu.	fu'ivla	Iglu		Siehe auch {dinju}, {bisli}, {inuit}.
+jadrdjekolenterne	$x_1$ ist eine Jack O’Lantern.	fu'ivla	Halloween-Kürbis;Jack-o’-lantern;Jack O’Lantern		Vgl.: {guzmrkukurbita}.
+jajrlanparti	$x_1$ (Masse aus Leuten/jo'u) veranstalten gemeinsam eine LAN-Party am Ort $x_2$ und kommen von $x_3$ (Ort oder Orte [Masse/jo'u]).	fu'ivla	LAN-Party veranstalten		Siehe auch: LAN-Party (Ereignis) ({nunrlanparti}), versammeln ({jmaji}), LAN ({selklosamseltcana}), Videosiel ({samyzilkei}).
+jemnrsapfiro	$x_1$ ist ein Saphir [Edelstein] des Typs $x_2$ aus Quelle $x_3$.	fu'ivla	Saphir		Vgl. {kunrsapfiro}, {jemna}.
+jimrmifrile	$x_1$ ist eine Menge an/enthält/besteht aus Mithril mit Zusammensetzung aus unter anderem $x_2$.	fu'ivla	Mithril		Siehe auch {jinme}.
+jisrnxananase	$x_1$ ist etwas Ananassaft gemacht aus Ananas/Ananassen $x_2$.	fu'ivla	Ananassaft		Siehe auch: {grutrxananase}, {jisra}.
+judrnporte	$x_1$ ist die Portnummer des Prozesses $x_2$, das auf Computer $x_3$ läuft; Portnummer benutzt vom Protokoll $x_4$.	fu'ivla	Port;Portnummer		$x_2$ kann ein Client- oder ein Serverprozess sein. Vgl. {samjudri}. $x_4$ muss spezifisch zur Portnummer sein, also zum Beispiel TCP (={tycypys}), UDP (={ubudypys}).
+krilrkartso	$x_1$ ist ein Quarzkristall aus Komposition $x_2$ in Form/Anordnung $x_3$.	fu'ivla	Quarz;Quarzkristall		Vgl. {kunrkartso}, {krili}
+kunrkartso	$x_1$ ist etwas Quarz gefördert/abgebaut an Ort/in Mine $x_2$.	fu'ivla	Quarz		Vgl. {krilrkartso}, {kunra}.
+kunrsapfiro	$x_1$ ist ein/enthält/besteht aus Saphir [Mineral] des Typs $x_2$, gefördert aus $x_3$ [Mine/Bergwerk/usw.].	fu'ivla	Saphir		Vgl. {jemnrsapfiro}, {kunra}

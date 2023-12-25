@@ -19,7 +19,7 @@ a'i nai	{a'i } - attitydmarkör: ansträngning\n{a'i cu'i} - ingen särskild ans
 bakri	$x_1$ är kalk/krita från källa $x_2$ i form $x_3$	Se även {pinsi}, {blabi}, {jilka}.	gismu		kalcium;kalk;kalksten;krita	bakr;bakri
 a'o	{a'o} - attitydmarkör: hopp\n{a'onai} - desperation.		cmavo	UI1	hopp
 ba'a	{ba'a} - evidential: jag förväntar mig\n{ba'acu'i} - jag erfar\n{ba'anai} - jag kommer ihåg.		cmavo	UI2	jag förutser
-anji	$x_1$ är ett kinesiskt hanzi/japanskt kanji (logogram) med betydelse $x_2$ och radikal/fonetikum (tecknets delar) $x_3$.		fu'ivla		hanzi;kanji;kinesiskt skrivtecken	anji
+anji	$x_1$ är ett kinesiskt hanzi/japanskt kanji (logogram) med betydelse $x_2$ och radikal/fonetikum (tecknets delar) $x_3$.		fu'ivla		hanzi;kanji;kinesiskt skrivtecken
 a'o nai	{a'o } - attitydmarkör: hopp\n{a'o nai} - desperation.		cmavo-compound	UI*1	desperation
 balji	$x_1$ är en blomlök av växt/art $x_2$; [metafor: rund, svullen, utputande]	Se även {punli}, {batke}.	gismu		blomlök;lök;rund	balj;balji
 balni	$x_1$ är en balkong/utsprång/överhäng/avsats/[hylla] på byggnad/struktur $x_2$	Se även {kajna}, {punli}.	gismu		avsats;balkong;hylla;kant;överhäng;utsprång	baln;balni
@@ -224,12 +224,12 @@ ce'o	icke-logisk konjunktion: ordnad sekvenslänk;		cmavo	JOI	i en sekvens med	c
 ci	siffra/nummer: 3 (siffra) [tre].		cmavo	PA1	3;tre	cib
 cernalcando	$ca_1$ är morgonpigg/aktiv under morgon $ce_1$.		lujvo		morgonpigg			cerni;na'e;cando
 cicnysluni	$x_1$ är en blålök (Allium cyaneum) av sort/variant $x_2$.		lujvo		blålök			cicna;sluni
-cidjrburito	$x_1$ är en burrito (mexikansk maträtt med ingredienser insvept i en tortilla) inklusive ingredienser $x_2$.		fu'ivla		burrito	cidjrburito
+cidjrburito	$x_1$ är en burrito (mexikansk maträtt med ingredienser insvept i en tortilla) inklusive ingredienser $x_2$.		fu'ivla		burrito
 cangan	Hong Kong	Från mandarin uttal.	cmevla		Hong Kong
 canxais	Shanghai		cmevla		Shanghai
 celguntas	$x_1$ är Skytten (stjärnbild/stjärntecken).	Från {celgunta}. För babylonierna var Skytten samma som guden Pabilsaĝ, en märklig kentaurliknande varelse som sköt pil med båge.Det sumeriska namnet kan översättas som 'Huvudförfader' (=barda dzena?). I grekisk mytologi är Skytten en kentaur: hälften människa, hälften häst.	cmevla		Skytten
 cev	Gud		cmevla		Gud
-campania	$x_1$ är champagne gjord på druvor $x_2$.	För mousserande viner utan appellation (eg AOC, Appellation d'Origine Contrôlée), så använd istället {fomvanju}.	obsolete fu'ivla		champagne	campania
+campania	$x_1$ är champagne gjord på druvor $x_2$.	För mousserande viner utan appellation (eg AOC, Appellation d'Origine Contrôlée), så använd istället {fomvanju}.	obsolete fu'ivla		champagne
 ca pu'o	tidstempus: kommer nu att göra, är just på väg att göra, är på väg att föregripa/förekomma; (tempus/modal).		cmavo-compound	ZAhO*	är just på väg att göra
 cidni	$x_1$ är ett knä/armbåge/knoge/[gångjärnsled eller kondylärled] i kroppsdel $x_2$ av organism/kropp $x_3$.		gismu		gångjärnsled	cid;cidn;cidni
 cidro	$x_1$ är en kvantitet/gjord av/innehåller väte (H).		gismu		H;väte	dro;cidr;cidro
@@ -278,7 +278,7 @@ ckeji	$x_1$ skäms/känner sig förödmjukad/kränkt under omständigheter $x_2$
 ci'i	siffra/nummer: oändlighet; följt av nummer => alef-kardinalitet .		cmavo	PA5	oändlighet
 ci'o	{cinmo} modal, 1st place emotionellt förnummen av ...		cmavo	BAI	emotionellt förnummen av
 cifseltse	$z_2$ är en babysitter för spädbarn/bäbis $c_1$=$z_1$.		lujvo		babysitter			cifnu;se;zutse
-cidjrkusku	$x_1$ är en couscous (berbisk maträtt) inklusive ingredienser $x_2$.	Couscous är en berbisk gryträtt från Nordafrika. Inte endast själva couscous-grynen, som vanligtvis avses på svenska.	fu'ivla		couscous	cidjrkusku
+cidjrkusku	$x_1$ är en couscous (berbisk maträtt) inklusive ingredienser $x_2$.	Couscous är en berbisk gryträtt från Nordafrika. Inte endast själva couscous-grynen, som vanligtvis avses på svenska.	fu'ivla		couscous
 cidjrfalyfil	$x_1$ är en kvantitet/är gjord av/innehåller falafel [friterade kikärtsbollar] serverad i bröd/på tallrik $x_2$ gjord på/tillsammans med ingredienser $x_3$.		cmevla		falafel
 ci'i roi	tempus intervall modifierare: inträffar oändligt antal gånger, för evigt; målsättningstempus; tid om inget annat anges.		cmavo-compound	ROI*	oändligt antal gånger
 ci mei	kvantifierings selbri: konverterar 3 till kardinal selbri $x_1$ är ett set med trio av medlemmar $x_2$.		cmavo-compound	MOI*	tresamhet;trio
@@ -458,8 +458,8 @@ de'u	pro-sumti: ett tidigare yttrande.		cmavo	KOhA2	tidigare yttrande
 di'e	pro-sumti: nästa yttrande.		cmavo	KOhA2	nästa yttrande
 di'i nai	tempus intervall modifierare: oregelbunden/aperiodiskt; tempus/modal; tidstempus om inget annat anges.		cmavo-compound	TAhE*	oregelbundet
 di'u	pro-sumti: det sista påståendet.		cmavo	KOhA2	sista/senaste påståendet
-dja'aza	$d_1$ är jazzmusik framförd i/på/av $z_2$ (händelse) med karaktär $z_3$.	Traditionell jazzdans såsom charleston och swing (=purci dja'aza bo dansu), medan modern jazzdans (=balvi dja'aza bo dansu).	fu'ivla		jazz	dja'aza
-djoguro	$x_1$ är en kvantitet av/gjord av/innehåller yoghurt gjord på $x_2$ [mjölk/bakteriekultur], genom process $x_3$.	Jfr {ladru}, {cirla}, {kruji}.	fu'ivla		yoghurt	djoguro
+dja'aza	$d_1$ är jazzmusik framförd i/på/av $z_2$ (händelse) med karaktär $z_3$.	Traditionell jazzdans såsom charleston och swing (=purci dja'aza bo dansu), medan modern jazzdans (=balvi dja'aza bo dansu).	fu'ivla		jazz
+djoguro	$x_1$ är en kvantitet av/gjord av/innehåller yoghurt gjord på $x_2$ [mjölk/bakteriekultur], genom process $x_3$.	Jfr {ladru}, {cirla}, {kruji}.	fu'ivla		yoghurt
 dilis	Delhi		cmevla		Delhi
 djakartas	Jakarta		cmevla		Djakarta;Jakarta
 djaZAIR	Algeriet		cmevla		Algeriet
@@ -579,7 +579,7 @@ fi	sumti place tag: tag 3rd sumti place.		cmavo	FA	3rd sumti place
 fi'a	sumti place tag: platsstruktur nummer/tag fråga.		cmavo	FA	sumti place ?
 fi'e	{finti} modal, 1st place (skapare) skapad av ...		cmavo	BAI	skapad av
 fi'i	{fi'i} - vokativ: gästfrihet; du är välkommen/känn dig som hemma.\n{fi'inai} - ogästvänlighet		cmavo	COI	gästfrihet
-fi'ikca	$x_{1}$ tar en fika [social institution] tillsammans med $x_{2}$ konsumerande fika (dryck/mat) $x_{3}$.	Från svenskans ord "fika". Både det svenska och lojbanska ordet är dessutom avledda från ordet för kaffe på respektive språk (kaffi (ursprunglig svensk stavning) respektive {ckafi}). fi'ikca beskriver framförallt skeendet att några träffas för att få ett socialt utbyte, exv över en kopp kaffe. I en svensk kontext syftar x2 oftast på vänner eller arbetskamrater, och x3 är oftast kaffe/saft/(te) tillsammans med bulle, kaka, smörgås etc. Men fi'ikca skulle kunna användas även i andra sammanhang av icke-svenska lojban entusiaster.	fu'ivla		fika	fi'ikca
+fi'ikca	$x_{1}$ tar en fika [social institution] tillsammans med $x_{2}$ konsumerande fika (dryck/mat) $x_{3}$.	Från svenskans ord "fika". Både det svenska och lojbanska ordet är dessutom avledda från ordet för kaffe på respektive språk (kaffi (ursprunglig svensk stavning) respektive {ckafi}). fi'ikca beskriver framförallt skeendet att några träffas för att få ett socialt utbyte, exv över en kopp kaffe. I en svensk kontext syftar x2 oftast på vänner eller arbetskamrater, och x3 är oftast kaffe/saft/(te) tillsammans med bulle, kaka, smörgås etc. Men fi'ikca skulle kunna användas även i andra sammanhang av icke-svenska lojban entusiaster.	fu'ivla		fika
 feimast	elfte månaden på året (november i typisk kontext).	elfte månaden på året kan variera i betydelse beroende på vilken kalender som används, men avser normalt november om inget annat anges.	cmevla		november
 fi'i nai	{fi'i } - vokativ: gästfrihet\n{fi'i nai} - ogästvänlighet; du är inte välkommen.		cmavo-compound	COI*	ogästvänlig
 filso	$x_1$ reflekterar palestinsk kultur/nationalitet $x_2$.		gismu		palestinsk	fis;fils;filso
@@ -685,7 +685,7 @@ glepe'o	$p_1$=$g_1$ är en sexpartner/knullkompis till $p_2$=$g_2$.		lujvo		KK;k
 fertis	$x_1$ är Jungfrun (stjärnbild/stjärntecken).	Från {ferti}. Grekerna och romarna associerade Jungfrun med deras vetegudinna, Demeter-Ceres som är moder till Proserpina-Persephone. Därför blev stjärnbilden associerad med fruktbarhet (i både Babylonien, Grekland och Rom). Alternativt så var hon ibland känd som jungfrugudinnan Iustitia eller Astraea, som håller rättvisans våg i sin hand. Eftersom ferti på lojban täcker såväl potentiell som faktisk/förverkligad fertilitet, så har den ursprungliga betydelsen blivit vald, men kan förmodligen ändå tolka namnet på båda sätten (som en fruktbarhetsgudom eller som en fertil jungfru).	cmevla		Jungfrun
 gliban	engelska språket		cmevla		engelska
 guanJOUS	Guangzhou	Guangzhou, även känd som Kanton, ibland även Kwangchou, är en stad på subprovinsiell nivå i södra Kina och huvudstad i provinsen Guangdong. guanJOUS är baserad på mandarinuttal.För namnet baserat på lokal kantonesiskt uttal se {guonJAUS}.	obsolete cmevla		Guangzhou
-iklki	$x_1$ klickar (trycker och släpper upp) knapp/switch $x_2$ för att åstadkomma $x_3$.	jfr {batke}, {danre}.	fu'ivla		klicka	iklki
+iklki	$x_1$ klickar (trycker och släpper upp) knapp/switch $x_2$ för att åstadkomma $x_3$.	jfr {batke}, {danre}.	fu'ivla		klicka
 gugl	Google		cmevla		Google
 guglbon	Google wave		cmevla		Google wave
 guonJAuS	Kanton	Guangzhou, även känd som Kanton, ibland även Kwangchou, är en stad på subprovinsiell nivå i södra Kina och huvudstad i provinsen Guangdong. guanJAUS är baserad på mandarinuttal.För namnet baserat på mandarin uttal se {guanJOUS}.	obsolete cmevla		Guangzhou;Kanton
@@ -785,10 +785,10 @@ pamglepe'o	$pe_1$=$g_1$=$pa_1$ är en älskare/älskarinna till $pe_2$=$g_2$=$pa
 pampe'o	$pr_1$=$pe_1$ är en pojkvän/flickvän till $pr_2$=$pe_2$.		lujvo		flickvän;pojkvän			prami;pendo
 saxfri	$l_1$=$s_1$ är lycklig och harmonisk med $l_2$=$s_2$.		lujvo		lycklig			sarxe;lifri
 selkeima'e	$m_1$ är ett lekfordon för transport av $m_2$ på i underlag/medium $m_3$, som drivs med  $m_4$.	Se även fordonsleksak (={ma'erselkei}).	lujvo		lekfordon			se;kelci;marce
-namcrgogolo	$x_{1}$ är en googol [$10^{100}$] av $x_{2}$ i dimension/aspekt $x_{3}$ (enheter om inget annat anges).		fu'ivla		googol	namcrgogolo
-namcrgogolplexu	$x_{1}$ är en googolplex [$10^{googol}$] av $x_{2}$ i dimension/aspekt $x_{3}$ (enheter om inget annat anges).		fu'ivla		googolplex	namcrgogolplexu
-noljedai	$x_1$ är en Jedi med kraft/nivå/rank $x_2$.		fu'ivla		jedi	noljedai
-palsita	$x_1$ är en Sith/mörk Jedi med kraft/nivå/rank $x_2$.		fu'ivla		sith	palsita
+namcrgogolo	$x_{1}$ är en googol [$10^{100}$] av $x_{2}$ i dimension/aspekt $x_{3}$ (enheter om inget annat anges).		fu'ivla		googol
+namcrgogolplexu	$x_{1}$ är en googolplex [$10^{googol}$] av $x_{2}$ i dimension/aspekt $x_{3}$ (enheter om inget annat anges).		fu'ivla		googolplex
+noljedai	$x_1$ är en Jedi med kraft/nivå/rank $x_2$.		fu'ivla		jedi
+palsita	$x_1$ är en Sith/mörk Jedi med kraft/nivå/rank $x_2$.		fu'ivla		sith
 mumplin	femte planeten från sol (Jupiter).	femte planeten från sol i normal kontext, dvs vårt solsystem, är Jupiter.	cmevla		Jupiter
 mumymast	femte månaden på året (maj i normal kontext).	femte månaden på året kan variera i betydelse beroende på vilken kalender som används, men avser normalt maj om inget annat anges.	cmevla		maj
 nanl	Unge herrn		cmevla		Unge herrn
@@ -825,7 +825,7 @@ relyfi'es	$x_1$ är Fiskarna (stjärnbild/stjärntecken).	Från {re}, {finpe}. S
 robin	Robin		cmevla		Robin
 romas	Rom		cmevla		Rom
 saupaulos	$x_1$ är São Paulo.		cmevla		São Paulo
-pipnrpiano	$x_1$ är ett piano.	jfr {pipno}.	obsolete fu'ivla		piano	pipnrpiano
+pipnrpiano	$x_1$ är ett piano.	jfr {pipno}.	obsolete fu'ivla		piano
 sferies	Sverige		obsolete cmevla		Sverige
 SINgapur	Singapor		cmevla		Singapor
 siudadeMExikos	Mexico city		obsolete cmevla		Mexico city
@@ -843,12 +843,12 @@ sol	Seoul	Seoul (koreanska: 서울; IPA: [sʌ.ul]), alternativ stavning Söul, �
 soviet	Sovjetunionen		obsolete cmevla		Sovjetunionen
 zetro	$x_{1}$ är en triljard [$10^{21}$] av $x_{2}$ i dimension/aspekt $x_{3}$ (enheter om inget annat anges).		gismu		1E21;sextiljon;triljard;zetta-	zet;zetr;zetro
 velda'iglu	$g_1$=$v_1$ är en mits [träffyta i form av handske/underarmsskydd] som bärs av $v_2$, och med funktion att bli träffad av [kroppsdel/instrument] $v_3$.	From {velda'i}, {gluta}.	lujvo		mits			ve;darxi;gluta
-tabrntromba	$x_1$ är en trumpet.		fu'ivla		trumpet	tabrntromba
-tceremuxa	$x_1$ är en hägg (art Prunus Padus)	Se även {rotsmela}, {smela}.	fu'ivla		hägg	tceremuxa
-uiski	$x_1$ är whiskey, whisky destillerat från $x_2$.		fu'ivla		whiskey;whisky	uiski
-vo'otka	$x_1$ är vodka destillerad från $x_2$.		fu'ivla		vodka	vo'otka
-xagrnklarineto	$x_1$ är en klarinett med rörblad $x_2$.		fu'ivla		klarinett	xagrnklarineto
-xalsixa	$x_1$ tillhör sikh religion/kultur i aspekt $x_2$.		fu'ivla		sikh	xalsixa
+tabrntromba	$x_1$ är en trumpet.		fu'ivla		trumpet
+tceremuxa	$x_1$ är en hägg (art Prunus Padus)	Se även {rotsmela}, {smela}.	fu'ivla		hägg
+uiski	$x_1$ är whiskey, whisky destillerat från $x_2$.		fu'ivla		whiskey;whisky
+vo'otka	$x_1$ är vodka destillerad från $x_2$.		fu'ivla		vodka
+xagrnklarineto	$x_1$ är en klarinett med rörblad $x_2$.		fu'ivla		klarinett
+xalsixa	$x_1$ tillhör sikh religion/kultur i aspekt $x_2$.		fu'ivla		sikh
 sozmast	nionde månaden på året (september i normal kontext).	nionde månaden på året kan variera i betydelse beroende på vilken kalender som används, men avser normalt september om inget annat anges.	cmevla		september
 stakolm	Stockholm		cmevla		Stockholm
 suomis	Finland		obsolete cmevla		Finland
@@ -863,18 +863,18 @@ ladzanja	$x_1$ är en lasagne.		lujvo		lasagne			ladru;-zanja-
 matryma'etci	$mar_1$=$t_1$ är ett motorredskap som används till  $t_2$, och som transporterar $m_2$ på underlag $m_3$, och som drivs med $m_4$.		lujvo		motorredskap			matra;marce;tutci
 matrytu'ama'e	$m_1$ är ett motordrivet fordon för transport av $m_2$ på i underlag/medium $m_3$, som drivs med  $m_4$.		lujvo		motordrivet fordon			matra;tumla;marce
 xeksodva	$x_1$ är gjord av/innehåller/är en kvantitet av en svart/väldigt mörkfärgad kolsyrad dryck/läsk med cola-smak, av märke $x_2$.	Inte vilken svart, kolsyrad dryck som helst, men en med cola smak, såsom Coca-Cola (={kokaKOlys}), Pepsi, Julmust (=(sfe'ero) xisyjbenunsla xeksodva) e.dyl. Andra smaker kan läggas till, vilket uttrycks med tanru, så länge inte kombinationen skiljer sig för mycket åt från cola-karaktären.	lujvo		cola			xekri;sodva
-jaldiga	$x_1$=$g_1$ är en kofångare (stötfångare) på $x_2$=$j_1$ och mildrar stötar från $x_3$=$j_2$		fu'ivla		kofångare	jaldiga
-jgitrgitara	$x_1$ är en gitarr med plektrum $x_2$.	jgitrgitara är gitarr, och inte den antika lyran (grekiska: κιθάρα, kithāra, latin: cithara;= tcepru xelso jgita/latmo jgita).	fu'ivla		gitarr	jgitrgitara
-jgitrnikelarpa	$x_1$ är en nyckelharpa med stråke $x_2$.		fu'ivla		nyckelharpa	jgitrnikelarpa
-jgitrpipa	$x_1$ är en pipa [kinesiskt stränginstrument].	Pipa (kinesiska: 琵琶; pinyin: pípá) är ett fyrsträngat kinesiskt instrument	fu'ivla		kinesisk lyra;pipa	jgitrpipa
-jgitrsita	$x_1$ är en sitar med plektrum $x_2$.		fu'ivla		sitar	jgitrsita
-katkana	$x_1$ är en katakana (japansk grafem/stavelsetecken) för ljud/stavelse $x_2$.	jfr {lerfu}.	fu'ivla		japanskt skrivtecken;katakana	katkana
-kauvboi	$x_1$ är en cowboy/cowgirl/person tillhörande cowboykulturen enligt standard $x_2$.		fu'ivla		cowboy;cowgirl	kauvboi
-klikeia	$x_1$ klickar (trycker och släpper upp) knapp/switch $x_2$ för att åstadkomma $x_3$.	jfr {cuxna}, {batke}, {danre}, {kliki}	fu'ivla			klikeia
-konceto	$x_1$ är en conserto (konsert i klassisk musik) med konsertnummer $x_2$ i tonart $x_3$ komponerad av $x_4$ framförd av/vid $x_5$.	En concerto/konsert i klassisk musik (fr ital. concerto) är ett musikaliskt verk vanligtvis komponerad i tre stycken, i vilka (oftast) ett soloinstrument är ackompanjerad av en orkester.	fu'ivla		concerto;konsert	konceto
-konfuzi	$x_1$ tillhör konfucianistisk religion/kultur i aspekt $x_2$.		fu'ivla		konfucianist	konfuzi
-krakene	$x_1$ är en kraken av art $x_2$		fu'ivla		kraken	krakene
-xagrnsaksofono	$x_1$ är en saxofon med rörblad $x_2$.		fu'ivla		saxofon	xagrnsaksofono
+jaldiga	$x_1$=$g_1$ är en kofångare (stötfångare) på $x_2$=$j_1$ och mildrar stötar från $x_3$=$j_2$		fu'ivla		kofångare
+jgitrgitara	$x_1$ är en gitarr med plektrum $x_2$.	jgitrgitara är gitarr, och inte den antika lyran (grekiska: κιθάρα, kithāra, latin: cithara;= tcepru xelso jgita/latmo jgita).	fu'ivla		gitarr
+jgitrnikelarpa	$x_1$ är en nyckelharpa med stråke $x_2$.		fu'ivla		nyckelharpa
+jgitrpipa	$x_1$ är en pipa [kinesiskt stränginstrument].	Pipa (kinesiska: 琵琶; pinyin: pípá) är ett fyrsträngat kinesiskt instrument	fu'ivla		kinesisk lyra;pipa
+jgitrsita	$x_1$ är en sitar med plektrum $x_2$.		fu'ivla		sitar
+katkana	$x_1$ är en katakana (japansk grafem/stavelsetecken) för ljud/stavelse $x_2$.	jfr {lerfu}.	fu'ivla		japanskt skrivtecken;katakana
+kauvboi	$x_1$ är en cowboy/cowgirl/person tillhörande cowboykulturen enligt standard $x_2$.		fu'ivla		cowboy;cowgirl
+klikeia	$x_1$ klickar (trycker och släpper upp) knapp/switch $x_2$ för att åstadkomma $x_3$.	jfr {cuxna}, {batke}, {danre}, {kliki}	fu'ivla
+konceto	$x_1$ är en conserto (konsert i klassisk musik) med konsertnummer $x_2$ i tonart $x_3$ komponerad av $x_4$ framförd av/vid $x_5$.	En concerto/konsert i klassisk musik (fr ital. concerto) är ett musikaliskt verk vanligtvis komponerad i tre stycken, i vilka (oftast) ett soloinstrument är ackompanjerad av en orkester.	fu'ivla		concerto;konsert
+konfuzi	$x_1$ tillhör konfucianistisk religion/kultur i aspekt $x_2$.		fu'ivla		konfucianist
+krakene	$x_1$ är en kraken av art $x_2$		fu'ivla		kraken
+xagrnsaksofono	$x_1$ är en saxofon med rörblad $x_2$.		fu'ivla		saxofon
 jan	Jean/Zhang		cmevla		Jean;Zhang
 jaurbarflegaus	$x_1$ är Vattumannen (stjärnbild/stjärntecken).	Från {djacu}, {barfle}, {gasnu}. I Babylonien ansågs Vattumannen vara samma som "Den Stora" och representerade guden Ea själv, som ofta avbildas hållandes en överflödande vas. I grekisk tradition blev stjärnbilden helt enkelt representerad av en vas från vilken ett vattenflöde strömmade ur.	cmevla		Vattumannen
 ja'urjuknis	$x_1$ är Skorpionen (stjärnbild/stjärntecken).	Babylonierna kallade denna stjärnbild för 'Skorpionen'. I grekisk mytologi finns det flera myter som är knutna till Skorpionen.	cmevla		Skorpionen

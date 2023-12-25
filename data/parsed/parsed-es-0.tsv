@@ -60,9 +60,9 @@ ci'e	{ciste} modal, 1er argumento usado en negación escalar  en sistema/context
 ci'i	dígito/número: infinito; seguido por dígitos => cardinalidad álef		cmavo		infinito	PA5
 cibjgacmaci	$c_1$ es la trigonometría de $j_1$ triángulo. También, $c_1$ es trigonométrico.		lujvo		trigonometría;trigonométrico		ci;jganu;cmaci
 cibnacmei	$x_1$ es un vector tridimensional con coordenadas $x_2$, $x_3$ y $x_4$	Ver también {nacmei}, {relnacmei}	lujvo		vector		ci;namcu;mei
-ciblrmoru	$x_1$ es una cantidad de mirra del árbol de la especie $x_2$.		fu'ivla	ciblrmoru	mirra
-cidjrburito	$x_1$ es un burrito (comida mexicana) con los ingredientes $x_2$.		fu'ivla	cidjrburito	burrito
-cidjrpitsa	$x_1$ es una pizza con los ingredientes $x_2$		fu'ivla	cidjrpitsa	pizza
+ciblrmoru	$x_1$ es una cantidad de mirra del árbol de la especie $x_2$.		fu'ivla		mirra
+cidjrburito	$x_1$ es un burrito (comida mexicana) con los ingredientes $x_2$.		fu'ivla		burrito
+cidjrpitsa	$x_1$ es una pizza con los ingredientes $x_2$		fu'ivla		pizza
 ci'i roi	modificador de intervalo: infinitas veces, eternamente		cmavo-compound		infinitas veces	ROI*
 ci ki'o	número/cantidad: 3,000		cmavo-compound		3,000	PA*
 ci mei	selbri cuantificado: convierte 3 en selbri cardinal; $x_{1}$ es un trío de $x_{2}$		cmavo-compound		es un trío	MOI*
@@ -94,7 +94,7 @@ a'a cu'i	actitudinal: \n{a'a } - atención\n{a'a cu'i} - desatención\n{a'a nai}
 a'a nai	actitudinal: \n{a'a } - atención\n{a'a cu'i} - desatención\n{a'a nai} - evasión		cmavo-compound		evasión	UI*1
 ci'o	{cinmo} modal, 1er argumento                            emocionalmente sentido por ...		cmavo		sentido por	BAI
 cinfyma'i	$x_1$ es Agosto del año $x_2$ en el calendario $x_3$		lujvo		Agosto		cinfo;masti
-abniena	$x_1$ es guaraní en el aspecto $x_2$		obsolete fu'ivla	abniena	guaraní
+abniena	$x_1$ es guaraní en el aspecto $x_2$		obsolete fu'ivla		guaraní
 a bu	letra a		bu-letteral		a	BY*
 a'e	actitudinal: \n{a'e} - alerta\n{a'enai} - agotamiento	Ver también {sanji},  {cikna},  {tatpi}.	cmavo		alerta	UI1
 a'e nai	actitudinal: \n{a'e } - alerta\n{a'e nai} - agotamiento		cmavo-compound		agotamiento	UI*1
@@ -109,29 +109,29 @@ a'u	actitudinal: \n{a'u} - interés\n{a'ucu'i} - desinterés\n{a'unai} - repulsi
 au	actitudinal: \n{au} - deseo\n{aucu'i} - indiferencia\n{aunai} - rechazo	Ver también {djica}.	cmavo		deseo	UI1
 ba	dirección/relación de tiempo verbal: será (selbri); después de (sumti); por defecto tiempo futuro		cmavo		después	PU
 ba'a	{ba'a} - evidencial: anticipación\n{ba'acu'i} - experiencia\n{ba'anai} - recuerdo	Ver también {bavykri},  {lifri},  {morji}.	cmavo		anticipación	UI2
-aizdo	$x_1$ es un glasto de la especie/variedad $x_2$		fu'ivla	aizdo	glasto
-akmela	$x_1$ es una hierba de los dientes/paracress de la especie/variedad $x_2$		fu'ivla	akmela	hierba de los dientes;paracress
-alba'aka	$x_1$ es albahaca de especie/variedad $x_2$		fu'ivla	alba'aka	albahaca
-alfabeta	$x_1$ es un alfabeto usado para escribir $x_2$.		fu'ivla	alfabeta	alfabeto
-altamru	$x_1$ is a date (fruit or tree) of species/variety $x_2$		fu'ivla	altamru	dátil
-alzaitu	$x_1$ es una oliva de la especie/variedad $x_2$		fu'ivla	alzaitu	oliva
-ampigravle	$x_1$ es un apio		fu'ivla	ampigravle	apio
-amtisti	$x_1$ es una cantidad/contiene/está hecha de ametista de la fuente $x_2$		fu'ivla	amtisti	ametista
-amxari	$x_1$ es amárico en el aspecto $x_2$		fu'ivla	amxari	amárico
-angeli	$x_1$ es un ángel		fu'ivla	angeli	ángel
-angila	$x_1$ es una anguila de especie $x_2$		fu'ivla	angila	anguila
-ansoptera	$x_1$ es una libélula de la especie $x_2$		fu'ivla	ansoptera	libélula
-antilope	$x_1$ es un antílope (subfamilia Antilopinae) de especie $x_2$		fu'ivla	antilope	antílope
-a'orne	$x_1$ es un arce de especie/variedad $x_2$		fu'ivla	a'orne	arce
+aizdo	$x_1$ es un glasto de la especie/variedad $x_2$		fu'ivla		glasto
+akmela	$x_1$ es una hierba de los dientes/paracress de la especie/variedad $x_2$		fu'ivla		hierba de los dientes;paracress
+alba'aka	$x_1$ es albahaca de especie/variedad $x_2$		fu'ivla		albahaca
+alfabeta	$x_1$ es un alfabeto usado para escribir $x_2$.		fu'ivla		alfabeto
+altamru	$x_1$ is a date (fruit or tree) of species/variety $x_2$		fu'ivla		dátil
+alzaitu	$x_1$ es una oliva de la especie/variedad $x_2$		fu'ivla		oliva
+ampigravle	$x_1$ es un apio		fu'ivla		apio
+amtisti	$x_1$ es una cantidad/contiene/está hecha de ametista de la fuente $x_2$		fu'ivla		ametista
+amxari	$x_1$ es amárico en el aspecto $x_2$		fu'ivla		amárico
+angeli	$x_1$ es un ángel		fu'ivla		ángel
+angila	$x_1$ es una anguila de especie $x_2$		fu'ivla		anguila
+ansoptera	$x_1$ es una libélula de la especie $x_2$		fu'ivla		libélula
+antilope	$x_1$ es un antílope (subfamilia Antilopinae) de especie $x_2$		fu'ivla		antílope
+a'orne	$x_1$ es un arce de especie/variedad $x_2$		fu'ivla		arce
 arktik	Océano Ártico		cmevla		Océano Ártico
-alminiu	$x_1$ es una cantidad de/contiene/está hecho de aluminio	Ver también {jinme}	obsolete fu'ivla	alminiu	aluminio
-anmonia	$x_1$ es una cantidad de/contiene/está hecho de amoníaco		obsolete fu'ivla	anmonia	amoníaco
+alminiu	$x_1$ es una cantidad de/contiene/está hecho de aluminio	Ver también {jinme}	obsolete fu'ivla		aluminio
+anmonia	$x_1$ es una cantidad de/contiene/está hecho de amoníaco		obsolete fu'ivla		amoníaco
 a'o nai	actitudinal: \n{a'o } - esperanza\n{a'o nai} - desesperación		cmavo-compound		desesperación	UI*1
 a'u cu'i	actitudinal: \n{a'u } - interés\n{a'u cu'i} - desinterés\n{a'u nai} - repulsión		cmavo-compound		desinterés	UI*1
 au cu'i	actitudinal: \n{au } - deseo\n{au cu'i} - indiferencia\n{au nai} - rechazo		cmavo-compound		indiferencia	UI*1
 a'u nai	actitudinal: \n{a'u } - interés\n{a'u cu'i} - desinterés\n{a'u nai} - repulsión		cmavo-compound		repulsión	UI*1
 au nai	actitudinal: \n{au } - deseo\n{au cu'i} - indiferencia\n{au nai} - rechazo		cmavo-compound		rechazo	UI*1
-axlte	$x_1$ es un ajolote de la especie/raza $x_2$		fu'ivla	axlte	ajolote;axolote
+axlte	$x_1$ es un ajolote de la especie/raza $x_2$		fu'ivla		ajolote;axolote
 ba'a cu'i	{ba'a } - evidencial: anticipación\n{ba'a cu'i} - experiencia\n{ba'a nai} - recuerdo		cmavo-compound		experiencia	UI*2
 ba'a nai	{ba'a } - evidencial: expectativa\n{ba'a cu'i} - experiencia\n{ba'a nai} - recuerdo		cmavo-compound		recuerdo	UI*2
 ba ba	tiempo verbal: irá a ser; (tiempo/modal)		cmavo-compound		va a ser	PU*
@@ -162,15 +162,15 @@ ba'e	indicador de énfasis; indica que la siguiente palabra es especialmente enf
 ba'i	{basti} modal, 1er argumento                            reemplazado por ...		cmavo		reemplazado por	BAI
 bai	{bapli} modal, 1er argumento (forzado por)              forzadamente; compelido por fuerza ...		cmavo		compelido por	BAI
 ba'o	aspecto verbal: habiendo concluído la acción; perfecto              |     |----		cmavo		perfecto	ZAhO
-bangrfarsi	$x_1$ es el lenguaje Persa usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).		fu'ivla	bangrfarsi	persa
-bangrtcosena	$x_1$ es el lenguaje coreano de Corea del Norte usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).	Ver {bangrgogurio}, {bangrxanguke}.	fu'ivla	bangrtcosena	coreano
-bangrxangu	$x_1$ es el lenguaje coreano usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).	Ver también {bangu}, {bangrgogurio}, {gugdrgogurio}.	fu'ivla	bangrxangu	coreano
-bangrxanguke	$x_1$ es el lenguaje coreano de Corea del Sur usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).	Ver {bangrgogurio}, {bangrtcosena}	fu'ivla	bangrxanguke	coreano
-bangrxirana	$x_1$ es el lenguaje persa (Irán) usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).		fu'ivla	bangrxirana	persa
-bangrgogurio	$x_1$ es el lenguaje coreano usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).		obsolete fu'ivla	bangrgogurio	coreano
-bangrnaidjiria	$x_1$ es el lenguaje Inglés Nigeriano usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).	Ver {glibau} y {friko}	obsolete fu'ivla	bangrnaidjiria	Inglés Nigeriano
-bangrturkie	$x_1$ es el lenguaje turco usado por  $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).	Ver también {kulnrturkie}, {kulnrturko}, {tu'urki}.	obsolete fu'ivla	bangrturkie	turco
-bangrvietnama	$x_1$ es el lenguaje vietnamita usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).	Ver también {xazdo}, {bangu}.	obsolete fu'ivla	bangrvietnama	vietnamita
+bangrfarsi	$x_1$ es el lenguaje Persa usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).		fu'ivla		persa
+bangrtcosena	$x_1$ es el lenguaje coreano de Corea del Norte usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).	Ver {bangrgogurio}, {bangrxanguke}.	fu'ivla		coreano
+bangrxangu	$x_1$ es el lenguaje coreano usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).	Ver también {bangu}, {bangrgogurio}, {gugdrgogurio}.	fu'ivla		coreano
+bangrxanguke	$x_1$ es el lenguaje coreano de Corea del Sur usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).	Ver {bangrgogurio}, {bangrtcosena}	fu'ivla		coreano
+bangrxirana	$x_1$ es el lenguaje persa (Irán) usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).		fu'ivla		persa
+bangrgogurio	$x_1$ es el lenguaje coreano usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).		obsolete fu'ivla		coreano
+bangrnaidjiria	$x_1$ es el lenguaje Inglés Nigeriano usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).	Ver {glibau} y {friko}	obsolete fu'ivla		Inglés Nigeriano
+bangrturkie	$x_1$ es el lenguaje turco usado por  $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).	Ver también {kulnrturkie}, {kulnrturko}, {tu'urki}.	obsolete fu'ivla		turco
+bangrvietnama	$x_1$ es el lenguaje vietnamita usado por $x_2$ para expresar/comunicar $x_3$ (si'o/du'u, no cita).	Ver también {xazdo}, {bangu}.	obsolete fu'ivla		vietnamita
 ba pu	tiempo verbal: habrá sido; (tiempo/modal)		cmavo-compound		habrá sido	PU*
 barda	$x_{1}$ es grande/amplio en propiedad/dimensión $x_{2}$ comparado con estándar/norma $x_{3}$	Ver también {cmalu}.	gismu	bra;bard;barda	grande
 bargu	$x_{1}$ es un arco/curva sobre $x_{2}$ hecho de material $x_{3}$		gismu	bag;barg;bargu
@@ -251,9 +251,9 @@ bo	acople de corto alcance; une varias construcciones con mínimo alcance y agru
 boi	terminador elisible: termina cadena de números o letras		cmavo		fin de número o lerfu	BOI
 bisma'a	$x_1$ es un iceberg/témpano de hielo en mar/océano $x_2$		lujvo		iceberg;témpano		bisli;cmana
 bogjinme	$x_1$ es una cantidad de calcio (Ca)	Ver también {bongu}, {jinme}, {bakri}	lujvo		Ca;calcio		bongu;jinme
-birkoku	$x_1$ es un albaricoque/damasco de especie/variedad $x_2$		fu'ivla	birkoku	albaricoque;damasco
+birkoku	$x_1$ es un albaricoque/damasco de especie/variedad $x_2$		fu'ivla		albaricoque;damasco
 bi'u nai	discursivo: \n{bi'u } - información nueva\n{bi'u nai} - información previa		cmavo-compound		información previa	UI*3
-bolgaro	$x_1$ es búlgaro en el aspecto $x_2$	Ver también {slovo}, {nanslovo}.	fu'ivla	bolgaro	búlgaro
+bolgaro	$x_1$ es búlgaro en el aspecto $x_2$	Ver también {slovo}, {nanslovo}.	fu'ivla		búlgaro
 ci no	número/cantidad: 30 (treinta)		cmavo-compound		30	PA*
 ci no no	número/cantidad: 300 (trescientos)		cmavo-compound		300	PA*
 cinri	$x_{1}$ (evento) interesa a $x_{2}$	Ver también {zdile}.	gismu	ci'i;cinr;cinri
@@ -441,7 +441,7 @@ di'a	aspecto verbal: punto en que se retoma la acción; retomativo		cmavo		retom
 di'i	modificador de intervalo: regularmente		cmavo		regularmente	TAhE
 clugau	$x_1$ llena $x_2$ con $x_3$		lujvo		llenar		culno;gasnu
 dadycka	$c_1$=$d_1$ es una hamaca de $c_2$ material colgada de $d_2$		lujvo		hamaca		dandu;ckana
-ckuliki	$x_1$ es un mosquito de especie/variedad $x_2$	Véase también {blusfani}	fu'ivla	ckuliki	mosquito
+ckuliki	$x_1$ es un mosquito de especie/variedad $x_2$	Véase también {blusfani}	fu'ivla		mosquito
 coi co'o	vocativo: saludo al pasar		cmavo-compound		saludo al pasar	COI*
 cpare	$x_{1}$ trepa/escala/se arrastra sobre superficie $x_{2}$ en dirección $x_{3}$ usando $x_{4}$	Ver también {klama},  {litru}.	gismu	par;cpar;cpare
 cpedu	$x_{1}$ pide $x_{2}$ a $x_{3}$ en manera/forma $x_{4}$	Ver también {friti}.	gismu	cpe;cped;cpedu
@@ -486,8 +486,8 @@ ctecmocpi	$x_1$ es un pucuyo/chotacabras/guabairo de especie $x_2$		lujvo		chota
 cukyxratci	$x_1$ es un compás para trazar círculos/arcos de circunferencia $x_2$		lujvo		compás		cukla;pixra;tutci
 da'i nai	discursivo: \n{da'i } - suponiendo\n{da'i nai} - de hecho		cmavo-compound		de hecho	UI*3
 darsygau	$x_1$ anima a $x_2$ para hacer/ser $x_3$	Ver también {e'e}	lujvo		animar		darsi;gasnu
-dalsauia	$x_1$ es un cobayo, conejillo de Indias de especie $x_2$		fu'ivla	dalsauia	cobayo;conejillo de Indias
-de'emni	$x_1$ se compone de denim de material / composición $x_2$; $x_1$ contiene denim del tipo $x_2$; $x_1$ es una cantidad de dril de algodón (el material de tela de mezclilla/pantalones vaqueros); $x_1$ es denim [tipo de tejido / material].	Confer: {bukpu}, {bluji}	fu'ivla	de'emni	denim;dril de algodón;mezclilla
+dalsauia	$x_1$ es un cobayo, conejillo de Indias de especie $x_2$		fu'ivla		cobayo;conejillo de Indias
+de'emni	$x_1$ se compone de denim de material / composición $x_2$; $x_1$ contiene denim del tipo $x_2$; $x_1$ es una cantidad de dril de algodón (el material de tela de mezclilla/pantalones vaqueros); $x_1$ es denim [tipo de tejido / material].	Confer: {bukpu}, {bluji}	fu'ivla		denim;dril de algodón;mezclilla
 denpa bu	letra: carácter "." de lojban		bu-letteral		símbolo de pausa	BY*
 de'u	pro-sumti: una expresión reciente		cmavo		expresión reciente	KOhA2
 di'e	pro-sumti: la próxima expresión		cmavo		expresión siguiente	KOhA2
@@ -530,7 +530,7 @@ du'a	locación/dirección; al este de		cmavo		al este de	FAhA1
 du'e	dígito/número: demasiados; subjetivo		cmavo		demasiados	PA4
 du'i	{dunli} modal, 1er argumento (igualado por)             igualmente; tanto como ...		cmavo		tanto como	BAI
 dragau	$x1$ corrige/rectifica $x_2$ en aspecto/propiedad $x_3$ para situación $x_4$ según estándar $x_5$		lujvo		corregir;rectificar		drani;gasnu
-dorkada	$x_1$ es una gacela de especie/raza $x_2$		fu'ivla	dorkada	gacela
+dorkada	$x_1$ es una gacela de especie/raza $x_2$		fu'ivla		gacela
 du'e mei	selbri cuantificado: convierte demasiados en selbri cardinal; $x_{1}$ son demasiados $x_{2}$		cmavo-compound		son demasiados	MOI*
 du'e roi	modificador de intervalo: demasiadas veces		cmavo-compound		demasiadas veces	ROI*
 dunli	$x_{1}$ es igual a $x_{2}$ en propiedad/dimensión/cantidad $x_{3}$	Ver también {frica},  {simsa},  {mintu}.	gismu	dun;du'i;dunl;dunli	igual			du'i;se du'i;te du'i
@@ -560,7 +560,7 @@ e'i cu'i	actitudinal: \n{e'i } - restricción\n{e'i cu'i} - independencia\n{e'i 
 e'i nai	actitudinal: \n{e'i } - restricción\n{e'i cu'i} - independencia\n{e'i nai} - desafío/resistencia		cmavo-compound		desafío	UI*1
 ei nai	actitudinal: \n{ei } - obligación\n{ei nai} - libertad		cmavo-compound		libertad	UI*1
 e'o	actitudinal: \n{e'o} - pedido\n{e'onai} - pedido negativo	Ver también {cpedu},  {pikci}.	cmavo		pedido	UI1
-emna	$x_1$ (cualidad) se aplica a $x_2$, $x_3$, ...	Puede haber un número infinito de argumentos. Similar a {me'au}, pero es una {brivla}.	fu'ivla	emna	cualidad se aplica a
+emna	$x_1$ (cualidad) se aplica a $x_2$, $x_3$, ...	Puede haber un número infinito de argumentos. Similar a {me'au}, pero es una {brivla}.	fu'ivla		cualidad se aplica a
 e nai	conector lógico entre sumti: x pero no y		cmavo-compound		sumti but not	A*
 e'o nai	actitudinal: \n{e'o } - pedido\n{e'o nai} - pedido negativo		cmavo-compound		pedido negativo	UI*1
 fanmo	$x_{1}$ es un fin/final/terminación/culminación/extremo de objeto/proceso $x_{2}$		gismu	fam;fa'o;fanm;fanmo
@@ -570,7 +570,7 @@ fa'a	locación/dirección; hacia/en dirección a		cmavo		hacia	FAhA4
 fa'e	{fatne} modal, 1er argumento                            hacia atrás; al revés de ...		cmavo		reverso de	BAI
 fai	indicador de posición de sumti: indica un sumti fuera de la estructura numerada de posiciones; usado en conversiones modales		cmavo		indicador de sumti adicional	FA
 fampi'i	$x_1$ es el factorial de $x_2$	Ver también {ne'o}	lujvo		factorial		fanmo;pilji
-ernace	$x1$ es un erizo de especie/raza $x2$		fu'ivla	ernace	erizo
+ernace	$x1$ es un erizo de especie/raza $x2$		fu'ivla		erizo
 e'u cu'i	actitudinal: \n{e'u } - sugerencia\n{e'u cu'i} - abandona sugerencia\n{e'u nai} - amenaza		cmavo-compound		abandona sugerencia	UI*1
 e'u nai	actitudinal: \n{e'u } - sugerencia\n{e'u cu'i} - abandona sugerencia\n{e'u nai} - amenaza		cmavo-compound		amenaza	UI*1
 fanta	$x_{1}$ impide/evita que ocurra $x_{2}$	Ver también {gasnu},  {curmi},  {bandu},  {zunti}.	gismu	fant;fanta
@@ -800,10 +800,10 @@ ko'e	pro-sumti: él/ella/ello/ellos/ellas \#2 (especificado por goi)		cmavo		ell
 ko'i	pro-sumti: él/ella/ello/ellos/ellas #3 (especificado por goi)		cmavo		ello-3	KOhA4
 ko'o	pro-sumti: él/ella/ello/ellos/ellas \#4 (especificado por goi)		cmavo		ello-4	KOhA4
 ki'otre	$x_1$ mide $x_2$ kilómetros de largo (1 por defecto) en dirección $x_3$ según estándar $x_4$	Ver también {kilto}, {mitre}	lujvo		kilómetro		kilto;mitre
-filcina	$x_1$ es un helecho de especie/variedad $x_2$		fu'ivla	filcina	helecho
-flaume	$x_1$ es una ciruela de especie/variedad $x_2$		fu'ivla	flaume	ciruela
-fragari	$x_1$ es una fresa/frutilla de especie/variedad $x_2$		fu'ivla	fragari	fresa;frutilla
-frambesi	$x_1$ es una frambuesa/zarzamora/zarza de especie/variedad $x_2$		fu'ivla	frambesi	frambuesa;zarza;zarzamora
+filcina	$x_1$ es un helecho de especie/variedad $x_2$		fu'ivla		helecho
+flaume	$x_1$ es una ciruela de especie/variedad $x_2$		fu'ivla		ciruela
+fragari	$x_1$ es una fresa/frutilla de especie/variedad $x_2$		fu'ivla		fresa;frutilla
+frambesi	$x_1$ es una frambuesa/zarzamora/zarza de especie/variedad $x_2$		fu'ivla		frambuesa;zarza;zarzamora
 ki'u ma	pregunta por una explicación racional/justificación; ¿por qué?		cmavo-compound		¿por qué razón?	BAI*
 ko	pro-sumti: tú/ustedes (imperativo); haz que sea cierto		cmavo		imperativo	KOhA3
 koi	{korbi} modal, 1er argumento (bordeado por)             limitado por ...		cmavo		limitado por	BAI
@@ -820,9 +820,9 @@ la'a	discursivo: \n{la'a} - probablemente\n{la'anai} - improbablemente	Ver tambi
 krafamtei	$x_1$ es la duración de $x_2$	Ver también {ze'a}, {ze'e}, {ze'i}, {ze'u}	lujvo		duración		krasi;fanmo;temci
 kucyga'a	$x_1$ es una cruz de material $x_2$		lujvo		cruz		kruca;grana
 kucyga'asni	$x_1$ es un crucifijo	Ver también {kucyga'a}.	lujvo		crucifijo		kruca;grana;sinxa
-kriketinai	$x_1$ es un hámster / miembro de la subfamilia de roedores Cricetinae, de la variedad / (sub)taxón / especie / género / raza $x_2$		fu'ivla	kriketinai	Cricetinae;hámster
-kurbarile	$x_1$ es guapinol de especie/variedad $x_2$		fu'ivla	kurbarile	guapinol
-kurkuli	$x_1$ es un gorgojo de especie $x_2$		fu'ivla	kurkuli	gorgojo
+kriketinai	$x_1$ es un hámster / miembro de la subfamilia de roedores Cricetinae, de la variedad / (sub)taxón / especie / género / raza $x_2$		fu'ivla		Cricetinae;hámster
+kurbarile	$x_1$ es guapinol de especie/variedad $x_2$		fu'ivla		guapinol
+kurkuli	$x_1$ es un gorgojo de especie $x_2$		fu'ivla		gorgojo
 la'a nai	discursivo: \n{la'a } - probabilidad\n{la'a nai} - improbabilidad		cmavo-compound		improbabilidad	UI*3
 labno	$x_{1}$ es un lobo/lupino de especie/raza $x_{2}$		gismu	labn;labno
 lacpu	$x_{1}$ tira/jala de $x_{2}$ por manija/parte $x_{3}$	Ver también {catke}.	gismu	lap;cpu;lacp;lacpu
@@ -885,7 +885,7 @@ go'e	pro-bridi: repite el anteúltimo bridi		cmavo		bridi anteúltimo	GOhA
 go'i	pro-bridi: bridi precedente; en respuesta a una pregunta por sí o por no, repite la oración como afirmación		cmavo		bridi último	GOhA
 goi	asignación de sumti; usado para definir/asignar pro-sumti de serie ko'a/fo'a; latín 'sive'		cmavo		asigna pro-sumti	GOI
 gapkla	$x_1$ sube hasta $x_2$ desde $x_3$ por (ruta) $x_4$ en (medio de transporte) $x_5$		lujvo		subir		gapru;klama
-glauka	$x_1$ es un búho/lechuza de especie/raza $x_2$		fu'ivla	glauka	búho;lechuza
+glauka	$x_1$ es un búho/lechuza de especie/raza $x_2$		fu'ivla		búho;lechuza
 go'i ra'o	pro-bridi: bridi precedente; repite oración, actualizando valores de hablante/oyente		cmavo-compound		último bridi actualizado	GOhA*
 go nai	conector lógico preposicionado: o exclusivo (con gi)		cmavo-compound		o exclusivo preposicionado	GA*
 gotro	$x_{1}$ es un cuatrillón (1E24) de $x_{2}$ en dimensión/aspecto $x_{3}$		gismu	got;gotr;gotro
@@ -922,7 +922,7 @@ gy	letra g		cmavo		g	BY2
 i	enlace de oración; continúan oraciones sobre el mismo tema; normalmente elisible para nuevo hablante		cmavo		acople de oración	I
 i'a	actitudinal: \n{i'a} - aceptación\n{i'anai} - culpa	Ver también {nalna'e},  {nalpro},  {no'epro},  {nalzugjdi}.	cmavo		aceptación	UI1
 ia	actitudinal: \n{ia} - creencia\n{iacu'i} - escepticismo\n{ianai} - descreimiento	Ver también {krici},  {jinvi}.	cmavo		creencia	UI1
-grutrxananase	$x_1$ es una ananá/piña de la especie/variedad $x_2$.		fu'ivla	grutrxananase	ananá;piña
+grutrxananase	$x_1$ es una ananá/piña de la especie/variedad $x_2$.		fu'ivla		ananá;piña
 gu'a nai	conector lógico preposicionado entre componentes de tanru: condicional/sólo si (con gi)		cmavo-compound		pre tanru sólo si	GUhA*
 gu'o	conector lógico preposicionado entre componentes de tanru: bicondicional/sii/si y sólo si (con gi)		cmavo		pre tanru sii	GUhA
 gu'o nai	conector lógico preposicionado entre componentes de tanru: o exclusivo (con gi)		cmavo-compound		pre tanru o exclusivo	GUhA*
@@ -1089,7 +1089,7 @@ ju'a	{ju'a} - evidencial: declaración\n{ju'anai} - (por defecto) base elíptica
 ju'e	conector vago no lógico: análogo a ".i"		cmavo		conectivo vago	JOI
 ju'i	vocativo: \n{ju'i} - atención\n{ju'icu'i} - descanso\n{ju'inai} - ignorame		cmavo		atención	COI
 jufmei	$x_1$ es un párrafo sobre $x_2$ incluyendo oraciones $x_3$	Ver también {ni'o}, {no'i}	lujvo		párrafo		jufra;mei
-jinmrniobi	$x_1$ es una cantidad de niobio (Nb)	Ver también {jinme}	obsolete fu'ivla	jinmrniobi	Nb;niobio
+jinmrniobi	$x_1$ es una cantidad de niobio (Nb)	Ver también {jinme}	obsolete fu'ivla		Nb;niobio
 joi bu	letra: ampersand character; especially used in standing for a mixed connective		bu-letteral		&	BY*
 jo nai	conector lógico entre componentes de tanru: o exclusivo		cmavo-compound		tanru o exclusivo	JA*
 jo'u	conector no lógico: en común con; junto con (no mezclado)		cmavo	jo'u	en común con	JOI
@@ -1367,8 +1367,8 @@ mapra	$x_1$ es una cantidad de pelusa de composición / estructura / caracteriza
 li'orkliru	$x_1$ es fluor (F)	{linto} {kliru}	lujvo		F;fluor		linto;kliru
 makfartci	$x_1$ es una brújula con imán $x_2$		lujvo				maksi;farna;tutci
 mecyjavdu'i	$x_1$ es menor o igual a $x_2$ en propiedad $x_3$ por cantidad $x_4$	Ver también {su'e}	lujvo		menor o igual		mleca;ja;dunli
-marmota	$x_1$ es una marmota de especie/raza $x_2$		fu'ivla	marmota	marmota
-mandioka	$x_1$ es mandioca de especie/variedad $x_2$	{samcu}	obsolete fu'ivla	mandioka	mandioca
+marmota	$x_1$ es una marmota de especie/raza $x_2$		fu'ivla		marmota
+mandioka	$x_1$ es mandioca de especie/variedad $x_2$	{samcu}	obsolete fu'ivla		mandioca
 me do moi	$x_1$ es tuyo entre $x_3$ por regla/relación $x_3$; $x_1$ es tu $x_3$ por regla/relación $x_3$;		cmavo-compound		tu;tuyo
 me'e	{cmene} modal, 1er argumento (requiere cita)            con nombre ...; llamado ...		cmavo		con nombre ...	BAI
 me'e ma	pregunta por un nombre; ¿qué nombre?; requiere nombre citado como respuesta		cmavo-compound		¿con qué nombre?	BAI*
@@ -1411,9 +1411,9 @@ mexygu'e	$m_1$=$g_1$ es México		lujvo		México		mexno;gugde
 mi'ai	nosotros/nosotras		experimental cmavo			KOhA3
 mi'e nai	{mi'e } - autovocativo: autointroducción\n{mi'e nai} - negación de identidad; niega la identidad de quien habla		cmavo-compound		no soy yo	COI*
 mijgresirji	$x_1$ es un diámetro entre $x_2$ y $x_3$ de $x_4$		lujvo		diámetro		midju;pagre;sirji
-kalmari	$x_1$ es un calamar/una jibia de especie $x_2$		fu'ivla	kalmari	calamar;jibia
-ma'agni	$x_1$ es un árbol de caoba de especie/variedad $x_2$		fu'ivla	ma'agni	caoba
-mlibdena	$x_1$ es una cantidad de molibdeno (Mo)		fu'ivla	mlibdena	molibdeno
+kalmari	$x_1$ es un calamar/una jibia de especie $x_2$		fu'ivla		calamar;jibia
+ma'agni	$x_1$ es un árbol de caoba de especie/variedad $x_2$		fu'ivla		caoba
+mlibdena	$x_1$ es una cantidad de molibdeno (Mo)		fu'ivla		molibdeno
 mo'a roi	modificador de intervalo: demasiado pocas veces		cmavo-compound		demasiado pocas veces	ROI*
 mo'e	convierte sumti en operando; ejemplo: (3 manzanas) + (3 manzanas) = ¿qué?		cmavo		sumti en operando	MOhE
 mo'i be'a	movimiento espacial: hacia el norte		cmavo-compound		hacia el norte	FAhA*
@@ -1503,7 +1503,7 @@ nerbei	$x_1$ importa $x_2$ a $x_3$ desde $x_4$ via $x_5$		lujvo		importar		nenri
 nerkalri	$x_1$ es una entrada a $x_2$ para $x_3$	{nerkla}	lujvo		entrada		nenri;kalri
 nerkla	$x_1$ entra en $x_2$ desde $x_3$ por (ruta) $x_4$ en (medio de transporte) $x_5$		lujvo		entrar		nenri;klama
 nilbra	$x_1$ es el tamaño de $x_2$ en propiedad/dimensión $x_3$ en escala $x_4$		lujvo		tamaño		ni;barda
-niengatu	$x_1$ is ñengatú/tupí/guaraní en el aspecto $x_2$		obsolete fu'ivla	niengatu	guaraní;ñengatú;tupí
+niengatu	$x_1$ is ñengatú/tupí/guaraní en el aspecto $x_2$		obsolete fu'ivla		guaraní;ñengatú;tupí
 ni'i ma	pregunta por una demostración lógica; ¿por qué?		cmavo-compound		¿según qué lógica?	BAI*
 nitkla	$x_1$ baja hasta $x_2$ desde $x_3$ por (ruta) $x_4$ en (medio de transporte) $x_5$	{gapkla}	lujvo		bajar		cnita;klama
 no da	sumti cuantificado: nada en absoluto (a menos que sea restringido)		cmavo-compound		nada;nadie;ninguno	KOhA*
@@ -1517,7 +1517,7 @@ nonseldi'a	$x_1$ es gratis para $x_2$ con proveedor $x_3$		lujvo		gratis		no;se;
 nonselji'u	$x_1$ es invisible desde punto de vista $x_2$	Sinónimo: {vincau}. Véase también: {jvinu}, {claxu}.	lujvo		invisible		no;se;jvinu
 no roi	modificador de intervalo: nunca, ninguna vez		cmavo-compound		nunca	ROI*
 norpa'i	$x_1$ es indiferente/apático/desapasionado hacia/con $x_2$	Ver también {iucu'i}	lujvo		apático;desapasionado;indiferente		no'e;prami
-nargile	$x_1$ es un narguile para fumar $x_2$		fu'ivla	nargile	narguile
+nargile	$x_1$ es un narguile para fumar $x_2$		fu'ivla		narguile
 nu'e cu'i	vocativo: \n{nu'e } - promesa\n{nu'e cu'i} - relevo de promesa\n{nu'e nai} - despromesa		cmavo-compound		relevo de promesa	COI*
 nu'e nai	vocativo: \n{nu'e } - promesa\n{nu'e cu'i} - relevo de promesa\n{nu'e nai} - despromesa		cmavo-compound		despromesa	COI*
 nupre	$x_{1}$ promete/amenaza/asegura que ocurrirá $x_{2}$ a $x_{3}$	Ver también {kajde},  {xusra}.	gismu	nup;nu'e;nupr;nupre	prometer
@@ -1538,7 +1538,7 @@ nunpe'i	$x_1$ es un encuentro/reunión entre $x_2$ y $x_3$ en $x_4$	Ver también
 o'a cu'i	actitudinal: \n{o'a } - orgullo\n{o'a cu'i} - modestia/humildad\n{o'a nai} - vergüenza		cmavo-compound		modestia	UI*1
 o'a nai	actitudinal: \n{o'a } - orgullo\n{o'a cu'i} - modestia/humildad\n{o'a nai} - vergüenza		cmavo-compound		vergüenza	UI*1
 o bu	letra o		bu-letteral		o	BY*
-odbenu	$x_1$ es una morsa de raza $x_2$		fu'ivla	odbenu	morsa
+odbenu	$x_1$ es una morsa de raza $x_2$		fu'ivla		morsa
 o'e nai	actitudinal: \n{o'e } - cercanía\n{o'e nai} - distancia		cmavo-compound		distancia	UI*1
 o'i nai	actitudinal: \n{o'i } - precaución\n{o'i nai} - apresuramiento		cmavo-compound		apresuramiento	UI*1
 oi nai	actitudinal: \n{oi } - queja\n{oi nai} - placer		cmavo-compound		placer	UI*1
@@ -1657,7 +1657,7 @@ pinta	$x_{1}$ es horizontal en marco de referencia $x_{2}$	Ver también {sraji}.
 pinxe	$x_{1}$ bebe/toma bebida $x_{2}$ de recipiente/fuente $x_{3}$	Ver también {sputu}.	gismu	pix;pinx;pinxe	beber
 pipno	$x_{1}$ es un piano/clavicordio/sintetizador/órgano (instrumento musical con teclado)		gismu	pi'o;pipn;pipno	piano
 pi'o	{pilno} modal, 1er argumento                            usado por ...		cmavo		usado por	BAI
-pinpedi	$x_1$ es una foca/león marino/morsa de especie $x_2$		fu'ivla	pinpedi	foca;león marino;morsa
+pinpedi	$x_1$ es una foca/león marino/morsa de especie $x_2$		fu'ivla		foca;león marino;morsa
 pi re si'e	selbri cuantificado: convierte .2 = 1/5 en selbri fraccional; $x_{1}$ es 1/5 de totalidad $x_{2}$		cmavo-compound		es una quinta parte	MOI*
 pi ro	número: todo		cmavo-compound		todo	PA*
 pi ro si'e	selbri cuantificado: convierte todo en selbri fraccional; $x_{1}$ es el total de $x_{2}$		cmavo-compound		es el total de	MOI*
@@ -1801,7 +1801,7 @@ ro moi	selbri cuantificado: convierte todos en selbri ordinal; $x_{1}$ es últim
 ro'o	{ro'o} - categoría emocional: físico\n{ro'onai} - negación de lo físico	Ver también {xadni}.	cmavo		físico	UI4
 ro'o nai	{ro'o } - categoría emocional: físico\n{ro'o nai} - negación de físico		cmavo-compound		negando físico	UI*4
 rorlei	$x_1$ es una generación de $x_2$		lujvo		generación		rorci;klesi
-rangutano	$x_1$ es un orangután de especie/raza $x_2$		fu'ivla	rangutano	orangután
+rangutano	$x_1$ es un orangután de especie/raza $x_2$		fu'ivla		orangután
 ro roi	modificador de intervalo: siempre, cada vez		cmavo-compound		siempre	ROI*
 ro'u	{ro'u} - categoría emocional: sexual\n{ro'unai} - abstinencia sexual	Ver también {cinse}.	cmavo		sexual	UI4
 ro'u nai	{ro'u } - categoría emocional: sexual\n{ro'u nai} - abstinencia sexual		cmavo-compound		abstinencia sexual	UI*4
@@ -1864,8 +1864,8 @@ sa'u nai	discursivo: \n{sa'u } - simplemente\n{sa'u nai} - elaborando		cmavo-com
 se	2da conversión; intercambia 1er/2do argumentos		cmavo	sel	2da conversión	SE
 se'a	modificador de actitudinal: \n{se'a} - autosuficiencia\n{se'anai} - dependencia	Ver también {sezysei},  {kantcu}.	cmavo		autosuficiencia	UI5
 samru'e	$p_1$ es un proceso de una computadora con la entrada (input) $p_2$ y con resultado $p_3$, pasando por los estados/etapas $p_4$, en la computadora $s_1$.	Ver también {skami} and {pruce}.	lujvo		proceso;proceso de computadora;programa		skami;pruce
-sailce	$x_1$ es un sauce de especie/variedad $x_2$		fu'ivla	sailce	sauce
-salmone	$x_1$ es un salmón/trucha de especie $x_2$		fu'ivla	salmone	salmón;trucha
+sailce	$x_1$ es un sauce de especie/variedad $x_2$		fu'ivla		sauce
+salmone	$x_1$ es un salmón/trucha de especie $x_2$		fu'ivla		salmón;trucha
 se'a nai	modificador de actitudinal: \n{se'a } - autosuficiencia\n{se'a nai} - dependencia		cmavo-compound		dependencia	UI*5
 se ba'i	{basti} modal, 2do argumento                            en vez de ...; en lugar de ...		cmavo-compound		en vez de	BAI*
 se bai	{bapli} modal, 2do argumento (forzando resultado)       forzando evento ...		cmavo-compound		forzando	BAI*

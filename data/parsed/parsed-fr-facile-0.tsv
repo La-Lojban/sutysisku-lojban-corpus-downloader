@@ -557,7 +557,7 @@ fai	place sumti supplémentaire	cmavo
 fagzda	$x_1$ est un foyer de combustion du combustible $x_2$ dans le comburant $x_3$ Le comburant par défaut est l'air	lujvo				fagri;zdani
 fairgau	$x_1$ distribue $x_2$ à $x_3$ en portions $x_4$	lujvo				fatri;gasnu
 fakli'u	$x_1$ explore le sujet $x_2$ via les faits $x_3$ avec les instruments $x_4$	lujvo				facki;litru
-encere	$x_1$ est un hippopotame de type $x_2$	fu'ivla		encere
+encere	$x_1$ est un hippopotame de type $x_2$	fu'ivla
 e'u cu'i	suggestion d'abandon	cmavo-compound
 e'u nai	avertissement	cmavo-compound	avertissement
 falnu	$x_1$ est une voile collectant la source de propulsion $x_2$ pour $x_3$	gismu		fan;faln;falnu	$x_3$ : véhicule/moteur

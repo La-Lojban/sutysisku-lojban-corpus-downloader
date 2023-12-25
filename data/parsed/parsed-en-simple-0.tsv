@@ -1391,14 +1391,14 @@ tolmu'i	$x_1$ (event/state) motivates/is a motive/incentive for the negation of 
 tolni'i	$x_1$ (event/state) logically necessitates/entails/implies the negation of $x_2$ (event/state), under rules/logic system $x_3$. $x_1$ prevents $x_2$.	lujvo	prevent		{to'e} {nibli}. ``lo nu broda cu tolni'i lo nu brode'' has the same meaning as ``lo nu broda cu nibli lo nu na brode.''	to'e;nibli
 tolri'a	$x_1$ (event/state) effects/physically causes the negation of $x_2$ (event/state). $x_1$ prevents $x_2$.	lujvo	prevent		{to'e} {rinka}. ``lo nu broda cu tolri'a lo nu brode'' has the same meaning as ``lo nu broda cu rinka lo nu na brode.''	to'e;rinka
 xaicku	$x_1$ is a book damaged by/website attacked by $x_2$ in property $x_3$ (ka).	lujvo	attacked website;damaged book		See also {cukta}, {xrani}.	xrani;cukta
-anli	$x_1$ is a ring with inside diameter $x_2$, outside diameter $x_3$	fu'ivla	ring	anli
-aski	$x_1$ (ordered set of numerals) represents $x_2$ (text) in ASCII encoding	fu'ivla	ASCII text	aski
-infekte	$x_1$ infects $x_2$ with illness $x_3$ (property of $x_2$)	fu'ivla	infect	infekte	See {bilma}, {vidru}
-iste	$x_1$ is occupied, interested, has a role in $x_2$ (property)	fu'ivla	have occupation;-ist	iste	Often corresponds to English suffix "-ist". See {se} {cuntu}, {se} {jibri}
-klesrverlapi	$x_1$ and $x_2$ are both sets such that: there is at least one thing which is a member of both of them, at least one (other) thing which is a member of $x_1$ but not of $x_2$, and at least one (yet another) thing which is a member of $x_2$ but not $x_1$ (note the reversed order).	fu'ivla	overlapping sets	klesrverlapi	The sets overlap.
-kombitu	$x_1$ is a comb with teeth, tines $x_2$ (set)	fu'ivla	comb	kombitu	See {kerfa}
-tankomo	$x_1$ (agent) does $x_2$ (property) as much as it/he/she $x_3$ (property of $x_1$ and $x_2$)	fu'ivla	as much as possible	tankomo	See {toltankomo}
-toxsotiseira	$x_1$ is arranged in parallel rows/lines, all read in the same direction, starting at $x_2$, via jumps $x_3$, ending at $x_4$	fu'ivla		toxsotiseira	x3 is a list of line-end, line-start pairs.
-upsi	$x_1$ acknowledges making mistake $x_2$ (property of x1)	fu'ivla	feel oops;feel whoops	upsi	{sei} {upsi} = 'Oops! Whoops!' See {srera}, {randa}, {jinvi}
+anli	$x_1$ is a ring with inside diameter $x_2$, outside diameter $x_3$	fu'ivla	ring
+aski	$x_1$ (ordered set of numerals) represents $x_2$ (text) in ASCII encoding	fu'ivla	ASCII text
+infekte	$x_1$ infects $x_2$ with illness $x_3$ (property of $x_2$)	fu'ivla	infect		See {bilma}, {vidru}
+iste	$x_1$ is occupied, interested, has a role in $x_2$ (property)	fu'ivla	have occupation;-ist		Often corresponds to English suffix "-ist". See {se} {cuntu}, {se} {jibri}
+klesrverlapi	$x_1$ and $x_2$ are both sets such that: there is at least one thing which is a member of both of them, at least one (other) thing which is a member of $x_1$ but not of $x_2$, and at least one (yet another) thing which is a member of $x_2$ but not $x_1$ (note the reversed order).	fu'ivla	overlapping sets		The sets overlap.
+kombitu	$x_1$ is a comb with teeth, tines $x_2$ (set)	fu'ivla	comb		See {kerfa}
+tankomo	$x_1$ (agent) does $x_2$ (property) as much as it/he/she $x_3$ (property of $x_1$ and $x_2$)	fu'ivla	as much as possible		See {toltankomo}
+toxsotiseira	$x_1$ is arranged in parallel rows/lines, all read in the same direction, starting at $x_2$, via jumps $x_3$, ending at $x_4$	fu'ivla			x3 is a list of line-end, line-start pairs.
+upsi	$x_1$ acknowledges making mistake $x_2$ (property of x1)	fu'ivla	feel oops;feel whoops		{sei} {upsi} = 'Oops! Whoops!' See {srera}, {randa}, {jinvi}
 ra'oi	tag of rafsi; it makes one following rafsi a sumti.	experimental cmavo	rafsi		Note that sometimes a space or a pause is necessary before and/or after the rafsi. The parser zantufa-0.14 and later will parse ra'oi as in selma'o RAhOI ( http://guskant.github.io/gerna_cipra/zantufa-0.14.html ). Examples: ra'oi.cra .i ra'oi.cac .i ra'oicai .i ra'oicacy .i ra'oi.gismy .i ra'oigismu .		RAhOI
-lianzi	$x_1$ is a length of chain with links or rings $x_2$	obsolete fu'ivla	chain;link of a chain	lianzi
+lianzi	$x_1$ is a length of chain with links or rings $x_2$	obsolete fu'ivla	chain;link of a chain
