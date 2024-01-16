@@ -1,4 +1,4 @@
-@rowCount	1518
+@rowCount	1519
 w	d	n	t	g	r	s	v
 bacru	$x_1$ eldiras buŝe/diras/parolas [pervoĉe faras sonon] $x_2$	[ankaŭ: voĉi; ne necese implicas komunikon aŭ aŭdanton; ('diri' ĝenerale estas cusku)]; (Vidu ankaŭ: krixa, cusku, casnu, tavla, voksa, pinka.)	gismu	eldiri	ba'u;bacr;bacru
 badna	$x_1$ estas banano/bananarbo [frukto/planto] de speco/raso $x_2$	Vidu ankaŭ"grute".	gismu	banano	badn;badna
@@ -1481,6 +1481,7 @@ mribriju	$x_1$=$b_1$ estas poŝtoficejo de poŝtoficisto $x_2$=$b_2$ ĉe $x_3$=$
 nerkla	$x_1$ eniras $x_2$-on de $x_3$ tra $x_4$ per $x_5$		lujvo	eniri			nenri;klama
 pavyseljirna	$x_1$ estas unukornulo		lujvo	unukornulo			pa;se;jirna
 rorlei	$x_1$ estas generacio de $x_2$		lujvo	generacio			rorci;klesi
+tcanyja'a	$x_1$ estas staciestro de stacio $x_2$ de transporta sistemo $x_3$.	Vidu ankaŭ {tcana}, {jatna}.	lujvo	staciestro			tcana;jatna
 tolja'e	neaĵo de $x_1$ (okazo/stato) rezultas/sekvas $x_2$ (okazo/stato). $x_1$ estas malhelpita de $x_2$.	{to'e} {jalge}. ``lo nu broda cu tolja'e lo nu brode'' signifas la samon de ``lo nu na broda cu jalge lo nu brode.''	lujvo	malhelpita de			to'e;jalge
 tolki'u	$x_1$ (okazo/stato) estas kialo/pravigo/klarigo pri neaĵo de $x_2$ (okazo/stato). $x_1$ malhelpas $x_2$.	{to'e} {krinu}. ``lo nu broda cu tolki'u lo nu brode'' signifas la samon de ``lo nu broda cu krinu lo nu na brode.''	lujvo	malhelpi			to'e;krinu
 tolmu'i	$x_1$ (okazo/stato) motivas/stimulas neaĵon de $x_2$ (okazo/stato), laŭ volo de $x_3$. $x_1$ malhelpas $x_2$.	{to'e} {mukti}. ``lo nu broda cu tolmu'i lo nu brode'' signifas la samon de ``lo nu broda cu mukti lo nu na brode.''	lujvo	malhelpi			to'e;mukti

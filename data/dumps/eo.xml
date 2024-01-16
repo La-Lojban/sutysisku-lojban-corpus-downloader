@@ -15367,6 +15367,17 @@
   <notes>$x_2$ povas esti reprezentita per aro de veturiloj de sistemo.  Vidu ankaŭ {dargu}, {litru}, {pluta}, {trene}, {ciste}, ve {mrilu}, {tivni}, {cradi}, ve {benji}, {fonxa}, {dikca}, {fatri}.</notes>
   <glossword word="stacio" />
 </valsi>
+<valsi word="tcanyja'a" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+  <definition>$x_1$ estas staciestro de stacio $x_2$ de transporta sistemo $x_3$.</definition>
+  <definitionid>73476</definitionid>
+  <score>1</score>
+  <notes>Vidu ankaŭ {tcana}, {jatna}.</notes>
+  <glossword word="staciestro" />
+</valsi>
 <valsi word="tcati" type="gismu">
   <user>
     <username>xorxes</username>
@@ -19376,6 +19387,7 @@
 <nlword word="kutimo" valsi="tcaci" />
 <nlword word="urbo" valsi="tcadu" />
 <nlword word="stacio" valsi="tcana" />
+<nlword word="staciestro" valsi="tcanyja&apos;a" />
 <nlword word="teo" valsi="tcati" />
 <nlword word="streĉiĝi" valsi="tcena" />
 <nlword word="trompi" valsi="tcica" />
