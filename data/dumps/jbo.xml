@@ -4172,6 +4172,15 @@
   <notes>{nalylogji} {jonma&apos;o}; {porsi}</notes>
   <glossword word="ce&apos;o" />
 </valsi>
+<valsi word="cercti" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ cerni citka $x_2$ noi cersai</definition>
+  <definitionid>73492</definitionid>
+  <score>1</score>
+</valsi>
 <valsi word="cerda" type="gismu">
   <rafsi>ced</rafsi>
   <user>
@@ -6371,7 +6380,7 @@
   </user>
   <definition>fi&apos;o mo</definition>
   <definitionid>13786</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>{fi&apos;o} {mo}</notes>
   <glossword word="cu&apos;e" />
 </valsi>
@@ -8345,6 +8354,15 @@
   <definitionid>2559</definitionid>
   <score>1</score>
   <glossword word="do&apos;o" />
+</valsi>
+<valsi word="dorcti" type="lujvo">
+  <user>
+    <username>hzrn</username>
+    <realname>hzrn</realname>
+  </user>
+  <definition>$x_1$ donri midju citka $x_2$ noi dormijysai</definition>
+  <definitionid>73493</definitionid>
+  <score>1</score>
 </valsi>
 <valsi word="dorlunra" type="lujvo">
   <user>
