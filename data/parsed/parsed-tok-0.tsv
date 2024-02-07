@@ -1,4 +1,4 @@
-@rowCount	52
+@rowCount	54
 w	d	n	t	g	r
 bacru	$x_1$ li kalama tan uta e kalama $x_2$	nimi pi kon poka li ni: {krixa}, {cmoni}, {voksa}, {cusku}, {tavla}	gismu	kalama uta	ba'u;bacr;bacru
 badna	$x_1$ li kili palisa jelo anu kasi pi kili ni, li tan kulupu $x_2$ pi kasi sama	nimi pi kon poka li ni: {grute}, {plise}, {nimre}, {perli}	gismu	kasi pi kili palisa jelo;kili palisa jelo	badn;badna
@@ -38,6 +38,7 @@ morsi	$x_1$ li moli	nimi pi kon poka li ni: {jmive}, {catra}, {sipna}, {sanji}	g
 mutce	$x_1$ li $x_2$ mute. linja pini pi ken mute li $x_3$	x2 li nasin lon. sina ken kepeken e nimi {ka}. nimi pi kon poka li ni: {milxe}, {traji}, {banli}, {zabna}, {carmi}, {nutli}	gismu	mute	tce;mutc;mutce
 pendo	$x_1$ li jan pona tawa $x_2$	nimi pi kon poka li ni: {nelci}, {xamgu}, {prenu}, {bradi}	gismu	jan pona	ped;pe'o;pend;pendo
 pinxe	$x_1$ li moku e telo $x_2$ tan poki anu ma telo $x_3$	nimi pi kon poka li ni: {citka}, {djacu}, {cidja}, {taske}, {barja}	gismu	moku telo	pix;pinx;pinxe
+prami	$x_1$ li olin e $x_2$	x2 li ken ijo anu lon. nimi pi kon poka li ni: {pendo}, {xendo}, {nelci}, {cinmo}, {xebni}, {pensi}	gismu	olin	pam;pa'i;pram;prami
 respa	$x_1$ li akesi, li tan kulupu $x_2$ pi akesi sama	nimi pi kon poka li ni: {danlu}, {mabru}, {finpe}, {cipni}, {banfi}, {jmive}	gismu	akesi	res;resp;respa
 sipna	$x_1$ li lape	nimi pi kon poka li ni: {senva}, {tatpi}, {cikna}, {sanji}, {morsi}	gismu	lape	sip;sipn;sipna
 sligu	$x_1$ li kiwen pi ijo $x_2$, li awen kiwen lon lon $x_3$	x3 li ante la, x2 li ken telo anu kon. nimi pi kon poka li ni: {litki}, {gapci}, {rokci}, {jdari}, {dunja}, {jduli}, {lenku}	gismu	kiwen	lig;slig;sligu
@@ -47,6 +48,7 @@ tavla	$x_1$ li toki tawa $x_2$ e toki pi ijo $x_3$ kepeken nasin toki $x_4$	nimi
 tcati	$x_1$ li telo moku tan lon ni: lipu kasi $x_2$ li awen lon telo seli	nimi pi kon poka li ni: {ckafi}, {djacu}, {birje}, {jukpa}, {pezli}, {xrula}, {korka}	gismu	telo moku lipu kasi	tcat;tcati
 vecnu	$x_1$ li esun e $x_2$ tawa $x_3$ li wile e mute mani $x_4$	x2 li ijo anu pali. nimi pi kon poka li ni: {zarci}, {canja}, {dunda}, {janta}, {pleji}, {kargu}, {prali}, {jdima}, {vamji}	gismu	esun	ven;ve'u;vecn;vecnu
 xagji	$x_1$ li wile moku e $x_2$	nimi pi kon poka li ni: {cidja}, {citka}, {pinxe}, {taske}, {nitcu}	gismu	wile moku	xagj;xagji
+xendo	jan $x_1$ li pali pona tawa jan $x_2$, li pali e pali $x_3$ tawa ona	nimi pi kon poka li ni: {kusru}, {pendo}, {sidju}, {kecti}, {xamgu}, {pluka}	gismu	pali pona	xed;xe'o;xend;xendo
 xusra	$x_1$ li toki e ni: kon pi linja nimi $x_2$ li lon	nimi pi kon poka li ni: {cusku}, {jetnu}, {fatci}, {jinvi}, {birti}, {krici}, {djuno}, {sruma}	gismu	toki lon	xus;xu'a;xusr;xusra
 zarci	$x_1$ li tomo esun li esun e $x_2$. jan esun pi tomo ni li $x_3$	nimi po kon poka li ni: {vecnu}, {gusta}, {canja}, {jdini}, {barja}, {xotli}	gismu	tomo esun	zac;zai;zarc;zarci
 zasti	$x_1$ li lon. jan $x_2$ li sona e ni kepeken nasin sona $x_3$	nimi pi kon poka li ni: {fatci}, {xanri}, {xusra}, {cfika}, {jetnu}, {jitfa}	gismu	lon	zat;za'i;zast;zasti

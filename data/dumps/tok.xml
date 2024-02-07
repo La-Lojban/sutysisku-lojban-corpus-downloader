@@ -569,6 +569,21 @@
   <keyword word="telo" place="2" />
   <keyword word="poki telo" place="3" sense="poki pi jo telo" />
 </valsi>
+<valsi word="prami" type="gismu">
+  <rafsi>pam</rafsi>
+  <rafsi>pa&apos;i</rafsi>
+  <user>
+    <username>CrabappleCat</username>
+    <realname>Filomena Rocca </realname>
+  </user>
+  <definition>$x_1$ li olin e $x_2$</definition>
+  <definitionid>73505</definitionid>
+  <score>1</score>
+  <notes>x2 li ken ijo anu lon. nimi pi kon poka li ni: {pendo}, {xendo}, {nelci}, {cinmo}, {xebni}, {pensi}</notes>
+  <glossword word="olin" />
+  <keyword word="jan olin" place="1" sense="jan ni li olin e ijo" />
+  <keyword word="ijo olin" place="2" sense="jan li olin e ijo ni" />
+</valsi>
 <valsi word="respa" type="gismu">
   <rafsi>res</rafsi>
   <user>
@@ -697,6 +712,22 @@
   <glossword word="wile moku" />
   <keyword word="jan wile moku" place="1" sense="jan ni li wile moke e ijo" />
   <keyword word="ijo wile moku" place="2" sense="jan li wile moku e ijo ni" />
+</valsi>
+<valsi word="xendo" type="gismu">
+  <rafsi>xed</rafsi>
+  <rafsi>xe&apos;o</rafsi>
+  <user>
+    <username>CrabappleCat</username>
+    <realname>Filomena Rocca </realname>
+  </user>
+  <definition>jan $x_1$ li pali pona tawa jan $x_2$, li pali e pali $x_3$ tawa ona</definition>
+  <definitionid>73507</definitionid>
+  <score>1</score>
+  <notes>nimi pi kon poka li ni: {kusru}, {pendo}, {sidju}, {kecti}, {xamgu}, {pluka}</notes>
+  <glossword word="pali pona" sense="pali pona tawa jan ante" />
+  <keyword word="jan pali pona" place="1" sense="jan ni li pali pona tawa jan ante" />
+  <keyword word="jan kama pona" place="2" sense="jan ni li kama pona tan pali pi jan ante" />
+  <keyword word="pali pona" place="3" sense="jan li pali e ni tawa jan ante" />
 </valsi>
 <valsi word="xusra" type="gismu">
   <rafsi>xus</rafsi>
@@ -885,6 +916,9 @@
 <nlword word="jan pona" valsi="pendo" place="1" />
 <nlword word="moku telo" valsi="pinxe" />
 <nlword word="poki telo" sense="poki pi jo telo" valsi="pinxe" place="3" />
+<nlword word="ijo olin" sense="jan li olin e ijo ni" valsi="prami" place="2" />
+<nlword word="jan olin" sense="jan ni li olin e ijo" valsi="prami" place="1" />
+<nlword word="olin" valsi="prami" />
 <nlword word="akesi" valsi="respa" place="1" />
 <nlword word="kulupu pi akesi sama" valsi="respa" place="2" />
 <nlword word="ijo lape" sense="ijo ni li lape" valsi="sipna" place="1" />
@@ -911,6 +945,10 @@
 <nlword word="ijo wile moku" sense="jan li wile moku e ijo ni" valsi="xagji" place="2" />
 <nlword word="jan wile moku" sense="jan ni li wile moke e ijo" valsi="xagji" place="1" />
 <nlword word="wile moku" valsi="xagji" />
+<nlword word="jan kama pona" sense="jan ni li kama pona tan pali pi jan ante" valsi="xendo" place="2" />
+<nlword word="jan pali pona" sense="jan ni li pali pona tawa jan ante" valsi="xendo" place="1" />
+<nlword word="pali pona" sense="jan li pali e ni tawa jan ante" valsi="xendo" place="3" />
+<nlword word="pali pona" sense="pali pona tawa jan ante" valsi="xendo" />
 <nlword word="jan toki pi ijo lon" sense="jan ni li toki pi ijo lon" valsi="xusra" place="1" />
 <nlword word="linja nimi pi kon lon" sense="kon pi linja nimi ni li lon" valsi="xusra" place="2" />
 <nlword word="toki lon" sense="toki e linja nimi  pi ijo lon" valsi="xusra" />
