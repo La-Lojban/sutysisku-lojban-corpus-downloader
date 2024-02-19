@@ -19804,6 +19804,16 @@
   <definitionid>53053</definitionid>
   <score>1</score>
 </valsi>
+<valsi word="latkemsorprekarce" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+  <definition>$x_1$ sorprekarce $x_2$ gi&apos;e mlatu $x_3$</definition>
+  <definitionid>73522</definitionid>
+  <score>1</score>
+  <notes>{mlatu} {ke} {so&apos;i} {prenu} {karce} {sorprekarce}</notes>
+</valsi>
 <valsi word="latmo" type="gismu">
   <rafsi>la&apos;o</rafsi>
   <user>
