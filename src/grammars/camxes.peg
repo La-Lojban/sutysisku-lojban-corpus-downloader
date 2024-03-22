@@ -350,18 +350,18 @@ vocative <- (COI_clause NAI_clause?)+ DOI_clause / (COI_clause NAI_clause?) (COI
 
 indicators <- INDICATOR+ INDICATORS_post / FUhE_pre INDICATOR* FUhO_pre* INDICATORS_post / FUhO_clause
 
-INDICATOR <- DAhO_pre / INDICATOR_2
+INDICATOR <- DAhO_pre / INDICATOR_0
 
 # refactored left-recursion
-INDICATOR_2 <- core:INDICATOR_CORE tail:INDICATOR_2_TAIL  { return tail(core) }
-INDICATOR_2_TAIL <- right:ATTITUDINAL_MODIFIER tail:INDICATOR_2_TAIL  { const l = location(); return left => {return tail({ rule: "INDICATOR_2_TAIL", text: input.substring(peg$savedPos, right.end), start: l.start.offset, end: l.end.offset, children:[left, right]})}} / '' { return left => left }
+INDICATOR_0 <- core:INDICATOR_CORE tail:INDICATOR_1  { return tail(core) }
+INDICATOR_1 <- right:INDICATOR_MODIFIER tail:INDICATOR_1  { const l = location(); return left => {return tail({ rule: "INDICATOR_1", text: input.substring(peg$savedPos, right.end), start: l.start.offset, end: l.end.offset, children:[left, right]})}} / '' { return left => left }
 
-INDICATOR_CORE <- ((UI1_pre / UI2_pre / UI3_pre / UI6_pre / PEI_pre / GEhE_INDICATOR) NAI_BLOCK?) ATTITUDINAL_INTENSITY? / ATTITUDINAL_INTENSITY
-GEhE_INDICATOR <- GEhE_pre &(NAI_BLOCK? (ATTITUDINAL_INTENSITY / ATTITUDINAL_MODIFIER))
+INDICATOR_CORE <- ((UI1_pre / UI2_pre / UI3_pre / UI6_pre / PEI_pre / GEhE_INDICATOR) POLARITY?) INTENSITY? / INTENSITY
+GEhE_INDICATOR <- GEhE_pre &(POLARITY? (INTENSITY / INDICATOR_MODIFIER))
 
-ATTITUDINAL_MODIFIER <- ((UI4_pre / UI5_pre / UI7_pre) NAI_BLOCK?) ATTITUDINAL_INTENSITY?
-ATTITUDINAL_INTENSITY <- GEhE_pre !ATTITUDINAL_INTENSITY / ((CAI_pre / PEI_pre) NAI_BLOCK?) ATTITUDINAL_INTENSITY?
-NAI_BLOCK <- NAI_pre NAI_BLOCK?
+INDICATOR_MODIFIER <- ((UI4_pre / UI5_pre / UI7_pre) POLARITY?) INTENSITY?
+INTENSITY <- GEhE_pre !INTENSITY / ((CAI_pre / PEI_pre) POLARITY?) INTENSITY?
+POLARITY <- NAI_pre POLARITY?
 
 INDICATORS_post <- post_clause
 

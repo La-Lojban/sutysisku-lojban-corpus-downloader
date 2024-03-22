@@ -181,7 +181,7 @@ export async function updateXmlDumps(args: string[]) {
     {
       path: path.join(__dirname, './grammars/camxes.peg'),
       allowedStartRules: ['text'],
-      ignoredRules: ['INDICATOR_2', 'INDICATOR_2_TAIL'],
+      ignoredRules: ['INDICATOR_0', 'INDICATOR_1', 'bu_clause', 'bu_clause_no_pre', 'zei_tail'],
     },
     (defs as any)['lojban'],
   );
@@ -409,10 +409,7 @@ async function ningauLeDeksiSutysisku({
       for (const word of keys) {
         //complement r field of valsi table by full rafsi
         json[word].r = json[word].r ?? [];
-        if (
-          json[word].t === 'gismu' ||
-          json[word].t === 'experimental gismu'
-        ) {
+        if (json[word].t === 'gismu' || json[word].t === 'experimental gismu') {
           json[word].r.push(word);
         } else if (json[word].t === 'lujvo') {
           const veljvo = lojban.jvokaha_gui(word);
