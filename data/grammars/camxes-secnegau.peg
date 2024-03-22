@@ -128,14 +128,14 @@ free = SEI_clause free* (terms CU_elidible free*)? selbri SEhU_elidible / SOI_cl
 xi_clause = XI_clause free* (number / lerfu_string) BOI_elidible / XI_clause free* VEI_clause free* mex VEhO_elidible
 vocative = (COI_clause NAI_clause?)+ DOI_clause / (COI_clause NAI_clause?) (COI_clause NAI_clause?)* / DOI_clause
 indicators = INDICATOR+ INDICATORS_post / FUhE_pre INDICATOR* FUhO_pre* INDICATORS_post / FUhO_clause
-INDICATOR = DAhO_pre / INDICATOR_2
-INDICATOR_2 = core:INDICATOR_CORE tail:INDICATOR_2_TAIL  { return tail(core) }
-INDICATOR_2_TAIL = right:ATTITUDINAL_MODIFIER tail:INDICATOR_2_TAIL  { const l = location(); return left => {return tail({ rule: "INDICATOR_2_TAIL", text: input.substring(peg$savedPos, right.end), start: l.start.offset, end: l.end.offset, children:[left, right]})}} / '' { return left => left }
-INDICATOR_CORE = ((UI1_pre / UI2_pre / UI3_pre / UI6_pre / PEI_pre / GEhE_INDICATOR) NAI_BLOCK?) ATTITUDINAL_INTENSITY? / ATTITUDINAL_INTENSITY
-GEhE_INDICATOR = GEhE_pre &(NAI_BLOCK? (ATTITUDINAL_INTENSITY / ATTITUDINAL_MODIFIER))
-ATTITUDINAL_MODIFIER = ((UI4_pre / UI5_pre / UI7_pre) NAI_BLOCK?) ATTITUDINAL_INTENSITY?
-ATTITUDINAL_INTENSITY = GEhE_pre !ATTITUDINAL_INTENSITY / ((CAI_pre / PEI_pre) NAI_BLOCK?) ATTITUDINAL_INTENSITY?
-NAI_BLOCK = NAI_pre NAI_BLOCK?
+INDICATOR = DAhO_pre / INDICATOR_0
+INDICATOR_0 = core:INDICATOR_CORE tail:INDICATOR_1  { return tail(core) }
+INDICATOR_1 = right:INDICATOR_MODIFIER tail:INDICATOR_1  { const l = location(); return left => {return tail({ rule: "INDICATOR_1", text: input.substring(peg$savedPos, right.end), start: l.start.offset, end: l.end.offset, children:[left, right]})}} / '' { return left => left }
+INDICATOR_CORE = ((UI1_pre / UI2_pre / UI3_pre / UI6_pre / PEI_pre / GEhE_INDICATOR) POLARITY?) INTENSITY? / INTENSITY
+GEhE_INDICATOR = GEhE_pre &(POLARITY? (INTENSITY / INDICATOR_MODIFIER))
+INDICATOR_MODIFIER = ((UI4_pre / UI5_pre / UI7_pre) POLARITY?) INTENSITY?
+INTENSITY = GEhE_pre !INTENSITY / ((CAI_pre / PEI_pre) POLARITY?) INTENSITY?
+POLARITY = NAI_pre POLARITY?
 INDICATORS_post = post_clause
 UI1_pre = pre_clause UI1 spaces?
 UI1 = &cmavo ( c i h a u h u h a u h i / b u h a h a / j a i h a i / x a h a h a / x e h e h e / x u h u h i / e h e h e / b i h a u / e i h a u / m a u h u / m i h a u / n e h a u / x a i h a / o i h u / a h a u / a u h u / e i h e / e i h i / u e h i / a i h i / e h e i / i a h u / i e h e / i e h i / o i h o / u h a i / u i h i / u o h o / u u h i / x a h a / x y h y / a h a / a h e / a h i / a h o / a h u / e h a / e h e / e h i / e h o / e h u / i h a / i h e / i h i / i h o / i h u / o h a / o h e / o h o / o h u / u h a / u h e / u h i / u h o / u h u / o h i / u a i / u a u / a i / a u / e i / i a / i e / i i / i o / i u / o i / u a / u e / u i / u o / u u ) &post_word
