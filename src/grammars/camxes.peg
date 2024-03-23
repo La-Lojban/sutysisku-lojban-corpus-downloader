@@ -176,9 +176,9 @@ selbri_1 <- selbri_2 / NA_clause free* selbri
 selbri_2 <- selbri_3 (CO_clause free* selbri_2)?
 
 # selbri_3 <- selbri_4+  #: LR
-
-selbri_3 <- core:selbri_4 tail:selbri_4_tail  { return tail(core) }
-selbri_4_tail <- right:selbri_4 tail:selbri_4_tail  { const l = location(); return left => {return tail({ rule: "selbri_4_tertau", text: input.substring(peg$savedPos, right.end), start: l.start.offset, end: l.end.offset, children:[left, right]})}} / '' { return left => left }
+selbri_3 <- selbri_3_wrapper
+selbri_3_wrapper <- head:selbri_4 tail:selbri_4_tail  { return tail(head) }
+selbri_4_tail <- right:selbri_4 tail:selbri_4_tail  { const l = location(); return left => {return tail({ rule: "selbri_4_seltau", text: input.substring(peg$savedPos, right.end), start: l.start.offset, end: l.end.offset, children:[left, right]})}} / '' { return left => left }
 
 selbri_4 <- selbri_5 (joik_jek selbri_5 / joik stag? KE_clause free* selbri_3 KEhE_elidible free*)*  #: LR2
 
@@ -433,7 +433,11 @@ dot_star <- .*  #: LEAF
 # Handling of what can go after a cmavo
 post_clause <- spaces? si_clause? !ZEI_clause !BU_clause indicators*
 
-pre_clause <- BAhE_clause*  #: LR
+# pre_clause <- BAhE_clause*  #: LR
+pre_clause <- pre_clause_wrapper
+pre_clause_wrapper <- head:BAhE_clause? tail:pre_clause_tail  { return tail(head) }
+pre_clause_tail <- right:BAhE_clause tail:pre_clause_tail  { const l = location(); return left => {return tail({ rule: "pre_clause_head", text: input.substring(peg$savedPos, right.end), start: l.start.offset, end: l.end.offset, children:[left, right]})}} / '' { return left => left }
+
 
 #any_word_SA_handling = BRIVLA_pre / known_cmavo_SA / !known_cmavo_pre CMAVO_pre / CMEVLA_pre
 any_word_SA_handling <- BRIVLA_pre / known_cmavo_SA / CMEVLA_pre
