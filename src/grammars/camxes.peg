@@ -175,7 +175,10 @@ selbri_1 <- selbri_2 / NA_clause free* selbri
 
 selbri_2 <- selbri_3 (CO_clause free* selbri_2)?
 
-selbri_3 <- selbri_4+  #: LR
+# selbri_3 <- selbri_4+  #: LR
+
+selbri_3 <- core:selbri_4 tail:selbri_4_tail  { return tail(core) }
+selbri_4_tail <- right:selbri_4 tail:selbri_4_tail  { const l = location(); return left => {return tail({ rule: "selbri_4_tertau", text: input.substring(peg$savedPos, right.end), start: l.start.offset, end: l.end.offset, children:[left, right]})}} / '' { return left => left }
 
 selbri_4 <- selbri_5 (joik_jek selbri_5 / joik stag? KE_clause free* selbri_3 KEhE_elidible free*)*  #: LR2
 

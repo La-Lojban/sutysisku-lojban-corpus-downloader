@@ -181,7 +181,15 @@ export async function updateXmlDumps(args: string[]) {
     {
       path: path.join(__dirname, './grammars/camxes.peg'),
       allowedStartRules: ['text'],
-      ignoredRules: ['INDICATOR_0', 'INDICATOR_1', 'bu_clause', 'bu_clause_no_pre', 'zei_tail'],
+      ignoredRules: [
+        'INDICATOR_0',
+        'INDICATOR_1',
+        'bu_clause',
+        'bu_clause_no_pre',
+        'zei_tail',
+        'selbri_3',
+        'selbri_4_tail',
+      ],
     },
     (defs as any)['lojban'],
   );
