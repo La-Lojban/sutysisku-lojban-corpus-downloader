@@ -43699,6 +43699,16 @@
   <score>1</score>
   <notes>{skari}; {blanu}; {xunre}</notes>
 </valsi>
+<valsi unofficial="true" word="zi'u" type="experimental cmavo">
+  <selmaho>LAhE</selmaho>
+  <user>
+    <username>gleki</username>
+    <realname>gleki</realname>
+  </user>
+  <definition>la&apos;e lu&apos;e</definition>
+  <definitionid>73557</definitionid>
+  <score>1</score>
+</valsi>
 <valsi word="zmadu" type="gismu">
   <rafsi>zma</rafsi>
   <rafsi>mau</rafsi>
