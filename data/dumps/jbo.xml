@@ -10945,6 +10945,16 @@
   <score>1</score>
   <notes>{snada}; {sarcu}; {mutce}; {troci}; {gunka}; {ta&apos;irbi&apos;o}; {nenxaksu}; {nandu}; {sampu}</notes>
 </valsi>
+<valsi word="frimartine" type="fu'ivla">
+  <user>
+    <username>phma</username>
+    <realname>Pierre Abbat</realname>
+  </user>
+  <definition>$x_1$ to lansfumabru toi dinti seja&apos;e lonu datcinse tarbykansa</definition>
+  <definitionid>73565</definitionid>
+  <score>1</score>
+  <glossword word="frimartine" />
+</valsi>
 <valsi word="frimo'i" type="lujvo">
   <user>
     <username>lalxu</username>
@@ -44858,6 +44868,7 @@
 <nlword word="fo&apos;u" valsi="fo&apos;u" />
 <nlword word="fransezo" valsi="fransezo" />
 <nlword word="fraxu" valsi="fraxu" />
+<nlword word="frimartine" valsi="frimartine" />
 <nlword word="frisefa" valsi="frisefa" />
 <nlword word="friselsau" valsi="friselsau" />
 <nlword word="fu" valsi="fu" />
