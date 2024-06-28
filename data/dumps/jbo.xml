@@ -6857,7 +6857,7 @@
 <valsi unofficial="true" word="dajne" type="experimental gismu">
   <user>
     <username>janbe</username>
-    <realname>Rachel Gardener</realname>
+    <realname>Rachel Isabel Gardener</realname>
   </user>
   <definition>$x_1$ capyju&apos;i zukte $x_2$ tezu&apos;e lonu rivbi $x_3$</definition>
   <definitionid>72993</definitionid>
@@ -15356,7 +15356,7 @@
 <valsi unofficial="true" word="jidge" type="experimental gismu">
   <user>
     <username>janbe</username>
-    <realname>Rachel Gardener</realname>
+    <realname>Rachel Isabel Gardener</realname>
   </user>
   <definition>$x_1$ se gaurtcini fi $x_2$ va&apos;o $x_3$</definition>
   <definitionid>72997</definitionid>
@@ -15910,6 +15910,16 @@
   <definition>$x_1$ dunda $x_2$ boi $x_3$ ja&apos;e $x_4$ i $x_1$ gasnu lo nu $x_3$ zenba fi $x_2$ ja&apos;e $x_4$</definition>
   <definitionid>15057</definitionid>
   <score>1</score>
+</valsi>
+<valsi unofficial="true" word="jmite" type="experimental gismu">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ pare&apos;u penmi $x_2$ va&apos;o $x_3$</definition>
+  <definitionid>72992</definitionid>
+  <score>1</score>
+  <notes>.i zo jmite pe le logbau cu krasi</notes>
 </valsi>
 <valsi word="jmive" type="gismu">
   <rafsi>miv</rafsi>
@@ -22756,7 +22766,7 @@
 <valsi word="mlebaliza'i" type="fu'ivla">
   <user>
     <username>janbe</username>
-    <realname>Rachel Gardener</realname>
+    <realname>Rachel Isabel Gardener</realname>
   </user>
   <definition>$x_1$ carmi lo ka jai macri&apos;a .i nandu fa lo nu satci skicu lo te cniri&apos;a be fi $x_1$ ki&apos;u lo du&apos;u $x_1$ melbi ja banli mutce</definition>
   <definitionid>73455</definitionid>
@@ -42624,7 +42634,7 @@
 <valsi unofficial="true" word="zandi" type="experimental gismu">
   <user>
     <username>janbe</username>
-    <realname>Rachel Gardener</realname>
+    <realname>Rachel Isabel Gardener</realname>
   </user>
   <definition>$x_1$ toljinsa ri&apos;a lonu $x_2$ zvati le sefta be $x_1$ keiku fi&apos;o te karbi $x_3$</definition>
   <definitionid>72994</definitionid>
