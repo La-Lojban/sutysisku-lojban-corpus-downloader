@@ -14,7 +14,7 @@ Quit complaining.	ko sisti lo ka pante	GN
 I'm tired. I've got to go now.	.i mi ca tatpi .i .ei mi ca cliva	G- G
 Ah, this is easy.	.a'i cu'i	G−
 It'll be hard for me to wake you up.	mi gasnu .a'i da'i lo nu do cikna	B
-I'll make an effort to get up early every morning.	.ai mi gunka fi lo nu ca ro cerni mi clira sanli	B+
+I'll make an effort to get up early every morning.	.a'i mi ca ro cerni co'a cikna	B+
 I'm trying to hold it!	.a'i mi troci lo ka ru'i jgari ti	B+
 Nah, why bother fixing it.	.a'i nai cikre ta	B+
 I did it, through much hard work, though it took but little thought.	.a'i ro'e cu'i mi snada	B+
@@ -45,20 +45,20 @@ This science fiction story seems interesting. Will you lend it to me when you ha
 What happened to you?	ma ba'o se lifri do	G
 What compels you to meow?	.a'u mu'i ma do latcmo	G−
 Why are you meowing?	mu'i ma .a'u do latcmo	G
-Yuck, that smells like shit!	.a'u nai ta panci simsa lo kalci	G
+Yuck, that smells like shit!	.a'u nai ta simsa lo kalci lo ka se panci	G
 How fascinating!	.a'u cai	A
-I am deeply interested in art.	lo'e larcu cu mutce lo ka cinri mi	B−
+I am deeply interested in art.	.a'u cai lardai	B−
 You stink.	.a'u nai do tolpu'a se sumne	G
 It's unthinkable that you would sunbathe, naked, on this balcony.	.a'u nai cai do lunbe solvre lo vi balni	BN
-A is enough, but B is not enough.	.a bu banzu .i je ku'i .by. na go'i	G
+A is enough, but B is not enough.	.a bu raunzu .i je ku'i .by. na go'i	G
 I'll definitely do that.	ju'o .ai mi ba zukte	G−
 I don't know whether I'll purchase these or not.	.ai cu'i mi tu'a ti ba te vecnu	B
 I have something to talk over with you.	.ai mi do da tavla	B
-I'll gouge out your eyes!	.ai lo'o mi do kalvi'u	GN
-I am going to explain it completely on the wiki.	.ai mi ciksi ro da pe ta ve cu'u lo .uitki	A
+I'll gouge out your eyes!	.ai lo'o mi vimcu lo kanla be do	GN
+I am going to explain it completely on the wiki.	.ai mi ba cusku lo jufra be lo mulno se ciksi fo lo ka ciska fi lo .uitki	A
 I'm going to scream.	.ai mi ba co'a cmoni	A
-I am going to explain it completely on the wiki.	.ai mi ba mulno ciksi ve cu'u la .uikis.	G
-I'll take your suitcase to your room.	.ai mi bevri lo do tcemodani lo do kumfa	B−N
+I am going to explain it completely on the wiki.	.ai mi ba cusku lo jufra be lo mulno se ciksi fo lo ka ciska fi lo .uitki	G
+I'll take your suitcase to your room.	.ai mi bevri lo do dakli lo do kumfa	B−N
 I'm going to scream.	.ai mi cmoni	G−
 I'm not staying to listen to this! Have a nice day!	.ai nai mi stali gi'e tinju'i ta .i co'o di'ai fe'o	B−
 I'll call first.	mi tavla .au pa mai xe be'i lo se fonxa	
@@ -1452,29 +1452,29 @@ You will fail.	.i do ba fliba	A
 You will regret this.	do ba xenru	G
 You'll get well soon.	do ba zi di'a kanro	G
 You're nuts!	.i do zukte lo ba'e fenki	B-
-You CAN do it.	do ba'e ka'e co'e	
-You've already forgotten.	do ba'o morji	
+You CAN do it.	do ba'e kakne	
+You've already forgotten.	do pu je nai morji	
 You are not a child any more.	do ba'o verba	G
 You're not a child anymore.	do ba'o verba	G
 You speak.	do bacru	G-
 You run.	do bajra	G
 Which language do you teach?	.i ma bangu gi'e ckaji lo ka do ctuca fo ce'u	A
-You jumped high enough.	do banzu lo ka plipe fo ma kau	
-You jumped high enough to touch this branch.	do banzu lo ka plipe fo ma kau kei lo nu pencu lo va tricu jimca	
+You jumped high enough.	do mo'u plipe fo lo raunzu	
+You jumped high enough to touch this branch.	do raunzu lo ka mo'u plipe fo ma kau da kei lo ka pencu ti voi jimca	
 You are a large person.	do barda prenu	
 You are stupid.	do bebna	G
-You are foolish.	do bebna .i do bebna .i do bebna .i do bebna .i do bebna .i do bebna	
+You are foolish.	do bebna	
 Whose son are you?	do bersa ma	G
 You have to do it, whether you like it or not.	do bilga gi'u djica	
 You don't have to hang around if you don't want to.	ga nai do na djica lo nu do zvati ti gi do na bilga lo ka gasnu nu bu	
-You must go up the hill.	do bilga lo ka galcpare lo cmama'a	
-You must come with me.	do bilga lo ka kansa mi	
+You must go up the hill.	do bilga lo ka cpare lo cmana	
+You must come with me.	do bilga lo ka kansa mi lo ka klama	
 You must join me.	do bilga lo ka kansa mi	
-You must not go inside.	do bilga lo ka na nerkla	
+You must not go inside.	do bilga lo ka na klama lo nenri	
 You're required to help them.	do bilga lo ka sidju	
-You must study more.	do bilga lo ka tadni za'u da	
-You must study more.	do bilga lo ka za'u va'e tadni	
-You must pay attention to the teacher.	do bilga lo nu jundi lo ctuca	
+You must study more.	do bilga lo ka zenba lo ka tadni	
+You must study more.	do bilga lo ka zenba lo ka tadni xo kau da	
+You must pay attention to the teacher.	do bilga lo ka jundi lo ctuca	
 You had better tell him the truth.	do bilga lo nu jungau fi lo jetnu	
 You had better go to the infirmary.	do bilga lo nu klama lo spita	
 You had better not repeat such an error.	do bilga lo nu na za'u re'u srera ra	
@@ -1482,13 +1482,12 @@ You are supposed to report it to the police as soon as possible.	do bilga lo nu 
 You must not smoke till you grow up.	do bilga lo ka na sigva'u pu lo nu do na makcu	
 You should have kept it secret.	do bilga lo nu do mipri ti	
 You're sick. You have to rest.	do bilma gi'e nitcu lo ka surla	
-You're bleeding.	do blucri	
-You're looking at that tree.	do ca catlu lo va tricu	
+You're bleeding.	do vikmi lo ciblu	
+You're looking at that tree.	do ca ca'o catlu tu voi tricu	
 What are you doing?	do ca jai gau mo	
-What are you doing?	do ca mo	
-What are you up to?	do ca mo	
-What's up?	do ca mo	
 What are you doing?	do ca zukte ma	
+What are you up to?	do cinmo lo ka pu'o zukte ma	
+What's up?	ma nuzba	
 You're in shock.	do ca'a se jenca	
 You're coming with me.	do ca'o klama ka'ai mi	
 What are you laughing at?	do ca'o mi'afra ma	
@@ -1504,17 +1503,18 @@ Please explain it to me later.	do ciksi fi mi ba .e'o
 How do you explain that?	do ciksi la'e di'u fo ma	
 How do you feel?	do cinmo ma	G
 How do you like New York?	do cinmo ma la .nuiork.	
-You're bleeding.	do cirko lo ciblu	
-What are you eating?	do citka ma	
-You're not as young as Tom.	do citnyme'a la .tom.	
-You're not as young as Alice.	do citnyme'a la .alis.	
-You're not as young as Mary.	do citnyme'a la .maris.	
-You're weird.	do cizra	G
-When are you leaving?	do cliva ca ma	G
+You are a panda.	do latcribe	
+You're bleeding.	do vikmu lo ciblu	
+What are you eating?	do ca'o citka ma	
+You're not as young as Tom.	do zmadu la .tom. lo ka jmive ze'a ma kau	
+You're not as young as Alice.	do zmadu la .alis. lo ka jmive ze'a ma kau	
+You're not as young as Mary.	do zmadu la .maris. lo ka jmive ze'a ma kau	
+You're weird.	do jai cizra	G
+When are you leaving?	do cliva de'i ma	G
 You are a small person.	do cmalu prenu	
-You're smaller than Tom.	do cmalymau la .tom.	
-You're smaller than Alice.	do cmalymau la .alis.	
-You're smaller than Mary.	do cmalymau la .maris.	
+You're smaller than Tom.	do mleca la .tom. lo ka se canlu	
+You're smaller than Alice.	do mleca la .alis. lo ka se canlu	
+You're smaller than Mary.	do mleca la .maris. lo ka se canlu	
 You're new, aren't you?	do cnino xu nai	
 You are feeling very tired. Yes, you are feeling very tired.	do co'a mutce tatpi .i va'i nai do co'a mutce tatpi	
 You're starting to warm up now.	do co'a ti zenba lo ni glare	
