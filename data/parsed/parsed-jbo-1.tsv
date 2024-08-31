@@ -275,6 +275,7 @@ prubi'o	$x_1$ binxo lo ka pu je nai ca fasnu	lujvo	purci;binxo		prubi'o
 prugastcica	$x_1$ tcica $x_2$ lo nu $x_2$ ganse lo ka da'i ce'u pu lifri $x_1$ kei $x_3$ boi $x_4$	lujvo	purci;ganse;tcica	{pu} {ganse} {tcica}; {gastcica}, {narprugastcica}
 prujbi	$x_1$ purci je cabjbi $x_2$	lujvo	purci;jibni	srana fa zo {pu} .e zo {zi} .e zo {purci} .e zo {cabjbi} .e zo {cabda'o} .e zo {purda'o}	prujbi
 prulamdei	$x_1$ djefau gi'e se fanmo lo nu lo cabdei cu cfari	lujvo	purci;lamji;djedi	srana fa zo {djefau} .e zo {cabdei} .e zo {bavlamdei} .i selsmudu'i zo {purlamdei}
+prusmi	.i $x_1$ ba'o ckaji $x_3$ .ibabo $x_2$ co'u ckaji $x_3$	lujvo	purci;simsa
 pukclite	$x1$ clite lonu $x1$ pluka $x2$ $x3$ kei $x4$	lujvo	pluka;clite
 pukfri	$x1$ lifri $x2$ noi pluka $x1$	lujvo	pluka;lifri
 pukmle	$x1$ melbi $x2$ loka $x1$ pluka $x2$ $x3$ kei $x4$	lujvo	pluka;melbi
@@ -1139,7 +1140,6 @@ rinkini	$x_1$ fe $x_2$ rinka ja se rinka ja ckini be fi lo ka da rinka ce'u jo'u
 rinsita	$x_1$ tamsmi me'o se'e 2665 ju'u 16 (to zo'oi ♥ toi) noi ka'u ta'e sinxa lo risna .a lo su'u prami .a lo cnise'i .a lo su'u jmive	fu'ivla
 ro'imxu	ro da ro de zo'u ga nai ge da je de me $x_1$ gi da de drata gi ge da de gi de da ckini $x_2$	fu'ivla		so'i zo {simxu} se smuni lo ka ro'imxu .i zo {pu'amxu}
 rotpaci	$x_1$ mifra $x_2$ la'o gy.ROT-13.gy.	fu'ivla		zo rotpaci mitsmuvla zo {mifnrotpaci}
-rundini	$x_1$ cipni $x_2$ noi ke'a klesi la'o me. Hirundinidae .me	fu'ivla		smudu'i zo {tsubame} .e zo {irnodela}	rundini
 za'enpli	$x_1$ pilno lo za'envla no'u $x_2$ $x_3$	fu'ivla		.i ko zgana zo {za'envla}
 za'envla	za'e $x_1$ valsi $x_2$ $x_3$ .i va'i $x_1$ za'e zei valsi	fu'ivla		.i ko zgana lu {za'e zei valsi} li'u
 zancari	$x_1$ gasnu lo nu $x_2$ sampu $x_3$ kei noi ke'a zabna	fu'ivla		zo'o zei valsi .i valsi krasi fa ra'oi zan joi zoi py. 断捨離(dancari) py.
@@ -1171,11 +1171,11 @@ selbri	$x_1$ se bridi $x_2$ fi $x_3$	lujvo	se;bridi	srana fa zo {bridi} .e zo {z
 selbricu'i	$x_1$ valsi gi'a vlapoi .ije cumki fa lo nu $x_1$ selbri	lujvo	se;bridi;cumki	.i la'a so'i prenu cu pilno zo selbri pe se ba'i zo selbricu'i .i mu'a sa'e zo broda pe lu lo broda li'u genai selbri gi selbricu'i
 selbrisle	$x_1$ selci lo sinxa be lo selbri	lujvo	se;bridi;selci	.i lu {selbri} {selci} li'u veljvo .i srana fa zo {ziltau}
 selbrisni	$x_1$ sinxa lo selbri be la'e $x_2$ bei lu'i la'e lu'a $x_3$	lujvo	se;bridi;sinxa	i $x_2$ {brisni} ije $x_3$ {terbrisni} i srana zo {se} e zo {bridi} e zo {sinxa}
-selbritcita	$x_1$ tcita lo selbri $x_2$	lujvo	se;bridi;tcita	{selbri} {tcita}; {se} {bridi}
+selcaugau	$x_1$ gasnu lo nu $x_2$ se claxu $x_3$	lujvo	se;claxu;gasnu
 sei'e	lu "sei'e broda" li'u smudu'i lu "sei mi djuno be fo lo su'u broda" li'u	experimental cmavo		.i mu'a lu "za'a .i ka'u .i se'o" li'u smudu'i lu "sei'e zgana .i sei'e kulnu .i sei'e senva" li'u			SEI
 se ja'e	fi'o se jalge	cmavo-compound		.i srana zo {se} .e zo {jalge}			BAI*
 se ja'e nai	fi'o na'e se jalge	cmavo-compound		.i srana zo {na'e} .e zo {se} .e zo {jalge}			BAI*
-selcaugau	$x_1$ gasnu lo nu $x_2$ se claxu $x_3$	lujvo	se;claxu;gasnu
+selbritcita	$x_1$ tcita lo selbri $x_2$	lujvo	se;bridi;tcita	{selbri} {tcita}; {se} {bridi}
 selcindu	$x_1$ se cindu $x_2$	lujvo	se;cindu	{cindu}
 selcmi	$x_1$ se cmima ro lo me $x_2$ me'u e no lo na me $x_2$	lujvo	se;cmima	{se} {cmima}
 selcmipi'i	ro da poi cmima $x_2$ ku'o ro de poi cmima $x_3$ zo'u da ce'o de cmima $x_1$ i ro da poi cmima $x_1$ zo'u ge da remei porsi gi le pamoi fa'u remoi cmima be da cu cmima $x_2$ fa'u $x_3$	lujvo	se;cmima;pilji	{selcmi} {pilji}; {pi'u}	selcmipi'i
@@ -1229,6 +1229,7 @@ sezyskinoi	$x_1$ notci $x_2$ vo'e $x_3$ .i je $x_2$ skicu vo'a $x_3$ boi $x_1$	l
 sezyxru	.i ka ce'u goi $x_1$ xruti xy. xi pa ce'u ce'u	lujvo	sevzi;xruti	.i .e'u do catlu zo'e pe zo {sevzi} ge'u .e zo'e pe zo {xruti}.
 sfane'u	$n_1$=$s_1$ $n_2$=$s_2$ $n_3$=$s_3$ $n_4$=$s_4$ cnemu gi'e sfasa	lujvo	sfasa;cnemu
 samjudri zei uidje	$u_1$ $u_2$ uidje tepi'o lo nu ciska lo samjudri	zei-lujvo
+rundini	$x_1$ cipni $x_2$ noi ke'a klesi la'o me. Hirundinidae .me	fu'ivla		smudu'i zo {tsubame} .e zo {irnodela}	rundini
 rutrmango	$x_1$ noi grute ja tricu la'o ly. Mangifera .ly. cu spatrnakardiace $x_2$	fu'ivla
 saskrsporte	$x_1$ saske lo si'o esporte ku $x_2$	fu'ivla		.e'u ko tcidu tu'a zo {saske} .e zo {esporte}
 selzau'inda	$x_1$ inda lo ka ce'u se zanru $x_2$	fu'ivla		srana fa zo {inda} jo'u zo {zanru}
@@ -1999,4 +2000,3 @@ menbi'a	$x_1$ bilma fi $x_2$ noi srana lo menli ku'o fe $x_3$	lujvo	menli;bilma	
 menri'u	$x_1$ rinju $x_2$ noi srana lo menli farvi ku'o $x_3$ noi srana lo menli	lujvo	menli;rinju	{menli} {rinju} {ka'enri'u}	menri'u
 menryjinvi	$x_1$ jinvi lo du'u $x_2$ menre $x_3$	lujvo	menre;jinvi	srana fa zo {menre} .e zo {jinvi} .e zo {kancu}	menryjinvi
 menseika'e	$x_1$ kakne lo nu $x_2$ menli sepli $x_3$ zi'o kei $x_4$	lujvo	menli;sepli;kakne
-mensku	$x1$ cusku $x2$ $x1$ lo menli be $x1$	lujvo	menli;cusku
