@@ -17,7 +17,7 @@ It'll be hard for me to wake you up.	mi gasnu .a'i da'i lo nu do cikna	B
 I'll make an effort to get up early every morning.	.a'i mi ca ro cerni co'a cikna	B+
 I'm trying to hold it!	.a'i mi troci lo ka ru'i jgari ti	B+
 Nah, why bother fixing it.	.a'i nai cikre ta	B+
-I did it, through much hard work, though it took but little thought.	.a'i ro'e cu'i mi snada	B+
+I did it, through much hard work, though it took but little thought.	.uo ru'e .a'i sai ro'o bu'o nai .a'i ru'e sai ro'e bu'o nai	B+
 Hopefully everything turns out all right.	.a'o .a'u cu'i ro da ba se jalge lo zabna	B−
 I hope someone sees this.	.a'o da ba zgana ti	G−
 I hope that you will get well soon.	.a'o do ba zi co'a kanro	G−
@@ -8823,12 +8823,12 @@ I can't see my dad.	mi na kakne lo nu viska lo patfu be mi
 This statement is false: I go to the market because the car is broken.	mi na klama lo zarci ki'u lo nu lo karce cu spofu	
 I'm not her type.	mi na klesi zo'ei ra poi fetsi	
 I don't believe in God.	mi na krici fi lo cevni	
-I don't want to be late.	mi na lerci djica	
+I don't want to be late.	mi jai lerci .au nai	
 I'm not a nerd!	mi na malcrexalbo	
 I'm not a slut!	mi na malsorgle	
-I'm not you.	mi na me do	
-I'm not a student.	mi na me lo tadni	
-I'm not a doctor.	mi na mikce	
+I'm not you.	mi na simsa do	
+I'm not a student.	mi na se cuntu lo ka tadni	
+I'm not a doctor.	mi na se cuntu lo ka mikce	
 I can't remember how to do it.	mi na morji fi lo zukte tadji	
 I can't remember how to say 'Thank you' in German.	mi na morji lo du'u ta'i ma kau cusku lu ki'e li'u bau lo dotco	
 I don't remember when and where I met you.	mi na morji lo du'u vi je ca ma kau mi penmi do	
@@ -8836,19 +8836,19 @@ I'm not dead.	mi na morsi
 I do not like the house.	mi na nelci lo dinju	
 I do not like this song.	mi na nelci lo na'o se sanga	
 I don't like the substitute teacher.	mi na nelci lo basti ctuca	
-I don't like chocolate.	mi na nelci lo cakla	
-I don't like sand.	mi na nelci lo canre	
-I don't like coffee.	mi na nelci lo ckafi	
-I don't like winter.	mi na nelci lo dunra	
+I don't like chocolate.	cakla .iu ru'e nai	
+I don't like sand.	mi na nelci lo'e canre	
+I don't like coffee.	mi na nelci lo'e ckafi	
+I don't like winter.	mi na nelci lo'e dunra	
 I don't like pepperoni pizza very much.	mi na nelci lo .iptsa be la .peperonis.	
-I don't like to paint.	mi na nelci lo ka punji lo cinta	
+I don't like to paint.	mi na se dirba lo ka punji lo cinta	
 I do not like cats and my brother does not either.	mi na nelci lo mlatu .i je lo bruna be mi go'i	
-I don't like high heat.	mi na nelci lo nu mutce glare	
+I don't like high heat.	mi na nelci lo'e nu mutce glare	
 I don't like the looks of things here.	mi na nelci lo tarmi be lo dacti bei bu'u ti	
-I don't like tea.	mi na nelci lo tcati	
-I don't like this book.	mi na nelci lo vi cukta	
-I don't like this jacket.	mi na nelci lo vi kosta	
-I don't like her.	mi na nelci ra	
+I don't like tea.	mi na nelci lo'e tcati	
+I don't like this book.	mi na nelci ti voi cukta	
+I don't like this jacket.	mi na nelci ti voi kosta	
+I don't like her.	mi na nelci lo ninmu	
 I don't like when mothers yell at children.	mi na nelci su'o nu lo mamta cu krixa tavla lo panzi	
 I don't like this one.	mi na nelci ti	
 I don't like the looks of things here.	mi na nelci ti noi tcini	
@@ -8873,24 +8873,24 @@ I didn't lose them.	mi na pu cirko za'u ra
 I didn't ask for these.	mi na pu cpedu lo za'u ti	
 I didn't order them.	mi na pu cpedu tu'a lo za'u mei	
 I didn't ask for this.	mi na pu cpedu tu'a zo'e bi'u cu'i	
-I haven't told Tom.	mi na pu cusku fi la .tom.	
-I haven't told Alice.	mi na pu cusku fi la .alis.	
-I haven't told Mary.	mi na pu cusku fi la .maris.	
+I haven't told Tom.	mi nu'o cusku fi la .tom.	
+I haven't told Alice.	mi nu'o cusku fi la .alis.	
+I haven't told Mary.	mi nu'o cusku fi la .maris.	
 I didn't know what time I stop the machine.	mi na pu djuno lo du'u ca ma kau mi sisti lo pa minji	
 I didn't know you were back.	mi na pu djuno lo du'u do co'i xruti	
 I didn't know what else to say.	mi na pu djuno lo du'u sarcu fa lo nu cusku ma kau noi drata	
-I didn't know that you cared.	mi na pu djuno lo nu ca vajni do	
+I didn't know that you cared.	mi pu na ku djuno lo du'u vajni do	
 I didn't know Tom was a doctor.	mi na pu djuno lo nu la .tom. cu mikce prenu	
 I didn't know Alice was a doctor.	mi na pu djuno lo nu la .alis. cu mikce prenu	
 I didn't know Mary was a doctor.	mi na pu djuno lo nu la .maris. cu mikce prenu	
-I didn't know Tom had a dog.	mi na pu djuno lo nu la .tom. cu ralte lo gerku	
-I didn't know Alice had a dog.	mi na pu djuno lo nu la .alis. cu ralte lo gerku	
-I didn't know Mary had a dog.	mi na pu djuno lo nu la .maris. cu ralte lo gerku	
-I didn't know Tom had a brother.	mi na pu djuno lo nu la .tom. cu se bruna	
-I didn't know Alice had a brother.	mi na pu djuno lo nu la .alis. cu se bruna	
-I didn't know Mary had a brother.	mi na pu djuno lo nu la .maris. cu se bruna	
+I didn't know Tom had a dog.	mi pu na ku djuno lo du'u la .tom. pa gerku cu ralte	
+I didn't know Alice had a dog.	mi pu na ku djuno lo du'u la .alis. pa gerku cu ralte	
+I didn't know Mary had a dog.	mi pu na ku djuno lo du'u la .maris. pa gerku cu ralte	
+I didn't know Tom had a brother.	mi pu na ku djuno lo du'u la .tom. da bruna	
+I didn't know Alice had a brother.	mi pu na ku djuno lo du'u la .alis. da bruna	
+I didn't know Mary had a brother.	mi pu na ku djuno lo du'u la .maris. da bruna	
 I didn't know what I was doing.	mi na pu djuno lo nu mi ca ca'o zukte ma kau	
-I did not know this.	mi na pu djuno ti	
+I did not know this.	mi pu na ku djuno fi la'e do'i	
 I didn't really want to win.	mi na pu je'a djica lo nu mi jinga	
 I didn't understand your question.	mi na pu jimpe lo smuni be lo be do se retsku	
 I wasn't able to escape.	mi na pu kakne lo ka rivbi cliva	
@@ -8898,8 +8898,8 @@ I didn't expect to meet you.	mi na pu kanpe lo ka penmi do
 I didn't go to the market.	mi na pu klama lo zarci	
 I didn't like it.	mi na pu nelci	
 I didn't need to take an umbrella with me.	mi na pu nitcu lo ka lebna lo santa sei ri mi ja'e kansa	
-I wasn't alone.	mi na pu nonkansa	
-I wasn't sold on their plan at first, but their conviction won me over.	mi na pu pa re'u se bitygau se ra'a lo ko'a selpla .i ku'i lo ko'a ka krici cu bitmu'i mi	
+I wasn't alone.	mi pu na ku kansa no da	
+I wasn't sold on their plan at first, but their conviction won me over.	pu ku ca lo pa moi mi na ku birti tu'a lo se platu be lo za'u mei .i ku'i lo ni ri krici cu jai rinka lo nu mi co'a birti	
 I couldn't sleep because of the heat.	pu ku ki'u lo nu glare vau mi fliba lo ka sipna	B
 I didn't tell him you were coming.	mi na pu skicu fi lo nakni fe lo nu do ca'o klama	
 I didn't mean that.	mi na pu te smuni ra	
