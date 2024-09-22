@@ -176,7 +176,7 @@ I can't fault you for that.	.e'e nai mi cfifi'a do la'e di'u	B+
 I can't.	.e'e nai	CG
 I cannot accept this gift.	.e'i mi na zarcpa lo nu posydu'a ti	CB−
 I will do it myself.	.e'ei se'a	
-I've got to stop you.	.e'i cai mi do stigau	C
+I've got to stop you.	gau mi .e'i cai do sisti	C
 Give that to me!	.e'i ko ta mi dunda	G
 I have to go meet with Tom.	.ei mi kaikla lo ka penmi la .tom.	PG−
 I have to go meet with Alice.	.ei mi kaikla lo ka penmi la .alis.	PG−
@@ -189,14 +189,14 @@ Help yourself.	.e'i cu'i dai
 Please say that again!	.e'o cusku krefu	G−
 Please fix that.	.e'o do cikre ta	G
 Just a minute. I'll see if I can find it in this book.	.e'o do denpa .i mi troci co tolcri fi lo vi cukta	A
-Please go on with your story.	.e'o do di'a cusku lo do lisri	G
+Please go on with your story.	.e'o do di'a skicu lo do lisri	G
 Can you pass me the salt, please?	.e'o do dunda lo silna mi	G
 Please show me another camera.	.e'o gau do mi viska su'o kacma poi drata	A
 Speak more slowly, please!	.e'o do jdika lo ka bacru sutra	B?
 Could you make me a sandwich?	.e'o do jukpa lo snuji fi'o te dunda mi	G−
 Please drink tea.	.e'o do pinxe lo tcati	G
 Could you talk more slowly, please?	.e'o do bacru masno zenba	GN
-Please will you close the door when you go out.	.e'o do va'o gi cliva gi ganlygau lo vorme	G
+Please will you close the door when you go out.	gau do .e'o ganlo fa lo vorme ca lo nu do cliva	G
 Please stay for 5 more minutes.	.e'o do zenba lo ka pu zu co'a sanli ku su'o mentu be li mu	?
 Please sit down!	.e'o do zutse	G
 If you are free, give me a hand.	.e'o ga nai do zifre gi do mi sidju	G
@@ -248,7 +248,7 @@ Here, have some candy.	.e'u do citka su'o lo vi titspi	G−
 Two adult tickets, please.	.e'o re makcu pikta cu co'e	G
 Let me know if I need to make any changes.	.e'o ro da zo'u mi nitcu lo ka zukte da .i na ja do mi jungau lo du'u go'i	G
 Can you give me a minute?	.i'a pei da'i do denpa ze'i pa mentu	B+
-If you see a mistake, then please correct it.	.e'o va'o lo nu do ganse lo selsre kei ko cikre	G−
+If you see a mistake, then please correct it.	.e'o va'o lo nu do ganse lo se srera kei do cikre	G−
 Could you put it in plain language?	.e'o do smusku la'e di'u se pi'o lo sampu bangu	NA
 Just a minute.	.e'o ze'i denpa	G
 I'm begging you.	.e'o cai	B+
@@ -5243,9 +5243,9 @@ Mary brought this.	la .maris. pu klagau ti
 Tom went to bed.	la .tom. pu klama co sipna	
 Alice went to bed.	la .alis. pu klama co sipna	
 Mary went to bed.	la .maris. pu klama co sipna	
-Tom went to buy dog food.	la .tom. pu klama te zu'e lo ka te vecnu lo cidja pe xau lo gerku	
-Alice went to buy dog food.	la .alis. pu klama te zu'e lo ka te vecnu lo cidja pe xau lo gerku	
-Mary went to buy dog food.	la .maris. pu klama te zu'e lo ka te vecnu lo cidja pe xau lo gerku	
+Tom went to buy dog food.	la .tom. pu klama te zu'e lo nu ri te posyve'u lo cidja be lo gerku	
+Alice went to buy dog food.	la .alis. pu klama te zu'e lo nu ri te posyve'u lo cidja be lo gerku	
+Mary went to buy dog food.	la .maris. pu klama te zu'e lo nu ri te posyve'u lo cidja be lo gerku	
 Tom was curious.	la .tom. pu kucli	
 Alice was curious.	la .alis. pu kucli	
 Mary was curious.	la .maris. pu kucli	

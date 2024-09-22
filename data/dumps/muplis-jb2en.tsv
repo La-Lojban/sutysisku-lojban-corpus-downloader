@@ -176,7 +176,7 @@ lo'e finpe cu kakne lo ka limna	A fish can swim.	👎👎👎
 .e'e nai	I can't.	CG
 .e'i mi na zarcpa lo nu posydu'a ti	I cannot accept this gift.	CB−
 .e'ei se'a	I will do it myself.	
-.e'i cai mi do stigau	I've got to stop you.	📕
+gau mi .e'i cai do sisti	I've got to stop you.	📕
 .e'i ko ta mi dunda	Give that to me!	👍👍
 .ei mi kaikla lo ka penmi la .tom.	I have to go meet with Tom.	PG−
 .ei mi kaikla lo ka penmi la .alis.	I have to go meet with Alice.	PG−
@@ -189,14 +189,14 @@ lo'e finpe cu kakne lo ka limna	A fish can swim.	👎👎👎
 .e'o cusku krefu	Please say that again!	G−
 .e'o do cikre ta	Please fix that.	👍👍
 .e'o do denpa .i mi troci co tolcri fi lo vi cukta	Just a minute. I'll see if I can find it in this book.	😐
-.e'o do di'a cusku lo do lisri	Please go on with your story.	👍👍
+.e'o do di'a skicu lo do lisri	Please go on with your story.	👍👍
 .e'o do dunda lo silna mi	Can you pass me the salt, please?	👍👍
 .e'o gau do mi viska su'o kacma poi drata	Please show me another camera.	😐
 .e'o do jdika lo ka bacru sutra	Speak more slowly, please!	B?
 .e'o do jukpa lo snuji fi'o te dunda mi	Could you make me a sandwich?	G−
 .e'o do pinxe lo tcati	Please drink tea.	👍👍
 .e'o do bacru masno zenba	Could you talk more slowly, please?	GN
-.e'o do va'o gi cliva gi ganlygau lo vorme	Please will you close the door when you go out.	👍👍
+gau do .e'o ganlo fa lo vorme ca lo nu do cliva	Please will you close the door when you go out.	👍👍
 .e'o do zenba lo ka pu zu co'a sanli ku su'o mentu be li mu	Please stay for 5 more minutes.	?
 .e'o do zutse	Please sit down!	👍👍
 .e'o ga nai do zifre gi do mi sidju	If you are free, give me a hand.	👍👍
@@ -248,7 +248,7 @@ gau do .e'o sivni	Please keep it a secret.	👍👍
 .e'o re makcu pikta cu co'e	Two adult tickets, please.	👍👍
 .e'o ro da zo'u mi nitcu lo ka zukte da .i na ja do mi jungau lo du'u go'i	Let me know if I need to make any changes.	👍👍
 .i'a pei da'i do denpa ze'i pa mentu	Can you give me a minute?	👎👎👎
-.e'o va'o lo nu do ganse lo selsre kei ko cikre	If you see a mistake, then please correct it.	G−
+.e'o va'o lo nu do ganse lo se srera kei do cikre	If you see a mistake, then please correct it.	G−
 .e'o do smusku la'e di'u se pi'o lo sampu bangu	Could you put it in plain language?	NA
 .e'o ze'i denpa	Just a minute.	👍👍
 .e'o cai	I'm begging you.	👎👎👎
@@ -5244,9 +5244,9 @@ la .maris. pu klagau ti	Mary brought this.
 la .tom. pu klama co sipna	Tom went to bed.	
 la .alis. pu klama co sipna	Alice went to bed.	
 la .maris. pu klama co sipna	Mary went to bed.	
-la .tom. pu klama te zu'e lo ka te vecnu lo cidja pe xau lo gerku	Tom went to buy dog food.	
-la .alis. pu klama te zu'e lo ka te vecnu lo cidja pe xau lo gerku	Alice went to buy dog food.	
-la .maris. pu klama te zu'e lo ka te vecnu lo cidja pe xau lo gerku	Mary went to buy dog food.	
+la .tom. pu klama te zu'e lo nu ri te posyve'u lo cidja be lo gerku	Tom went to buy dog food.	
+la .alis. pu klama te zu'e lo nu ri te posyve'u lo cidja be lo gerku	Alice went to buy dog food.	
+la .maris. pu klama te zu'e lo nu ri te posyve'u lo cidja be lo gerku	Mary went to buy dog food.	
 la .tom. pu kucli	Tom was curious.	
 la .alis. pu kucli	Alice was curious.	
 la .maris. pu kucli	Mary was curious.	
