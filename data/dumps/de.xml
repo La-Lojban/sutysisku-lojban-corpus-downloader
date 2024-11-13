@@ -7499,18 +7499,6 @@
   <score>1</score>
   <glossword word="Gruppe" />
 </valsi>
-<valsi word="gismu" type="gismu">
-  <rafsi>gim</rafsi>
-  <rafsi>gi&apos;u</rafsi>
-  <user>
-    <username>gleki</username>
-    <realname>gleki</realname>
-  </user>
-  <definition>$x_1$ ist ein (Lojban-)Stammwort und drückt Beziehung $x_2$ zwischen Argumenten $x_3$ aus, mit Prä-/Suffix(en) $x_4$</definition>
-  <definitionid>43057</definitionid>
-  <score>1</score>
-  <glossword word="Stammwort" />
-</valsi>
 <valsi word="glare" type="gismu">
   <rafsi>gla</rafsi>
   <user>
@@ -23742,7 +23730,6 @@
 <nlword word="Lager" sense="vorübergehender Wohnort" valsi="ginka" />
 <nlword word="Lager" valsi="ginka" />
 <nlword word="Gruppe" valsi="girzu" />
-<nlword word="Stammwort" valsi="gismu" />
 <nlword word="heiß" valsi="glare" />
 <nlword word="glücklich" valsi="gleki" />
 <nlword word="kopulieren" valsi="gletu" />

@@ -405,7 +405,6 @@ gidva	$x_1$ (Person/Objekt/Ereignis) führt/leitet/steuert $x_2$ (aktive Teilneh
 gigdo	$x_1$ ist eine Milliarde [$10^9$] von $x_2$ in Dimension/Aspekt $x_3$ (Standard: Einheiten)	gismu	1E9	gig;gi'o;gigd;gigdo
 ginka	$x_{1}$ ist ein (Feld-)Lager von $x_{2}$ an Ort $x_{3}$.	gismu	Lager	gik;gink;ginka	Siehe auch {dinju}, {xabju}, {zdani}.
 girzu	$x_1$ ist eine Gruppe/ein Haufen/ein Schwarm mit gemeinsamer Eigenschaft (ka) $x_2$ aufgrund von Menge $x_3$ verbunden durch Beziehung $x_4$	gismu	Gruppe	gir;gri;girz;girzu
-gismu	$x_1$ ist ein (Lojban-)Stammwort und drückt Beziehung $x_2$ zwischen Argumenten $x_3$ aus, mit Prä-/Suffix(en) $x_4$	gismu	Stammwort	gim;gi'u;gism;gismu
 glare	$x_1$ ist heiß/warm gemäß Standard $x_2$	gismu	heiß	gla;glar;glare
 gleki	$x_{1}$ ist glücklich/fröhlich/froh/freut sich über $x_{2}$ (Ereignis/Zustand).	gismu	glücklich	gek;gei;glek;gleki	Siehe auch {badri}, {cinmo}.
 gletu	$x_1$ kopuliert mit/paart sich mit/verkehrt sexuell mit/fickt $x_2$	gismu	kopulieren	let;gle;glet;gletu
@@ -1223,11 +1222,11 @@ vanju	$x_1$ ist eine Menge an/enthält/besteht aus Wein von Frucht/Trauben $x_2$
 vasru	$x_1$ beinhält/umschließt $x_2$; $x_1$ ist ein Behälter mit $x_2$ drin.	gismu	Behälter;beinhalten;umschließen	vas;vau;vasr;vasru	[Umschließung muss nicht vollständig sein]; Siehe auch {bartu}, {jbini}, {nenri}, {zvati}, {cpana}, {botpi}, {lanka}.
 vasxu	$x_1$ atmet $x_2$ [Gas]	gismu	atmen	vax;va'u;vasx;vasxu
 vecnu	$x_1$ [Verkäufer] verkauft $x_2$ [Waren/Dienstleistungen] an Käufer $x_3$ für Preis $x_4$	gismu	verkaufen	ven;ve'u;vecn;vecnu
+venfu	$x_1$ nimmt Rache an/rächt sich an/zahlt es $x_2$ heim (Person) für Unrecht $x_3$ (nu) mit Rache/Vergeltung $x_4$ (nu)	gismu	sich rächen	vef;venf;venfu
 tu	pro-sumti: jenes; entferntes demonstratives es; bezeichnet eine Sache entfernt von Sprecher und Zuhörer	cmavo	jenes	tuf
 ui	{ui} - Attitudinal: Freude\n{uinai} - Trauer.	cmavo	Freude		Siehe auch {gleki}.	UI1
 va	räumliche Entfernung: nahe bei ...; dort bei ...; eine mittlere/kleine Entfernung von ...	cmavo	dort	vaz
 ve	vierter Tausch; tauscht den ersten und vierten Platz	cmavo	vierter Tausch	vel
-tolxagji	$xa_1$ ist satt; hat genug von Nahrung/Treibstoff $xa_2$.	lujvo	satt		Siehe auch {xagji}, {banzu}, {toltaske}, {cidja}, {citka}.		to'e;xagji
 tolylau	$x_1$ ist leise am Beobachtungspunkt $x_2$ nach Standard $x_3$	lujvo	leise		»still« ist {smaji}, wobei »tolylau« auf sich eine geringe Lautstärke bezieht. Ähnlicherweise ist »vollkommen laut« mit {tolsma}, was noch lauter als {cladu} ist, zu übersetzen. {smaji} < {tolylau} < {cladu} < {tolsma}		to'e;cladu
 tolylazni	$l_1$ (Person) ist fleißig mit der Arbeit/Mühe bezüglich Tätigkeit $l_2$.	lujvo	fleißig		Vgl. {lazni}.		to'e;lazni
 torpalku	$p_1$=$t_1$ sind Shorts [kurze Hose] aus dem Material $p_2$, kurz in der Beinrichtung, kurz nach Standard $t_3$.	lujvo	Shorts		Vgl. {tordu}, {palku}.		tordu;palku
@@ -1248,7 +1247,6 @@ ubutycys zei cacra	$c_1$ ist $c_2$ Stunden lang (Standardmäßig 1 Stunde) nach 
 tranrzalpetre	$x_1$ ist etwas Salpeter.	fu'ivla	Salpeter		Vgl. {trano}.
 tsuktsu'ange	$x_1$ ist in Zugzwang	fu'ivla	Zugzwang
 ui nai	Attitudinal: Fröhlichkeit – Traurigkeit.	cmavo-compound	Traurigkeit		Siehe auch {badri}.	UI*1
-venfu	$x_1$ nimmt Rache an/rächt sich an/zahlt es $x_2$ heim (Person) für Unrecht $x_3$ (nu) mit Rache/Vergeltung $x_4$ (nu)	gismu	sich rächen	vef;venf;venfu
 vensa	$x_1$ ist Frühling [erwärmende Jahreszeit] von Jahr $x_2$ an Ort $x_3$; (Adjektiv:) $x_1$ ist frühlingshaft	gismu	Frühling	ves;vens;vensa
 verba	$x_1$ ist ein Kind/Junges/Jugendlicher [eine junge Person] von Alter $x_2$, unreif gemäß Standard $x_3$	gismu	Kind	ver;ve'a;verb;verba
 vibna	$x_1$ ist die Vagina [Körperteil] von $x_2$	gismu	Vagina	vib;vibn;vibna
@@ -1800,6 +1798,7 @@ tolmanfo	$x_1$ (Objekt/Ereignis) ist uneinheitlich/ungleichförmig/ungleichartig
 tolpu'a	$p_1$ (Ereignis/Zustand) ist unangenehm/unerfreulich für $p_2$ unter Bedingungen $p_3$.	lujvo			Siehe auch: {to'e}, {pluka}.		to'e;pluka
 toltaske	$t_1$ ist undurstig; hat genug von Flüssigkeit/Getränk/Schmiermittel $t_2$.	lujvo	undurstig		Siehe auch: {banzu}, {taske}, {tolxagji}, {pinxe}.		to'e;taske
 toltu'i	$x_1$ [Person] widerspricht Person(en)/Position/Seite $x_2$, dass $x_3$ (du'u) wahr ist in/über Angelegenheit $x_4$.	lujvo	widersprechen		Siehe auch {ienai}.		to'e;tugni
+tolxagji	$xa_1$ ist satt; hat genug von Nahrung/Treibstoff $xa_2$.	lujvo	satt		Siehe auch {xagji}, {banzu}, {toltaske}, {cidja}, {citka}.		to'e;xagji
 vidgapci	$g_1$=$v_1$ ist Giftgas unter Bedingungen $g_3$.	lujvo	Giftgas				vindu;gapci
 vidnyja'o	$j_1$=$v_1$ (Bildschirm) zeigt $j_2$ (Anzeige) an $j_3$.	lujvo	anzeigen		Vgl. {vidni}, {jarco}, {ekra}.		vidni;jarco
 vidnyxra	$p_1$ ist ein Screenshot, der $p_2$ zeigt, angefertigt von $p_3$ (Benutzer), im Medium $p_4$.	lujvo	Bildschirmabbild;Bildschirmabdruck;Bildschirmfoto;Bildschirmschnappschuss;Screenshot		Vgl. {vidni}, {pixra}.		vidni;pixra
@@ -2000,3 +1999,4 @@ judrnporte	$x_1$ ist die Portnummer des Prozesses $x_2$, das auf Computer $x_3$ 
 krilrkartso	$x_1$ ist ein Quarzkristall aus Komposition $x_2$ in Form/Anordnung $x_3$.	fu'ivla	Quarz;Quarzkristall		Vgl. {kunrkartso}, {krili}
 kunrkartso	$x_1$ ist etwas Quarz gefördert/abgebaut an Ort/in Mine $x_2$.	fu'ivla	Quarz		Vgl. {krilrkartso}, {kunra}.
 kunrsapfiro	$x_1$ ist ein/enthält/besteht aus Saphir [Mineral] des Typs $x_2$, gefördert aus $x_3$ [Mine/Bergwerk/usw.].	fu'ivla	Saphir		Vgl. {jemnrsapfiro}, {kunra}
+lilrkerozine	$x_1$ ist etwas Kerosin (Treibstoff) zum Antrieb von $x_2$.	fu'ivla	Kerosin		Vgl. {livla}.

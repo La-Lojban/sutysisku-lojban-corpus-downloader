@@ -9252,8 +9252,8 @@
   </user>
   <definition>$x_{1}$ är landet av folken $x_{2}$ med land/territorium $x_{3}$; (folk/territoriellt förhållande).</definition>
   <definitionid>20261</definitionid>
-  <score>2</score>
-  <notes>Även självständighet, inhemsk (i motsats till utländsk), nation (då det inte refererar till ethnos).</notes>
+  <score>3</score>
+  <notes>Även självständighet, inhemsk (i motsats till utländsk), nation (då det inte refererar till ethos).</notes>
   <glossword word="land" sense="nation (ej etniskt definierad)" />
   <keyword word="inhemsk" place="1" />
   <keyword word="folk" place="2" sense="med land/nation" />
