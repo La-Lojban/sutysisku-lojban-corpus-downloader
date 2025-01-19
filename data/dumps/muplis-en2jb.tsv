@@ -32,14 +32,14 @@ Oh, that the Lord would guide my ways.	.a'o lo nobli cu gidva lo se zukte be mi	
 I hope to get away from Tokyo for a few days.	.a'o mi bartu la .tokios. ze'a su'o so'u djedi	G
 Hopefully, I'll be given an expensive car or at least one that isn't broken.	.a'o mi te dunda su'o karce poi kargu gi'a do'a nai na spofu	G−E
 I hope to live in a mansion someday.	.a'o mi xabju lo barda zdani de'i da	A
-I hope to see you again.	.a'o mi za'u re'u penmi do	G
+I hope to see you again.	.a'o mi ca da za'u re'u penmi do	G
 I'm hopeless!	mi .a'o nai	G
-Everything will be lost now.	.a'o nai ro da ca se cirko	A
-Let this be an example to you.	.a'o ti tarmi tu'a do	?
+Everything will be lost now.	.i ba zi ku no da ca'o zvati .a'o nai	A
+Let this be an example to you.	.a'o ti mupli se va'u do	?
 Oh no!	.a'o nai	?
 It's hopeless.	.a'o nai cai	A
 There's no hope.	.a'o nai cai	A
-That's none of my business.	.a'u cu'i na cuntu mi	G+
+That's none of my business.	la'e do'i .a'u cu'i	G+
 I'm interested in why bears are important to Lojbanists.	.a'u lo cribe cu vajni lo jbopre ma	G
 This science fiction story seems interesting. Will you lend it to me when you have finished reading it?	.a'u lo ti cumymu'efi'a cu simlu lo ka cinri .i .e'a pai ca lo nu do fi ri ba'o tcidu cu jbera ri do fa mi	A
 What happened to you?	ma ba'o se lifri do	G
@@ -62,7 +62,7 @@ I'll take your suitcase to your room.	.ai mi bevri lo do dakli lo do kumfa	B−N
 I'm going to scream.	.ai mi cmoni	G−
 I'm not staying to listen to this! Have a nice day!	.ai nai mi stali gi'e tinju'i ta .i co'o di'ai fe'o	B−
 I'll call first.	mi tavla .au pa mai xe be'i lo se fonxa	
-I've been meaning to read this book.	.ai mi pu'o tcidu lo cukta	?
+I've been meaning to read this book.	mi pu zukte fi lo nu mi tcidu fi ti voi cukta	?
 I'd like to reserve a single room.	.ai mi ternupcpe tu'a lo pa kumfa	?
 I'll try to change.	.ai mi troci lo ka cenba	G+
 I intend to live forever.	.ai mi ze'e ba jmive	G+
@@ -87,7 +87,7 @@ Would that the trees might speak on behalf of all things that have roots, and pu
 I want to run.	.au mi bajra	G+
 I want to study German.	.au mi tadni lo dotybau	G
 I want to speak in Lojban.	.au mi baupli la .lojban.	G−P
-I want to be cautious.	.au mi capyju'i	G
+I want to be cautious.	.au mi jundi	G
 I want to learn.	.au mi cilre	G+
 I want to learn Chinese next year.	.au mi cilre fi lo jugbau ca lo bavlamna'a	G
 I want to kiss you.	.au mi cinba do	G+
@@ -100,15 +100,15 @@ I want to climb this mountain.	.au mi cpare ti voi ve'u cmana	G
 I want to be a teacher.	.au mi se cuntu lo ka ctuca	B−
 I want to dance.	.au mi dansu	G+
 That's what I want to know.	.au mi djuno fi la'e do'i	
-I want to give Mom a plant.	.au mi dunda su'o spati la .mam.	B+P
+I want to give Mom a plant.	.au mi plicru lo mamta lo bi'u spati	B+P
 I want to have sex with her.	.au mi gletu ra	G
-I want to tell her the truth.	.au mi jungau ra lo fatci	G
-I want to go to Seattle.	.au mi klama la .siatl.	G
+I want to tell her the truth.	.au mi skicu lo fasnu ra	G
+I want to go to Seattle.	.au mi klama la .si,atl.	G
 I want to talk to her.	.au mi tavla ra	G
 I want to talk to him.	.au mi tavla ra	G
 I want to watch this film.	.au mi mencti ti voi skina	B+
 I never want to have kids.	.au mi no roi se panzi da	G
-I want to have my own room.	.au su'o kumfa cu se xabju mi po'o	B−
+I want to have my own room.	.au mi ponse pa kumfa	B−
 I'd like to ask you about how to do that.	.au mi do retsku be lo se du'u ma kau tadji	B
 I just wish I knew how to speak French.	.au mi se bangu lo fraso	A?
 I want to speak with you.	.au mi tavla do	G+
@@ -9851,7 +9851,7 @@ I'm not good at this.	mi to'e certu
 I don't want to get involved.	mi to'e djica lo nu se cuntu	
 I dislike coffee.	mi to'e nelci lo ckafi	
 Although I didn't like math, I had to study logarithms.	mi to'e nelci lo cmaci .i se mu'i nai mi tadni .ei lo nundugri	
-Despite that I succeeded.	mi to'e ri'a nai ra snada	
+Despite that, I succeeded.	mi to'e ri'a nai ra snada	
 I do not like to be yelled at!	mi to'e se pluka lo nu ki'asku fi mi	
 I have nothing to do with them.	mi to'e srana ko'a	
 I'm busy.	mi tolcando	
@@ -10306,7 +10306,7 @@ It's popular in China.	misno bu'u lo jungo
 It's up to 5·10⁻³ meters.	mitre be li ni'u ci gei su'e mu	G
 It is rather warm today.	mligla ca lo cabdei	
 What's happening?	mo	
-What's up?	mo	
+What's up?	do ca mo	
 What?	mo	
 What kind of test is that?	mo cipra	
 What happened to you last night?	mo do ca lo prulamcte	
@@ -11923,7 +11923,7 @@ This is delicious. What is it?	ti mutce kukte .i ri mo
 This is a very old book.	ti mutce laldo cukta	
 This is very important.	ti mutce vajni	
 This won't burn.	ti na ba jelca	
-This is not enough.	ti na banzu	
+This is not enough.	be'u	
 This isn't enough.	ti na banzu	
 This isn't a map.	ti na cartu	G
 This isn't blood. It's just red paint.	ti na ciblu .i xunre cinta po'o	
