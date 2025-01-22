@@ -8207,7 +8207,7 @@
   </user>
   <definition>$x_1=g_1=d_1$ ist Wasserdampf [gasförmiges Wasser] unter Bedingungen $x_2=g_3$.</definition>
   <definitionid>60522</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>$x_2$ beinhaltet Temperatur und Druck. Vgl. {djacu}, {gapci}.</notes>
   <glossword word="Wasserdampf" sense="gasförmiges Wasser" />
   <keyword word="Wasserdampf" place="1" sense="gasförmiges Wasser" />
