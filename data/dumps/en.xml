@@ -10622,6 +10622,17 @@
   <score>1</score>
   <notes>Inner structure of the rule: SE? BIhI NAI?. For the description of the syntax see {jarnezi}.</notes>
 </valsi>
+<valsi unofficial="true" word="bi'i'u" type="experimental cmavo">
+  <selmaho>UI1</selmaho>
+  <user>
+    <username>cmacyganit</username>
+    <realname>narjaxyzahi cmene</realname>
+  </user>
+  <definition>attitudinal: beep, boop, robot noises</definition>
+  <definitionid>73786</definitionid>
+  <score>2</score>
+  <notes>See also, sa&apos;ei and mi&apos;au</notes>
+</valsi>
 <valsi word="bijgri" type="lujvo">
   <user>
     <username>tijlan</username>
@@ -10812,6 +10823,15 @@
   <score>2</score>
   <glossword word="binomial" sense="polynomial; algebra" />
 </valsi>
+<valsi word="bilpre" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+  <definition>$x_1$ is a military personel.</definition>
+  <definitionid>73787</definitionid>
+  <score>1</score>
+</valsi>
 <valsi word="bilpulji" type="lujvo">
   <user>
     <username>arj</username>
@@ -10833,6 +10853,15 @@
   <score>2</score>
   <glossword word="military science" />
   <keyword word="military science" place="1" />
+</valsi>
+<valsi word="bilvedeve" type="fu'ivla">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+  <definition>$x_1$ is VDV, Russian Airborne Forces.</definition>
+  <definitionid>73790</definitionid>
+  <score>1</score>
 </valsi>
 <valsi word="bimei" type="cmavo-compound">
   <selmaho>MOI*</selmaho>
@@ -41507,6 +41536,24 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="recursive" />
   <glossword word="splicing" />
 </valsi>
+<valsi word="dzubilni" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+  <definition>$x_1$ is an infantry.</definition>
+  <definitionid>73788</definitionid>
+  <score>1</score>
+</valsi>
+<valsi word="dzubilsoi" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+  <definition>$x_1$ is an infantryman.</definition>
+  <definitionid>73789</definitionid>
+  <score>1</score>
+</valsi>
 <valsi word="dzucpi" type="lujvo">
   <user>
     <username>krtisfranks</username>
@@ -60615,7 +60662,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>attitudinal: everything coming together - everything falling apart</definition>
   <definitionid>73460</definitionid>
-  <score>3</score>
+  <score>4</score>
 </valsi>
 <valsi word="jaica" type="cmavo-compound">
   <selmaho>SE*</selmaho>
@@ -61083,7 +61130,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is a spider of species/variety $x_2$</definition>
   <definitionid>73784</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Synonym of {ankabuta}. See also {cmiju}, {jadji}, {ckopi}.</notes>
   <glossword word="spider" sense="arachnid" />
   <keyword word="spider" place="1" sense="arachnid" />
@@ -138906,6 +138953,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <keyword word="Swedish" place="1" />
   <keyword word="Swedish aspect" place="2" />
 </valsi>
+<valsi word="sfefa'e" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is inside-out/wrong-side out by standard $x_2$</definition>
+  <definitionid>73791</definitionid>
+  <score>1</score>
+  <glossword word="inside out" />
+</valsi>
 <valsi unofficial="true" word="sferies" type="obsolete cmevla">
   <user>
     <username>arj</username>
@@ -182440,10 +182497,10 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
     <username>krtisfranks</username>
     <realname>Curtis W Franks</realname>
   </user>
-  <definition>$x_1$ is conscious, aware, capable of understanding experiences to some degree, and capable of forming new and lasting experiential memories according to standard $x_2$.</definition>
+  <definition>$x_1$ is conscious, aware, capable of understanding experiences to some degree, and capable of forming new and lasting experiential memories, and has some sense of defined and stable self/identity/personality according to standard $x_2$.</definition>
   <definitionid>73667</definitionid>
   <score>1</score>
-  <notes>Parallel to &quot;{jmive}&quot;. The experiential memories are {se} {vedli}. Humans usually begin to become zamveka after a few years, with it being patchy until pre-adolescence. They say that everyone remembers where they were when they found out that some major public event (such as JFK&apos;s assassination or the September 11th attacks) had happened; but, in reality, such claims apply only to people who are zamveka (and thus excludes very young children).</notes>
+  <notes>Parallel to &quot;{jmive}&quot;. The experiential memories are {se} {vedli}. Humans usually begin to become zamveka after a few years, with it being patchy until pre-adolescence. They say that everyone remembers where they were when they found out that some major public event (such as JFK&apos;s assassination or the September 11th attacks) had happened; but, in reality, such claims apply only to people who are zamveka (and thus excludes very young children). The idea of this word is that it captures the notion of a human&apos;s (or other being&apos;s) &apos;effective life&apos; rather than their technical one, at least from the standpoint of retrospective reflection by that person. A person who undergoes substantial neurological or psychological trauma or modification such that they have a new, separate personality afterward and have few if any memories from prior times may say that their own (new identity&apos;s) period of zamveka began after that trauma/modification event. Persistence of sense of self is implied to some degree but the set of times during which zamveka is achieved by a given self/being need not actually be continuous (although it will essentially be experientially so for them, perhaps modulo things such as sleep).</notes>
   <glossword word="the aware and memory-forming-capable portions of life" />
 </valsi>
 <valsi word="zanbebna" type="lujvo">
