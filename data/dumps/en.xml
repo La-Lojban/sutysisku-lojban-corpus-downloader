@@ -78278,7 +78278,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is a funnel/cone-shaped tube for pouring liquids or powders into a container.</definition>
   <definitionid>68842</definitionid>
-  <score>2</score>
+  <score>3</score>
   <glossword word="funnel" />
 </valsi>
 <valsi unofficial="true" word="konve" type="experimental gismu">
@@ -180605,6 +180605,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <keyword word="symbol" place="1" sense="image representing a concept" />
   <keyword word="symbolized" place="2" sense="concept represented by symbol" />
 </valsi>
+<valsi unofficial="true" word="xrata" type="experimental gismu">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ snores/snorts (intransitive verb)</definition>
+  <definitionid>73792</definitionid>
+  <score>1</score>
+  <notes>Not necessarily while asleep. See also {senci}, {kafke}, {cmoni}.</notes>
+  <glossword word="snore" sense="snort" />
+  <glossword word="snort" sense="snore" />
+</valsi>
 <valsi word="xratai" type="lujvo">
   <user>
     <username>totus</username>
@@ -209285,6 +209297,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="logo" sense="image representing a concept" valsi="xrasni" />
 <nlword word="symbol" sense="image representing a concept" valsi="xrasni" place="1" />
 <nlword word="symbolized" sense="concept represented by symbol" valsi="xrasni" place="2" />
+<nlword word="snore" sense="snort" valsi="xrata" />
+<nlword word="snort" sense="snore" valsi="xrata" />
 <nlword word="image" sense="visual representation" valsi="xratai" />
 <nlword word="creole" sense="language" valsi="xrebau" />
 <nlword word="creole" sense="generalized; language/dialect" valsi="xrejvejdikybau" />
