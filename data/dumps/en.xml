@@ -7805,6 +7805,22 @@
   <glossword word="bar manager" />
   <glossword word="café manager" />
 </valsi>
+<valsi word="barjymabla" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ is a dive bar serving $x_2$ (drinks/food) to audience/patrons $x_3$.</definition>
+  <definitionid>73816</definitionid>
+  <score>1</score>
+  <notes>See {barja}, {mabla}</notes>
+  <glossword word="dive bar" sense="A low-quality or rundown bar that serves drinks and food to patrons." />
+  <glossword word="grungy pub" sense="A bar with a rough, unpolished atmosphere, often serving inexpensive drinks." />
+  <glossword word="shabby tavern" sense="An informal and often cheap establishment for drinking." />
+  <keyword word="dive bar ($x_1$)" place="1" sense="The establishment characterized by a rough or low-quality atmosphere." />
+  <keyword word="drinks/food ($x_2$)" place="2" sense="The beverages or meals provided by the bar." />
+  <keyword word="patrons/audience ($x_3$)" place="3" sense="The customers who frequent the dive bar." />
+</valsi>
 <valsi word="barjyse'u" type="lujvo">
   <user>
     <username>arj</username>
@@ -8034,7 +8050,7 @@
   </user>
   <definition>$x_{1}$ replaces/substitutes for/instead of $x_{2}$ in circumstance $x_{3}$; $x_{1}$ is a replacement/substitute.</definition>
   <definitionid>28</definitionid>
-  <score>100001</score>
+  <score>100002</score>
   <notes>See also cmavo list {ba&apos;i}, {binra}.</notes>
   <glossword word="replace" />
 </valsi>
@@ -34757,6 +34773,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="Sadism" />
   <glossword word="Schadenfreude" />
 </valsi>
+<valsi word="datygu'e" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ (country) is a foreign country from the perspective of $x_2$.</definition>
+  <definitionid>73809</definitionid>
+  <score>2</score>
+  <glossword word="foreign country" sense="A nation considered external or different from another given reference point." />
+</valsi>
 <valsi word="datygugvi'e" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -38345,6 +38371,33 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>Usually the flat component is a sheet of pasta, other components are usually bolognese and bechamel sauce. See also {nudle}</notes>
   <glossword word="lasagna" />
 </valsi>
+<valsi word="djalekmi'i" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a refrigerator/fridge</definition>
+  <definitionid>73793</definitionid>
+  <score>2</score>
+  <notes>see also {lekmi&apos;i}, {varlekmi&apos;i}</notes>
+  <glossword word="fridge" sense="device for keeping food cold" />
+  <glossword word="refrigerator" sense="device for keeping food cold" />
+  <keyword word="refrigerator" place="1" sense="device for keeping food cold" />
+</valsi>
+<valsi word="djalekta'e" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a cooler/icebox/ice chest</definition>
+  <definitionid>73795</definitionid>
+  <score>2</score>
+  <notes>see also {djalekmi&apos;i}</notes>
+  <glossword word="cooler" sense="insulated box" />
+  <glossword word="icebox" sense="insulated box" />
+  <glossword word="ice chest" sense="insulated box" />
+  <keyword word="cooler" place="1" sense="insulated box" />
+</valsi>
 <valsi word="djalitki" type="lujvo">
   <user>
     <username>spheniscine</username>
@@ -39028,6 +39081,22 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>1</score>
   <notes>cf. {gleki} and {sidju}</notes>
   <glossword word="happy" sense="to help" />
+</valsi>
+<valsi word="djukemdatygu'e" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ (nation/political entity) provides foreign aid to $x_2$ (recipient country) to achieve or maintain $x_3$ (goal/state).</definition>
+  <definitionid>73810</definitionid>
+  <score>1</score>
+  <notes>See {sidju}, {kem}, {drata}, {gugde}</notes>
+  <glossword word="aid-giving country" sense="A state that provides financial, military, or humanitarian aid to a foreign nation." />
+  <glossword word="foreign aid provider" sense="A nation or political entity that gives assistance to another country." />
+  <glossword word="international assistance" sense="Support given by one country to another for diplomatic, economic, or humanitarian purposes." />
+  <keyword word="donor nation ($x_1$)" place="1" sense="The country or political entity providing foreign aid." />
+  <keyword word="recipient country ($x_2$)" place="2" sense="The nation receiving foreign aid." />
+  <keyword word="purpose/goal ($x_3$)" place="3" sense="The objective the aid is meant to achieve or maintain (e.g., stability, economic growth, diplomacy)." />
 </valsi>
 <valsi word="djukra" type="lujvo">
   <user>
@@ -50529,6 +50598,21 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>2</score>
   <notes>= {to&apos;ai} {fuzme}</notes>
   <glossword word="to hold responsible" />
+</valsi>
+<valsi word="fuzysi'u" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ (set of individuals) are mutually accountable to each other for $x_2$ (action/resulting state) and act as each other&apos;s judge/authority.</definition>
+  <definitionid>73805</definitionid>
+  <score>1</score>
+  <notes>See {fuzme}, {simxu}</notes>
+  <glossword word="accountability partners" sense="People who mutually oversee and judge each other’s adherence to commitments." />
+  <glossword word="mutual accountability" sense="A state where individuals in a group hold each other responsible for actions or outcomes." />
+  <glossword word="reciprocal responsibility" sense="A system where each party is responsible to the other, rather than to an external authority." />
+  <keyword word="accountability group/partners" place="1" sense="The individuals who share reciprocal responsibility and oversight." />
+  <keyword word="action/resulting state" place="2" sense="The event, task, or obligation that both parties are responsible for." />
 </valsi>
 <valsi word="fy" type="cmavo">
   <selmaho>BY2</selmaho>
@@ -64503,6 +64587,15 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>See also: {jesni}, {pezli}.</notes>
   <glossword word="needle" sense="pointy leaf" />
   <keyword word="needle" place="1" sense="pointy leaf" />
+</valsi>
+<valsi word="jestu'u" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+  <definition>$x_1$ is a syringe.</definition>
+  <definitionid>73796</definitionid>
+  <score>3</score>
 </valsi>
 <valsi word="jesycilta" type="lujvo">
   <user>
@@ -82700,14 +82793,19 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 </valsi>
 <valsi word="lajre'e" type="lujvo">
   <user>
-    <username>durka42</username>
-    <realname>Alex Burka</realname>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
   </user>
-  <definition>$x_1$ is a trolley (train that runs on streets) of cars $x_2$ on rails $x_3$ propelled by $x_4$.</definition>
-  <definitionid>63926</definitionid>
-  <score>2</score>
-  <notes>from {klaji} {trene}</notes>
-  <glossword word="trolley" />
+  <definition>$x_1$ is a tram/streetcar/trolley (train that runs on streets) of cars $x_2$ on rails $x_3$ propelled by $x_4$.</definition>
+  <definitionid>73817</definitionid>
+  <score>4</score>
+  <notes>See {klaji}, {trene}.</notes>
+  <glossword word="streetcar" />
+  <glossword word="tram" />
+  <glossword word="trolley" sense="tram" />
+  <keyword word="tram" place="1" />
+  <keyword word="tram car" place="2" />
+  <keyword word="tramway" place="3" />
 </valsi>
 <valsi word="laklamdu" type="lujvo">
   <user>
@@ -84631,7 +84729,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$m_1$ is a fridge/air conditioner for cooling $x_2=l_1$.</definition>
   <definitionid>17255</definitionid>
-  <score>3</score>
+  <score>4</score>
   <notes>Cf. {dujmi&apos;i}, {dujyku&apos;a}, {lenku}, {kelvo}, {dunja}, {varmuvmi&apos;i}.</notes>
   <glossword word="air conditioner" sense="machine for cooling rooms" />
   <glossword word="fridge" />
@@ -97025,7 +97123,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>interrogative gadri: &quot;which&quot;</definition>
   <definitionid>66348</definitionid>
-  <score>5</score>
+  <score>6</score>
   <notes>Roughly equivalent to {ma} {noi}, but doesn&apos;t start a new bridi.</notes>
   <glossword word="which" sense="interrogative article" />
 </valsi>
@@ -103378,6 +103476,20 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="favourite" />
   <glossword word="prefer" />
 </valsi>
+<valsi word="nelsi'u" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ (set of individuals) are mutually fond of/like each other.</definition>
+  <definitionid>73806</definitionid>
+  <score>1</score>
+  <notes>See {nelci}, {simxu}</notes>
+  <glossword word="mutual affection" sense="A state where individuals in a group share reciprocal fondness or liking for each other." />
+  <glossword word="reciprocal liking" sense="A relationship where each member of a group enjoys the company of the others." />
+  <glossword word="shared fondness" sense="A mutual sense of enjoyment or appreciation among individuals." />
+  <keyword word="set of individuals ($x_1$)" place="1" sense="The group of people who mutually like each other." />
+</valsi>
 <valsi word="nelti'i" type="lujvo">
   <user>
     <username>tijlan</username>
@@ -104296,9 +104408,24 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$n_1$ is the temperature of $g_1$ measured on scale $n_2$.</definition>
   <definitionid>17670</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>Cf. {glare}, {lenku}, {kelvo}.</notes>
   <glossword word="temperature" sense="measure of cold or heat" />
+</valsi>
+<valsi word="nilglasto" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ (temperature) is the degree of heat of $x_2$ (entity/substance) measured on scale $x_3$ and remains constant/invariant under conditions $x_4$.</definition>
+  <definitionid>73801</definitionid>
+  <score>1</score>
+  <notes>See {nilgla}, {stodi}</notes>
+  <glossword word="constant temperature" sense="A temperature value that does not change under given conditions." />
+  <glossword word="thermal stability" sense="The property of temperature remaining invariant despite external influences." />
+  <keyword word="temperature" place="1" sense="The degree of heat that remains stable." />
+  <keyword word="object/substance" place="2" sense="The entity whose temperature is being measured." />
+  <keyword word="temperature scale" place="3" sense="The system used for measuring (e.g., Celsius, Fahrenheit, Kelvin)." />
 </valsi>
 <valsi word="nilglatro" type="lujvo">
   <user>
@@ -112162,7 +112289,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <valsi word="pavykamre" type="lujvo">
   <user>
     <username>qazw-5414</username>
-    <realname>qazw5414</realname>
+    <realname>la ninlat.</realname>
   </user>
   <definition>$x_1$ is one [1; $10^0$] of $x_2$ in dimension/aspect $x_3$ [default is units]</definition>
   <definitionid>73374</definitionid>
@@ -115967,6 +116094,23 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>2</score>
   <notes>See also {mupli} or {muplka}, {vajni}, {po&apos;o}, {ji&apos;a}, {pai&apos;o}</notes>
 </valsi>
+<valsi word="plajamna" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ (planner/strategist) creates war plans $x_2$ against $x_3$ (enemy) over territory/matter $x_4$.</definition>
+  <definitionid>73813</definitionid>
+  <score>1</score>
+  <notes>See {platu}, {jamna}</notes>
+  <glossword word="battle plan" sense="A structured set of tactics and strategies for conducting war." />
+  <glossword word="military strategy" sense="A planned approach for engaging in warfare against an opponent." />
+  <glossword word="war planner" sense="An individual or entity responsible for devising military strategies." />
+  <keyword word="planner/strategist ($x_1$)" place="1" sense="The entity responsible for designing the war plans." />
+  <keyword word="war plans ($x_2$)" place="2" sense="The strategic designs for military conflict." />
+  <keyword word="enemy ($x_3$)" place="3" sense="The opposing force or nation being targeted by the plan." />
+  <keyword word="territory/matter ($x_4$)" place="4" sense="The land, resources, or issue over which the war is being fought." />
+</valsi>
 <valsi word="plajva" type="lujvo">
   <user>
     <username>omologos</username>
@@ -116411,6 +116555,22 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definitionid>15347</definitionid>
   <score>1</score>
   <glossword word="can use" />
+</valsi>
+<valsi word="pliki'u" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1=p_1$ uses/employs $x_2=p_2=k_1$ (reason/justification/explanation/pretext/excuse) for/causing/permitting $x_3=p_3=k_2$ (event/state); $p_1=x_1$ justifies $x_3=p_3=k_2$ (event/state) via justification $x_2=p_2=k_1$; $x_2=p_2=k_1$ is the reason/justification/explanation/pretext/excuse for $x_3=p_3=k_2$ (event/state) used by $x_1=p_1$ (justifier).</definition>
+  <definitionid>73797</definitionid>
+  <score>1</score>
+  <notes>$p_3=k_2$ may not necessarily be caused by $p_1=x_1$. $p_1=x_1$ is simply employing a justification for $p_3=k_2$. This word refers to the employment of a justification, rather than necessarily proving or refuting causality. The justification $p_2=k_1$ used by $p_1=x_1$ may not necessarily reflect $p_1$&apos;s true belief; $p_1$ employs it regardless of sincerity.</notes>
+  <glossword word="justification" sense="rationalized reason for an action or event (may be true or untrue)" />
+  <glossword word="justify" sense="to provide a logical justification for an action/event/circumstance" />
+  <glossword word="pretext" sense="a justification used as an excuse, possibly deceptive" />
+  <keyword word="justification user" place="1" sense="the person/entity employing a justification" />
+  <keyword word="justification reason" place="2" sense="the reason/excuse/pretext used in justification" />
+  <keyword word="justified action/event" place="3" sense="the action/event/state being justified (not necessarily performed/caused by the justification user)" />
 </valsi>
 <valsi word="plikra" type="lujvo">
   <user>
@@ -134449,6 +134609,21 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>cf. {minji}, {rinka}, {sudga}, {dasni}.</notes>
   <glossword word="dryer" />
 </valsi>
+<valsi word="seldatygu'e" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ is a reference entity for which $x_2$ (country) is considered foreign.</definition>
+  <definitionid>73808</definitionid>
+  <score>1</score>
+  <notes>See {datygu&apos;e}, {drata}, {gugde}</notes>
+  <glossword word="home country" sense="A country serving as the reference point for determining foreign status." />
+  <glossword word="national perspective" sense="The viewpoint from which a country is considered external." />
+  <glossword word="perspective country" sense="A nation, group, or entity for which another country is considered foreign." />
+  <keyword word="reference entity ($x_1$)" place="1" sense="The nation or perspective from which foreignness is determined." />
+  <keyword word="foreign country ($x_2$)" place="2" sense="The country considered foreign from the viewpoint of x_1." />
+</valsi>
 <valsi word="seldau" type="lujvo">
   <user>
     <username>noralujv</username>
@@ -134538,6 +134713,22 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>1</score>
   <glossword word="wanted" />
   <keyword word="wanted" place="1" />
+</valsi>
+<valsi word="seldjukemdatygu'e" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ (recipient country) receives foreign aid from $x_2$ (donor nation/political entity) to achieve or maintain $x_3$ (goal/state).</definition>
+  <definitionid>73811</definitionid>
+  <score>1</score>
+  <notes>See {djukemdatygu&apos;e}, {sidju}, {drata}, {gugde}</notes>
+  <glossword word="country receiving assistance" sense="A nation receiving support for political, economic, or humanitarian purposes." />
+  <glossword word="foreign aid recipient" sense="A country that receives international assistance from another nation." />
+  <glossword word="recipient nation" sense="A state that benefits from aid provided by a foreign entity." />
+  <keyword word="recipient country ($x_1$)" place="1" sense="The nation that receives aid from a foreign entity." />
+  <keyword word="donor nation ($x_2$)" place="2" sense="The country or political entity providing foreign aid." />
+  <keyword word="purpose/goal ($x_3$)" place="3" sense="The objective the aid is meant to achieve or maintain (e.g., stability, economic growth, diplomacy)." />
 </valsi>
 <valsi word="seldo'o" type="lujvo">
   <user>
@@ -134786,6 +134977,21 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>1</score>
   <notes>Cf. {funca}, {zanselfu&apos;a}.</notes>
   <glossword word="dependant on luck" />
+</valsi>
+<valsi word="selfu'esi'u" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ (action/resulting state) is the agreed-upon commitment for which $x_2$ (set of individuals) hold each other mutually accountable, acting as each other&apos;s judge/authority.</definition>
+  <definitionid>73807</definitionid>
+  <score>1</score>
+  <notes>See {fuzysi&apos;u}, {fuzme}, {simxu}</notes>
+  <glossword word="mutual commitment" sense="An agreed-upon action or goal that individuals in a group hold each other accountable for." />
+  <glossword word="reciprocal accountability" sense="A system where individuals in a group enforce and judge each other&apos;s adherence to a commitment." />
+  <glossword word="shared responsibility" sense="A duty or task collectively upheld by all members of a group." />
+  <keyword word="agreed action/resulting state ($x_1$)" place="1" sense="The commitment or goal that members of the group hold each other accountable for." />
+  <keyword word="set of individuals ($x_2$)" place="2" sense="The people who enforce mutual accountability for the shared commitment." />
 </valsi>
 <valsi word="selgau" type="lujvo">
   <user>
@@ -135612,6 +135818,21 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <keyword word="proposition" place="1" sense="content of an assertion" />
   <keyword word="logic" place="2" sense="system of thought" />
 </valsi>
+<valsi word="selnilglasto" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ (entity/substance) has a constant/invariant temperature $x_2$ measured on scale $x_3$ under conditions $x_4$.</definition>
+  <definitionid>73802</definitionid>
+  <score>1</score>
+  <notes>See {nilglasto}</notes>
+  <glossword word="constant temperature" sense="The property of remaining at a fixed temperature regardless of conditions." />
+  <glossword word="thermostable" sense="A substance or object that maintains a stable temperature." />
+  <keyword word="object/substance" place="1" sense="The entity that maintains a stable temperature." />
+  <keyword word="temperature" place="2" sense="The thermal state of the entity, which remains constant." />
+  <keyword word="temperature scale" place="3" sense="The measurement system used (e.g., Celsius, Fahrenheit, Kelvin)." />
+</valsi>
 <valsi word="selnordji" type="lujvo">
   <user>
     <username>Xabju</username>
@@ -135790,6 +136011,23 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>Cf. {platu}.</notes>
   <glossword word="plan" sense="program for achieving objective" />
   <glossword word="program" sense="plan for achieving objective" />
+</valsi>
+<valsi word="selplajamna" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ are war plans created by $x_2$ (planner/strategist) against $x_3$ (enemy) over territory/matter $x_4$.</definition>
+  <definitionid>73814</definitionid>
+  <score>1</score>
+  <notes>See {plajamna}, {platu}, {jamna}</notes>
+  <glossword word="battle strategy" sense="A designed approach for fighting an opponent." />
+  <glossword word="military operation strategy" sense="A structured military planning process for conflict engagement." />
+  <glossword word="war plan" sense="A strategic document or design for engaging in warfare." />
+  <keyword word="war plans ($x_1$)" place="1" sense="The strategic designs for military conflict." />
+  <keyword word="planner/strategist ($x_2$)" place="2" sense="The entity responsible for designing the war plans." />
+  <keyword word="enemy ($x_3$)" place="3" sense="The opposing force or nation being targeted by the plan." />
+  <keyword word="territory/matter ($x_4$)" place="4" sense="The land, resources, or issue over which the war is being fought." />
 </valsi>
 <valsi word="selpli" type="lujvo">
   <user>
@@ -136859,6 +137097,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definitionid>27627</definitionid>
   <score>2</score>
   <glossword word="selterselxeliumadbro" />
+</valsi>
+<valsi word="seltictra" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ is a falsehood asserted by $x_2$ towards $x_3$ in order to hide $x_2$&apos;s knowledge from $x_4$.</definition>
+  <definitionid>73799</definitionid>
+  <score>1</score>
+  <notes>See {tictra}</notes>
+  <glossword word="known falsehood" sense="$x_3$ may be aware of the falsehood, however the intended target of deception is $x_4$" />
 </valsi>
 <valsi word="selti'i" type="lujvo">
   <user>
@@ -158997,6 +159246,22 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definitionid>16586</definitionid>
   <score>1</score>
 </valsi>
+<valsi word="terdjukemdatygu'e" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ (goal/state) is the purpose for which $x_2$ (donor nation/political entity) provides foreign aid to $x_3$ (recipient country).</definition>
+  <definitionid>73812</definitionid>
+  <score>1</score>
+  <notes>See {djukemdatygu&apos;e}, {sidju}, {drata}, {gugde}</notes>
+  <glossword word="foreign aid objective" sense="The goal or purpose that motivates a country to provide international assistance." />
+  <glossword word="international aid purpose" sense="The desired outcome of providing aid to a foreign nation." />
+  <glossword word="reason for foreign assistance" sense="The political, economic, or humanitarian motivation behind aid distribution." />
+  <keyword word="goal/purpose ($x_1$)" place="1" sense="The objective that aid is meant to achieve or maintain." />
+  <keyword word="donor nation ($x_2$)" place="2" sense="The country or political entity providing foreign aid." />
+  <keyword word="recipient country ($x_3$)" place="3" sense="The nation that receives aid." />
+</valsi>
 <valsi word="terdlun" type="cmevla">
   <user>
     <username>krtisfranks</username>
@@ -159591,6 +159856,21 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="year standard" />
   <keyword word="year standard" place="1" />
 </valsi>
+<valsi word="ternilglasto" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ (temperature scale) is the measurement system in which $x_2$ (temperature) of $x_3$ (entity/substance) remains constant/invariant under conditions $x_4$.</definition>
+  <definitionid>73803</definitionid>
+  <score>1</score>
+  <notes>See {nilglasto}, {stodi}</notes>
+  <glossword word="stable measurement system" sense="A temperature scale in which an entity’s thermal state remains constant." />
+  <glossword word="temperature scale" sense="A system of measurement for temperature (e.g., Celsius, Fahrenheit, Kelvin)." />
+  <keyword word="measurement system" place="1" sense="The temperature scale being used for reference." />
+  <keyword word="temperature" place="2" sense="The degree of heat that remains stable within the given scale." />
+  <keyword word="object/substance" place="3" sense="The entity whose temperature is measured in this scale." />
+</valsi>
 <valsi word="ternoi" type="lujvo">
   <user>
     <username>tijlan</username>
@@ -159755,6 +160035,23 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <keyword word="planned state/process" place="1" />
   <keyword word="plan" place="2" />
   <keyword word="planner" place="3" sense="agent" />
+</valsi>
+<valsi word="terplajamna" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ (enemy) is the target of war plans $x_2$ created by $x_3$ (planner/strategist) over territory/matter $x_4$.</definition>
+  <definitionid>73815</definitionid>
+  <score>1</score>
+  <notes>See {plajamna}, {platu}, {jamna}</notes>
+  <glossword word="enemy nation" sense="The opposing force against whom war plans are made." />
+  <glossword word="military opponent" sense="The entity against whom a strategic war plan is developed." />
+  <glossword word="war adversary" sense="The target of a planned military conflict." />
+  <keyword word="enemy ($x_1$)" place="1" sense="The opposing force or nation being targeted by the plan." />
+  <keyword word="war plans ($x_2$)" place="2" sense="The strategic designs for military conflict." />
+  <keyword word="planner/strategist ($x_3$)" place="3" sense="The entity responsible for designing the war plans." />
+  <keyword word="territory/matter ($x_4$)" place="4" sense="The land, resources, or issue over which the war is being fought." />
 </valsi>
 <valsi word="terpli" type="lujvo">
   <user>
@@ -160448,6 +160745,21 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="mask" sense="disguise" />
   <keyword word="disguise" place="1" sense="clothing" />
   <keyword word="disguised" place="2" />
+</valsi>
+<valsi word="tictra" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ asserts falsehood $x_2$ towards $x_3$ in order to hide $x_1$&apos;s knowledge from $x_4$.</definition>
+  <definitionid>73798</definitionid>
+  <score>1</score>
+  <notes>$x_1$ asserts falsehood $x_2$ towards $x_3$ as a means to mislead $x_4$ into believing that $x_1$ does not know $x_2$.</notes>
+  <glossword word="falsehood concealment" sense="Hiding one&apos;s knowledge of the truth by means of a false statement" />
+  <keyword word="deceiver" place="1" sense="one who asserts a falsehood to hide their knowledge" />
+  <keyword word="falsehood" place="2" sense="the untrue statement being asserted" />
+  <keyword word="intermediary target" place="3" sense="the recipient of the falsehood, used as a means to mislead another party" />
+  <keyword word="target of deception" place="4" sense="the observer whom x₁ intends to deceive into believing x₁ does not know x₂" />
 </valsi>
 <valsi word="ticyja'o" type="lujvo">
   <user>
@@ -170076,6 +170388,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>see also {varkiclafti}</notes>
   <glossword word="hovercraft" />
 </valsi>
+<valsi word="varlekmi'i" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is an air conditioner</definition>
+  <definitionid>73794</definitionid>
+  <score>2</score>
+  <notes>see also {lekmi&apos;i}, {djalekmi&apos;i}</notes>
+  <glossword word="air conditioner" sense="air cooling device" />
+  <keyword word="air conditioner" place="1" sense="air cooling device" />
+</valsi>
 <valsi word="varmebri" type="lujvo">
   <user>
     <username>phma</username>
@@ -170107,7 +170431,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$mi_1$ is a fan for moving air to destination $mu_2$ from origin $mu_3$ over path/route $mu_4$.</definition>
   <definitionid>17753</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>Cf. {lekmi&apos;i}, {pambe}.</notes>
   <glossword word="fan" sense="air mover" />
 </valsi>
@@ -171219,6 +171543,31 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definition>$x_1$ is the sender mail address from which $x_2$ is sent to recipient address $x_3$ by sender $x_4$ over carrier/network/system $x_5$</definition>
   <definitionid>71259</definitionid>
   <score>1</score>
+</valsi>
+<valsi word="velnilglasto" type="lujvo">
+  <user>
+    <username>faksmu</username>
+    <realname>Christopher</realname>
+  </user>
+  <definition>$x_1$ (conditions/stimuli) are the factors under which $x_2$ (temperature) of $x_3$ (entity/substance) remains constant/invariant, measured on scale $x_4$.</definition>
+  <definitionid>73804</definitionid>
+  <score>1</score>
+  <notes>See {nilglasto}, {stodi}</notes>
+  <glossword word="temperature regulation factors" sense="The conditions that maintain stable temperature in an entity." />
+  <glossword word="thermal stability conditions" sense="The environmental or experimental factors affecting temperature constancy." />
+  <keyword word="conditions/stimuli" place="1" sense="The external factors affecting the constancy of temperature." />
+  <keyword word="temperature" place="2" sense="The degree of heat that remains stable under given conditions." />
+  <keyword word="object/substance" place="3" sense="The entity whose temperature remains constant." />
+</valsi>
+<valsi word="velri'e" type="lujvo">
+  <user>
+    <username>noralujv</username>
+    <realname>NORALUJV data</realname>
+  </user>
+  <definition>$x_{1}$ is a mouth [of a river] with landmass with river $x_{2}$ with watershed $x_{3}$ with river $x_{4}$.</definition>
+  <definitionid>12938</definitionid>
+  <score>1</score>
+  <glossword word="mouth [of a river]" />
 </valsi>
 <valsi word="velri'ekempintu'a" type="lujvo">
   <user>
@@ -189363,6 +189712,12 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="bar" sense="place" valsi="barja" />
 <nlword word="bar manager" valsi="barjyja&apos;a" />
 <nlword word="café manager" valsi="barjyja&apos;a" />
+<nlword word="dive bar" sense="A low-quality or rundown bar that serves drinks and food to patrons." valsi="barjymabla" />
+<nlword word="dive bar ($x_1$)" sense="The establishment characterized by a rough or low-quality atmosphere." valsi="barjymabla" place="1" />
+<nlword word="drinks/food ($x_2$)" sense="The beverages or meals provided by the bar." valsi="barjymabla" place="2" />
+<nlword word="grungy pub" sense="A bar with a rough, unpolished atmosphere, often serving inexpensive drinks." valsi="barjymabla" />
+<nlword word="patrons/audience ($x_3$)" sense="The customers who frequent the dive bar." valsi="barjymabla" place="3" />
+<nlword word="shabby tavern" sense="An informal and often cheap establishment for drinking." valsi="barjymabla" />
 <nlword word="barkeep" valsi="barjyse&apos;u" />
 <nlword word="barkeeper" valsi="barjyse&apos;u" />
 <nlword word="barman" valsi="barjyse&apos;u" />
@@ -192497,6 +192852,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="schadenfreude" valsi="datxlagei" />
 <nlword word="Sadism" valsi="datxlakempukfri" />
 <nlword word="Schadenfreude" valsi="datxlakempukfri" />
+<nlword word="foreign country" sense="A nation considered external or different from another given reference point." valsi="datygu&apos;e" />
 <nlword word="foreign visitor" valsi="datygugvi&apos;e" />
 <nlword word="tourist" valsi="datygugvi&apos;e" />
 <nlword word="someone who is transgender" sense="not the same gender as assigned" valsi="datytracinse" place="1" />
@@ -192954,6 +193310,11 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="nutrient" valsi="djaka&apos;u" />
 <nlword word="kebab" valsi="djakebaba" />
 <nlword word="lasagna" valsi="djalazani" />
+<nlword word="fridge" sense="device for keeping food cold" valsi="djalekmi&apos;i" />
+<nlword word="refrigerator" sense="device for keeping food cold" valsi="djalekmi&apos;i" place="1" />
+<nlword word="cooler" sense="insulated box" valsi="djalekta&apos;e" place="1" />
+<nlword word="icebox" sense="insulated box" valsi="djalekta&apos;e" />
+<nlword word="ice chest" sense="insulated box" valsi="djalekta&apos;e" />
 <nlword word="drink" sense="beverage" valsi="djalitki" />
 <nlword word="John Quijada" sense="American conlanger" valsi="djankixadas" />
 <nlword word="cutlet" sense="cuisine/food: thin slice, fillet" valsi="djapa&apos;o" />
@@ -193017,6 +193378,11 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="yoghurt" valsi="djoguro" />
 <nlword word="yogurt" valsi="djoguro" place="1" />
 <nlword word="happy" sense="to help" valsi="djugei" />
+<nlword word="aid-giving country" sense="A state that provides financial, military, or humanitarian aid to a foreign nation." valsi="djukemdatygu&apos;e" />
+<nlword word="donor nation ($x_1$)" sense="The country or political entity providing foreign aid." valsi="djukemdatygu&apos;e" place="1" />
+<nlword word="foreign aid provider" sense="A nation or political entity that gives assistance to another country." valsi="djukemdatygu&apos;e" />
+<nlword word="international assistance" sense="Support given by one country to another for diplomatic, economic, or humanitarian purposes." valsi="djukemdatygu&apos;e" />
+<nlword word="recipient country ($x_2$)" sense="The nation receiving foreign aid." valsi="djukemdatygu&apos;e" place="2" />
 <nlword word="resource" valsi="djukra" />
 <nlword word="China" valsi="djunguos" />
 <nlword word="know" valsi="djuno" />
@@ -194260,6 +194626,11 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="Board of Directors" valsi="fuzraikamni" />
 <nlword word="board of trustees" valsi="fuzraikamni" />
 <nlword word="to hold responsible" valsi="fuzypai" />
+<nlword word="accountability group/partners" sense="The individuals who share reciprocal responsibility and oversight." valsi="fuzysi&apos;u" place="1" />
+<nlword word="accountability partners" sense="People who mutually oversee and judge each other’s adherence to commitments." valsi="fuzysi&apos;u" />
+<nlword word="action/resulting state" sense="The event, task, or obligation that both parties are responsible for." valsi="fuzysi&apos;u" place="2" />
+<nlword word="mutual accountability" sense="A state where individuals in a group hold each other responsible for actions or outcomes." valsi="fuzysi&apos;u" />
+<nlword word="reciprocal responsibility" sense="A system where each party is responsible to the other, rather than to an external authority." valsi="fuzysi&apos;u" />
 <nlword word="f" valsi="fy" />
 <nlword word="voiceless labiodental fricative" sense="phone" valsi="fy zei sance" place="1" />
 <nlword word="voiceless labiodental fricative sound" valsi="fy zei sance" />
@@ -197744,7 +198115,10 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="vernacular dance" valsi="lajdansu" />
 <nlword word="odonym" sense="street name" valsi="lajme&apos;e" />
 <nlword word="street name" valsi="lajme&apos;e" />
-<nlword word="trolley" valsi="lajre&apos;e" />
+<nlword word="streetcar" valsi="lajre&apos;e" />
+<nlword word="tram car" valsi="lajre&apos;e" place="2" />
+<nlword word="tramway" valsi="lajre&apos;e" place="3" />
+<nlword word="trolley" sense="tram" valsi="lajre&apos;e" />
 <nlword word="candle" sense="wax-based light source" valsi="laklamdu" place="1" />
 <nlword word="likely" sense="probable" valsi="lakne" />
 <nlword word="probable" valsi="lakne" />
@@ -200350,6 +200724,10 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="best" valsi="nelrai" />
 <nlword word="favourite" valsi="nelrai" />
 <nlword word="prefer" valsi="nelrai" />
+<nlword word="mutual affection" sense="A state where individuals in a group share reciprocal fondness or liking for each other." valsi="nelsi&apos;u" />
+<nlword word="reciprocal liking" sense="A relationship where each member of a group enjoys the company of the others." valsi="nelsi&apos;u" />
+<nlword word="set of individuals ($x_1$)" sense="The group of people who mutually like each other." valsi="nelsi&apos;u" place="1" />
+<nlword word="shared fondness" sense="A mutual sense of enjoyment or appreciation among individuals." valsi="nelsi&apos;u" />
 <nlword word="recommend" sense="bestow commendation on" valsi="nelti&apos;i" />
 <nlword word="give as a reward" valsi="nemdu&apos;a" />
 <nlword word="Nematoda" sense="taxonomic phylum" valsi="nemtoda" />
@@ -200470,6 +200848,11 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="vote score" sense="upvote/downvote" valsi="nildzau" />
 <nlword word="altitude" valsi="nilga&apos;u" />
 <nlword word="temperature" sense="measure of cold or heat" valsi="nilgla" />
+<nlword word="constant temperature" sense="A temperature value that does not change under given conditions." valsi="nilglasto" />
+<nlword word="object/substance" sense="The entity whose temperature is being measured." valsi="nilglasto" place="2" />
+<nlword word="temperature" sense="The degree of heat that remains stable." valsi="nilglasto" place="1" />
+<nlword word="temperature scale" sense="The system used for measuring (e.g., Celsius, Fahrenheit, Kelvin)." valsi="nilglasto" place="3" />
+<nlword word="thermal stability" sense="The property of temperature remaining invariant despite external influences." valsi="nilglasto" />
 <nlword word="Air Conditioner" sense="Temperature Controller" valsi="nilglatro" />
 <nlword word="Heating" sense="Temperature Controller" valsi="nilglatro" />
 <nlword word="transparency" sense="for light, quantity" valsi="nilguskli" place="1" />
@@ -201779,6 +202162,10 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="implement" sense="a plan" valsi="placazgau" />
 <nlword word="cause of plague" sense="pestilence" valsi="plagueni" place="2" />
 <nlword word="plague" valsi="plagueni" place="1" />
+<nlword word="battle plan" sense="A structured set of tactics and strategies for conducting war." valsi="plajamna" />
+<nlword word="military strategy" sense="A planned approach for engaging in warfare against an opponent." valsi="plajamna" />
+<nlword word="planner/strategist ($x_1$)" sense="The entity responsible for designing the war plans." valsi="plajamna" place="1" />
+<nlword word="war planner" sense="An individual or entity responsible for devising military strategies." valsi="plajamna" />
 <nlword word="policy" valsi="plajva" place="1" />
 <nlword word="policy maker" valsi="plajva" place="2" />
 <nlword word="political" valsi="plajva" />
@@ -201841,6 +202228,12 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="choose" sense="for use" valsi="plicu&apos;a" />
 <nlword word="select" sense="for use" valsi="plicu&apos;a" />
 <nlword word="license" sense="copyright" valsi="plijaspu" />
+<nlword word="justification" sense="rationalized reason for an action or event (may be true or untrue)" valsi="pliki&apos;u" />
+<nlword word="justification reason" sense="the reason/excuse/pretext used in justification" valsi="pliki&apos;u" place="2" />
+<nlword word="justification user" sense="the person/entity employing a justification" valsi="pliki&apos;u" place="1" />
+<nlword word="justified action/event" sense="the action/event/state being justified (not necessarily performed/caused by the justification user)" valsi="pliki&apos;u" place="3" />
+<nlword word="justify" sense="to provide a logical justification for an action/event/circumstance" valsi="pliki&apos;u" />
+<nlword word="pretext" sense="a justification used as an excuse, possibly deceptive" valsi="pliki&apos;u" />
 <nlword word="planet" valsi="plini" />
 <nlword word="mantle" sense="planetary structure" valsi="plinybinsenta" />
 <nlword word="core" sense="planet" valsi="plinymidju" />
@@ -203842,6 +204235,11 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="filing system" valsi="seldacru" />
 <nlword word="accompaniment [for dance]" valsi="seldansu" />
 <nlword word="dance music" valsi="seldansu" />
+<nlword word="foreign country ($x_2$)" sense="The country considered foreign from the viewpoint of x_1." valsi="seldatygu&apos;e" place="2" />
+<nlword word="home country" sense="A country serving as the reference point for determining foreign status." valsi="seldatygu&apos;e" />
+<nlword word="national perspective" sense="The viewpoint from which a country is considered external." valsi="seldatygu&apos;e" />
+<nlword word="perspective country" sense="A nation, group, or entity for which another country is considered foreign." valsi="seldatygu&apos;e" />
+<nlword word="reference entity ($x_1$)" sense="The nation or perspective from which foreignness is determined." valsi="seldatygu&apos;e" place="1" />
 <nlword word="argument" sense="position or stand" valsi="seldau" />
 <nlword word="position " sense="taken in arguement" valsi="seldau" />
 <nlword word="position " sense="taken in argument" valsi="seldau" />
@@ -203855,6 +204253,11 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="charged" sense="electricity" valsi="seldikca" />
 <nlword word="affection" sense="emotional attachment" valsi="seldirba" />
 <nlword word="wanted" valsi="seldji" place="1" />
+<nlword word="country receiving assistance" sense="A nation receiving support for political, economic, or humanitarian purposes." valsi="seldjukemdatygu&apos;e" />
+<nlword word="foreign aid recipient" sense="A country that receives international assistance from another nation." valsi="seldjukemdatygu&apos;e" />
+<nlword word="purpose/goal ($x_3$)" sense="The objective the aid is meant to achieve or maintain (e.g., stability, economic growth, diplomacy)." valsi="seldjukemdatygu&apos;e" place="3" />
+<nlword word="recipient country ($x_1$)" sense="The nation that receives aid from a foreign entity." valsi="seldjukemdatygu&apos;e" place="1" />
+<nlword word="recipient nation" sense="A state that benefits from aid provided by a foreign entity." valsi="seldjukemdatygu&apos;e" />
 <nlword word="German aspect" valsi="seldo&apos;o" />
 <nlword word="deject" valsi="seldri" />
 <nlword word="dejected" valsi="seldri" />
@@ -203891,6 +204294,11 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="happening" valsi="selfri" />
 <nlword word="serve" valsi="selfu" />
 <nlword word="dependant on luck" valsi="selfu&apos;a" />
+<nlword word="agreed action/resulting state ($x_1$)" sense="The commitment or goal that members of the group hold each other accountable for." valsi="selfu&apos;esi&apos;u" place="1" />
+<nlword word="mutual commitment" sense="An agreed-upon action or goal that individuals in a group hold each other accountable for." valsi="selfu&apos;esi&apos;u" />
+<nlword word="reciprocal accountability" sense="A system where individuals in a group enforce and judge each other&apos;s adherence to a commitment." valsi="selfu&apos;esi&apos;u" />
+<nlword word="set of individuals ($x_2$)" sense="The people who enforce mutual accountability for the shared commitment." valsi="selfu&apos;esi&apos;u" place="2" />
+<nlword word="shared responsibility" sense="A duty or task collectively upheld by all members of a group." valsi="selfu&apos;esi&apos;u" />
 <nlword word="function" sense="what something does" valsi="selgau" />
 <nlword word="follow" sense="act in accordance to" valsi="selgi&apos;a" />
 <nlword word="coke" sense="solid residue from roasting coal in a coke oven" valsi="selglagauko&apos;e" />
@@ -203990,6 +204398,11 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="follow" sense="be a logical consequence of" valsi="selni&apos;i" />
 <nlword word="logic" sense="system of thought" valsi="selni&apos;i" place="2" />
 <nlword word="proposition" sense="content of an assertion" valsi="selni&apos;i" place="1" />
+<nlword word="constant temperature" sense="The property of remaining at a fixed temperature regardless of conditions." valsi="selnilglasto" />
+<nlword word="object/substance" sense="The entity that maintains a stable temperature." valsi="selnilglasto" place="1" />
+<nlword word="temperature" sense="The thermal state of the entity, which remains constant." valsi="selnilglasto" place="2" />
+<nlword word="temperature scale" sense="The measurement system used (e.g., Celsius, Fahrenheit, Kelvin)." valsi="selnilglasto" place="3" />
+<nlword word="thermostable" sense="A substance or object that maintains a stable temperature." valsi="selnilglasto" />
 <nlword word="incidental" sense="neither desired nor opposed" valsi="selnordji" />
 <nlword word="make no difference to" valsi="selnordji" />
 <nlword word="not a big deal" sense="not being desired or opposed" valsi="selnordji" />
@@ -204016,6 +204429,12 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="thing inside of an outer layer" valsi="selpi&apos;a" />
 <nlword word="plan" sense="program for achieving objective" valsi="selpla" />
 <nlword word="program" sense="plan for achieving objective" valsi="selpla" />
+<nlword word="battle strategy" sense="A designed approach for fighting an opponent." valsi="selplajamna" />
+<nlword word="enemy ($x_3$)" sense="The opposing force or nation being targeted by the plan." valsi="selplajamna" place="3" />
+<nlword word="military operation strategy" sense="A structured military planning process for conflict engagement." valsi="selplajamna" />
+<nlword word="planner/strategist ($x_2$)" sense="The entity responsible for designing the war plans." valsi="selplajamna" place="2" />
+<nlword word="war plan" sense="A strategic document or design for engaging in warfare." valsi="selplajamna" />
+<nlword word="war plans ($x_1$)" sense="The strategic designs for military conflict." valsi="selplajamna" place="1" />
 <nlword word="used" sense="in use" valsi="selpli" />
 <nlword word="ready for use" valsi="selplibre" />
 <nlword word="prepare" sense="prepare for use" valsi="selplibregau" />
@@ -204139,6 +204558,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="send indirectly to" valsi="selterselbenjy&apos;utka" />
 <nlword word="pay it forward" valsi="selterselcple&apos;ijdy&apos;utka" />
 <nlword word="selterselxeliumadbro" valsi="selterselxeliumadbro" />
+<nlword word="known falsehood" sense="$x_3$ may be aware of the falsehood, however the intended target of deception is $x_4$" valsi="seltictra" />
 <nlword word="bill" sense="draft of a law" valsi="selti&apos;ifla" />
 <nlword word="inaudible" valsi="seltinynalka&apos;e" />
 <nlword word="television program" valsi="seltivni" />
@@ -206750,6 +207170,12 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="pedalogy" valsi="terderske" />
 <nlword word="earth" valsi="terdi" />
 <nlword word="terrestrial" valsi="terdi" place="1" />
+<nlword word="donor nation ($x_2$)" sense="The country or political entity providing foreign aid." valsi="terdjukemdatygu&apos;e" place="2" />
+<nlword word="foreign aid objective" sense="The goal or purpose that motivates a country to provide international assistance." valsi="terdjukemdatygu&apos;e" />
+<nlword word="goal/purpose ($x_1$)" sense="The objective that aid is meant to achieve or maintain." valsi="terdjukemdatygu&apos;e" place="1" />
+<nlword word="international aid purpose" sense="The desired outcome of providing aid to a foreign nation." valsi="terdjukemdatygu&apos;e" />
+<nlword word="reason for foreign assistance" sense="The political, economic, or humanitarian motivation behind aid distribution." valsi="terdjukemdatygu&apos;e" />
+<nlword word="recipient country ($x_3$)" sense="The nation that receives aid." valsi="terdjukemdatygu&apos;e" place="3" />
 <nlword word="Earth-Luna system" valsi="terdlun" />
 <nlword word="Earth-Moon system" valsi="terdlun" />
 <nlword word="discriminate" sense="distinguish" valsi="terdrata" />
@@ -206830,6 +207256,11 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="motivate" sense="someone to do something" valsi="termu&apos;igau" />
 <nlword word="persuade" sense="someone to do something" valsi="termu&apos;igau" />
 <nlword word="year standard" valsi="terna&apos;a" place="1" />
+<nlword word="measurement system" sense="The temperature scale being used for reference." valsi="ternilglasto" place="1" />
+<nlword word="object/substance" sense="The entity whose temperature is measured in this scale." valsi="ternilglasto" place="3" />
+<nlword word="stable measurement system" sense="A temperature scale in which an entity’s thermal state remains constant." valsi="ternilglasto" />
+<nlword word="temperature" sense="The degree of heat that remains stable within the given scale." valsi="ternilglasto" place="2" />
+<nlword word="temperature scale" sense="A system of measurement for temperature (e.g., Celsius, Fahrenheit, Kelvin)." valsi="ternilglasto" />
 <nlword word="notify" sense="give notice" valsi="ternoi" />
 <nlword word="baby daddy" valsi="ternrorci" />
 <nlword word="baby momma" valsi="ternrorci" />
@@ -206858,6 +207289,13 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="planned out" valsi="terpla" />
 <nlword word="planned state/process" valsi="terpla" place="1" />
 <nlword word="planner" sense="agent" valsi="terpla" place="3" />
+<nlword word="enemy ($x_1$)" sense="The opposing force or nation being targeted by the plan." valsi="terplajamna" place="1" />
+<nlword word="enemy nation" sense="The opposing force against whom war plans are made." valsi="terplajamna" />
+<nlword word="military opponent" sense="The entity against whom a strategic war plan is developed." valsi="terplajamna" />
+<nlword word="planner/strategist ($x_3$)" sense="The entity responsible for designing the war plans." valsi="terplajamna" place="3" />
+<nlword word="territory/matter ($x_4$)" sense="The land, resources, or issue over which the war is being fought." valsi="terplajamna" place="4" />
+<nlword word="war adversary" sense="The target of a planned military conflict." valsi="terplajamna" />
+<nlword word="war plans ($x_2$)" sense="The strategic designs for military conflict." valsi="terplajamna" place="2" />
 <nlword word="purpose" sense="being used" valsi="terpli" />
 <nlword word="member" sense="of a list" valsi="terporcmi" />
 <nlword word="output of production" valsi="terpra" place="3" />
@@ -206940,6 +207378,11 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="disguised" valsi="ticta&apos;u" place="2" />
 <nlword word="guise" sense="clothing" valsi="ticta&apos;u" />
 <nlword word="mask" sense="disguise" valsi="ticta&apos;u" />
+<nlword word="deceiver" sense="one who asserts a falsehood to hide their knowledge" valsi="tictra" place="1" />
+<nlword word="falsehood" sense="the untrue statement being asserted" valsi="tictra" place="2" />
+<nlword word="falsehood concealment" sense="Hiding one&apos;s knowledge of the truth by means of a false statement" valsi="tictra" />
+<nlword word="intermediary target" sense="the recipient of the falsehood, used as a means to mislead another party" valsi="tictra" place="3" />
+<nlword word="target of deception" sense="the observer whom x₁ intends to deceive into believing x₁ does not know x₂" valsi="tictra" place="4" />
 <nlword word="stage" sense="demonstrate in a deceptive manner" valsi="ticyja&apos;o" />
 <nlword word="lie" sense="intentionally tell an untruth" valsi="ticysku" />
 <nlword word="fraudster" valsi="ticyve&apos;u" />
@@ -208103,6 +208546,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="humidity location" valsi="varjau" place="2" />
 <nlword word="humidifier" sense="device for maintaining humidity" valsi="varjaumi&apos;i" place="1" />
 <nlword word="hovercraft" valsi="varkiclaflo&apos;i" />
+<nlword word="air conditioner" sense="air cooling device" valsi="varlekmi&apos;i" place="1" />
 <nlword word="air mass" sense="weather" valsi="varmebri" place="2" />
 <nlword word="front" sense="weather" valsi="varmebri" place="1" />
 <nlword word="fan" sense="air mover" valsi="varmuvmi&apos;i" />
@@ -208222,6 +208666,11 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="measuring scale" valsi="velmresri" place="3" />
 <nlword word="measuring tape" valsi="velmresri" place="1" />
 <nlword word="tape measure" valsi="velmresri" />
+<nlword word="conditions/stimuli" sense="The external factors affecting the constancy of temperature." valsi="velnilglasto" place="1" />
+<nlword word="object/substance" sense="The entity whose temperature remains constant." valsi="velnilglasto" place="3" />
+<nlword word="temperature" sense="The degree of heat that remains stable under given conditions." valsi="velnilglasto" place="2" />
+<nlword word="temperature regulation factors" sense="The conditions that maintain stable temperature in an entity." valsi="velnilglasto" />
+<nlword word="thermal stability conditions" sense="The environmental or experimental factors affecting temperature constancy." valsi="velnilglasto" />
 <nlword word="alluvial plain" sense="terminal river delta" valsi="velri&apos;ekempintu&apos;a" />
 <nlword word="delta" sense="of a river" valsi="velri&apos;ekempintu&apos;a" />
 <nlword word="river delta" valsi="velri&apos;ekempintu&apos;a" />
