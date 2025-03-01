@@ -79631,6 +79631,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>2</score>
   <glossword word="Crokinole" sense="board game" />
 </valsi>
+<valsi word="krokodili" type="fu'ivla">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ speaks $x_2$ (language) in an environment where $x_3$ (language) is expected; $x_1$ crocodiles $x_2$ for $x_3$</definition>
+  <definitionid>73818</definitionid>
+  <score>1</score>
+  <notes>Esperanto cultural term. Originally referred to the practice of speaking one&apos;s own native language at an Esperanto gathering, but the concept has since spread to other constructed language communities.</notes>
+  <glossword word="crocodile" sense="speak the wrong language at a language meetup" />
+  <keyword word="crocodiler" place="1" sense="person who speaks the wrong language at a language meetup" />
+</valsi>
 <valsi word="krokodilo" type="fu'ivla">
   <user>
     <username>spheniscine</username>
@@ -118029,6 +118041,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definitionid>1995</definitionid>
   <score>100000</score>
   <glossword word="restrictive identity" />
+</valsi>
+<valsi unofficial="true" word="praci" type="experimental gismu">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ practices/exercises $x_2$ (ka)</definition>
+  <definitionid>73819</definitionid>
+  <score>1</score>
+  <notes>synonym of {crezenzu&apos;e}. see also {cilre}, {zajba}</notes>
+  <glossword word="exercise" sense="practice" />
+  <glossword word="practice" sense="exercise" />
 </valsi>
 <valsi word="pracmu" type="lujvo">
   <user>
@@ -197772,6 +197796,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="arc" sense="shape" valsi="krogarna" />
 <nlword word="bow" sense="shape" valsi="krogarna" />
 <nlword word="Crokinole" sense="board game" valsi="krokinole" />
+<nlword word="crocodile" sense="speak the wrong language at a language meetup" valsi="krokodili" />
+<nlword word="crocodiler" sense="person who speaks the wrong language at a language meetup" valsi="krokodili" place="1" />
 <nlword word="crocodile" valsi="krokodilo" />
 <nlword word="Spotted hyena" valsi="krokuta" />
 <nlword word="bend" sense="causative" valsi="krori&apos;a" />
