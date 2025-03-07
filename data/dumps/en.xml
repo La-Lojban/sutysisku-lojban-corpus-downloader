@@ -36443,7 +36443,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is patient; $x_1$ does not lose their temper while waiting.</definition>
   <definitionid>66394</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="patient" sense="waiting" />
 </valsi>
 <valsi word="depybu'i" type="lujvo">
@@ -38378,7 +38378,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is a refrigerator/fridge</definition>
   <definitionid>73793</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>see also {lekmi&apos;i}, {varlekmi&apos;i}</notes>
   <glossword word="fridge" sense="device for keeping food cold" />
   <glossword word="refrigerator" sense="device for keeping food cold" />
@@ -41138,6 +41138,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>See {dukti}, {ckaji}, {to&apos;e}, {ckilu}</notes>
   <glossword word="polar opposite of" />
 </valsi>
+<valsi word="dutmai" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+  <definition>$x_1$ is a quantity of antimatter including $x_2$ in shape/form $x_3$</definition>
+  <definitionid>73824</definitionid>
+  <score>2</score>
+  <notes>from {dukti} + {marji}</notes>
+  <glossword word="antimatter" />
+</valsi>
 <valsi word="dutpamcinse" type="lujvo">
   <user>
     <username>Wuzzy</username>
@@ -43617,6 +43628,15 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>1</score>
   <notes>See also: {krilami}, {krilui}.</notes>
   <glossword word="krill" sense="order Euphausiacea" />
+</valsi>
+<valsi word="exlesxe" type="fu'ivla">
+  <user>
+    <username>merrybot</username>
+    <realname>evie</realname>
+  </user>
+  <definition>$x_1$ is a spreadsheet/table containing data/etc $x_2$</definition>
+  <definitionid>73825</definitionid>
+  <score>1</score>
 </valsi>
 <valsi unofficial="true" word="e'y" type="experimental cmavo">
   <selmaho>BY</selmaho>
@@ -56660,7 +56680,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ migrates to country $x_2$ from country $x_3$ over path/route $x_4$.</definition>
   <definitionid>15850</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="emigrate" />
   <glossword word="immigrate" />
   <glossword word="migrate" sense="from one country to another" />
@@ -56733,7 +56753,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$p_1$ is a state/province/region (first-level administrative division) of country $p_2=g_1$.</definition>
   <definitionid>14540</definitionid>
-  <score>3</score>
+  <score>4</score>
   <notes>Cf.{gugde}, {pagbu}.  A province or region can also be a second-level administrative division; for these use {gugypausle}.</notes>
   <glossword word="province" />
 </valsi>
@@ -64576,6 +64596,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>See also {konju}, {pijne}, {jipno}, {kinli}.</notes>
   <glossword word="needle" sense="shape" />
 </valsi>
+<valsi word="jespambe" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a syringe/needle (for injection)</definition>
+  <definitionid>73820</definitionid>
+  <score>1</score>
+  <glossword word="needle" sense="syringe" />
+  <glossword word="syringe" sense="device for injecting fluids" />
+  <keyword word="syringe" place="1" sense="device for injecting fluids" />
+</valsi>
 <valsi word="jespezli" type="lujvo">
   <user>
     <username>Wuzzy</username>
@@ -64595,7 +64627,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is a syringe.</definition>
   <definitionid>73796</definitionid>
-  <score>3</score>
+  <score>4</score>
 </valsi>
 <valsi word="jesycilta" type="lujvo">
   <user>
@@ -75352,7 +75384,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
     <username>Qimar</username>
     <realname>Sean S</realname>
   </user>
-  <definition>$x_1$ is online/connected to the internet with device $x_2$ via medium $x_3$</definition>
+  <definition>$j_1$ is online, connected to $j_2$ via the internet</definition>
   <definitionid>73641</definitionid>
   <score>2</score>
   <notes>cf. {kibro} {jorne}. For general type of network connection {samjo&apos;e} is preferred.</notes>
@@ -77969,7 +78001,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$c_1$ is a coal shovel [a shovel for coal].</definition>
   <definitionid>52934</definitionid>
-  <score>2</score>
+  <score>3</score>
   <glossword word="coal shovel" />
   <keyword word="coal shovel" place="1" />
 </valsi>
@@ -79638,7 +79670,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ speaks $x_2$ (language) in an environment where $x_3$ (language) is expected; $x_1$ crocodiles $x_2$ for $x_3$</definition>
   <definitionid>73818</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Esperanto cultural term. Originally referred to the practice of speaking one&apos;s own native language at an Esperanto gathering, but the concept has since spread to other constructed language communities.</notes>
   <glossword word="crocodile" sense="speak the wrong language at a language meetup" />
   <keyword word="crocodiler" place="1" sense="person who speaks the wrong language at a language meetup" />
@@ -84741,7 +84773,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$m_1$ is a fridge/air conditioner for cooling $x_2=l_1$.</definition>
   <definitionid>17255</definitionid>
-  <score>4</score>
+  <score>5</score>
   <notes>Cf. {dujmi&apos;i}, {dujyku&apos;a}, {lenku}, {kelvo}, {dunja}, {varmuvmi&apos;i}.</notes>
   <glossword word="air conditioner" sense="machine for cooling rooms" />
   <glossword word="fridge" />
@@ -92245,7 +92277,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is more numerous than $x_2$; $x_1$ has a greater cardinality than $x_2$</definition>
   <definitionid>64239</definitionid>
-  <score>3</score>
+  <score>4</score>
   <notes>Synonymous with {sormei}. See also {mei}, {memkai}, {zmadu}, {dubmau}.</notes>
   <glossword word="more numerous" />
 </valsi>
@@ -92277,7 +92309,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is cosmetics/makeup of of composition $x_2$</definition>
   <definitionid>73781</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Includes e.g. foundation, blush, compact, eyeshadow, eyeliner, etc. See also {fircinta}, {jadni}</notes>
   <glossword word="cosmetics" sense="makeup" />
   <glossword word="makeup" sense="cosmetics" />
@@ -101842,17 +101874,6 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>See also {lerfu}, {mekso}, {klani}.</notes>
   <glossword word="number" sense="a quantity" />
 </valsi>
-<valsi word="namdakfu" type="lujvo">
-  <user>
-    <username>Wuzzy</username>
-    <realname>Wuzzy</realname>
-  </user>
-  <definition>$d_1$ is a bread knife with a blade of material $d_3$.</definition>
-  <definitionid>53027</definitionid>
-  <score>1</score>
-  <glossword word="bread knife" />
-  <keyword word="bread knife" place="1" />
-</valsi>
 <valsi word="naMIBiias" type="cmevla">
   <user>
     <username>Xabju</username>
@@ -105264,7 +105285,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is a subway train consisting of cars $x_2$.</definition>
   <definitionid>73620</definitionid>
-  <score>4</score>
+  <score>5</score>
   <notes>Coined during a real-life Lojban conversation about the subway in Glasgow in 2024.</notes>
 </valsi>
 <valsi word="nitsalpo" type="lujvo">
@@ -110421,6 +110442,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>100001</score>
   <notes>$x_2$ fluid may be liquid or gas; $x_5$ may be a force; a pump generally causes a pressure gradient, such that $x_3$ is a place of lower pressure, $x_4$ a place of higher pressure.  (cf. {gapci}, {litki}, {rinci}; metaphorical use of {fepri} for gas, {risna} for liquid, {rinci}, {tutci})</notes>
   <glossword word="pump" />
+</valsi>
+<valsi word="pambyse'a" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ injects $x_2$ (fluid) into $x_3$; $x_1$ pumps $x_2$ into $x_3$</definition>
+  <definitionid>73821</definitionid>
+  <score>2</score>
+  <notes>see also {jespambe}</notes>
+  <glossword word="inject" sense="insert fluid" />
+  <glossword word="pump" sense="insert fluid" />
 </valsi>
 <valsi word="pamcinse" type="lujvo">
   <user>
@@ -117343,6 +117376,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>1</score>
   <glossword word="flash" sense="burst of light" />
 </valsi>
+<valsi word="pojma'a" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+  <definition>$x_1$ is a volcano projecting from land mass $x_2$.</definition>
+  <definitionid>73822</definitionid>
+  <score>1</score>
+  <notes>Cf. {fagma&apos;a}, {je&apos;erma&apos;a}.</notes>
+  <glossword word="volcano" />
+</valsi>
 <valsi word="pojyke'a" type="lujvo">
   <user>
     <username>Ilmen</username>
@@ -118049,7 +118093,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ practices/exercises $x_2$ (ka)</definition>
   <definitionid>73819</definitionid>
-  <score>1</score>
+  <score>4</score>
   <notes>synonym of {crezenzu&apos;e}. see also {cilre}, {zajba}</notes>
   <glossword word="exercise" sense="practice" />
   <glossword word="practice" sense="exercise" />
@@ -162848,7 +162892,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is a fan, a propeller for creating movement in fluid $x_2$ by drawing power from a vehicle/motor $x_3$</definition>
   <definitionid>57068</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>Note that {falnu} is a device ($x_1$) for converting the movement of some fluid medium $x_2$ into power for some motor or vehicle $x_3$.</notes>
   <glossword word="fan" sense="propeller" />
   <glossword word="propeller" />
@@ -170419,7 +170463,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is an air conditioner</definition>
   <definitionid>73794</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>see also {lekmi&apos;i}, {djalekmi&apos;i}</notes>
   <glossword word="air conditioner" sense="air cooling device" />
   <keyword word="air conditioner" place="1" sense="air cooling device" />
@@ -196201,6 +196245,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="needle eye" valsi="jeske&apos;a" />
 <nlword word="needle" sense="shape" valsi="jesni" />
 <nlword word="needle" valsi="jesni" />
+<nlword word="needle" sense="syringe" valsi="jespambe" />
+<nlword word="syringe" sense="device for injecting fluids" valsi="jespambe" place="1" />
 <nlword word="needle" sense="pointy leaf" valsi="jespezli" place="1" />
 <nlword word="barbed wire" valsi="jesycilta" place="1" />
 <nlword word="barb wire" valsi="jesycilta" />
@@ -200581,7 +200627,6 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="reciprocal" sense="variable number" valsi="namcixu" />
 <nlword word="googol" valsi="namcrgogolo" />
 <nlword word="number" sense="a quantity" valsi="namcu" />
-<nlword word="bread knife" valsi="namdakfu" place="1" />
 <nlword word="game" sense="riddles game" valsi="namkei" place="3" />
 <nlword word="puzzle" valsi="namkei" place="2" />
 <nlword word="solver" sense="puzzle solver" valsi="namkei" place="1" />
@@ -201527,6 +201572,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="dishwasher" sense="machine" valsi="paltylumca&apos;a" />
 <nlword word="firstly" valsi="pamai" />
 <nlword word="pump" valsi="pambe" />
+<nlword word="inject" sense="insert fluid" valsi="pambyse&apos;a" />
+<nlword word="pump" sense="insert fluid" valsi="pambyse&apos;a" />
 <nlword word="affectional orientation" valsi="pamcinse" />
 <nlword word="romantic orientation" valsi="pamcinse" place="3" />
 <nlword word="heartache" valsi="pamcro" />
