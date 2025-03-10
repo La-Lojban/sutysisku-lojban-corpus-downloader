@@ -13760,6 +13760,17 @@
   <notes>Expresses silliness, similar to one sense of &quot;:P&quot; (another sense being &quot;zo&apos;o&quot;). What the speaker said is intended to be interpreted as being silly (not necessarily the same as humorous). Based on bebna and zo&apos;o. See also {zo&apos;o}, {bebna}</notes>
   <glossword word="sillyness" sense="being silly" />
 </valsi>
+<valsi unofficial="true" word="borma" type="experimental gismu">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a storm in/at $x_2$</definition>
+  <definitionid>73827</definitionid>
+  <score>1</score>
+  <glossword word="storm" sense="weather" />
+  <keyword word="storm" place="1" sense="weather" />
+</valsi>
 <valsi word="borxes" type="cmevla">
   <user>
     <username>Xabju</username>
@@ -71756,6 +71767,19 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>Cf. {kerfa}, {kanla}, {mebri}, {kalgaikre}.</notes>
   <glossword word="eyebrow" />
 </valsi>
+<valsi unofficial="true" word="kalpi" type="experimental gismu">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is calm/cool/unperturbed</definition>
+  <definitionid>73826</definitionid>
+  <score>2</score>
+  <notes>see also {o&apos;u}, {tolxanka}</notes>
+  <glossword word="calm" sense="free from anger or anxiety" />
+  <glossword word="cool" sense="free from anger or anxiety" />
+  <glossword word="unperturbed" sense="unbothered" />
+</valsi>
 <valsi word="kalpupila" type="fu'ivla">
   <user>
     <username>gleki</username>
@@ -75386,7 +75410,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$j_1$ is online, connected to $j_2$ via the internet</definition>
   <definitionid>73641</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>cf. {kibro} {jorne}. For general type of network connection {samjo&apos;e} is preferred.</notes>
 </valsi>
 <valsi word="kibmalmri" type="lujvo">
@@ -84845,8 +84869,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is a lily [Lilium] of species/strain $x_2$</definition>
   <definitionid>18309</definitionid>
-  <score>2</score>
-  <notes>cf. {rozgu}. lel- is short rafsi</notes>
+  <score>4</score>
+  <notes>cf. {rozgu}. -lel- is short rafsi</notes>
   <glossword word="lily" sense="plant; genus Lilium" />
 </valsi>
 <valsi word="lemi" type="cmavo-compound">
@@ -197005,6 +197029,9 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="cuttlefish" valsi="kalmari" />
 <nlword word="squid" valsi="kalmari" />
 <nlword word="eyebrow" valsi="kalmebykre" />
+<nlword word="calm" sense="free from anger or anxiety" valsi="kalpi" />
+<nlword word="cool" sense="free from anger or anxiety" valsi="kalpi" />
+<nlword word="unperturbed" sense="unbothered" valsi="kalpi" />
 <nlword word="open" sense="ajar" valsi="kalri" />
 <nlword word="something being given access" sense="by open portal" valsi="kalri" place="3" />
 <nlword word="something given access" sense="by open portal" valsi="kalri" place="3" />
