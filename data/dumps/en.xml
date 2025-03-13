@@ -59499,13 +59499,14 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="Mx" sense="generic married honorific, unspecified gender" />
 </valsi>
 <valsi unofficial="true" word="io'u" type="experimental cmavo">
+  <selmaho>UI1</selmaho>
   <user>
     <username>lalxu</username>
     <realname>Lake</realname>
   </user>
   <definition>attitudinal: good mental health - bad mental health</definition>
   <definitionid>71928</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>Feeling especially relieved from (or with {nai}, especially plagued by) (semi-)permanent mental health conditions (trauma, anxiety, depression).</notes>
 </valsi>
 <valsi word="i,ov" type="cmevla">
@@ -132286,6 +132287,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>See also {sezysei}, {kantcu}.</notes>
   <glossword word="self-sufficiency" />
 </valsi>
+<valsi unofficial="true" word="se'ai" type="experimental cmavo">
+  <selmaho>SE</selmaho>
+  <user>
+    <username>lalxu</username>
+    <realname>Lake</realname>
+  </user>
+  <definition>reciprocal x1/x2 selbri conversion; each other; reciprocally; mutually</definition>
+  <definitionid>69017</definitionid>
+  <score>1</score>
+  <notes>&quot;x1 se&apos;ai {broda} x2 x3...&quot; means &quot;x1 {broda} {je} {se} {broda} x2 x3...&quot;</notes>
+  <glossword word="reciprocal x1/x2 selbri conversion" />
+</valsi>
 <valsi unofficial="true" word="se'ai'e" type="experimental cmavo">
   <selmaho>SE</selmaho>
   <user>
@@ -178299,7 +178312,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definition>discourse pronoun: the future situation</definition>
   <definitionid>73347</definitionid>
   <score>6</score>
-  <notes>Equivalent to Loglan &quot;tao&quot;. See also {xi&apos;o}</notes>
+  <notes>Equivalent to Loglan &quot;tao&quot;. See also {xi&apos;o}, {xe&apos;i}</notes>
+  <glossword word="this" sense="the future situation" />
 </valsi>
 <valsi unofficial="true" word="xau" type="experimental cmavo">
   <selmaho>BAI</selmaho>
@@ -179819,7 +179833,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definition>discourse pronoun: the previous situation</definition>
   <definitionid>73346</definitionid>
   <score>3</score>
-  <notes>Equivalent to Loglan &quot;tio&quot;. See also {xa&apos;u}</notes>
+  <notes>Equivalent to Loglan &quot;tio&quot;. See also {xe&apos;i}, {xa&apos;u}</notes>
+  <glossword word="that" sense="the previous situation" />
 </valsi>
 <valsi unofficial="true" word="xi'oi'ei" type="experimental cmavo">
   <selmaho>UI</selmaho>
@@ -204155,6 +204170,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="turn off" sense="cause to stop operation" valsi="sazysti" />
 <nlword word="2nd conversion" valsi="se" />
 <nlword word="self-sufficiency" valsi="se&apos;a" />
+<nlword word="reciprocal x1/x2 selbri conversion" valsi="se&apos;ai" />
 <nlword word="clockwise by 1 click conversion" valsi="se&apos;ai&apos;e" />
 <nlword word="shift rightward by 1 conversion" valsi="se&apos;ai&apos;e" />
 <nlword word="dependency" valsi="se&apos;anai" />
@@ -209567,6 +209583,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="khat" valsi="xatmira" />
 <nlword word="letter" valsi="xatra" />
 <nlword word="1E-18" valsi="xatsi" />
+<nlword word="this" sense="the future situation" valsi="xa&apos;u" />
 <nlword word="for" sense="beneficial for" valsi="xau" />
 <nlword word="for the benefit of" valsi="xau" />
 <nlword word="move" sense="change in residence" valsi="xa&apos;ucne" />
@@ -209698,6 +209715,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="ink" valsi="xinmo" />
 <nlword word="IE" sense="Indo-European" valsi="xinro" />
 <nlword word="Indo-European" sense="Indo-European" valsi="xinro" />
+<nlword word="that" sense="the previous situation" valsi="xi&apos;o" />
 <nlword word="litotes" valsi="xi&apos;oi&apos;ei" />
 <nlword word="21 cm wavelength" sense="color" valsi="xipfne" />
 <nlword word="Has coloration characterized by emission of photons of approximately twenty-one centimeters in wavelength" sense="color" valsi="xipfne" place="1" />
