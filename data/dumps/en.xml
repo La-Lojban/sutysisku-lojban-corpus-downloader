@@ -29655,6 +29655,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <keyword word="geek" place="1" />
   <keyword word="geeky subject" place="2" />
 </valsi>
+<valsi unofficial="true" word="creze" type="experimental gismu">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$x_1$ practices/exercises/studies/improves at doing/being $x_2$ by doing/being $x_3$</definition>
+  <definitionid>73831</definitionid>
+  <score>2</score>
+  <notes>gismu version of {crezenzu&apos;e}</notes>
+</valsi>
 <valsi word="crezenzu'e" type="lujvo">
   <user>
     <username>xorxes</username>
@@ -94653,6 +94663,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>not to be confused with {xajmirli}</notes>
   <keyword word="babirusa" place="1" />
 </valsi>
+<valsi word="mirpi'e" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ bounces on $x_2$</definition>
+  <definitionid>73830</definitionid>
+  <score>2</score>
+  <glossword word="bounce" sense="jump up and down" />
+</valsi>
 <valsi word="mirsarxe" type="lujvo">
   <user>
     <username>arj</username>
@@ -123082,6 +123102,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>1</score>
   <glossword word="even" sense="number" />
 </valsi>
+<valsi word="relpijne" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+  <definition>$x_1$ is a staple/two-pronged fastener for holding together $x_2$, made of $x_3$.</definition>
+  <definitionid>73829</definitionid>
+  <score>2</score>
+  <notes>See {re}, {pijne}, {plopijne}.</notes>
+  <glossword word="staple" sense="fastener" />
+</valsi>
 <valsi word="relplin" type="cmevla">
   <user>
     <username>totus</username>
@@ -123620,6 +123651,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>1</score>
   <notes>Cf. {mabru}, {tatru}, {tatyji&apos;o}, {cifnu}.</notes>
   <glossword word="breast milk" />
+</valsi>
+<valsi word="renfu'e" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+  <definition>$x_1$ is a conductor/guard responsible for train $x_2$, with duties $x_3$.</definition>
+  <definitionid>73832</definitionid>
+  <score>1</score>
+  <notes>Exact role varies by railroad/operator, but generally the member of the train crew (driver excluded) with the highest level of responsibility. See {trene}, {fuzme}.</notes>
+  <glossword word="conductor" sense="train crew member" />
 </valsi>
 <valsi word="rengarna" type="lujvo">
   <user>
@@ -199689,6 +199731,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="deer meat" valsi="mirlyre&apos;u" />
 <nlword word="venison" valsi="mirlyre&apos;u" />
 <nlword word="babirusa" valsi="mirlyxarju" place="1" />
+<nlword word="bounce" sense="jump up and down" valsi="mirpi&apos;e" />
 <nlword word="notion" sense="mental apprehension" valsi="mirsi&apos;o" />
 <nlword word="echo" sense="reflected sound" valsi="mirsna" />
 <nlword word="reverberation" valsi="mirsna" />
@@ -203137,6 +203180,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="misanthrope" sense="one who hates humanity" valsi="remxei" place="1" />
 <nlword word="misanthropic" sense="human-hating" valsi="remxei" />
 <nlword word="breast milk" valsi="remyladru" />
+<nlword word="conductor" sense="train crew member" valsi="renfu&apos;e" />
 <nlword word="rail" sense="transportation" valsi="rengarna" />
 <nlword word="railway" sense="parallel rails" valsi="rengarna" />
 <nlword word="track" sense="parallel rails" valsi="rengarna" />
