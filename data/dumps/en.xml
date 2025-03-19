@@ -29662,7 +29662,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ practices/exercises/studies/improves at doing/being $x_2$ by doing/being $x_3$</definition>
   <definitionid>73831</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>gismu version of {crezenzu&apos;e}</notes>
 </valsi>
 <valsi word="crezenzu'e" type="lujvo">
@@ -55677,6 +55677,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="nationalized sector" />
   <glossword word="public sector" />
 </valsi>
+<valsi word="gubjungau" type="lujvo">
+  <user>
+    <username>kpreid</username>
+    <realname>Kevin Reid</realname>
+  </user>
+  <definition>$j_1$ advertises $jg_3=g_1$ (du&apos;u) to $jg_2=g_2$ (mass) about subject $jg_4$.</definition>
+  <definitionid>15691</definitionid>
+  <score>1</score>
+  <notes>not necessarily advertising for sale; (cf. {jungau})</notes>
+  <glossword word="advertise" />
+  <keyword word="advertiser" place="1" />
+</valsi>
 <valsi word="gubmace" type="fu'ivla">
   <user>
     <username>djeikyb</username>
@@ -62402,7 +62414,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ (amount of time) is the age of $x_2$.</definition>
   <definitionid>68338</definitionid>
-  <score>3</score>
+  <score>4</score>
   <notes>Technically using “lo nanca be li dau mi jbetei” is a better alternative to using “mi nanca li dau”, since this latter seems to imply that the whole duration of the life of the speaker is (exactly) ten years.</notes>
   <glossword word="age" sense="time elapsed since birth" />
 </valsi>
@@ -81355,7 +81367,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>quod erat demonstrandum, Q.E.D.</definition>
   <definitionid>71741</definitionid>
-  <score>2</score>
+  <score>1</score>
   <notes>For use at the end of mathematical proofs in Lojban.</notes>
 </valsi>
 <valsi unofficial="true" word="ku'oi" type="experimental cmavo">
@@ -139859,7 +139871,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$s_1=b_1$ is a snowball.</definition>
   <definitionid>63597</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="snowball" sense="ball of snow" />
   <keyword word="snowball" place="1" sense="ball of snow" />
 </valsi>
