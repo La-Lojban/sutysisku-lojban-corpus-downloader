@@ -41856,17 +41856,6 @@
   <notes>{skari}; {kolme}</notes>
   <glossword word="xekri" />
 </valsi>
-<valsi unofficial="true" word="xekto" type="experimental gismu">
-  <user>
-    <username>krtisfranks</username>
-    <realname>Curtis W Franks</realname>
-  </user>
-  <definition>$x_1$ xecto $x_2$ $x_3$</definition>
-  <definitionid>73042</definitionid>
-  <score>1</score>
-  <notes>zo &quot;xekto&quot; {smumi&apos;u} zo &quot;{xecto}&quot; .i ra&apos;oi &quot;-xet-&quot; rafsi ti</notes>
-  <glossword word="xecto" />
-</valsi>
 <valsi word="xelso" type="gismu">
   <rafsi>xes</rafsi>
   <user>
@@ -46042,7 +46031,6 @@
 <nlword word="xei" valsi="xei" />
 <nlword word="xeka&apos;a" valsi="xeka&apos;a" />
 <nlword word="xekri" valsi="xekri" />
-<nlword word="xecto" valsi="xekto" />
 <nlword word="xendo" valsi="xendo" />
 <nlword word="xi" valsi="xi" />
 <nlword word="xo" valsi="xo" />

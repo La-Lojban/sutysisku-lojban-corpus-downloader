@@ -1683,7 +1683,6 @@ xebni	$x_1$ to'e prami $x_2$	{prami}; {nelci}; {rigni}	gismu			xen;xei;xebn;xebn
 xebro	$x_1$ ckini lo kulnu ja bangu ja cecmu ja natmi pe lo banxe'ebu ja gugde'ilu $x_2$	{kulnu}; {bangu}; {cecmu}; {natmi}; {banxe'ebu}; {gugde'ilu}; {semto}; {xazdo}	gismu			xeb;bro;xebr;xebro
 xecto	$x_1$ klani li gei re $x_2$	{klani}; {centi}; {decti}; {dekto}; {femti}; {gigdo}; {gocti}; {gotro}; {gradu}; {kilto}; {megdo}; {mikri}; {milti}; {nanvi}; {petso}; {picti}; {terto}; {xatsi}; {xexso}; {zepti}; {zetro}	gismu			xet;cto;xect;xecto
 xedja	$x_1$ pagbu lo flira be $x_2$ gi'e gacri lo bongu poi greku lo moklu	{pagbu}; {flira}; {gacri}; {bongu}; {greku}; {moklu}	gismu			xej;xe'a;xedj;xedja
-xrabo	$x_1$ ckini lo kulnu ja bangu ja cecmu ja natmi pe lo bangaru'a $x_2$	{kulnu}; {bangu}; {cecmu}; {natmi}; {bangaru'a}; {xazdo}; {friko}; {semto}; {sadjo}; {lubno}; {rakso}; {sirxo}; {filso}; {misro}	gismu			rab;xrab;xrabo
 xrani	$x_1$ gasnu lo nu $x_2$ spofu $x_3$ gi'a jdika lo ka tolpo'u $x_3$	{gasnu}; {spofu}; {jdika}; {tolpo'u}; {daspo}; {cortu}; {porpi}	gismu			xai;xran;xrani
 xruba	$x_1$ gurni ja spati $x_2$ noi jutsi la'o jutsi Polygonaceae jutsi	{spati}	gismu			xub;xrub;xruba
 xruki	$x_1$ barda cipni $x_2$ noi jutsi la'o lanzu Meleagrididae lanzu	{barda}; {cipni}; {jutsi}; {jipci}; {datka}; {gunse}	gismu			xuk;xruk;xruki
@@ -1936,7 +1935,7 @@ xu	tcita lo se cusku le du'u la'e ri preti le du'u jetnu jikau jitfa	{jetnu} {ji
 xy	repamoi lerfu le lojbo	{lerfu}	cmavo	BY2	X;xy
 y	smafanta selba'u .i se pilno fi le nu ralte le nu le te cusku cu jundi kei ze'a le nu le cusku cu jdice le du'u cusku makau	{smafanta} {selba'u}	cmavo	Y	y
 y'y	recimoi lerfu le lojbo	{lerfu}	cmavo	BY2	y'y
-zau	fi'o {zanru}	{zanru}	cmavo	BAI	zau
+za	fi'o temci be le fasnu bei le manri	{temci}	cmavo	ZI	za
 ze	namcu .i sumji li xa li pa .i se li'erla'i li xa lei kancu namcu		cmavo	PA1	7;ze	zel
 ze'a	fi'o {krafamtei}	{krafamtei}	cmavo	ZEhA	ze'a
 ze'e	fi'o cimni krafamtei	{cimni} {krafamtei}	cmavo	ZEhA	ze'e	ze'e
@@ -2000,3 +1999,4 @@ mribriju	$x_1$ briju $x_2$ noi $x_4$ no'u lo xe mrilu cu jibri ke'a ku'o $x_3$	{
 mriste	$x_1$ liste $x_2$ noi te mrilu		lujvo					mrilu;liste
 mrobi'o	$x_1$ binxo lo morsi $x_2$	{morsi} {binxo}; {pavzilcatra}	lujvo		mrobi'o			morsi;binxo
 mrocarce	$c_1$ cu mrori'i ke se xislu marce $c_2$ $c_3$		lujvo		mrocarce			morsi;carce
+mrodimna	$x1$ dimna lo nu morsi	{morsi} {dimna}; {mroka'e}	lujvo		mrodimna			morsi;dimna

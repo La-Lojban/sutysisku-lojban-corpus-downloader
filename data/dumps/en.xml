@@ -46940,16 +46940,6 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <keyword word="husband" place="2" />
   <keyword word="marriage tradition" place="3" />
 </valsi>
-<valsi word="fetsrmeido" type="fu'ivla">
-  <user>
-    <username>k1234567890y</username>
-    <realname>k1234567890y</realname>
-  </user>
-  <definition>$x1$ is a maid working for $x2$</definition>
-  <definitionid>70442</definitionid>
-  <score>1</score>
-  <glossword word="maid" />
-</valsi>
 <valsi word="fetydzetru" type="lujvo">
   <user>
     <username>arj</username>
@@ -86996,7 +86986,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ pertains to Loglan language/culture in aspect $x_2$</definition>
   <definitionid>38090</definitionid>
-  <score>5</score>
+  <score>6</score>
+  <notes>Proposed rafsi -log- and -glo-</notes>
   <glossword word="loglan" />
 </valsi>
 <valsi unofficial="true" word="loglytuan" type="obsolete cmevla">
@@ -139772,6 +139763,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>See also {fepni}, {jdini}, {rupnu}.</notes>
   <glossword word="coin" />
 </valsi>
+<valsi unofficial="true" word="sicpi" type="experimental gismu">
+  <user>
+    <username>phma</username>
+    <realname>Pierre Abbat</realname>
+  </user>
+  <definition>$x_1$ is rain of composition including $x_2$.</definition>
+  <definitionid>15066</definitionid>
+  <score>1</score>
+  <notes>Cf. {bratu}, {snime}, {carvi}.</notes>
+  <keyword word="rain" place="1" />
+</valsi>
 <valsi word="sidbo" type="gismu">
   <rafsi>sib</rafsi>
   <rafsi>si&apos;o</rafsi>
@@ -179577,6 +179579,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="Xextan" />
   <glossword word="Xextanic" sense="pertaining to Xextan" />
 </valsi>
+<valsi unofficial="true" word="xexto" type="experimental gismu">
+  <user>
+    <username>merrybot</username>
+    <realname>evie</realname>
+  </user>
+  <definition>$x_1$ pertains to Xextan in aspect $x_2$</definition>
+  <definitionid>73833</definitionid>
+  <score>1</score>
+  <notes>Proposed rafsi -xto-</notes>
+</valsi>
 <valsi word="xi" type="cmavo">
   <selmaho>XI</selmaho>
   <user>
@@ -183558,7 +183570,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_{1}$ exists/is real/actual/reality for $x_{2}$ under metaphysics $x_{3}$.</definition>
   <definitionid>1313</definitionid>
-  <score>99999</score>
+  <score>100000</score>
   <notes>Words usable for epistemology typically have a du&apos;u place.  $x_1$ is physical (one sense).  See also {fatci}, {xanri}.</notes>
   <glossword word="exist" />
 </valsi>
@@ -194383,7 +194395,6 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="female" valsi="fetsi" />
 <nlword word="female gamete" valsi="fetso&apos;a" />
 <nlword word="wife" valsi="fetspe" />
-<nlword word="maid" valsi="fetsrmeido" />
 <nlword word="matriarch" valsi="fetydzetru" />
 <nlword word="matriarchate" valsi="fetydzetru" place="2" />
 <nlword word="ovary" valsi="fetyganti" />
@@ -198755,6 +198766,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="the typical" valsi="lo&apos;e" />
 <nlword word="logic" valsi="logji" />
 <nlword word="Loglan" sense="constructed language" valsi="loglan" />
+<nlword word="loglan" valsi="loglo" />
 <nlword word="Loglan-worker" valsi="loglytuan" />
 <nlword word="the set really is" valsi="lo&apos;i" />
 <nlword word="the mass really is" valsi="loi" />
