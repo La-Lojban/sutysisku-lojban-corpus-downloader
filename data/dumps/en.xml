@@ -41247,7 +41247,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>bridi abstractor: $x_1$ is the answer to the question $x_2$</definition>
   <definitionid>67906</definitionid>
-  <score>2</score>
+  <score>1</score>
   <notes>Experimental cmavo compound. Equivalent to {du&apos;u} with {kau} attached to all question words (e.g. {ma}, {mo}, {xo}) contained. See {preti}, {danfu}, {du&apos;umrei}</notes>
   <glossword word="the answer to the question" sense="abstractor" />
 </valsi>
@@ -71787,7 +71787,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is calm/cool/unperturbed</definition>
   <definitionid>73826</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>see also {o&apos;u}, {tolxanka}</notes>
   <glossword word="calm" sense="free from anger or anxiety" />
   <glossword word="cool" sense="free from anger or anxiety" />
@@ -123662,7 +123662,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is a conductor/guard responsible for train $x_2$, with duties $x_3$.</definition>
   <definitionid>73832</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Exact role varies by railroad/operator, but generally the member of the train crew (driver excluded) with the highest level of responsibility. See {trene}, {fuzme}.</notes>
   <glossword word="conductor" sense="train crew member" />
 </valsi>
@@ -169919,6 +169919,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>Experimental rafsi: -vav-</notes>
   <glossword word="hex digit F" />
 </valsi>
+<valsi word="vaicme" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$c_1$ is the rank/grade/position given to $c_2$ in organization/heirarchy $c_3$</definition>
+  <definitionid>73834</definitionid>
+  <score>1</score>
+  <notes>cf. {vajni} {cmene}</notes>
+</valsi>
 <valsi word="vaicni" type="lujvo">
   <user>
     <username>spheniscine</username>
@@ -169983,6 +169993,26 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definitionid>67754</definitionid>
   <score>1</score>
   <glossword word="significant" sense="amount" />
+</valsi>
+<valsi word="vajme'ejdika" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$z_1$ is demoted to the rank/grade/position $c_1$ in organization/heirarchy $c_3$</definition>
+  <definitionid>73836</definitionid>
+  <score>1</score>
+  <notes>cf {vajni} {cmene} {jdika}</notes>
+</valsi>
+<valsi word="vajme'eze'a" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$z_1$ is promoted to the rank/grade/position $c_1$ in organization/heirarchy $c_3$</definition>
+  <definitionid>73835</definitionid>
+  <score>1</score>
+  <notes>cf {vajni} {cmene} {zenba}</notes>
 </valsi>
 <valsi word="vajmli" type="lujvo">
   <user>
