@@ -28567,7 +28567,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$c_1=b_1$ is a deep-sea submarine for carrying $b_2$, propelled by $b_3$</definition>
   <definitionid>71995</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>See also {jvojvo}, {bloblobloblo}.</notes>
   <glossword word="deep-sea submarine" />
 </valsi>
@@ -41733,6 +41733,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>Cf. {dargu}, {pluta}, {klama}.</notes>
   <glossword word="footpath" />
 </valsi>
+<valsi unofficial="true" word="dzuli" type="experimental gismu">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+  <definition>$x_1$ is the one that least satisfies property $x_2$ among $x_3$.</definition>
+  <definitionid>73837</definitionid>
+  <score>2</score>
+  <notes>Etymology: English ⟪least⟫ + Mandarin ⟪最不⟫/⟪zuì bù⟫.</notes>
+</valsi>
 <valsi unofficial="true" word="dzuma" type="experimental gismu">
   <user>
     <username>Ilmen</username>
@@ -45087,6 +45097,15 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>For example: quantum spin vectors are in terms of Hilbert space directions (components are oriented along directionals that are oriented in a Hilbert sense, rather than a physical/spatial sense). Such directions are a subset of the set of all directions. See also: {farna}</notes>
   <glossword word="abstract direction" sense="Hilbert space" />
   <glossword word="Hilbert direction" sense="mathematical/physics" />
+</valsi>
+<valsi word="farpanra" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+  <definition>$x_1$ and $x_2$ are parallel.</definition>
+  <definitionid>73840</definitionid>
+  <score>1</score>
 </valsi>
 <valsi word="farsni" type="lujvo">
   <user>
@@ -48762,6 +48781,38 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>1</score>
   <glossword word="lawful" />
   <glossword word="legal" sense="lawful" />
+</valsi>
+<valsi word="flaka'i" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ represents client $x_2$ in matter $x_3$; $x_1$ is an attorney/lawyer for $x_2$ in $x_3$</definition>
+  <definitionid>73841</definitionid>
+  <score>1</score>
+  <notes>also possibly &quot;power of attorney&quot;. see also {flaka&apos;ipre}</notes>
+  <glossword word="attorney" sense="legal representative" />
+  <glossword word="counsel" sense="to act as legal representative" />
+  <glossword word="lawyer (v.)" sense="to practice law" />
+  <glossword word="represent" sense="to act as legal representative" />
+  <keyword word="attorney" place="1" sense="legal representative" />
+  <keyword word="client" place="2" sense="represented party" />
+  <keyword word="matter" place="3" sense="legal case" />
+</valsi>
+<valsi word="flaka'ipre" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is an attorney/lawyer/barrister/solicitor</definition>
+  <definitionid>73842</definitionid>
+  <score>1</score>
+  <notes>see also {flaka&apos;i}</notes>
+  <glossword word="attorney" sense="legal practitioner" />
+  <glossword word="barrister" sense="type of lawyer" />
+  <glossword word="lawyer" sense="legal practitioner" />
+  <glossword word="solicitor" sense="type of lawyer" />
+  <keyword word="attorney" place="1" sense="legal practitioner" />
 </valsi>
 <valsi word="flalu" type="gismu">
   <rafsi>fla</rafsi>
@@ -169368,7 +169419,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
     <username>Ilmen</username>
     <realname>Ilmen</realname>
   </user>
-  <definition>$x_1$ is very much the case; $x_1$ satisfies property $x_2$ to a great extent.</definition>
+  <definition>$x_1$ has property $x_2$ to a very great extent relatively to the median among $x_3$.</definition>
   <definitionid>71850</definitionid>
   <score>3</score>
   <glossword word="very" sense="great extent" />
@@ -171011,6 +171062,19 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definition>$x_1$ is a respiratory mask or a gas mask.</definition>
   <definitionid>71887</definitionid>
   <score>1</score>
+</valsi>
+<valsi word="vaxykevgai" type="lujvo">
+  <user>
+    <username>krtisfranks</username>
+    <realname>Curtis W Franks</realname>
+  </user>
+  <definition>$x_1$ is a facial/respiratory covering/mask that covers at least respiratory orifice(s) $x_2$.</definition>
+  <definitionid>73839</definitionid>
+  <score>1</score>
+  <notes>Includes some forms of personal protective equipment, but also possibly breathing apparati, scarfs, bandanas, and means of concealing identity.</notes>
+  <glossword word="face mask" />
+  <glossword word="respiratory cover" />
+  <glossword word="respiratory mask" />
 </valsi>
 <valsi word="ve" type="cmavo">
   <rafsi>vel</rafsi>
@@ -184052,6 +184116,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>Cf. {daskybu&apos;u}.</notes>
   <glossword word="handkerchief" />
 </valsi>
+<valsi word="zbijoimolpunli" type="lujvo">
+  <user>
+    <username>krtisfranks</username>
+    <realname>Curtis W Franks</realname>
+  </user>
+  <definition>$x_1$ is the snout/muzzle (body-part) of $x2$.</definition>
+  <definitionid>73838</definitionid>
+  <score>1</score>
+  <notes>This is a the cephalic protrusion which combines the nose, mouth, and jaw in many animals.</notes>
+  <glossword word="muzzle" sense="body-part" />
+  <glossword word="snout" sense="body-part" />
+</valsi>
 <valsi word="zbike'a" type="lujvo">
   <user>
     <username>jongausib</username>
@@ -194640,6 +194716,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="lawyer" valsi="fladju" />
 <nlword word="lawful" valsi="fladra" />
 <nlword word="legal" sense="lawful" valsi="fladra" />
+<nlword word="attorney" sense="legal representative" valsi="flaka&apos;i" place="1" />
+<nlword word="client" sense="represented party" valsi="flaka&apos;i" place="2" />
+<nlword word="counsel" sense="to act as legal representative" valsi="flaka&apos;i" />
+<nlword word="lawyer (v.)" sense="to practice law" valsi="flaka&apos;i" />
+<nlword word="matter" sense="legal case" valsi="flaka&apos;i" place="3" />
+<nlword word="represent" sense="to act as legal representative" valsi="flaka&apos;i" />
+<nlword word="attorney" sense="legal practitioner" valsi="flaka&apos;ipre" place="1" />
+<nlword word="barrister" sense="type of lawyer" valsi="flaka&apos;ipre" />
+<nlword word="lawyer" sense="legal practitioner" valsi="flaka&apos;ipre" />
+<nlword word="solicitor" sense="type of lawyer" valsi="flaka&apos;ipre" />
 <nlword word="law" valsi="flalu" />
 <nlword word="legal adult" valsi="flama&apos;u" />
 <nlword word="outlaw" sense="person" valsi="flanaltinbe" />
@@ -208802,6 +208888,9 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="choke" sense="transitive" valsi="vaxydicra" />
 <nlword word="suffocate" sense="transitive" valsi="vaxydicra" />
 <nlword word="ventilator" sense="medical equipment" valsi="vaxydjuca&apos;a" />
+<nlword word="face mask" valsi="vaxykevgai" />
+<nlword word="respiratory cover" valsi="vaxykevgai" />
+<nlword word="respiratory mask" valsi="vaxykevgai" />
 <nlword word="4th conversion" valsi="ve" />
 <nlword word="small space interval" valsi="ve&apos;a" />
 <nlword word="transmit origin" valsi="vebe&apos;i" />
@@ -210300,6 +210389,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="pedestal" valsi="zbepi" />
 <nlword word="nasal bone" sense="bone (os nasale)" valsi="zbibo&apos;u" />
 <nlword word="handkerchief" valsi="zbibu&apos;u" />
+<nlword word="muzzle" sense="body-part" valsi="zbijoimolpunli" />
+<nlword word="snout" sense="body-part" valsi="zbijoimolpunli" />
 <nlword word="nuzzle" valsi="zbipe&apos;u" />
 <nlword word="inhale" sense="through the nose" valsi="zbisakci" />
 <nlword word="sniff" sense="inhale through the nose" valsi="zbisakci" />
