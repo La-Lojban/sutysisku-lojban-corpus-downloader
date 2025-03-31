@@ -48799,6 +48799,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <keyword word="client" place="2" sense="represented party" />
   <keyword word="matter" place="3" sense="legal case" />
 </valsi>
+<valsi word="flaka'idjupre" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a paralegal/legal assistant</definition>
+  <definitionid>73843</definitionid>
+  <score>1</score>
+  <glossword word="paralegal" sense="legal assistant" />
+  <keyword word="paralegal" place="1" sense="legal assistant" />
+</valsi>
 <valsi word="flaka'ipre" type="lujvo">
   <user>
     <username>janbe</username>
@@ -48807,7 +48818,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definition>$x_1$ is an attorney/lawyer/barrister/solicitor</definition>
   <definitionid>73842</definitionid>
   <score>1</score>
-  <notes>see also {flaka&apos;i}</notes>
+  <notes>alternative to ambiguous {fladju}. see also {flaka&apos;i}</notes>
   <glossword word="attorney" sense="legal practitioner" />
   <glossword word="barrister" sense="type of lawyer" />
   <glossword word="lawyer" sense="legal practitioner" />
@@ -143465,6 +143476,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>1</score>
   <notes>Uses experimental gismu {lubma}. See also: {bilma}, {spita}, {karce}.</notes>
 </valsi>
+<valsi word="snami'i" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a speaker/loudspeaker (device for producing audio)</definition>
+  <definitionid>73844</definitionid>
+  <score>1</score>
+  <glossword word="loudspeaker" sense="audio equipment" />
+  <glossword word="speaker" sense="audio equipment" />
+  <keyword word="loudspeaker" place="1" sense="audio equipment" />
+</valsi>
 <valsi unofficial="true" word="snanorio" type="obsolete fu'ivla">
   <user>
     <username>krtisfranks</username>
@@ -182290,7 +182313,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>attitudinal contour: stronger over time - unchanging intensity - weaker over time</definition>
   <definitionid>68939</definitionid>
-  <score>4</score>
+  <score>5</score>
   <notes>Useful for indicating the rate of change of a previous attitudinal. For example, {ua} {nai} {xu&apos;o} means you&apos;re confused, and slowly becoming more so. Use CAI to control the velocity of the change: {ii} {xu&apos;o} {ru&apos;e} means you&apos;re scared and slowly getting even more scared.</notes>
 </valsi>
 <valsi unofficial="true" word="xu'o'e" type="experimental cmavo">
@@ -194722,6 +194745,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="lawyer (v.)" sense="to practice law" valsi="flaka&apos;i" />
 <nlword word="matter" sense="legal case" valsi="flaka&apos;i" place="3" />
 <nlword word="represent" sense="to act as legal representative" valsi="flaka&apos;i" />
+<nlword word="paralegal" sense="legal assistant" valsi="flaka&apos;idjupre" place="1" />
 <nlword word="attorney" sense="legal practitioner" valsi="flaka&apos;ipre" place="1" />
 <nlword word="barrister" sense="type of lawyer" valsi="flaka&apos;ipre" />
 <nlword word="lawyer" sense="legal practitioner" valsi="flaka&apos;ipre" />
@@ -205617,6 +205641,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="success" sense="achievement" valsi="snada" place="1" />
 <nlword word="knock" sense="hit in order to make a sound" valsi="snada&apos;i" />
 <nlword word="snafu" valsi="snafu" />
+<nlword word="loudspeaker" sense="audio equipment" valsi="snami&apos;i" place="1" />
+<nlword word="speaker" sense="audio equipment" valsi="snami&apos;i" />
 <nlword word="Sothoryos" sense="culture: A Song of Ice and Fire" valsi="snanorio" />
 <nlword word="south" valsi="snanu" />
 <nlword word="beep" sense="sound signal" valsi="snasni" />
