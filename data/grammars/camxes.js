@@ -52806,6 +52806,35 @@ function peg$parse(input, options) {
           peg$currPos = s3;
           s3 = peg$FAILED;
         }
+        if (s3 === peg$FAILED) {
+          s3 = peg$currPos;
+          s4 = peg$parsex();
+          if (s4 !== peg$FAILED) {
+            s5 = peg$parseo();
+            if (s5 !== peg$FAILED) {
+              s6 = peg$parseh();
+              if (s6 !== peg$FAILED) {
+                s7 = peg$parsea();
+                if (s7 !== peg$FAILED) {
+                  s4 = [s4, s5, s6, s7];
+                  s3 = s4;
+                } else {
+                  peg$currPos = s3;
+                  s3 = peg$FAILED;
+                }
+              } else {
+                peg$currPos = s3;
+                s3 = peg$FAILED;
+              }
+            } else {
+              peg$currPos = s3;
+              s3 = peg$FAILED;
+            }
+          } else {
+            peg$currPos = s3;
+            s3 = peg$FAILED;
+          }
+        }
       }
       if (s3 !== peg$FAILED) {
         s4 = peg$currPos;

@@ -24803,10 +24803,11 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
     <username>qazw5414</username>
     <realname>qazw qazw</realname>
   </user>
-  <definition>$x_1$ is a regular polyhedra/polygon/polytope with the Schläfli symbol {$x_2$, $x_3$, $x_4$, …}</definition>
+  <definition>$x_1$ is a regular polyhedra/polygon/polytope with the Schläfli symbol {$x_2$}. (Schlafli)</definition>
   <definitionid>73128</definitionid>
   <score>2</score>
-  <notes>also &quot;$x_1$ is a regular polytope&quot;. Polytope is a collective term for polygons, polyhedra and other dimentional shapes. &quot;$x_1$ is a regular polytope with the Schläfli symbol $x_2$&quot; is also valid if you want to use vectors. For Coxeter&apos;s extention, use a matrix. Cf. {kubli}</notes>
+  <notes>also &quot;$x_1$ is a regular polytope&quot;. Polytope is a collective term for polygons, polyhedra and other dimentional shapes. Use a vector to express the Schläfli symbol. For Coxeter&apos;s extention, use a matrix. Cf. {kubli}</notes>
+  <glossword word="Schlafli" />
   <glossword word="Schläfli symbol" />
 </valsi>
 <valsi word="clagaldi'u" type="lujvo">
@@ -84089,6 +84090,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definitionid>1743</definitionid>
   <score>100000</score>
   <glossword word="punctuation mark" />
+</valsi>
+<valsi unofficial="true" word="lau'a" type="experimental cmavo">
+  <selmaho>GOhOI</selmaho>
+  <user>
+    <username>merrybot</username>
+    <realname>evie</realname>
+  </user>
+  <definition>pro-sumti: quotes the next word and repeates the most recent sumti containing that word</definition>
+  <definitionid>73846</definitionid>
+  <score>1</score>
 </valsi>
 <valsi unofficial="true" word="lau'au" type="experimental cmavo">
   <selmaho>VUhU</selmaho>
@@ -170291,6 +170302,19 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="value" sense="monetary worth" />
   <glossword word="worth" sense="equal in value to" />
 </valsi>
+<valsi word="vampai" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ appraises/evaluates $x_2$ to have value $x_3$</definition>
+  <definitionid>73847</definitionid>
+  <score>2</score>
+  <glossword word="appraise" sense="assess worth" />
+  <glossword word="assess" sense="determine worth" />
+  <glossword word="evaluate" sense="assess worth" />
+  <keyword word="appraiser" place="1" />
+</valsi>
 <valsi word="vampire" type="fu'ivla">
   <user>
     <username>glekizmiku</username>
@@ -180748,14 +180772,14 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="number ?" />
 </valsi>
 <valsi unofficial="true" word="xo'a" type="experimental cmavo">
-  <selmaho>XOhA</selmaho>
+  <selmaho>FAhO</selmaho>
   <user>
     <username>arj</username>
     <realname>Arnt Richard Johansen</realname>
   </user>
   <definition>Loglan toggle: Toggles text to TLI Loglan; marks following text as TLI Loglan.</definition>
   <definitionid>15609</definitionid>
-  <score>3</score>
+  <score>4</score>
   <notes>The proposal also includes an experimental Loglan Little word ``hoa&apos;&apos; (which toggles text to Lojban).</notes>
 </valsi>
 <valsi unofficial="true" word="xo'ai" type="experimental cmavo">
@@ -187722,7 +187746,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$l_1$ is a superfluid (state of matter) of composition/material $l_2$ under conditions $l_3$</definition>
   <definitionid>73145</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>See {gapci}, {litki}, {sligu}</notes>
   <glossword word="superfluid" sense="state of matter" />
 </valsi>
@@ -191958,6 +191982,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="sword" valsi="cladakyxa&apos;i" place="1" />
 <nlword word="sword fighter" valsi="cladakyxa&apos;i" place="3" />
 <nlword word="loud" valsi="cladu" />
+<nlword word="Schlafli" valsi="clafi" />
 <nlword word="Schlafli symbol" valsi="clafi" />
 <nlword word="Schläfli symbol" valsi="clafi" />
 <nlword word="tower" sense="building" valsi="clagaldi&apos;u" place="1" />
@@ -208834,6 +208859,10 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="tone" sense="pitch of a word" valsi="valtogmo&apos;a" />
 <nlword word="value" sense="monetary worth" valsi="vamji" />
 <nlword word="worth" sense="equal in value to" valsi="vamji" />
+<nlword word="appraise" sense="assess worth" valsi="vampai" />
+<nlword word="appraiser" valsi="vampai" place="1" />
+<nlword word="assess" sense="determine worth" valsi="vampai" />
+<nlword word="evaluate" sense="assess worth" valsi="vampai" />
 <nlword word="most valuable" valsi="vamrai" />
 <nlword word="vomit" valsi="vamtu" />
 <nlword word="gift card" valsi="vamveile&apos;ikarda" />
