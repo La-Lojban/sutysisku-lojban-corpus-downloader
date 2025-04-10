@@ -38624,6 +38624,19 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>1</score>
   <glossword word="taco" sense="food" />
 </valsi>
+<valsi word="djatofu" type="fu'ivla">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is tofu (bean curd) made of $x_2$</definition>
+  <definitionid>73848</definitionid>
+  <score>1</score>
+  <notes>see also {sobde}</notes>
+  <glossword word="bean curd" sense="tofu" />
+  <glossword word="tofu" sense="bean curd" />
+  <keyword word="tofu" place="1" sense="bean curd" />
+</valsi>
 <valsi word="djatsiku'u" type="lujvo">
   <user>
     <username>jongausib</username>
@@ -42793,7 +42806,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ feels at peace after reciting meaningless/gibberish mantra $x_2$</definition>
   <definitionid>73644</definitionid>
-  <score>1</score>
+  <score>2</score>
 </valsi>
 <valsi word="enge" type="fu'ivla">
   <user>
@@ -90538,6 +90551,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definitionid>69209</definitionid>
   <score>1</score>
   <notes>See also {sportivo}.</notes>
+</valsi>
+<valsi word="marcimalo" type="fu'ivla">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is (a) marshmallow</definition>
+  <definitionid>73850</definitionid>
+  <score>1</score>
+  <glossword word="marshmallow" sense="confection" />
+  <keyword word="marshmallow" place="1" sense="confection" />
 </valsi>
 <valsi word="marcrfi'akre" type="fu'ivla">
   <user>
@@ -171986,7 +172010,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is jetlagged with symptoms $x_2$ going to $x_3$ from $x_4$.</definition>
   <definitionid>2439</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="jet lag" />
   <keyword word="jet lagged" place="1" />
   <keyword word="jet lag symptoms" place="2" />
@@ -179728,7 +179752,6 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definition>$x_1$ pertains to Xextan in aspect $x_2$</definition>
   <definitionid>73833</definitionid>
   <score>1</score>
-  <notes>Proposed rafsi -xto-</notes>
 </valsi>
 <valsi word="xi" type="cmavo">
   <selmaho>XI</selmaho>
@@ -188461,6 +188484,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="busy" sense="doing a lot" />
   <glossword word="energetic" sense="busy" />
 </valsi>
+<valsi word="zukcu'a" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ chooses/selects $x_2$ to do/be $x_3$ (ka)</definition>
+  <definitionid>73849</definitionid>
+  <score>1</score>
+  <glossword word="choose" sense="select for purpose" />
+  <glossword word="select" sense="choose for purpose" />
+  <keyword word="chooser" place="1" sense="selecter for purpose" />
+</valsi>
 <valsi word="zukcu'i" type="lujvo">
   <user>
     <username>Ilmen</username>
@@ -193664,6 +193699,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="lunch pail" valsi="djata&apos;e" />
 <nlword word="tiffin carrier" valsi="djata&apos;e" />
 <nlword word="taco" sense="food" valsi="djatako" />
+<nlword word="bean curd" sense="tofu" valsi="djatofu" />
+<nlword word="tofu" sense="bean curd" valsi="djatofu" place="1" />
 <nlword word="parasol pine" sense="Pinus Pinea" valsi="djatsiku&apos;u" />
 <nlword word="stone pine" sense="Pinus Pinea" valsi="djatsiku&apos;u" />
 <nlword word="umbrella pine" sense="Pinus Pinea" valsi="djatsiku&apos;u" />
@@ -199344,6 +199381,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="species of dodder" valsi="marbela" place="2" />
 <nlword word="shelter" valsi="marbi" />
 <nlword word="vehicle" valsi="marce" />
+<nlword word="marshmallow" sense="confection" valsi="marcimalo" place="1" />
 <nlword word="license plate" valsi="marcytermi&apos;utcita" />
 <nlword word="number plate" valsi="marcytermi&apos;utcita" />
 <nlword word="vehicle registration plate" valsi="marcytermi&apos;utcita" />
@@ -210888,6 +210926,9 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="common cold" valsi="zuKAM" />
 <nlword word="busy" sense="doing a lot" valsi="zukcfu" />
 <nlword word="energetic" sense="busy" valsi="zukcfu" />
+<nlword word="choose" sense="select for purpose" valsi="zukcu&apos;a" />
+<nlword word="chooser" sense="selecter for purpose" valsi="zukcu&apos;a" place="1" />
+<nlword word="select" sense="choose for purpose" valsi="zukcu&apos;a" />
 <nlword word="perform miai ritual" valsi="zukmiai" />
 <nlword word="remember" sense="to do" valsi="zukmo&apos;i" />
 <nlword word="consider doing" sense="with a goal in mind" valsi="zukpei" />
