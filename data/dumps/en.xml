@@ -61433,6 +61433,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>2</score>
   <glossword word="demonstrate" sense="do something to show something" />
 </valsi>
+<valsi word="japtapla" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a license plate made of $x_2$</definition>
+  <definitionid>73853</definitionid>
+  <score>1</score>
+  <glossword word="license plate" />
+  <glossword word="number plate" sense="license plate" />
+  <keyword word="license plate" place="1" />
+</valsi>
 <valsi word="japyvla" type="lujvo">
   <user>
     <username>totus</username>
@@ -88690,7 +88702,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$k_1=m_2$ drives to $k_2$ from $k_3$ via route $k_4=m_3$ by means $m_1$.</definition>
   <definitionid>17422</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Cf. {marce}, {klama}, {litru}.</notes>
   <glossword word="drive" sense="travel by vehicle" />
   <keyword word="driver" place="1" sense="vehicle operator" />
@@ -91325,6 +91337,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>100001</score>
   <notes>Also mattress = ({kicymatci}).  See also {kicne}, {tapla}, {karda}, {ckana}.</notes>
   <glossword word="mat" />
+</valsi>
+<valsi word="matfrili" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$f_1$ is convenient for $f_2$ (agent) under conditions $f_3$</definition>
+  <definitionid>73852</definitionid>
+  <score>1</score>
+  <notes>cf. {mapti} {frili}</notes>
 </valsi>
 <valsi word="matkarozipcpi" type="fu'ivla">
   <user>
@@ -100243,6 +100265,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definitionid>32341</definitionid>
   <score>1</score>
   <glossword word="loaf" sense="structure of bread" />
+</valsi>
+<valsi word="nabzai" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$z_1$ is a bakery selling $z_2$ operated by $z_3$</definition>
+  <definitionid>73851</definitionid>
+  <score>1</score>
+  <notes>cf. {nanba} {zarci}</notes>
 </valsi>
 <valsi word="nabzba" type="lujvo">
   <user>
@@ -132388,7 +132420,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ drives to $x_2$ from $x_3$ via $x_4$ by operating $x_5$.</definition>
   <definitionid>71442</definitionid>
-  <score>1</score>
+  <score>2</score>
 </valsi>
 <valsi word="sazysti" type="lujvo">
   <user>
@@ -196161,6 +196193,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="display window" valsi="ja&apos;orca&apos;o" place="1" />
 <nlword word="window display" valsi="ja&apos;orca&apos;o" place="2" />
 <nlword word="demonstrate" sense="do something to show something" valsi="ja&apos;orzu&apos;e" />
+<nlword word="number plate" sense="license plate" valsi="japtapla" />
 <nlword word="password" valsi="japyvla" />
 <nlword word="watchword" valsi="japyvla" />
 <nlword word="suburb" valsi="jarbu" />
