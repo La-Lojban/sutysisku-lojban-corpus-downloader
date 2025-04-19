@@ -58837,6 +58837,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="ascribe" />
   <glossword word="impute" />
 </valsi>
+<valsi word="imsa" type="fu'ivla">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+  <definition>$x_1$ is similar to $x_2$ (as a whole, not in a specific aspect).</definition>
+  <definitionid>73855</definitionid>
+  <score>1</score>
+  <notes>See also {simsa}.</notes>
+</valsi>
 <valsi word="imxu" type="fu'ivla">
   <user>
     <username>ractu</username>
@@ -106330,6 +106340,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>Cf. {kansa}, {seicni}.</notes>
   <glossword word="alone" />
   <keyword word="alone" place="1" />
+</valsi>
+<valsi word="nonlingeni" type="fu'ivla">
+  <user>
+    <username>zungi</username>
+    <realname>zungi</realname>
+  </user>
+  <definition>$x_1$ is agender.  $x_1$&apos;s gender identity is not identifying with any gender.</definition>
+  <definitionid>73854</definitionid>
+  <score>1</score>
+  <notes>i got sick of needing to say &quot;lingeni no da&quot;.  zo&apos;o  Possibly more relevantly, being nonlingeni implies having a gender identity, i.e., not just being genderless, as inanimate objects are.</notes>
+  <glossword word="agender" />
 </valsi>
 <valsi word="nonmajga" type="lujvo">
   <user>
