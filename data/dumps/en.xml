@@ -151308,7 +151308,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ comes to an end; $x_1$ ceases to happen</definition>
   <definitionid>68321</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>Synonymous with {tolcfa}, {fausti}, {famfau}.</notes>
   <glossword word="come to an end" />
 </valsi>
@@ -153933,6 +153933,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definitionid>32278</definitionid>
   <score>1</score>
   <glossword word="trudge" sense="tiredly walk" />
+</valsi>
+<valsi unofficial="true" word="tai'e" type="experimental cmavo">
+  <selmaho>PA5</selmaho>
+  <user>
+    <username>qazw-5414</username>
+    <realname>la ninlat.</realname>
+  </user>
+  <definition>undefined/unrepresentable value, NaN</definition>
+  <definitionid>73856</definitionid>
+  <score>1</score>
+  <glossword word="NaN" sense="value" />
+  <glossword word="undefined" />
 </valsi>
 <valsi unofficial="true" word="tai'e'i" type="experimental cmavo">
   <selmaho>VUhU</selmaho>
@@ -207073,6 +207085,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="like" sense="resembling" valsi="tai da&apos;i" />
 <nlword word="as" sense="in the role of" valsi="tai da&apos;inai" />
 <nlword word="trudge" sense="tiredly walk" valsi="ta&apos;idzu" />
+<nlword word="NaN" sense="value" valsi="tai&apos;e" />
+<nlword word="undefined" valsi="tai&apos;e" />
 <nlword word="Schläfli symbol" sense="operator" valsi="tai&apos;e&apos;i" />
 <nlword word="cyclone" valsi="taifnu" />
 <nlword word="hurricane" valsi="taifnu" />
