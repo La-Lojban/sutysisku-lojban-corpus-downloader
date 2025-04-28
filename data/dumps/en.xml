@@ -86255,6 +86255,15 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="kerosine" sense="fuel" />
   <keyword word="kerosin" place="1" sense="fuel" />
 </valsi>
+<valsi word="limbirka" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+  <definition>$x_1$ is a fin (body part) of $x_2$.</definition>
+  <definitionid>73859</definitionid>
+  <score>1</score>
+</valsi>
 <valsi unofficial="true" word="limfa" type="experimental gismu">
   <user>
     <username>gleki</username>
@@ -110429,6 +110438,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>100000</score>
   <glossword word="1,000" />
 </valsi>
+<valsi word="paksmo" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ are tights/pantyhose made of $x_2$</definition>
+  <definitionid>73858</definitionid>
+  <score>1</score>
+  <glossword word="pantyhose" />
+  <glossword word="tights" />
+  <keyword word="tights" place="1" />
+</valsi>
 <valsi word="palbi'o" type="lujvo">
   <user>
     <username>Yanis</username>
@@ -129486,6 +129507,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>2</score>
   <notes>See {sanga}, {pemci}, {zgike}</notes>
   <glossword word="lyric" sense="words of a song" />
+</valsi>
+<valsi word="sagzgi" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a song</definition>
+  <definitionid>73857</definitionid>
+  <score>1</score>
+  <glossword word="song" sense="sung music" />
+  <glossword word="tune" sense="song" />
+  <keyword word="song" place="1" sense="sung music" />
 </valsi>
 <valsi word="sa'i" type="cmavo">
   <selmaho>VUhU4</selmaho>
@@ -179983,7 +180016,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ heals/recovers from $x_2$</definition>
   <definitionid>72681</definitionid>
-  <score>3</score>
+  <score>4</score>
   <notes>See also {bilma}, {kanro}, {mikce}. Proposed rafsi -xiv-</notes>
   <glossword word="heal" sense="recover from harm" />
   <glossword word="recover" sense="heal" />
@@ -201931,6 +201964,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="judge" valsi="pajni" />
 <nlword word="Pacific Ocean" valsi="pakfiko" />
 <nlword word="1,000" valsi="paki&apos;o" />
+<nlword word="pantyhose" valsi="paksmo" />
+<nlword word="tights" valsi="paksmo" place="1" />
 <nlword word="profitless" valsi="palcau" />
 <nlword word="unprofitable" valsi="palcau" />
 <nlword word="evil" valsi="palci" />
@@ -204146,6 +204181,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="musical" sense="comedy or drama with song" valsi="sagjvetavdraci" />
 <nlword word="operetta" valsi="sagjvetavdraci" />
 <nlword word="lyric" sense="words of a song" valsi="sagypemci" />
+<nlword word="song" sense="sung music" valsi="sagzgi" place="1" />
+<nlword word="tune" sense="song" valsi="sagzgi" />
 <nlword word="matrix of columns" sense="mekso operator" valsi="sa&apos;i" />
 <nlword word="strong emotion" valsi="sai" />
 <nlword word="exclamation mark" valsi="saibu" />
