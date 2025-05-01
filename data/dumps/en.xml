@@ -19315,7 +19315,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is a group of people who love each other in a sexual or non-sexual way, which includes the individuals $x_2$, $x_3$, $x_4$, $x_5$, etc., etc., etc.</definition>
   <definitionid>72388</definitionid>
-  <score>3</score>
+  <score>4</score>
   <notes>The most common {celdi} is a couple, but the word also covers polyamorous collectives, polygyny, polyandry, etc. Could even cover {lanzu}. Proposed rafsi is -cle-.</notes>
   <glossword word="group" />
   <glossword word="love" />
@@ -60434,6 +60434,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>See also {mosra}.</notes>
   <glossword word="brake" />
 </valsi>
+<valsi word="jabrybu'u" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ is a parachute made of $x_2$</definition>
+  <definitionid>73862</definitionid>
+  <score>2</score>
+  <glossword word="chute" sense="parachute" />
+  <glossword word="parachute" sense="cloth for braking" />
+  <keyword word="parachute" place="1" sense="cloth for braking" />
+</valsi>
 <valsi word="jabyselsna" type="lujvo">
   <user>
     <username>selpahi</username>
@@ -61450,7 +61462,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is a license plate made of $x_2$</definition>
   <definitionid>73853</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="license plate" />
   <glossword word="number plate" sense="license plate" />
   <keyword word="license plate" place="1" />
@@ -66144,6 +66156,15 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="social" sense="being extroverted/outgoing" />
   <glossword word="socialize" />
 </valsi>
+<valsi word="jikce'u" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+  <definition>$x_1$ is a society, a social community.</definition>
+  <definitionid>73885</definitionid>
+  <score>1</score>
+</valsi>
 <valsi word="jikfanta" type="lujvo">
   <user>
     <username>lalxu</username>
@@ -67772,6 +67793,26 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <keyword word="orienteer" place="1" />
   <keyword word="orienteering event type" place="2" />
   <keyword word="orienteering rule" place="3" />
+</valsi>
+<valsi word="jivnrgolfo" type="fu'ivla">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$j_1$ plays golf against $j_2$ in competition $j_3$ for prize/title $j_4$.</definition>
+  <definitionid>73860</definitionid>
+  <score>1</score>
+  <notes>{bolrgolfo} {esporte} {jivna}</notes>
+</valsi>
+<valsi word="jivnrpinpongo" type="fu'ivla">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$j_1$ plays ping pong against $j_2$ in competition $j_3$ for prize/title $j_4$.</definition>
+  <definitionid>73861</definitionid>
+  <score>1</score>
+  <notes>{esporte} {jivna}</notes>
 </valsi>
 <valsi word="jivyfrica" type="lujvo">
   <user>
@@ -79140,7 +79181,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ (NU) is a legal/moral entitlement of $x_2$ (individual/mass) by standard $x_3$. $x_2$ is a legal person.</definition>
   <definitionid>18212</definitionid>
-  <score>8</score>
+  <score>9</score>
   <notes>Normative principles, variously construed as legal, social, or moral freedoms or entitlements. {rarkrali} for &quot;natural rights and {flakrali} for &quot;legal rights&quot;; {xuskrali} for &quot;claim rights&quot; and {zifkrali} for &quot;liberty rights&quot;; {srakrali} for &quot;positive rights&quot; and {ri&apos;urkrali}/{badykrali} for &quot;negative rights&quot;; {sepkrali} for &quot;individual rights&quot; and {gumkrali} for &quot;group rights&quot;; {selcemkrali} for &quot;civil rights&quot; and {seljeckrali} for &quot;political rights&quot;; {jiknykrali} for &quot;economic rights&quot;, {jikykrali} for &quot;social rights&quot;, and {klukrali} for &quot;cultural rights&quot;; {remkrali} for &quot;human rights&quot; and {dalkrali} for &quot;animal rights&quot;; perhaps {kralyxai} for &quot;violate&quot;. Cf. {selfla}, {selzi&apos;e}, {terzi&apos;e}, {selzau}, {selpikta}.</notes>
   <glossword word="person" sense="legal" />
   <glossword word="right" sense="entitlement" />
@@ -86262,7 +86303,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is a fin (body part) of $x_2$.</definition>
   <definitionid>73859</definitionid>
-  <score>1</score>
+  <score>2</score>
 </valsi>
 <valsi unofficial="true" word="limfa" type="experimental gismu">
   <user>
@@ -110445,7 +110486,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ are tights/pantyhose made of $x_2$</definition>
   <definitionid>73858</definitionid>
-  <score>1</score>
+  <score>2</score>
   <glossword word="pantyhose" />
   <glossword word="tights" />
   <keyword word="tights" place="1" />
@@ -145217,13 +145258,12 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 </valsi>
 <valsi word="sorkai" type="lujvo">
   <user>
-    <username>hzrn</username>
-    <realname>hzrn</realname>
+    <username>gleki</username>
+    <realname>gleki</realname>
   </user>
-  <definition>many things satisfy property $x_1$</definition>
-  <definitionid>73474</definitionid>
+  <definition>$x_{1}$ has/is characterized by many properties/features/traits/aspects/dimensions, which are $x_{2}$ (ka)</definition>
+  <definitionid>73489</definitionid>
   <score>1</score>
-  <notes>Meaning is technically more like hypothetical zo «sormeikai». but I think zo sorkai is prettier and still intuitive.</notes>
 </valsi>
 <valsi word="sorkubli" type="lujvo">
   <user>
@@ -153975,7 +154015,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>undefined/unrepresentable value, NaN</definition>
   <definitionid>73856</definitionid>
-  <score>2</score>
+  <score>3</score>
   <glossword word="NaN" sense="value" />
   <glossword word="undefined" />
 </valsi>
@@ -170549,6 +170589,15 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>This evening (= {cabvanci}); tomorrow evening (= {bavlamvanci}); yesterday evening (= {prulamvanci}).  See also {cerni}, {murse}, {tcika}.</notes>
   <glossword word="evening" />
 </valsi>
+<valsi word="vandala" type="fu'ivla">
+  <user>
+    <username>glekizmiku</username>
+    <realname>la gleki noi jmina lo ponjo smuni</realname>
+  </user>
+  <definition>$x_1$ is a vandal doing $x_2$</definition>
+  <definitionid>44406</definitionid>
+  <score>1</score>
+</valsi>
 <valsi word="vandani" type="fu'ivla">
   <user>
     <username>glekizmiku</username>
@@ -173672,6 +173721,15 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="permafrost" sense="permanently frozen ground" />
   <keyword word="permafrost" place="1" sense="permanently frozen ground" />
 </valsi>
+<valsi word="vi'orxai" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$x_1$ (event) maims/mutilates/mangles victim $x_2$ in property $x_3$ (ka) causing lasting damage $x_4$ (state)</definition>
+  <definitionid>73863</definitionid>
+  <score>1</score>
+</valsi>
 <valsi word="vipkagni" type="lujvo">
   <user>
     <username>totus</username>
@@ -174575,6 +174633,57 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>Proposed/experimental rafsi: -vob- (cf. {vobmipri})</notes>
   <glossword word="x1 it" />
 </valsi>
+<valsi unofficial="true" word="vo'a'e" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 1st place of the innermost / current bridi with the stortest possible scope (even in descriptions).</definition>
+  <definitionid>73865</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
+</valsi>
+<valsi unofficial="true" word="vo'a'e'i" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 1st place of the innermost / current full bridi.</definition>
+  <definitionid>73875</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
+</valsi>
+<valsi unofficial="true" word="vo'a'ei" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 1st place of main / outermost bridi of this sentence.</definition>
+  <definitionid>73870</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
+</valsi>
 <valsi unofficial="true" word="vo'ai" type="experimental cmavo">
   <selmaho>SE</selmaho>
   <user>
@@ -174590,6 +174699,23 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <glossword word="promote 4th argument place" />
   <glossword word="promote 4th sumti place" />
   <glossword word="promote x4" />
+</valsi>
+<valsi unofficial="true" word="vo'a'o'e" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 1st place of a bridi within the main bridi of this sentence.</definition>
+  <definitionid>73880</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
 </valsi>
 <valsi unofficial="true" word="vo'au'u" type="experimental cmavo">
   <selmaho>VUhU</selmaho>
@@ -174635,6 +174761,57 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>100000</score>
   <glossword word="x2 it" />
 </valsi>
+<valsi unofficial="true" word="vo'e'e" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 2nd place of the innermost / current bridi with the stortest possible scope (even in descriptions).</definition>
+  <definitionid>73866</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
+</valsi>
+<valsi unofficial="true" word="vo'e'e'i" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 2nd place of the innermost / current full bridi.</definition>
+  <definitionid>73876</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
+</valsi>
+<valsi unofficial="true" word="vo'e'ei" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 2nd place of main / outermost bridi of this sentence.</definition>
+  <definitionid>73871</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
+</valsi>
 <valsi unofficial="true" word="vo'ei'a" type="experimental cmavo">
   <selmaho>PA5</selmaho>
   <user>
@@ -174646,6 +174823,23 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>2</score>
   <notes>Ω*$e^Ω$ = 1.</notes>
   <glossword word="Lambert W(1) constant Omega" sense="≈ 0.567143..." />
+</valsi>
+<valsi unofficial="true" word="vo'e'o'e" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 2nd place of a bridi within the main bridi of this sentence.</definition>
+  <definitionid>73881</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
 </valsi>
 <valsi word="vofli" type="gismu">
   <rafsi>vol</rafsi>
@@ -174693,6 +174887,23 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>3</score>
   <notes>The vo&apos;a series can target all conventional places of a selbri, but not the fai-place made by a jai conversion, hence the need for this cmavo.</notes>
 </valsi>
+<valsi unofficial="true" word="vo'i'e" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 3rd place of the innermost / current bridi with the stortest possible scope (even in descriptions).</definition>
+  <definitionid>73867</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
+</valsi>
 <valsi unofficial="true" word="voi'e" type="experimental cmavo">
   <selmaho>GOI</selmaho>
   <user>
@@ -174704,6 +174915,40 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>1</score>
   <notes>See {voi&apos;i}, {pe}</notes>
   <glossword word="titular possessive" />
+</valsi>
+<valsi unofficial="true" word="vo'i'e'i" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 5th place of the innermost / current full bridi.</definition>
+  <definitionid>73877</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
+</valsi>
+<valsi unofficial="true" word="vo'i'ei" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 3rd place of main / outermost bridi of this sentence.</definition>
+  <definitionid>73872</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
 </valsi>
 <valsi unofficial="true" word="voi'i" type="experimental cmavo">
   <selmaho>NOI</selmaho>
@@ -174726,6 +174971,23 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definitionid>17041</definitionid>
   <score>3</score>
   <glossword word="fly" sense="go to destination" />
+</valsi>
+<valsi unofficial="true" word="vo'i'o'e" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 3rd place of a bridi within the main bridi of this sentence.</definition>
+  <definitionid>73882</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
 </valsi>
 <valsi word="voiple" type="lujvo">
   <user>
@@ -175267,6 +175529,57 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>100000</score>
   <glossword word="x4 it" />
 </valsi>
+<valsi unofficial="true" word="vo'o'e" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 4th place of the innermost / current bridi with the stortest possible scope (even in descriptions).</definition>
+  <definitionid>73868</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
+</valsi>
+<valsi unofficial="true" word="vo'o'e'i" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 4th place of the innermost / current full bridi.</definition>
+  <definitionid>73878</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
+</valsi>
+<valsi unofficial="true" word="vo'o'ei" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 4th place of main / outermost bridi of this sentence.</definition>
+  <definitionid>73873</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
+</valsi>
 <valsi unofficial="true" word="vo'oi" type="experimental cmavo">
   <selmaho>UI2</selmaho>
   <user>
@@ -175278,6 +175591,23 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>2</score>
   <notes>cmavo for {voi}.</notes>
   <glossword word="non-veridical" sense="hypothetical alternative" />
+</valsi>
+<valsi unofficial="true" word="vo'o'o'e" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 4th place of a bridi within the main bridi of this sentence.</definition>
+  <definitionid>73883</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
 </valsi>
 <valsi word="vo'otka" type="fu'ivla">
   <user>
@@ -175391,6 +175721,74 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definitionid>2357</definitionid>
   <score>100000</score>
   <glossword word="x5 it" />
+</valsi>
+<valsi unofficial="true" word="vo'u'e" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 5th place of the innermost / current bridi with the stortest possible scope (even in descriptions).</definition>
+  <definitionid>73869</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
+</valsi>
+<valsi unofficial="true" word="vo'u'e'i" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 5th place of innermost application selbri (even in descriptions).</definition>
+  <definitionid>73879</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi, rather than the outermost bridi, or the innermost application (even within descriptions), or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the innermost (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost applicable selbri, allowing for direct reflexives, even in applications (suggest mneumonic: rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the {&apos;ei} variant (outermost) would mean that those who know the speaker are good for the team, the {&apos;e} (innermost / current) variant would mean that those who know the team are good for it, and the {&apos;e&apos;i} variant would mean that those who know themselves are beneficial for the team.</notes>
+</valsi>
+<valsi unofficial="true" word="vo'u'ei" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 5th place of main / outermost bridi of this sentence.</definition>
+  <definitionid>73874</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
+</valsi>
+<valsi unofficial="true" word="vo'u'o'e" type="experimental cmavo">
+  <selmaho>KOhA4</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>pro-sumti: repeats 5th place of a bridi within the main bridi of this sentence.</definition>
+  <definitionid>73884</definitionid>
+  <score>1</score>
+  <notes>{ni&apos;o} Proposed experimental cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} is a variant of {vo&apos;a}…{vo&apos;u} and is the same except it is explicitly a pro-sumti for the current (innermost) bridi with the shortest possible scope (even in descriptions), rather than the outermost bridi, or the innermost / current full bridi, or with the bridi choice left vague.
+
+{ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
+
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+
+{ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
 </valsi>
 <valsi word="vo zei sumtika" type="zei-lujvo">
   <user>
@@ -196152,6 +196550,8 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 <nlword word="barely" sense="almost not at all" valsi="ja&apos;aru&apos;e" />
 <nlword word="decreasing number" valsi="ja&apos;au" />
 <nlword word="brake" valsi="jabre" />
+<nlword word="chute" sense="parachute" valsi="jabrybu&apos;u" />
+<nlword word="parachute" sense="cloth for braking" valsi="jabrybu&apos;u" place="1" />
 <nlword word="ring" sense="bell" valsi="jabyselsna" />
 <nlword word="tubular bell" valsi="jabytu&apos;u" />
 <nlword word="tubular chime" valsi="jabytu&apos;u" />
