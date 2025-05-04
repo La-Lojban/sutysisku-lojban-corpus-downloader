@@ -10231,7 +10231,7 @@
   </user>
   <definition>emphasis indicator; indicates the previous word is especially emphasized</definition>
   <definitionid>37965</definitionid>
-  <score>3</score>
+  <score>4</score>
   <notes>Equivalent to {ba&apos;e} but in UI. See also {ba&apos;e}</notes>
   <glossword word="emphasize previous" />
 </valsi>
@@ -69025,7 +69025,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is $x_2$ degrees in angular measure (default is 1)</definition>
   <definitionid>8588</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Cf. {junla}, {radno}, {cacryra&apos;o}, {plinyxabykoi}, {jedjipli&apos;i}.  {pi&apos;e} used in x2 indicates a base of 60.  </notes>
   <glossword word="degree " sense="360 in a circle" />
   <keyword word="angle" place="1" sense="in degrees" />
@@ -70498,7 +70498,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>kansa modal, 1 place; with .../with a companion ...</definition>
   <definitionid>37906</definitionid>
-  <score>3</score>
+  <score>4</score>
   <notes>See also {kansa}</notes>
   <glossword word="with" />
 </valsi>
@@ -85160,6 +85160,21 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definitionid>1757</definitionid>
   <score>100000</score>
   <glossword word="passive" />
+</valsi>
+<valsi unofficial="true" word="le'oi" type="experimental cmavo">
+  <selmaho>BAI</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>lenjo modal, 1st place (with lens; seen through view) accessed through interface; as …</definition>
+  <definitionid>73886</definitionid>
+  <score>2</score>
+  <notes>{le&apos;oi}: modal for {lenjo}.  Suitable for use as an option for one of the meanings of the English ‘as’, as in ‘in the role of’.  Inspired by Haskell lenses, analogous to this use.  {le&apos;oi} is similar to {se}{tai}, meaning ‘in form’, and {fi&apos;o} {te} {jvinu}.  {le&apos;oi} focuses more on aspect than other types of correspondences, such using the more general modals {tai} (or {fi&apos;o} {mapti} a bit more rigidly, possibly in a tanru) to express ‘as’, similarity, manners, conformance, proportionalities (suggestion: {fi&apos;o} {te} {parbi} as in ‘for each’ or ‘per’), concurrence (e.g. in time), degree/extent (see {se}{la&apos;u}, {du&apos;i}, or {fi&apos;o} {kuspe}), ‘in the sense of’ (see {fi&apos;o} {smuni}), or other types.  Note: This proposed experimental cmavo costs 5 letters and a slot in 5-letter space, a relatively short word which can often be more efficiently allocated for more frequent, important, or fitting use.  Alternative, better designs or more efficient allocations can be proposed, possibly in a forked standard or dictionary.
+
+ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka nabypalne zbasu cu se vamji cmalu .ijeku&apos;i lo terle&apos;o be fi loka fagri cfagau cu mutce certu» - — As a pie-maker, the broken oven was of little worth, but as a fire starter, it was very good at it.
+
+ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei se cimde» — As a magnitude, a vector is one-dimensional.</notes>
 </valsi>
 <valsi word="le'onai" type="cmavo-compound">
   <selmaho>UI*5</selmaho>
@@ -100412,7 +100427,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ is a vector of dimension $x_2$ with coordinates $x_3$, $x_4$, $x_5$, ...</definition>
   <definitionid>13973</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>See also {relnacmei}, {cibnacmei}, {pinynacmei}, {rajnacmei}, {nacmemsu&apos;a}</notes>
   <glossword word="vector" sense="n-dimensional" />
 </valsi>
@@ -129583,6 +129598,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>100000</score>
   <glossword word="strong emotion" />
 </valsi>
+<valsi unofficial="true" word="sai'a" type="experimental cmavo">
+  <selmaho>BAI</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>simsa modal, 1st place (similarity) as a likeness for …</definition>
+  <definitionid>73887</definitionid>
+  <score>2</score>
+</valsi>
 <valsi word="saibu" type="bu-letteral">
   <selmaho>BY*</selmaho>
   <user>
@@ -131090,7 +131115,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$xa_1$ is a pointing device for computer $xa_2=s_1$.</definition>
   <definitionid>17326</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>Pointing devices include: mouse, trackball, touchpad, touchscreen, graphics tablet, joystick, pointing stick. Cf. {pevysmacu}, {skami}, {xance}.</notes>
   <glossword word="pointing device" sense="computer input interface" />
 </valsi>
@@ -138322,7 +138347,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>elliptical/generic/unspecific/vague selbri conversion</definition>
   <definitionid>63977</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Basically says &apos;in some (id est: at least one) ordering/permutation, these arguments and this selbri make sense [and I claim the produced sentence]&apos;. The ordering may be complicated, or it could even be the case that multiple orderings work.  Can be useful for when one does not quite remember or care about the exact definition of a brivla, including in sumti; can also be useful when the conversion is particularly complicated, when a desired terbri has a large index, or when multiple conversions are true; it is an allowed, if unhelpful, response to {se&apos;u&apos;o}.</notes>
   <glossword word="elliptical selbri conversion" />
 </valsi>
@@ -138624,6 +138649,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>See also {stapa}, {loldi}, {senta}.</notes>
   <glossword word="stairs" />
   <keyword word="step" place="1" sense="one of a set of stair rests" />
+</valsi>
+<valsi word="sesai'a" type="cmavo-compound">
+  <selmaho>BAI*</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>simsa modal, 2nd place (similarity) similar to; like …</definition>
+  <definitionid>73888</definitionid>
+  <score>2</score>
 </valsi>
 <valsi word="sesau" type="cmavo-compound">
   <selmaho>BAI*</selmaho>
@@ -158951,18 +158986,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 </valsi>
 <valsi word="terbatci" type="lujvo">
   <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
+    <username>seryf</username>
+    <realname>Seth Turner</realname>
   </user>
-  <definition>$x_3=b_1$ bites/pinches $x_2=b_2$ on/at specific locus $x_1=b_3$ with $x_4=b_4$.</definition>
-  <definitionid>14723</definitionid>
+  <definition>$x_1$ is the locus where $x_2$  is bitten/pinched by $x_3$ with $x_4$.</definition>
+  <definitionid>16393</definitionid>
   <score>1</score>
-  <notes>{te} {batci}</notes>
   <glossword word="bite locus" />
   <keyword word="bite locus" place="1" />
   <keyword word="bitten" place="2" />
   <keyword word="biter" place="3" />
-  <keyword word="biting tool" place="4" />
 </valsi>
 <valsi word="terbatke" type="lujvo">
   <user>
@@ -171730,18 +171763,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 </valsi>
 <valsi word="velbatci" type="lujvo">
   <user>
-    <username>brtais</username>
-    <realname>Robert Heiss</realname>
+    <username>seryf</username>
+    <realname>Seth Turner</realname>
   </user>
-  <definition>$x_4=b_1$ bites/pinches $x_2=b_2$ on/at specific locus $x_3=b_3$ with $x_1=b_4$.</definition>
-  <definitionid>14722</definitionid>
+  <definition>$x_{1}$ is the biting tool with which $x_{2}$ is bitten at locus $x_{3}$ by $x_{4}$.</definition>
+  <definitionid>16394</definitionid>
   <score>1</score>
-  <notes>{ve} {batci}</notes>
   <glossword word="biting tool" />
   <keyword word="biting tool" place="1" />
   <keyword word="bitten" place="2" />
   <keyword word="bite locus" place="3" />
-  <keyword word="biter" place="4" />
 </valsi>
 <valsi word="velbatke" type="lujvo">
   <user>
@@ -174646,7 +174677,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
 
 {ni&apos;o} The {vo&apos;a}…{vo&apos;u} sequence&apos;s choice of bridi is ambiguous: it depends on which Lojban standard you use.  Under the CLL, it is the current bridi, meaning it is the same as the proposed cmavo sequence: {vo&apos;a&apos;e}…{vo&apos;u&apos;e}.  Under {la} {ma&apos;oste} usage, it is the outermost bridi.  See also the English Lojban wiki&apos;s page titled ‘&apos;&apos;&apos;vo&apos;a&apos;&apos;&apos; in the CLL and in the ma&apos;oste’ for a discussion on this topic.
 
-{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)
+{ni&apos;o} Proposed secondary axis index semantics: Use e.g. {vo&apos;a&apos;e}{xi}{pi&apos;e}{re} to refer to the second-innermost bridi.  Perhaps {vei}…{ve&apos;o} can be used to nest groups if needed.  (Without {pi&apos;e}, {vo&apos;a&apos;e} as usual if indexed with {xi} would just change what place it refers to, e.g. x6.) (Perhaps then {vo&apos;a&apos;e} would be shorthand for {vo&apos;a}{xi}{pi&apos;e}{ni&apos;u}{pa} or {vo&apos;a}{xi}{pi&apos;e}{ro} under the {la} {ma&apos;oste} language dialect, saving 5 syllables.)  Alternatively, use compound subscripts as described in CLL 18.17 e.g. {vo&apos;a&apos;e}{xi}{vei}{xo&apos;e}{ce&apos;o}{re}.
 
 {ni&apos;o} Additional proposed experimental cmavo sequences: {vo&apos;a&apos;e}…{vo&apos;u&apos;e} selects bridi from the shortest possible scope, allowing for direct reflexives (even in descriptions) (suggested mneumonic: ‘&apos;e’ as in ‘se’ for a reflexive pronomial verb in some languages), {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} selects bridi from the outermost bridi (suggested mneumonic: ‘&apos;ei’ as in ‘nei’ (like ‘dei’) as an alternative to using {vo&apos;a&apos;ei}…{vo&apos;u&apos;ei} when combined with {lo} and SE), and {vo&apos;a&apos;e&apos;i}…{vo&apos;u&apos;e&apos;i} selects from the innermost / current full bridi (suggest mneumonic: adding an extra ‘&apos;i’ looks similar to the outer-bridi-separator {i}, and also ‘e&apos;i’ is in ‘se&apos;i’ which is a rafsi of {sevzi}).  Finally, {vo&apos;a&apos;o&apos;e}…{vo&apos;a&apos;o&apos;e} could be defined for the variant of an unspecified bridi, as in {xi}{pi&apos;e}{xo&apos;e}.  Example: in {i} {mi} {krici} {lo}{du&apos;u} {lo} {bende} {cu} {se} {xamgu} {lo} {djuno} {be} {fi} {vo&apos;a}, the ‘&apos;e’ variant (shortest) would mean that those who know themselves are good for the team, the ‘&apos;ei’ variant (outermost) would mean that those who know the speaker are beneficial for the team, and the ‘&apos;e&apos;i’ variant would mean that those who know the team are good for it.</notes>
 </valsi>
@@ -186339,7 +186370,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$l_1$ zooms out $l_2$(object) to focus/magnification $l_3$ by means $l_4$</definition>
   <definitionid>73652</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>cf. {ze&apos;o} {lenjo} Can be used to describe a lens focusing, screen, or non-optical device.</notes>
 </valsi>
 <valsi word="zevlyjvo" type="lujvo">
@@ -188747,7 +188778,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$l_1$ zooms in $l_2$(object) to focus/magnification $l_3$ by means $l_4$</definition>
   <definitionid>73653</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>cf. {zo&apos;i} {lenjo} Can be used to describe a lens focusing, screen, or non-optical device.</notes>
 </valsi>
 <valsi word="zorpinji" type="lujvo">
