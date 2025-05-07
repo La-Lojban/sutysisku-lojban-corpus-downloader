@@ -17668,6 +17668,15 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>“in motion”, not implying a change in location, is negation of this: {narcando}. See also {surla}.</notes>
   <glossword word="idle" />
 </valsi>
+<valsi word="candre" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+  <definition>$x_1$ is a sandhill, a dune.</definition>
+  <definitionid>73889</definitionid>
+  <score>2</score>
+</valsi>
 <valsi word="cangan" type="cmevla">
   <user>
     <username>arj</username>
@@ -20202,7 +20211,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>discursive: marks an utterance as using something that is experimental/not official, especially experimental grammar</definition>
   <definitionid>66072</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>In some sense, functions as an error marker or an error quote (but without the quote).</notes>
   <glossword word="mark experimental utterance" />
 </valsi>
@@ -22633,6 +22642,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>1</score>
   <notes>A must be a tuple. Let L = length(A); then L is a positive integer, 0, or infinity (countable), and  A = (A_1, A_2, ..., A_L), and B must be a natural number and belong to the ordered interval [1, L]. If L = 0, the output is a placeholder &quot;blank element&quot;; else, if B does not satisfy the aforementioned condition, then the function is undefined. Using the aforementioned notation, and letting Proj represent the projection function, Proj(A, B) = A_B; note that B = 1 will cause the output of the first entry in the tuple, which is A_1. For any i, there is no restriction on the typing/value of A_i so long as it is defined; the type of A_i need not even match the type of A_j for i =/= j. See also: {bai&apos;ei}, {no&apos;au&apos;au}, {pi&apos;ei}. Notice that the input is a single tuple and an integer, it does not rely on anyou underlying stucture; this is markedly different from a the dot product of vectors, although by establishing a basis and an underlying field, they can look quite similar.</notes>
   <glossword word="projection operator" />
+</valsi>
+<valsi unofficial="true" word="ci'o'ei" type="experimental cmavo">
+  <selmaho>SEI</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>Convert arbitrary bridi to UI with the grammar of {sei}.</definition>
+  <definitionid>73895</definitionid>
+  <score>1</score>
+  <notes>This general mechanism facilitates more general bridging between simple bridi and a specific feature of Lojban grammar, aiding in providing for a more minimal grammar foundation.  {ci&apos;o&apos;ei} can convert to UI arbitrary bridi, allowing the creation of new attitudinals.</notes>
 </valsi>
 <valsi unofficial="true" word="ci'oi" type="experimental cmavo">
   <selmaho>COI2</selmaho>
@@ -35935,7 +35955,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>$x_1$ (amount/value (li/ni) or labelled entity) is the (mutual) difference between/change in (states/realizations of/output from) general and relevant idea/object or subject of interest or function/aspect/property/topic/dependent parameter/dependent variable $x_2$ under or due to a change in (independent) parameter/variable/index/identification/ownership/property/aspect $x_3$ (generic name) to (later) specific state/realization/value/person/entity/meaning $x_4$ (type and dimensions match those of $x_3$) from (earlier) specific state/realization/value/person/entity/meaning $x_5$ (type and dimensions match that of $x_3$), under circumstances/conditions/with(in) scope/with caveats $x_6$.</definition>
   <definitionid>69711</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>Especially in reference to incremental or quantized (or discretely observed) changes. $x_2$ is an $x_1$-type-valued function of $x_3$; $x_4$ and $x_5$ are realizations of $x_3$ (therefore, all three share type). For example, $x_1$ could be some value with dimensions of currency/money/monetary value measured in real numbers, $x_2$ could be a specific business&apos; profit from certain sales, $x_3$ may be time (so, $x_2$ would be the profit over time, measured in a real number of units of currency), and $x_4$ and $x_5$ would be specific times - such as today and yesterday, respectively. Ideally, all factors, variables, conditions, etc. other than $x_3$ should remain constant or there should be a control group/population which records the effects of changes in other factors, variables, conditions, etc.; however, in real life, things can be more complicated or messy and it is hard to ensure that all factors are accounted for (especially in social experiments and business); $x_5$ records those other conditions or specifies the scope (for example: subjects, time, and location) of the &apos;experiment&apos;. Typically, $x_4$ will be temporally later than $x_5$, but this need not be the case; in any case, $x_4$ is taken to be the latter state (etc.) under consideration in the present analysis in the context of this word&apos;s usage (in some sequence). $x_1$ could be &quot;0&quot; (whatsoever that means) - it could even be identically so; in other words, there need be no change or mutual difference, even in principle (the function/object could be constant); and this fact could even be known a priori. See also: &quot;{sumji}&quot; / &quot;{selsumji}&quot;.</notes>
   <glossword word="change" sense="in amount/variable" />
   <glossword word="difference " sense="in amount/variable" />
@@ -39095,6 +39115,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <definition>George</definition>
   <definitionid>38247</definitionid>
   <score>1</score>
+</valsi>
+<valsi word="djubakfu" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$b_1$ is a kit containing items $b_2$ for purpose $s_3$</definition>
+  <definitionid>73891</definitionid>
+  <score>1</score>
+  <notes>cf. {sidju} {bakfu}</notes>
 </valsi>
 <valsi word="djucpe" type="lujvo">
   <user>
@@ -49723,6 +49753,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>1</score>
   <notes>The great Bohemian author (1883-1924).</notes>
 </valsi>
+<valsi word="fraseljimca" type="lujvo">
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>$x_1=j_2=f_1$ is a switch with branches / for toggling $x_2=j_1=f_2$ triggered by $x_3=f_3$ under conditions $x_4=f_4$.</definition>
+  <definitionid>73899</definitionid>
+  <score>1</score>
+  <glossword word="switch" sense="a toggleable" />
+  <keyword word="switch" place="1" sense="a toggleable" />
+  <keyword word="trigger" place="3" sense="switch trigger" />
+</valsi>
 <valsi word="fraso" type="gismu">
   <rafsi>fas</rafsi>
   <user>
@@ -51953,6 +51995,16 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <notes>Cf. {garna}, {bitmu}.</notes>
   <glossword word="fence" sense="separating structure" />
   <keyword word="fence" place="1" sense="separating structure" />
+</valsi>
+<valsi unofficial="true" word="gardu" type="experimental gismu">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+  <definition>$x_1$ is a dresser/armoire/wardrobe/closet for storing $x_2$</definition>
+  <definitionid>73892</definitionid>
+  <score>1</score>
+  <notes>see also {kajna} {vasru} {nilce}</notes>
 </valsi>
 <valsi word="garna" type="gismu">
   <rafsi>gar</rafsi>
@@ -77974,6 +78026,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   <score>100000</score>
   <glossword word="bounded by" />
 </valsi>
+<valsi unofficial="true" word="koi'au" type="experimental cmavo">
+  <selmaho>BAI</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>kancau modal, 1st place (individually; separately) with individuals …</definition>
+  <definitionid>73900</definitionid>
+  <score>1</score>
+  <notes>Example: «{le} {prenu} {be} {se}{koi&apos;au} {cu} {bevri} {le} {pipno}» declares each person individually carried the piano, rather than leaving individuality or togetherness vague.</notes>
+</valsi>
 <valsi word="koidru" type="lujvo">
   <user>
     <username>Wuzzy</username>
@@ -83555,7 +83618,7 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
   </user>
   <definition>single-word non-Lojban name; quotes a single non-Lojban word delimited by pauses and treats it as a name</definition>
   <definitionid>16347</definitionid>
-  <score>2</score>
+  <score>3</score>
   <notes>See also {la&apos;o}, {zo&apos;oi}.</notes>
   <glossword word="1-word non-Lojban name" />
 </valsi>
@@ -87649,7 +87712,7 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   </user>
   <definition>Description clause: create a sumti from the enclosed bridi, describing the referent of the created sumti as filling the bridi place filled with {ke&apos;a}.</definition>
   <definitionid>56727</definitionid>
-  <score>3</score>
+  <score>4</score>
   <notes>Notes: Full-bridi equivalent of {lo}. Terminator: {ku&apos;au}.</notes>
   <glossword word="Description clause" />
 </valsi>
@@ -90400,6 +90463,17 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   <glossword word="operator" sense="mathematical; generic/elliptical/vague" />
   <glossword word="vague operator" />
 </valsi>
+<valsi unofficial="true" word="ma'o'ei" type="experimental cmavo">
+  <selmaho>SEI</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>With meaning / function.  Take the cmavo preceding as the selma&apos;o, and convert the arbitrary bridi following it to give it meaning or function.</definition>
+  <definitionid>73898</definitionid>
+  <score>1</score>
+  <notes>General cmavo creation for existing grammar.  This can be used to convert arbitrary meaning (or cmavo, represented in a bridi) to a desired selma&apos;o.  This is {sei} specialized to modifying the meaning of the cmavo or word preceding {ma&apos;o&apos;ei} while preserving its grammar.  (See also {ci&apos;o&apos;ei} for a specialization of {ma&apos;o&apos;ei} to UI.)</notes>
+</valsi>
 <valsi unofficial="true" word="ma'oi" type="experimental cmavo">
   <selmaho>ZO</selmaho>
   <user>
@@ -90590,6 +90664,18 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   <notes>See {zipcpi}, {matkarozipcpi}</notes>
   <glossword word="crested penguin" />
   <glossword word="Eudyptes" />
+</valsi>
+<valsi word="marbartu" type="lujvo">
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>$x_1=b_1=m_2$ does not conform to / obey standard $x_2=b_2=m_2$ with rules $x_3=m_3$; $x_1$ is nonstandard / experimental / non-comformant.</definition>
+  <definitionid>73897</definitionid>
+  <score>1</score>
+  <notes>See also {martinbe}.</notes>
+  <glossword word="experimental" sense="nonstandard" />
+  <glossword word="nonstandard" />
 </valsi>
 <valsi word="marbela" type="fu'ivla">
   <user>
@@ -91001,6 +91087,17 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   <score>1</score>
   <notes>See also: {djanuua}, {ferbruua}, {priliio}, {mardjiio}, {djuniio}, {djuliio}.</notes>
   <glossword word="March" sense="month" />
+</valsi>
+<valsi word="martinbe" type="lujvo">
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>$x_1=t_1=m_2$ conforms to / is compliant with standard $x_3=t_3=m_1$ with rules $x_2=t_2=m_3$; $x_1$ is standard.</definition>
+  <definitionid>73896</definitionid>
+  <score>1</score>
+  <notes>Synonym: {marmansa}</notes>
+  <glossword word="standard" sense="being normal" />
 </valsi>
 <valsi unofficial="true" word="martio" type="obsolete fu'ivla">
   <user>
@@ -93127,7 +93224,7 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   </user>
   <definition>non-Lojban brivla</definition>
   <definitionid>17479</definitionid>
-  <score>5</score>
+  <score>6</score>
   <notes>Quick way to borrow foreign words into Lojban. Also known as &quot;stage-0 fu&apos;ivla&quot;. Equivalent to {me&apos;au} {la&apos;e} {zo&apos;oi}. See {mu&apos;oi}.</notes>
   <glossword word="foreign brivla" />
   <glossword word="non-Lojban brivla" />
@@ -96492,7 +96589,7 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   </user>
   <definition>$x_1$ forgets $x_2$; $x_1$ loses remembrance of $x_2$</definition>
   <definitionid>67805</definitionid>
-  <score>3</score>
+  <score>4</score>
   <notes>See also {mo&apos;ifli}, {tolmo&apos;i}, {morji}.</notes>
   <glossword word="forget" sense="losing remembrance" />
 </valsi>
@@ -109927,6 +110024,16 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   <score>1</score>
   <notes>Disappointed, let down, crestfallen.</notes>
 </valsi>
+<valsi unofficial="true" word="pa'ai" type="experimental cmavo">
+  <selmaho>BAI</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>parbi modal, 1st place (proportionality; in ratio / rate) with proportion …</definition>
+  <definitionid>73904</definitionid>
+  <score>1</score>
+</valsi>
 <valsi word="pa'aku" type="cmavo-compound">
   <selmaho>BAI*</selmaho>
   <user>
@@ -112127,6 +112234,17 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   <notes>See also {fa&apos;i}</notes>
   <glossword word="inverse" sense="multiplicative" />
   <glossword word="reciprocal" sense="multiplicative inverse" />
+</valsi>
+<valsi word="pavdu'i" type="lujvo">
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>$d1$ is unique in property/dimension/quantity/aspect $d3$.</definition>
+  <definitionid>73907</definitionid>
+  <score>1</score>
+  <glossword word="unique" />
+  <keyword word="unique" place="1" />
 </valsi>
 <valsi word="pavdutcinse" type="lujvo">
   <user>
@@ -115922,6 +116040,19 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   <notes>from ma&apos;oste</notes>
   <glossword word="grasshopper" />
   <keyword word="grasshopper" place="1" />
+</valsi>
+<valsi word="pipyzajba" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ performs gymnastics/acrobatics move/routine $x_2$; $x_1$ is a gymnast/acrobat</definition>
+  <definitionid>73894</definitionid>
+  <score>1</score>
+  <notes>see proposal to generalize {zajba} to all athletic disciplines; this word would replace the old meaning as specific to gymnastics.</notes>
+  <glossword word="acrobatics" sense="athletic discipline" />
+  <glossword word="gymnastics" sense="athletic discipline" />
+  <keyword word="gymnast" place="1" sense="person who does gymnastics" />
 </valsi>
 <valsi word="pireines" type="cmevla">
   <user>
@@ -133569,6 +133700,17 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   <score>100000</score>
   <glossword word="as boundary of" />
 </valsi>
+<valsi word="sekoi'au" type="cmavo-compound">
+  <selmaho>BAI*</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>kancau modal, 2nd place (individually; separately) separately from …</definition>
+  <definitionid>73902</definitionid>
+  <score>1</score>
+  <notes>Example: «{le} {prenu} {be} {se}{koi&apos;au} {cu} {bevri} {le} {pipno}» declares each person individually carried the piano, rather than leaving individuality or togetherness vague.</notes>
+</valsi>
 <valsi unofficial="true" word="sekre" type="experimental gismu">
   <user>
     <username>glekizmiku</username>
@@ -138384,6 +138526,16 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   <definitionid>2146</definitionid>
   <score>100000</score>
   <glossword word="similar to" />
+</valsi>
+<valsi word="sepa'ai" type="cmavo-compound">
+  <selmaho>BAI*</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>parbi modal, 2nd place (proportionality; in ratio / rate) proportional in quantity …</definition>
+  <definitionid>73905</definitionid>
+  <score>1</score>
 </valsi>
 <valsi word="sepa'u" type="cmavo-compound">
   <selmaho>BAI*</selmaho>
@@ -143718,6 +143870,19 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   <notes>Cf. {armoraki}, {kobli}, {cpinytsapi}, {sansrmustardo}, {koblrsinapi}.</notes>
   <glossword word="mustard" sense="plant" />
 </valsi>
+<valsi word="snapra" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+  <definition>$x_1$ emits/produces sound $x_2$ by process $x_3$</definition>
+  <definitionid>73893</definitionid>
+  <score>1</score>
+  <glossword word="emit" sense="produce sound" />
+  <glossword word="make noise" sense="produce sound" />
+  <glossword word="make sound" sense="produce sound" />
+  <keyword word="producer of sound" place="1" />
+</valsi>
 <valsi word="snasni" type="lujvo">
   <user>
     <username>janbe</username>
@@ -145473,6 +145638,18 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   <glossword word="bus station" />
   <glossword word="bus stop" />
   <glossword word="bus terminal" />
+</valsi>
+<valsi word="sorprevinji" type="lujvo">
+  <user>
+    <username>latkerlo</username>
+    <realname>latkerlo</realname>
+  </user>
+  <definition>$x_1$ is an airliner/large passenger aircraft for carrying $x_2$, propelled by $x_3$.</definition>
+  <definitionid>73890</definitionid>
+  <score>1</score>
+  <notes>Unlike {previnji}, explicitly excludes &quot;light aircraft&quot;. From {so&apos;i}, {prenu}, {vinji}. See {sorprekarce}, {sorpeka}.</notes>
+  <glossword word="airliner" />
+  <glossword word="large passenger aircraft" />
 </valsi>
 <valsi word="sorselcei" type="lujvo">
   <user>
@@ -158026,6 +158203,17 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   <score>100000</score>
   <glossword word="bordering" />
 </valsi>
+<valsi word="tekoi'au" type="cmavo-compound">
+  <selmaho>BAI*</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>kancau modal, 3nd place (individually; separately) separately in context / enterprise …</definition>
+  <definitionid>73903</definitionid>
+  <score>1</score>
+  <notes>Example: «{le} {prenu} {be} {se}{koi&apos;au} {cu} {bevri} {le} {pipno}» declares each person individually carried the piano, rather than leaving individuality or togetherness vague.</notes>
+</valsi>
 <valsi word="tektoni" type="fu'ivla">
   <user>
     <username>gleki</username>
@@ -158629,6 +158817,16 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   <definitionid>2251</definitionid>
   <score>100000</score>
   <glossword word="contrasting property" />
+</valsi>
+<valsi word="tepa'ai" type="cmavo-compound">
+  <selmaho>BAI*</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+  <definition>parbi modal, 3rd place (proportionality; in ratio / rate) for each; per …</definition>
+  <definitionid>73906</definitionid>
+  <score>1</score>
 </valsi>
 <valsi word="tepcai" type="lujvo">
   <user>
@@ -184329,7 +184527,7 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   </user>
   <definition>$x_1$ rents $x_2$ [goods/service/commodity] to $x_3$ for cost $x_4$ for duration $x_5$</definition>
   <definitionid>20035</definitionid>
-  <score>1</score>
+  <score>2</score>
   <notes>Cf. {zasni}, {vecnu}</notes>
   <glossword word="rent" />
 </valsi>
@@ -188721,7 +188919,7 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
   </user>
   <definition>quote next non-Lojban word only; quotes a single non-Lojban word delimited by pauses (in speech) or whitespace (in writing)</definition>
   <definitionid>16346</definitionid>
-  <score>3</score>
+  <score>4</score>
   <notes>See also {zo}, {zoi}, {la&apos;oi}.</notes>
   <glossword word="1-word non-Lojban quote" />
 </valsi>
@@ -195428,6 +195626,8 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
 <nlword word="raspberry" valsi="frambesi" />
 <nlword word="buckthorn" valsi="frangula" />
 <nlword word="postage stamp" valsi="frankobolo" />
+<nlword word="switch" sense="a toggleable" valsi="fraseljimca" place="1" />
+<nlword word="trigger" sense="switch trigger" valsi="fraseljimca" place="3" />
 <nlword word="French" valsi="fraso" />
 <nlword word="Gothic" sense="style, aesthetic" valsi="frasuje" />
 <nlword word="react" valsi="frati" />
@@ -199905,6 +200105,8 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
 <nlword word="milliner" valsi="mapypre" />
 <nlword word="crested penguin" valsi="mapyzipcpi" />
 <nlword word="Eudyptes" valsi="mapyzipcpi" />
+<nlword word="experimental" sense="nonstandard" valsi="marbartu" />
+<nlword word="nonstandard" valsi="marbartu" />
 <nlword word="Cuscuta" sense="parasitic plant" valsi="marbela" />
 <nlword word="dodder" valsi="marbela" place="1" />
 <nlword word="host of dodder" valsi="marbela" place="3" />
@@ -199955,6 +200157,7 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
 <nlword word="marzipan" valsi="marsipane" place="1" />
 <nlword word="marzipan type" valsi="marsipane" place="2" />
 <nlword word="porpoise" sense="cetacean" valsi="marsopa" place="1" />
+<nlword word="standard" sense="being normal" valsi="martinbe" />
 <nlword word="mash" valsi="marxa" />
 <nlword word="maraca" sense="percussion instrument" valsi="marxaka" place="1" />
 <nlword word="maraca filling" valsi="marxaka" place="2" />
@@ -203024,6 +203227,9 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
 <nlword word="super ball" sense="bouncy ball" valsi="pipyboi" />
 <nlword word="bounce" sense="make something jump" valsi="pipygau" />
 <nlword word="grasshopper" valsi="pipyjalra" />
+<nlword word="acrobatics" sense="athletic discipline" valsi="pipyzajba" />
+<nlword word="gymnast" sense="person who does gymnastics" valsi="pipyzajba" place="1" />
+<nlword word="gymnastics" sense="athletic discipline" valsi="pipyzajba" />
 <nlword word="the Pyrenees" valsi="pireines" />
 <nlword word="is a fifth portion" valsi="piresi&apos;e" />
 <nlword word="art form" sense="style of painting" valsi="pirlarfi&apos;i" place="3" />
@@ -206242,6 +206448,10 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
 <nlword word="speaker" sense="audio equipment" valsi="snami&apos;i" />
 <nlword word="Sothoryos" sense="culture: A Song of Ice and Fire" valsi="snanorio" />
 <nlword word="south" valsi="snanu" />
+<nlword word="emit" sense="produce sound" valsi="snapra" />
+<nlword word="make noise" sense="produce sound" valsi="snapra" />
+<nlword word="make sound" sense="produce sound" valsi="snapra" />
+<nlword word="producer of sound" valsi="snapra" place="1" />
 <nlword word="beep" sense="sound signal" valsi="snasni" />
 <nlword word="click" sense="sound signal" valsi="snasni" />
 <nlword word="signal" sense="sound representing a concept" valsi="snasni" place="1" />
@@ -206452,6 +206662,7 @@ ni&apos;o Example with modal: «lo nacmei be le&apos;oi loka se clalai cu pamei 
 <nlword word="bus station" valsi="sorprekarcytcana" />
 <nlword word="bus stop" valsi="sorprekarcytcana" />
 <nlword word="bus terminal" valsi="sorprekarcytcana" />
+<nlword word="large passenger aircraft" valsi="sorprevinji" />
 <nlword word="polytheist" valsi="sorselcei" />
 <nlword word="dormitory" valsi="sorsipydi&apos;u" />
 <nlword word="colorful" sense="to have many colors" valsi="sorska" />
