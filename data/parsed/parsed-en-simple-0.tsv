@@ -1,4 +1,4 @@
-@rowCount	1402
+@rowCount	1403
 w	d	t	g	r	n	v	s
 bacru	$x_1$ utters $x_2$	gismu	an utterer	ba'u;bacr;bacru
 badna	$x_1$ is a banana fruit or plant of species $x_2$	gismu	a banana	badn;badna
@@ -1384,6 +1384,7 @@ tasta	$x_1$ is a taste of $x_2$	experimental gismu	taste	tasta
 turko	$x_1$ reflects Turkish culture/nationality/language in aspect $x_2$	experimental gismu	Turkish	turko
 vedli	$x_1$ remembers experience $x_2$ (li'i)	experimental gismu	the one who remembers their experience	vedli
 xorbo	$x_1$ pertains to xorban language/culture in aspect $x_2$	experimental gismu	Xorban	xorbo
+pabykanpystika	$x_1$=$s_1$ is evidence for $x_2$=$k_2$ with strength of evidence $x_3$=$s_3$=$p_1$ (numerator $x_4$=$p_2$, denominator $x_5$=$p_3$, believer $x_6$=$k_1$, new odds $x_7$=$k_3$, old odds $x_8$=$s_2$).	lujvo	evidence		Bayesian evidence.	parbi;kanpe;stika
 selkicrypoi	$x_1$ is a podcast series, ordered by $x_2$ (ka), with episodes $x_3$	lujvo				se;-kicr-;porsi
 tolja'e	the negation of $x_1$ (event/state) is a result/outcome/conclusion of antecedent $x_2$ (event/state). $x_1$ is prevented by $x_2$.	lujvo	prevented by		{to'e} {jalge}. ``lo nu broda cu tolja'e lo nu brode'' has the same meaning as ``lo nu na broda cu jalge lo nu brode.''	to'e;jalge
 tolki'u	$x_1$ (event/state) is a reason/justification/explanation for/causing/permitting the negation of $x_2$ (event/state). $x_1$ prevents $x_2$.	lujvo	prevent		{to'e} {krinu}. ``lo nu broda cu tolki'u lo nu brode'' has the same meaning as ``lo nu broda cu krinu lo nu na brode.''	to'e;krinu

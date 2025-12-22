@@ -7,27 +7,27 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li kalama tan uta e kalama $x_2$</definition>
-  <definitionid>73262</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {krixa}, {cmoni}, {voksa}, {cusku}, {tavla}</notes>
-  <glossword word="kalama uta" />
-  <keyword word="jan kalama uta" place="1" />
-  <keyword word="kalama uta" place="2" />
+      <definition>$x_1$ li kalama tan uta e kalama $x_2$</definition>
+      <definitionid>73262</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {krixa}, {cmoni}, {voksa}, {cusku}, {tavla}</notes>
+      <glossword word="kalama uta" />
+      <keyword word="jan kalama uta" place="1" />
+      <keyword word="kalama uta" place="2" />
 </valsi>
 <valsi word="badna" type="gismu">
   <user>
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li kili palisa jelo anu kasi pi kili ni, li tan kulupu $x_2$ pi kasi sama</definition>
-  <definitionid>73263</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {grute}, {plise}, {nimre}, {perli}</notes>
-  <glossword word="kasi pi kili palisa jelo" />
-  <glossword word="kili palisa jelo" />
-  <keyword word="kili palisa jelo" place="1" />
-  <keyword word="kulupu pi kasi sama" place="2" />
+      <definition>$x_1$ li kili palisa jelo anu kasi pi kili ni, li tan kulupu $x_2$ pi kasi sama</definition>
+      <definitionid>73263</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {grute}, {plise}, {nimre}, {perli}</notes>
+      <glossword word="kasi pi kili palisa jelo" />
+      <glossword word="kili palisa jelo" />
+      <keyword word="kili palisa jelo" place="1" />
+      <keyword word="kulupu pi kasi sama" place="2" />
 </valsi>
 <valsi word="badri" type="gismu">
   <rafsi>dri</rafsi>
@@ -35,14 +35,14 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li pilin ike tan lon $x_2$</definition>
-  <definitionid>73264</definitionid>
-  <score>1</score>
-  <notes>pilin ni li sama pilin pi pana telo tan oko. nimi pi kon poka li ni: {uinai}, {klaku}, {cinmo}, {gleki}</notes>
-  <glossword word="pilin ike" />
-  <glossword word="pilin loje" />
-  <keyword word="jan pilin ike" place="1" />
-  <keyword word="tan pi pilin ike" place="2" />
+      <definition>$x_1$ li pilin ike tan lon $x_2$</definition>
+      <definitionid>73264</definitionid>
+      <score>1</score>
+      <notes>pilin ni li sama pilin pi pana telo tan oko. nimi pi kon poka li ni: {uinai}, {klaku}, {cinmo}, {gleki}</notes>
+      <glossword word="pilin ike" />
+      <glossword word="pilin loje" />
+      <keyword word="jan pilin ike" place="1" />
+      <keyword word="tan pi pilin ike" place="2" />
 </valsi>
 <valsi word="bajra" type="gismu">
   <rafsi>baj</rafsi>
@@ -50,29 +50,29 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li tawa pi tenpo lili, lon supa $x_2$, kepeken palisa noka $x_3$, li tawa e noka kepeken nasin $x_4$</definition>
-  <definitionid>73275</definitionid>
-  <score>1</score>
-  <notes>nasin tawa ni la, noka wan li pini pilin e supa la, noka ante li awen lon kon. ni li ante tan kon nimi {cadzu}. nimi ante pi kon poka li ni: {muvdu}, {klama}, {plipe}, {stapa}</notes>
-  <glossword word="tawa noka pi tenpo lili" />
-  <keyword word="jan tawa noka pi tenpo lili" place="1" sense="jan ni li tawa kepeken noka kepeken tenpo lili" />
-  <keyword word="supa tawa" place="2" sense="ijo li tawa lon supa ni" />
-  <keyword word="palisa noka" place="3" sense="palisa noka pi ijo tawa" />
-  <keyword word="nasin tawa pi palisa noka" place="4" sense="ijo li tawa e palisa noka lon nasin ni" />
+      <definition>$x_1$ li tawa pi tenpo lili, lon supa $x_2$, kepeken palisa noka $x_3$, li tawa e noka kepeken nasin $x_4$</definition>
+      <definitionid>73275</definitionid>
+      <score>1</score>
+      <notes>nasin tawa ni la, noka wan li pini pilin e supa la, noka ante li awen lon kon. ni li ante tan kon nimi {cadzu}. nimi ante pi kon poka li ni: {muvdu}, {klama}, {plipe}, {stapa}</notes>
+      <glossword word="tawa noka pi tenpo lili" />
+      <keyword word="jan tawa noka pi tenpo lili" place="1" sense="jan ni li tawa kepeken noka kepeken tenpo lili" />
+      <keyword word="supa tawa" place="2" sense="ijo li tawa lon supa ni" />
+      <keyword word="palisa noka" place="3" sense="palisa noka pi ijo tawa" />
+      <keyword word="nasin tawa pi palisa noka" place="4" sense="ijo li tawa e palisa noka lon nasin ni" />
 </valsi>
 <valsi word="banfi" type="gismu">
   <user>
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li kama lon sama kala, li kama suli sama akesi, li tan kulupu pi akesi kala sama $x_2$ </definition>
-  <definitionid>73265</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {respa}, {danlu}, {since}</notes>
-  <glossword word="akesi kala" />
-  <glossword word="kala akesi" />
-  <keyword word="akesi kala" place="1" />
-  <keyword word="kulupu pi akesi kala sama" place="2" />
+      <definition>$x_1$ li kama lon sama kala, li kama suli sama akesi, li tan kulupu pi akesi kala sama $x_2$ </definition>
+      <definitionid>73265</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {respa}, {danlu}, {since}</notes>
+      <glossword word="akesi kala" />
+      <glossword word="kala akesi" />
+      <keyword word="akesi kala" place="1" />
+      <keyword word="kulupu pi akesi kala sama" place="2" />
 </valsi>
 <valsi word="bangu" type="gismu">
   <rafsi>ban</rafsi>
@@ -81,29 +81,29 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li nasin toki pi kulupu $x_2$ li ken toki e ijo $x_3$</definition>
-  <definitionid>73266</definitionid>
-  <score>1</score>
-  <notes>kulupu toki li ken jan anu ilo. nimi pi kon poka li ni: {tavla}, {cusku}, {valsi}, {gerna}, {jufra}, {natmi}</notes>
-  <glossword word="nasin toki" />
-  <keyword word="nasin toki" place="1" />
-  <keyword word="kulupu toki" place="2" sense="kulupu jan pi toki wan" />
-  <keyword word="ijo toki" place="3" sense="jan li toki e toki pi ijo ni" />
+      <definition>$x_1$ li nasin toki pi kulupu $x_2$ li ken toki e ijo $x_3$</definition>
+      <definitionid>73266</definitionid>
+      <score>1</score>
+      <notes>kulupu toki li ken jan anu ilo. nimi pi kon poka li ni: {tavla}, {cusku}, {valsi}, {gerna}, {jufra}, {natmi}</notes>
+      <glossword word="nasin toki" />
+      <keyword word="nasin toki" place="1" />
+      <keyword word="kulupu toki" place="2" sense="kulupu jan pi toki wan" />
+      <keyword word="ijo toki" place="3" sense="jan li toki e toki pi ijo ni" />
 </valsi>
 <valsi word="barja" type="gismu">
   <user>
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li tomo esun pi telo moku $x_2$, li esun tawa $x_3$</definition>
-  <definitionid>73273</definitionid>
-  <score>1</score>
-  <notes>ken la, telo moku li telo nasa anu telo wawa. nimi pi kon poka li ni: {gusta}, {pinxe}, {xalka}, {birje}, {jikru}, {vanju}, {ckafi}, {tcati}, {zarci}</notes>
-  <glossword word="tomo esun pi telo moku" />
-  <glossword word="tomo pi telo nasa" />
-  <keyword word="tomo pi telo moku" place="1" />
-  <keyword word="telo moku" place="2" sense="jan ken moku e telo ni" />
-  <keyword word="jan pana mani" place="3" sense="jan ni li pana e mani tawa jan esun" />
+      <definition>$x_1$ li tomo esun pi telo moku $x_2$, li esun tawa $x_3$</definition>
+      <definitionid>73273</definitionid>
+      <score>1</score>
+      <notes>ken la, telo moku li telo nasa anu telo wawa. nimi pi kon poka li ni: {gusta}, {pinxe}, {xalka}, {birje}, {jikru}, {vanju}, {ckafi}, {tcati}, {zarci}</notes>
+      <glossword word="tomo esun pi telo moku" />
+      <glossword word="tomo pi telo nasa" />
+      <keyword word="tomo pi telo moku" place="1" />
+      <keyword word="telo moku" place="2" sense="jan ken moku e telo ni" />
+      <keyword word="jan pana mani" place="3" sense="jan ni li pana e mani tawa jan esun" />
 </valsi>
 <valsi word="cadzu" type="gismu">
   <rafsi>dzu</rafsi>
@@ -111,15 +111,15 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li tawa lon supa $x_2$ kepeken palisa noka $x_3$</definition>
-  <definitionid>73281</definitionid>
-  <score>1</score>
-  <notes>nasin tawa ni la, noka wan li pilin ala e supa la, noka ante li awen lon supa. nimi pi kon poka li ni: {bajra}, {stapa}, {klama}, {litru}, {limna}</notes>
-  <glossword word="tawa noka" />
-  <glossword word="tawa noka pi tenpo suli" />
-  <keyword word="ijo tawa" place="1" sense="ijo ni li tawa kepeken noka" />
-  <keyword word="supa tawa" place="2" sense="ijo li tawa lon supa ni" />
-  <keyword word="palisa noka" place="3" sense="palisa noka pi ijo tawa" />
+      <definition>$x_1$ li tawa lon supa $x_2$ kepeken palisa noka $x_3$</definition>
+      <definitionid>73281</definitionid>
+      <score>1</score>
+      <notes>nasin tawa ni la, noka wan li pilin ala e supa la, noka ante li awen lon supa. nimi pi kon poka li ni: {bajra}, {stapa}, {klama}, {litru}, {limna}</notes>
+      <glossword word="tawa noka" />
+      <glossword word="tawa noka pi tenpo suli" />
+      <keyword word="ijo tawa" place="1" sense="ijo ni li tawa kepeken noka" />
+      <keyword word="supa tawa" place="2" sense="ijo li tawa lon supa ni" />
+      <keyword word="palisa noka" place="3" sense="palisa noka pi ijo tawa" />
 </valsi>
 <valsi word="casnu" type="gismu">
   <rafsi>snu</rafsi>
@@ -127,13 +127,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>jan pi kulupu $x_1$ li toki pi ijo $x_2$</definition>
-  <definitionid>73293</definitionid>
-  <score>1</score>
-  <notes>ken la, x1 li jan wan. taso ni li ken lili. nimi pi kon poka li ni: {tavla}, {cusku}, {skicu}, {ciksi}</notes>
-  <glossword word="toki ijo" sense="toki e ijo ijo" />
-  <keyword word="kulupu toki" place="1" sense="jan pi kulupu ni li toki tawa jan ante lon kulupu" />
-  <keyword word="ijo toki" place="2" sense="jan li toki e toki pi ijo ni" />
+      <definition>jan pi kulupu $x_1$ li toki pi ijo $x_2$</definition>
+      <definitionid>73293</definitionid>
+      <score>1</score>
+      <notes>ken la, x1 li jan wan. taso ni li ken lili. nimi pi kon poka li ni: {tavla}, {cusku}, {skicu}, {ciksi}</notes>
+      <glossword word="toki ijo" sense="toki e ijo ijo" />
+      <keyword word="kulupu toki" place="1" sense="jan pi kulupu ni li toki tawa jan ante lon kulupu" />
+      <keyword word="ijo toki" place="2" sense="jan li toki e toki pi ijo ni" />
 </valsi>
 <valsi word="cidja" type="gismu">
   <rafsi>dja</rafsi>
@@ -141,13 +141,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li moku tawa $x_2$</definition>
-  <definitionid>73302</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {citka}, {pinxe}, {xagji}, {taske}</notes>
-  <glossword word="moku" sense="jan li ken moku e ni" />
-  <keyword word="ijo moku" place="1" sense="jan li ken moku e ni" />
-  <keyword word="ijo moku" place="2" sense="ijo ni li moku e ijo" />
+      <definition>$x_1$ li moku tawa $x_2$</definition>
+      <definitionid>73302</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {citka}, {pinxe}, {xagji}, {taske}</notes>
+      <glossword word="moku" sense="jan li ken moku e ni" />
+      <keyword word="ijo moku" place="1" sense="jan li ken moku e ni" />
+      <keyword word="ijo moku" place="2" sense="ijo ni li moku e ijo" />
 </valsi>
 <valsi word="citka" type="gismu">
   <rafsi>cti</rafsi>
@@ -155,13 +155,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li moku e $x_2$</definition>
-  <definitionid>73279</definitionid>
-  <score>1</score>
-  <notes>ijo moku li telo la, sina ken kepeken e nimi {pinxe}. nimi ante pi kon poka li ni: {xagji}, {batci}, {gusta}</notes>
-  <glossword word="moku" sense="insa e ijo tawa kama jo e wawa" />
-  <keyword word="jan moku" place="1" sense="jan ni li moku e ijo" />
-  <keyword word="ijo moku" place="2" sense="jan li ken moku e ni" />
+      <definition>$x_1$ li moku e $x_2$</definition>
+      <definitionid>73279</definitionid>
+      <score>1</score>
+      <notes>ijo moku li telo la, sina ken kepeken e nimi {pinxe}. nimi ante pi kon poka li ni: {xagji}, {batci}, {gusta}</notes>
+      <glossword word="moku" sense="insa e ijo tawa kama jo e wawa" />
+      <keyword word="jan moku" place="1" sense="jan ni li moku e ijo" />
+      <keyword word="ijo moku" place="2" sense="jan li ken moku e ni" />
 </valsi>
 <valsi word="cliva" type="gismu">
   <rafsi>liv</rafsi>
@@ -170,14 +170,14 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li tawa weka tan $x_2$ lon nasin $x_3$</definition>
-  <definitionid>73292</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {klama}, {muvdu}, {canci}, {vimcu}, {litru}</notes>
-  <glossword word="tawa weka" sense="tawa weka tan ijo" />
-  <keyword word="ijo tawa weka" place="1" sense="ijo ni li tawa" />
-  <keyword word="ijo tawa weka tan " place="2" sense="ijo li tawa weka tan ijo ni" />
-  <keyword word="nasin" place="3" sense="ijo li tawa lon linja ni" />
+      <definition>$x_1$ li tawa weka tan $x_2$ lon nasin $x_3$</definition>
+      <definitionid>73292</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {klama}, {muvdu}, {canci}, {vimcu}, {litru}</notes>
+      <glossword word="tawa weka" sense="tawa weka tan ijo" />
+      <keyword word="ijo tawa weka" place="1" sense="ijo ni li tawa" />
+      <keyword word="ijo tawa weka tan " place="2" sense="ijo li tawa weka tan ijo ni" />
+      <keyword word="nasin" place="3" sense="ijo li tawa lon linja ni" />
 </valsi>
 <valsi word="cusku" type="gismu">
   <rafsi>cus</rafsi>
@@ -186,15 +186,15 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li toki e linja nimi $x_2$ tawa $x_3$ kepeken nasin toki $x_4$</definition>
-  <definitionid>73282</definitionid>
-  <score>1</score>
-  <notes>x2 la, sina ken kepeken e nimi {sedu&apos;u}, {lu&apos;e}, {lu} en {li&apos;u}. nimi pi kon poka li ni: {bacru}, {tavla}, {casnu}, {jufra}, {pinka}, {preti}, {bangu}</notes>
-  <glossword word="toki e linja nimi" />
-  <keyword word="jan toki" place="1" sense="jan ni li toki e ijo" />
-  <keyword word="linja nimi pi toki jan" place="2" sense="jan li toki e linja nimi ni" />
-  <keyword word="jan kute" place="3" sense="jan ni li kute e toki pi jan ante" />
-  <keyword word="nasin toki" place="4" />
+      <definition>$x_1$ li toki e linja nimi $x_2$ tawa $x_3$ kepeken nasin toki $x_4$</definition>
+      <definitionid>73282</definitionid>
+      <score>1</score>
+      <notes>x2 la, sina ken kepeken e nimi {sedu&apos;u}, {lu&apos;e}, {lu} en {li&apos;u}. nimi pi kon poka li ni: {bacru}, {tavla}, {casnu}, {jufra}, {pinka}, {preti}, {bangu}</notes>
+      <glossword word="toki e linja nimi" />
+      <keyword word="jan toki" place="1" sense="jan ni li toki e ijo" />
+      <keyword word="linja nimi pi toki jan" place="2" sense="jan li toki e linja nimi ni" />
+      <keyword word="jan kute" place="3" sense="jan ni li kute e toki pi jan ante" />
+      <keyword word="nasin toki" place="4" />
 </valsi>
 <valsi word="danlu" type="gismu">
   <rafsi>dal</rafsi>
@@ -203,13 +203,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li ken tawa tan wile ona, li tan kulupu $x_2$ pi ijo sama</definition>
-  <definitionid>73314</definitionid>
-  <score>1</score>
-  <notes>x1 li ken jan anu soweli anu akesi anu waso anu kala anu pipi. nimi pi kon poka li ni: {jmive}, {zukte}, {sanji}, {banfi}, {cinki}, {cipni}, {finpe}, {jukni}, {respa}, {mabru}</notes>
-  <glossword word="ijo ken tawa tan wile" sense="ijo ni li ken tawa tan wile" />
-  <keyword word="ijo ken tawa tan wile" place="1" sense="ijo ni li ken tawa tan wile" />
-  <keyword word="kulupu pi ijo sama pi ken tawa tan wile" place="2" sense="ijo tan kulupu ni li ken tawa tan wile" />
+      <definition>$x_1$ li ken tawa tan wile ona, li tan kulupu $x_2$ pi ijo sama</definition>
+      <definitionid>73314</definitionid>
+      <score>1</score>
+      <notes>x1 li ken jan anu soweli anu akesi anu waso anu kala anu pipi. nimi pi kon poka li ni: {jmive}, {zukte}, {sanji}, {banfi}, {cinki}, {cipni}, {finpe}, {jukni}, {respa}, {mabru}</notes>
+      <glossword word="ijo ken tawa tan wile" sense="ijo ni li ken tawa tan wile" />
+      <keyword word="ijo ken tawa tan wile" place="1" sense="ijo ni li ken tawa tan wile" />
+      <keyword word="kulupu pi ijo sama pi ken tawa tan wile" place="2" sense="ijo tan kulupu ni li ken tawa tan wile" />
 </valsi>
 <valsi word="djacu" type="gismu">
   <rafsi>jac</rafsi>
@@ -218,13 +218,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li telo pi kule ale tan ma li pali e ni: kasi en soweli li ken lon</definition>
-  <definitionid>73276</definitionid>
-  <score>1</score>
-  <notes>ma telo li ken lukin loje. taso kule ni li tan sewi. telo li jasima e kule ni. nimi pi kon poka li ni: {pinxe}, {ladru}, {litki}, {lalxu}, {rirxe}, {xamsi}, {jmive}</notes>
-  <glossword word="telo ma" sense="telo tan ma pi pana ken lon" />
-  <glossword word="telo pi kule ala" sense="telo tan ma pi pana ken lon" />
-  <keyword word="telo pi kule ala" place="1" />
+      <definition>$x_1$ li telo pi kule ale tan ma li pali e ni: kasi en soweli li ken lon</definition>
+      <definitionid>73276</definitionid>
+      <score>1</score>
+      <notes>ma telo li ken lukin laso. taso kule ni li tan sewi. telo li jasima e kule ni. nimi pi kon poka li ni: {pinxe}, {ladru}, {litki}, {lalxu}, {rirxe}, {xamsi}, {jmive}</notes>
+      <glossword word="telo ma" sense="telo tan ma pi pana ken lon" />
+      <glossword word="telo pi kule ala" sense="telo tan ma pi pana ken lon" />
+      <keyword word="telo pi kule ala" place="1" />
 </valsi>
 <valsi word="dunda" type="gismu">
   <rafsi>dud</rafsi>
@@ -233,14 +233,14 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li pana e $x_2$ tawa $x_3$, li wile ala e mani</definition>
-  <definitionid>73272</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {vecnu}, {benji}, {canja}</notes>
-  <glossword word="pana" sense="pana e ijo tawa jan ante" />
-  <keyword word="jan pana" place="1" sense="jan ni li pana e ijo tawa jan ante" />
-  <keyword word="ijo pana" place="2" sense="jan wile pana e ni tawa jan ante" />
-  <keyword word="jan kama jo" place="3" sense="jan ni li kama jo e ijo" />
+      <definition>$x_1$ li pana e $x_2$ tawa $x_3$, li wile ala e mani</definition>
+      <definitionid>73272</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {vecnu}, {benji}, {canja}</notes>
+      <glossword word="pana" sense="pana e ijo tawa jan ante" />
+      <keyword word="jan pana" place="1" sense="jan ni li pana e ijo tawa jan ante" />
+      <keyword word="ijo pana" place="2" sense="jan wile pana e ni tawa jan ante" />
+      <keyword word="jan kama jo" place="3" sense="jan ni li kama jo e ijo" />
 </valsi>
 <valsi word="fasnu" type="gismu">
   <rafsi>fau</rafsi>
@@ -248,14 +248,14 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li kulupu pi ijo en pali, li kama lon lon tenpo wan</definition>
-  <definitionid>73290</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {krefu}, {lifri}, {fatci}, {gasnu}, {zukte}, {rapli}</notes>
-  <glossword word="kama" sense="kulupu pi ijo en pali lon tenpo wan" />
-  <glossword word="kama lon" sense="kulupu pi ijo en pali li kama" />
-  <glossword word="lon" sense="kulupu pi ijo en pali lon tenpo wan" />
-  <keyword word="kama" place="1" sense="kulupu pi ijo en pali lon tenpo wan" />
+      <definition>$x_1$ li kulupu pi ijo en pali, li kama lon lon tenpo wan</definition>
+      <definitionid>73290</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {krefu}, {lifri}, {fatci}, {gasnu}, {zukte}, {rapli}</notes>
+      <glossword word="kama" sense="kulupu pi ijo en pali lon tenpo wan" />
+      <glossword word="kama lon" sense="kulupu pi ijo en pali li kama" />
+      <glossword word="lon" sense="kulupu pi ijo en pali lon tenpo wan" />
+      <keyword word="kama" place="1" sense="kulupu pi ijo en pali lon tenpo wan" />
 </valsi>
 <valsi word="fatci" type="gismu">
   <rafsi>fac</rafsi>
@@ -263,12 +263,12 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>kon pi linja nimi $x_1$ li lon. jan ale pi lawa pona li pilin sama</definition>
-  <definitionid>73296</definitionid>
-  <score>1</score>
-  <notes>x1 la, sina ken kepeken e nimi {du&apos;u}. nimi pi kon poka li ni: {datni}, {jetnu}, {xanri}, {zasti}, {xusra}, {jitfa}, {fasnu}, {saske}</notes>
-  <glossword word="lon" sense="jan li ken pilin en sona e ijo ni" />
-  <keyword word="lon" place="1" sense="jan li ken pilin en sona e ijo ni" />
+      <definition>kon pi linja nimi $x_1$ li lon. jan ale pi lawa pona li pilin sama</definition>
+      <definitionid>73296</definitionid>
+      <score>1</score>
+      <notes>x1 la, sina ken kepeken e nimi {du&apos;u}. nimi pi kon poka li ni: {datni}, {jetnu}, {xanri}, {zasti}, {xusra}, {jitfa}, {fasnu}, {saske}</notes>
+      <glossword word="lon" sense="jan li ken pilin en sona e ijo ni" />
+      <keyword word="lon" place="1" sense="jan li ken pilin en sona e ijo ni" />
 </valsi>
 <valsi word="finpe" type="gismu">
   <rafsi>fip</rafsi>
@@ -277,13 +277,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li kala, li tan kulupu $x_2$ pi kala sama</definition>
-  <definitionid>73321</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {danlu}, {jmive}, {cipni}, {respa}, {banfi}, {cinki}, {limna}</notes>
-  <glossword word="kala" />
-  <keyword word="kala" place="1" />
-  <keyword word="kulupu pi kala sama" place="2" />
+      <definition>$x_1$ li kala, li tan kulupu $x_2$ pi kala sama</definition>
+      <definitionid>73321</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {danlu}, {jmive}, {cipni}, {respa}, {banfi}, {cinki}, {limna}</notes>
+      <glossword word="kala" />
+      <keyword word="kala" place="1" />
+      <keyword word="kulupu pi kala sama" place="2" />
 </valsi>
 <valsi word="fulta" type="gismu">
   <rafsi>ful</rafsi>
@@ -292,13 +292,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li awen lon supa sewi pi mute pi telo anu kon $x_2$</definition>
-  <definitionid>73288</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {limna}, {bloti}, {sakli}, {litki}, {djacu}, {gapci}</notes>
-  <glossword word="awen lon supa pi ma telo" />
-  <keyword word="ijo awen supa telo" place="1" sense="ijo ni li awen lon supa pi telo anu kon" />
-  <keyword word="mute telo anu kon" place="2" />
+      <definition>$x_1$ li awen lon supa sewi pi mute pi telo anu kon $x_2$</definition>
+      <definitionid>73288</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {limna}, {bloti}, {sakli}, {litki}, {djacu}, {gapci}</notes>
+      <glossword word="awen lon supa pi ma telo" />
+      <keyword word="ijo awen supa telo" place="1" sense="ijo ni li awen lon supa pi telo anu kon" />
+      <keyword word="mute telo anu kon" place="2" />
 </valsi>
 <valsi word="gapci" type="gismu">
   <rafsi>gac</rafsi>
@@ -306,14 +306,14 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li kon pi ijo $x_2$, li awen kon lon lon $x_3$</definition>
-  <definitionid>73306</definitionid>
-  <score>1</score>
-  <notes>x3 li ante la, x2 li ken telo anu kiwen. nimi pi kon poka li ni: {litki}, {sligu}, {vacri}, {danmo}, {bumru}, {glare}</notes>
-  <glossword word="kon" />
-  <keyword word="kon" place="1" />
-  <keyword word="ijo ken kon" place="2" sense="ijo ni li ken kon" />
-  <keyword word="lon kama kon" place="3" sense="ijo li kama kon lon lon ni" />
+      <definition>$x_1$ li kon pi ijo $x_2$, li awen kon lon lon $x_3$</definition>
+      <definitionid>73306</definitionid>
+      <score>1</score>
+      <notes>x3 li ante la, x2 li ken telo anu kiwen. nimi pi kon poka li ni: {litki}, {sligu}, {vacri}, {danmo}, {bumru}, {glare}</notes>
+      <glossword word="kon" />
+      <keyword word="kon" place="1" />
+      <keyword word="ijo ken kon" place="2" sense="ijo ni li ken kon" />
+      <keyword word="lon kama kon" place="3" sense="ijo li kama kon lon lon ni" />
 </valsi>
 <valsi word="gasnu" type="gismu">
   <rafsi>gau</rafsi>
@@ -321,13 +321,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li pali e ni: lon $x_2$ li kama</definition>
-  <definitionid>73289</definitionid>
-  <score>1</score>
-  <notes>x1 li ijo wan. x2 li lon pi kulupu ijo. x2 la, sina ken kepeken e nimi {nu}. nimi pi kon poka li ni: {fasnu}, {gunka}, {zukte}, {zbasu}, {rinka}, {kakne}</notes>
-  <glossword word="pali kama" sense="jan li pali e ni la, lon wan li kama" />
-  <keyword word="jan pali kama" place="1" sense="jan ni li pali e ni: lon wan li kama" />
-  <keyword word="lon tan pali jan" place="2" sense="lon ni li tan pali jan" />
+      <definition>$x_1$ li pali e ni: lon $x_2$ li kama</definition>
+      <definitionid>73289</definitionid>
+      <score>1</score>
+      <notes>x1 li ijo wan. x2 li lon pi kulupu ijo. x2 la, sina ken kepeken e nimi {nu}. nimi pi kon poka li ni: {fasnu}, {gunka}, {zukte}, {zbasu}, {rinka}, {kakne}</notes>
+      <glossword word="pali kama" sense="jan li pali e ni la, lon wan li kama" />
+      <keyword word="jan pali kama" place="1" sense="jan ni li pali e ni: lon wan li kama" />
+      <keyword word="lon tan pali jan" place="2" sense="lon ni li tan pali jan" />
 </valsi>
 <valsi word="grute" type="gismu">
   <rafsi>rut</rafsi>
@@ -335,13 +335,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li kili tan kasi pi kupulu $x_2$ pi kasi sama </definition>
-  <definitionid>73362</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {plise}, {badna}, {nimre}, {spati}</notes>
-  <glossword word="kili" />
-  <keyword word="kili" place="1" />
-  <keyword word="kulupu kasi sama" place="2" />
+      <definition>$x_1$ li kili tan kasi pi kupulu $x_2$ pi kasi sama </definition>
+      <definitionid>73362</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {plise}, {badna}, {nimre}, {spati}</notes>
+      <glossword word="kili" />
+      <keyword word="kili" place="1" />
+      <keyword word="kulupu kasi sama" place="2" />
 </valsi>
 <valsi word="jdima" type="gismu">
   <rafsi>di&apos;a</rafsi>
@@ -349,15 +349,15 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li mute mani pi kama jo e ijo $x_2$. $x_3$ li ken pana e mute mani ni tawa jan esun $x_4$</definition>
-  <definitionid>73309</definitionid>
-  <score>1</score>
-  <notes>nimi ni li ante lili tan nimi {vecnu}. {jdima} la, jan esun li toki e nanpa mani. jan ante li ken pana e mani li ken pana ala. {vecnu} la, jan li pana e mani li kama jo e ijo tan jan esun. nimi ante pi kon poka li ni:  {jdini}, {friti}, {janta}, {kargu}, {vamji}, {prali}, {rupnu}, {fepni}, {pleji}, {jerna}</notes>
-  <glossword word="mute mani pi kama jo" sense="jan li pana e mute ni la, ona li ken kama jo e ijo" />
-  <keyword word="mute mani pi kama jo" place="1" sense="jan li pana e mute ni la, ona li ken kama jo e ijo" />
-  <keyword word="ijo esun" place="2" sense="jan li esun e ijo ni" />
-  <keyword word="jan ken pana mani" place="3" sense="jan ni li pana mani la, ona li ken kama jo e ijo" />
-  <keyword word="jan esun" place="4" sense="jan ni li esun e ijo" />
+      <definition>$x_1$ li mute mani pi kama jo e ijo $x_2$. $x_3$ li ken pana e mute mani ni tawa jan esun $x_4$</definition>
+      <definitionid>73309</definitionid>
+      <score>1</score>
+      <notes>nimi ni li ante lili tan nimi {vecnu}. {jdima} la, jan esun li toki e nanpa mani. jan ante li ken pana e mani li ken pana ala. {vecnu} la, jan li pana e mani li kama jo e ijo tan jan esun. nimi ante pi kon poka li ni:  {jdini}, {friti}, {janta}, {kargu}, {vamji}, {prali}, {rupnu}, {fepni}, {pleji}, {jerna}</notes>
+      <glossword word="mute mani pi kama jo" sense="jan li pana e mute ni la, ona li ken kama jo e ijo" />
+      <keyword word="mute mani pi kama jo" place="1" sense="jan li pana e mute ni la, ona li ken kama jo e ijo" />
+      <keyword word="ijo esun" place="2" sense="jan li esun e ijo ni" />
+      <keyword word="jan ken pana mani" place="3" sense="jan ni li pana mani la, ona li ken kama jo e ijo" />
+      <keyword word="jan esun" place="4" sense="jan ni li esun e ijo" />
 </valsi>
 <valsi word="jdini" type="gismu">
   <rafsi>din</rafsi>
@@ -366,13 +366,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li mani tan jan lawa $x_2$</definition>
-  <definitionid>73308</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {jdima}, {fepni}, {rupnu}, {sicni}, {vecnu}</notes>
-  <glossword word="mani" />
-  <keyword word="mani" place="1" />
-  <keyword word="jan lawa mani" place="2" sense="jan ni li lawa e pali mani" />
+      <definition>$x_1$ li mani tan jan lawa $x_2$</definition>
+      <definitionid>73308</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {jdima}, {fepni}, {rupnu}, {sicni}, {vecnu}</notes>
+      <glossword word="mani" />
+      <keyword word="mani" place="1" />
+      <keyword word="jan lawa mani" place="2" sense="jan ni li lawa e pali mani" />
 </valsi>
 <valsi word="jetnu" type="gismu">
   <rafsi>jet</rafsi>
@@ -381,13 +381,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>kon pi linja nimi $x_1$ li lon. jan li ken sona e ni kepeken nasin sona $x_2$</definition>
-  <definitionid>73297</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {datni}, {jetnu}, {xanri}, {zasti}, {xusra}, {jitfa}, {fasnu}, {saske}</notes>
-  <glossword word="lon" sense="jan li ken pilin en sona e ijo ni" />
-  <keyword word="lon" place="1" sense="jan li ken pilin en sona e ijo ni" />
-  <keyword word="nasin sona" place="2" sense="jan li sona e ijo kepeken nasin ni" />
+      <definition>kon pi linja nimi $x_1$ li lon. jan li ken sona e ni kepeken nasin sona $x_2$</definition>
+      <definitionid>73297</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {datni}, {jetnu}, {xanri}, {zasti}, {xusra}, {jitfa}, {fasnu}, {saske}</notes>
+      <glossword word="lon" sense="jan li ken pilin en sona e ijo ni" />
+      <keyword word="lon" place="1" sense="jan li ken pilin en sona e ijo ni" />
+      <keyword word="nasin sona" place="2" sense="jan li sona e ijo kepeken nasin ni" />
 </valsi>
 <valsi word="jinvi" type="gismu">
   <rafsi>jiv</rafsi>
@@ -396,15 +396,15 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li pilin e ni: kon pi linja nimi $x_2$ li lon. pilin ni li pilin pi ijo $x_3$ li tan $x_4$</definition>
-  <definitionid>73299</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {krici}, {jijnu}, {sruma}, {smadi}, {birti}, {djuno}</notes>
-  <glossword word="pilin" sense="pilin e ni: ijo li lon" />
-  <keyword word="jan pilin" place="1" sense="jan ni li pilin e ni: ijo li lon" />
-  <keyword word="linja nimi pi pilin jan" place="2" sense="linja nimi ni li toki e pilin jan" />
-  <keyword word="ijo pilin" place="3" sense="jan li pilin e ijo pi ijo ni" />
-  <keyword word="tan pilin" place="4" />
+      <definition>$x_1$ li pilin e ni: kon pi linja nimi $x_2$ li lon. pilin ni li pilin pi ijo $x_3$ li tan $x_4$</definition>
+      <definitionid>73299</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {krici}, {jijnu}, {sruma}, {smadi}, {birti}, {djuno}</notes>
+      <glossword word="pilin" sense="pilin e ni: ijo li lon" />
+      <keyword word="jan pilin" place="1" sense="jan ni li pilin e ni: ijo li lon" />
+      <keyword word="linja nimi pi pilin jan" place="2" sense="linja nimi ni li toki e pilin jan" />
+      <keyword word="ijo pilin" place="3" sense="jan li pilin e ijo pi ijo ni" />
+      <keyword word="tan pilin" place="4" />
 </valsi>
 <valsi word="jukpa" type="gismu">
   <rafsi>jup</rafsi>
@@ -412,14 +412,14 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li pali e moku $x_2$ kepeken nasin pali $x_3$</definition>
-  <definitionid>73301</definitionid>
-  <score>1</score>
-  <notes>nasin pali li ken kepeken e seli anu seli ala. nimi pi kon poka li ni: {cupra}, {bredi}, {zbasu}, {citka}, {cidja}, {xagji}</notes>
-  <glossword word="pali moku" sense="pali e ijo moku" />
-  <keyword word="jan pali moku" place="1" sense="jan ni li pali e moku" />
-  <keyword word="ijo moku" place="2" sense="jan li ken moku e ni" />
-  <keyword word="nasin pali moku" place="3" sense="jan li pali e moku kepeken nasin ni" />
+      <definition>$x_1$ li pali e moku $x_2$ kepeken nasin pali $x_3$</definition>
+      <definitionid>73301</definitionid>
+      <score>1</score>
+      <notes>nasin pali li ken kepeken e seli anu seli ala. nimi pi kon poka li ni: {cupra}, {bredi}, {zbasu}, {citka}, {cidja}, {xagji}</notes>
+      <glossword word="pali moku" sense="pali e ijo moku" />
+      <keyword word="jan pali moku" place="1" sense="jan ni li pali e moku" />
+      <keyword word="ijo moku" place="2" sense="jan li ken moku e ni" />
+      <keyword word="nasin pali moku" place="3" sense="jan li pali e moku kepeken nasin ni" />
 </valsi>
 <valsi word="klaku" type="gismu">
   <rafsi>kak</rafsi>
@@ -427,15 +427,15 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li pana e telo oko $x_2$ li pali e ni tan lon $x_3$</definition>
-  <definitionid>73280</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {badri}, {cmoni}, {krixa}, {cinmo}, {mukti}, {djacu}, {kanla}</notes>
-  <glossword word="pana e telo oko" />
-  <glossword word="peto" />
-  <keyword word="jan pi pana telo tan oko" place="1" sense="jan ni li pana e telo tan oko" />
-  <keyword word="telo oko" place="2" sense="telo ni li kama tan oko jan" />
-  <keyword word="tan pi pana telo tan oko" place="3" />
+      <definition>$x_1$ li pana e telo oko $x_2$ li pali e ni tan lon $x_3$</definition>
+      <definitionid>73280</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {badri}, {cmoni}, {krixa}, {cinmo}, {mukti}, {djacu}, {kanla}</notes>
+      <glossword word="pana e telo oko" />
+      <glossword word="peto" />
+      <keyword word="jan pi pana telo tan oko" place="1" sense="jan ni li pana e telo tan oko" />
+      <keyword word="telo oko" place="2" sense="telo ni li kama tan oko jan" />
+      <keyword word="tan pi pana telo tan oko" place="3" />
 </valsi>
 <valsi word="klama" type="gismu">
   <rafsi>kla</rafsi>
@@ -443,16 +443,16 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li kama tawa ma pini $x_2$, tan ma open $x_3$, lon nasin $x_4$, kepeken ilo tawa $x_5$</definition>
-  <definitionid>73286</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {cadzu}, {bajra}, {cpare}, {cliva}, {marce}, {karce}, {litru}, {muvdu}, {pluta}, {vitke}</notes>
-  <glossword word="kama" sense="tawa tawa ma wan tan ma ante" />
-  <keyword word="ijo kama" place="1" sense="ijo ni li kama" />
-  <keyword word="ma pini kama" place="2" sense="ijo li pini kama lon ma ni" />
-  <keyword word="ma open kana" place="3" sense="ijo li open kama lon ma ni" />
-  <keyword word="nasin" place="4" sense="jan li tawa lon linja ni" />
-  <keyword word="ilo tawa" place="5" sense="jan li tawa kepeken ilo ni" />
+      <definition>$x_1$ li kama tawa ma pini $x_2$, tan ma open $x_3$, lon nasin $x_4$, kepeken ilo tawa $x_5$</definition>
+      <definitionid>73286</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {cadzu}, {bajra}, {cpare}, {cliva}, {marce}, {karce}, {litru}, {muvdu}, {pluta}, {vitke}</notes>
+      <glossword word="kama" sense="tawa tawa ma wan tan ma ante" />
+      <keyword word="ijo kama" place="1" sense="ijo ni li kama" />
+      <keyword word="ma pini kama" place="2" sense="ijo li pini kama lon ma ni" />
+      <keyword word="ma open kana" place="3" sense="ijo li open kama lon ma ni" />
+      <keyword word="nasin" place="4" sense="jan li tawa lon linja ni" />
+      <keyword word="ilo tawa" place="5" sense="jan li tawa kepeken ilo ni" />
 </valsi>
 <valsi word="ladru" type="gismu">
   <rafsi>lad</rafsi>
@@ -460,13 +460,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li telo walo tan mama meli pi soweli $x_2$</definition>
-  <definitionid>73278</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li: {djacu}, {lanbi}, {tatru}, {cirla}, {kruji}, {mabru}</notes>
-  <glossword word="telo walo" sense="telo walo tan mama meli" />
-  <keyword word="telo walo" place="1" sense="telo walo tan mama meli" />
-  <keyword word="soweli pi pana telo walo" place="2" sense="soweli ni li pana e telo walo" />
+      <definition>$x_1$ li telo walo tan mama meli pi soweli $x_2$</definition>
+      <definitionid>73278</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li: {djacu}, {lanbi}, {tatru}, {cirla}, {kruji}, {mabru}</notes>
+      <glossword word="telo walo" sense="telo walo tan mama meli" />
+      <keyword word="telo walo" place="1" sense="telo walo tan mama meli" />
+      <keyword word="soweli pi pana telo walo" place="2" sense="soweli ni li pana e telo walo" />
 </valsi>
 <valsi word="limna" type="gismu">
   <rafsi>lim</rafsi>
@@ -474,13 +474,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li tawa lon supa pi ma telo $x_2$</definition>
-  <definitionid>73287</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {fulta}, {djacu}, {muvdu}, {klama}, {litru}</notes>
-  <glossword word="tawa lon ma telo" />
-  <keyword word="ijo tawa lon ma telo" place="1" sense="ijo ni li tawa lon ma telo" />
-  <keyword word="ma telo" place="2" sense="ma pi telo mute" />
+      <definition>$x_1$ li tawa lon supa pi ma telo $x_2$</definition>
+      <definitionid>73287</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {fulta}, {djacu}, {muvdu}, {klama}, {litru}</notes>
+      <glossword word="tawa lon ma telo" />
+      <keyword word="ijo tawa lon ma telo" place="1" sense="ijo ni li tawa lon ma telo" />
+      <keyword word="ma telo" place="2" sense="ma pi telo mute" />
 </valsi>
 <valsi word="litki" type="gismu">
   <rafsi>lik</rafsi>
@@ -488,14 +488,14 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li telo pi ijo $x_2$, li awen telo lon lon $x_3$</definition>
-  <definitionid>73305</definitionid>
-  <score>1</score>
-  <notes>x3 li ante la, x2 li ken kiwen anu kon. nimi pi kon poka li ni: {lunsa}, {runme}, {cilmo}, {runta}, {sudga}, {gapci}, {sligu}, {jduli}</notes>
-  <glossword word="telo" />
-  <keyword word="telo" place="1" />
-  <keyword word="ijo ken telo" place="2" sense="ijo ni li ken telo" />
-  <keyword word="lon kama telo" place="3" sense="ijo li kama telo lon lon ni" />
+      <definition>$x_1$ li telo pi ijo $x_2$, li awen telo lon lon $x_3$</definition>
+      <definitionid>73305</definitionid>
+      <score>1</score>
+      <notes>x3 li ante la, x2 li ken kiwen anu kon. nimi pi kon poka li ni: {lunsa}, {runme}, {cilmo}, {runta}, {sudga}, {gapci}, {sligu}, {jduli}</notes>
+      <glossword word="telo" />
+      <keyword word="telo" place="1" />
+      <keyword word="ijo ken telo" place="2" sense="ijo ni li ken telo" />
+      <keyword word="lon kama telo" place="3" sense="ijo li kama telo lon lon ni" />
 </valsi>
 <valsi word="mabru" type="gismu">
   <rafsi>mab</rafsi>
@@ -503,13 +503,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li soweli, li tan kulupu $x_2$ pi soweli sama</definition>
-  <definitionid>73316</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {ladru}, {tatru}, {danlu}, {respa}, {cipni}, {banfi}, {finpe}, {jmive}, {prenu}</notes>
-  <glossword word="soweli" />
-  <keyword word="soweli" place="1" />
-  <keyword word="kulupu pi soweli sama" place="2" />
+      <definition>$x_1$ li soweli, li tan kulupu $x_2$ pi soweli sama</definition>
+      <definitionid>73316</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {ladru}, {tatru}, {danlu}, {respa}, {cipni}, {banfi}, {finpe}, {jmive}, {prenu}</notes>
+      <glossword word="soweli" />
+      <keyword word="soweli" place="1" />
+      <keyword word="kulupu pi soweli sama" place="2" />
 </valsi>
 <valsi word="morsi" type="gismu">
   <rafsi>mro</rafsi>
@@ -517,12 +517,12 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li moli</definition>
-  <definitionid>73277</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {jmive}, {catra}, {sipna}, {sanji}</notes>
-  <glossword word="moli" sense="awen lon moli" />
-  <keyword word="ijo moli" place="1" sense="ijo ni li awen moli" />
+      <definition>$x_1$ li moli</definition>
+      <definitionid>73277</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {jmive}, {catra}, {sipna}, {sanji}</notes>
+      <glossword word="moli" sense="awen lon moli" />
+      <keyword word="ijo moli" place="1" sense="ijo ni li awen moli" />
 </valsi>
 <valsi word="mutce" type="gismu">
   <rafsi>tce</rafsi>
@@ -530,14 +530,14 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li $x_2$ mute. linja pini pi ken mute li $x_3$</definition>
-  <definitionid>73315</definitionid>
-  <score>1</score>
-  <notes>x2 li nasin lon. sina ken kepeken e nimi {ka}. nimi pi kon poka li ni: {milxe}, {traji}, {banli}, {zabna}, {carmi}, {nutli}</notes>
-  <glossword word="mute" sense="mute lon nasin lon" />
-  <keyword word="ijo pi nasin lon mute" place="1" sense="ijo ni li mute lon nasin lon" />
-  <keyword word="nasin lon pi mute mute" place="2" sense="ijo li mute lon nasin lon ni" />
-  <keyword word="linja pini pi mute nasin lon" place="3" sense="ijo li ken ala mute e nasin lon tan linja ni" />
+      <definition>$x_1$ li $x_2$ mute. linja pini pi ken mute li $x_3$</definition>
+      <definitionid>73315</definitionid>
+      <score>1</score>
+      <notes>x2 li nasin lon. sina ken kepeken e nimi {ka}. nimi pi kon poka li ni: {milxe}, {traji}, {banli}, {zabna}, {carmi}, {nutli}</notes>
+      <glossword word="mute" sense="mute lon nasin lon" />
+      <keyword word="ijo pi nasin lon mute" place="1" sense="ijo ni li mute lon nasin lon" />
+      <keyword word="nasin lon pi mute mute" place="2" sense="ijo li mute lon nasin lon ni" />
+      <keyword word="linja pini pi mute nasin lon" place="3" sense="ijo li ken ala mute e nasin lon tan linja ni" />
 </valsi>
 <valsi word="pendo" type="gismu">
   <rafsi>ped</rafsi>
@@ -546,13 +546,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li jan pona tawa $x_2$</definition>
-  <definitionid>73268</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {nelci}, {xamgu}, {prenu}, {bradi}</notes>
-  <glossword word="jan pona" />
-  <keyword word="jan pona" place="1" />
-  <keyword word="jan pilin pona tan jan ante" place="2" />
+      <definition>$x_1$ li jan pona tawa $x_2$</definition>
+      <definitionid>73268</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {nelci}, {xamgu}, {prenu}, {bradi}</notes>
+      <glossword word="jan pona" />
+      <keyword word="jan pona" place="1" />
+      <keyword word="jan pilin pona tan jan ante" place="2" />
 </valsi>
 <valsi word="pinxe" type="gismu">
   <rafsi>pix</rafsi>
@@ -560,14 +560,14 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li moku e telo $x_2$ tan poki anu ma telo $x_3$</definition>
-  <definitionid>73274</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {citka}, {djacu}, {cidja}, {taske}, {barja}</notes>
-  <glossword word="moku telo" />
-  <keyword word="jan moku" place="1" sense="jan ni li moku e ijo" />
-  <keyword word="telo" place="2" />
-  <keyword word="poki telo" place="3" sense="poki pi jo telo" />
+      <definition>$x_1$ li moku e telo $x_2$ tan poki anu ma telo $x_3$</definition>
+      <definitionid>73274</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {citka}, {djacu}, {cidja}, {taske}, {barja}</notes>
+      <glossword word="moku telo" />
+      <keyword word="jan moku" place="1" sense="jan ni li moku e ijo" />
+      <keyword word="telo" place="2" />
+      <keyword word="poki telo" place="3" sense="poki pi jo telo" />
 </valsi>
 <valsi word="prami" type="gismu">
   <rafsi>pam</rafsi>
@@ -576,13 +576,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li olin e $x_2$</definition>
-  <definitionid>73505</definitionid>
-  <score>1</score>
-  <notes>x2 li ken ijo anu lon. nimi pi kon poka li ni: {pendo}, {xendo}, {nelci}, {cinmo}, {xebni}, {pensi}</notes>
-  <glossword word="olin" />
-  <keyword word="jan olin" place="1" sense="jan ni li olin e ijo" />
-  <keyword word="ijo olin" place="2" sense="jan li olin e ijo ni" />
+      <definition>$x_1$ li olin e $x_2$</definition>
+      <definitionid>73505</definitionid>
+      <score>1</score>
+      <notes>x2 li ken ijo anu lon. nimi pi kon poka li ni: {pendo}, {xendo}, {nelci}, {cinmo}, {xebni}, {pensi}</notes>
+      <glossword word="olin" />
+      <keyword word="jan olin" place="1" sense="jan ni li olin e ijo" />
+      <keyword word="ijo olin" place="2" sense="jan li olin e ijo ni" />
 </valsi>
 <valsi word="respa" type="gismu">
   <rafsi>res</rafsi>
@@ -590,13 +590,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li akesi, li tan kulupu $x_2$ pi akesi sama</definition>
-  <definitionid>73320</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {danlu}, {mabru}, {finpe}, {cipni}, {banfi}, {jmive}</notes>
-  <glossword word="akesi" />
-  <keyword word="akesi" place="1" />
-  <keyword word="kulupu pi akesi sama" place="2" />
+      <definition>$x_1$ li akesi, li tan kulupu $x_2$ pi akesi sama</definition>
+      <definitionid>73320</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {danlu}, {mabru}, {finpe}, {cipni}, {banfi}, {jmive}</notes>
+      <glossword word="akesi" />
+      <keyword word="akesi" place="1" />
+      <keyword word="kulupu pi akesi sama" place="2" />
 </valsi>
 <valsi word="sipna" type="gismu">
   <rafsi>sip</rafsi>
@@ -604,12 +604,12 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li lape</definition>
-  <definitionid>73285</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {senva}, {tatpi}, {cikna}, {sanji}, {morsi}</notes>
-  <glossword word="lape" sense="awen lon lape" />
-  <keyword word="ijo lape" place="1" sense="ijo ni li lape" />
+      <definition>$x_1$ li lape</definition>
+      <definitionid>73285</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {senva}, {tatpi}, {cikna}, {sanji}, {morsi}</notes>
+      <glossword word="lape" sense="awen lon lape" />
+      <keyword word="ijo lape" place="1" sense="ijo ni li lape" />
 </valsi>
 <valsi word="sligu" type="gismu">
   <rafsi>lig</rafsi>
@@ -617,27 +617,27 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li kiwen pi ijo $x_2$, li awen kiwen lon lon $x_3$</definition>
-  <definitionid>73307</definitionid>
-  <score>1</score>
-  <notes>x3 li ante la, x2 li ken telo anu kon. nimi pi kon poka li ni: {litki}, {gapci}, {rokci}, {jdari}, {dunja}, {jduli}, {lenku}</notes>
-  <glossword word="kiwen" sense="ijo ni li telo ala li kon ala" />
-  <keyword word="kiwen" place="1" sense="ijo ni li telo ala li kon ala" />
-  <keyword word="ijo ken kiwen" place="2" sense="ijo ni li ken kiwen" />
-  <keyword word="lon kama kiwen" place="3" sense="ijo li kama kiwen lon lon ni" />
+      <definition>$x_1$ li kiwen pi ijo $x_2$, li awen kiwen lon lon $x_3$</definition>
+      <definitionid>73307</definitionid>
+      <score>1</score>
+      <notes>x3 li ante la, x2 li ken telo anu kon. nimi pi kon poka li ni: {litki}, {gapci}, {rokci}, {jdari}, {dunja}, {jduli}, {lenku}</notes>
+      <glossword word="kiwen" sense="ijo ni li telo ala li kon ala" />
+      <keyword word="kiwen" place="1" sense="ijo ni li telo ala li kon ala" />
+      <keyword word="ijo ken kiwen" place="2" sense="ijo ni li ken kiwen" />
+      <keyword word="lon kama kiwen" place="3" sense="ijo li kama kiwen lon lon ni" />
 </valsi>
 <valsi word="taske" type="gismu">
   <user>
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li wile moku e telo $x_2$</definition>
-  <definitionid>73304</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {xagji}, {pinxe}, {citka}, {cidja}, {litki}, {djica}, {djacu}</notes>
-  <glossword word="wile moku telo" />
-  <keyword word="jan wile moku telo" place="1" sense="jan ni li wile moku e telo" />
-  <keyword word="telo wile moku" place="2" sense="jan li wile moku e telo ni" />
+      <definition>$x_1$ li wile moku e telo $x_2$</definition>
+      <definitionid>73304</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {xagji}, {pinxe}, {citka}, {cidja}, {litki}, {djica}, {djacu}</notes>
+      <glossword word="wile moku telo" />
+      <keyword word="jan wile moku telo" place="1" sense="jan ni li wile moku e telo" />
+      <keyword word="telo wile moku" place="2" sense="jan li wile moku e telo ni" />
 </valsi>
 <valsi word="tatru" type="gismu">
   <rafsi>tat</rafsi>
@@ -645,13 +645,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li nena mama pi $x_2$</definition>
-  <definitionid>73318</definitionid>
-  <score>1</score>
-  <notes>kipisi sijelo soweli ni li ken pana e telo walo. nimi pi kon poka li ni: {ladru}, {mabru}, {pinxe}, {mamta}, {cifnu}, {rirni}, {panzi}</notes>
-  <glossword word="nena mama" sense="kipisi pana telo walo pi sijelo soweli" />
-  <keyword word="nena mama" place="1" sense="kipisi pana telo walo pi sijelo soweli" />
-  <keyword word="soweli pi nena mama" place="2" sense="soweli ni li jo e nena mama lon sijelo" />
+      <definition>$x_1$ li nena mama pi $x_2$</definition>
+      <definitionid>73318</definitionid>
+      <score>1</score>
+      <notes>kipisi sijelo soweli ni li ken pana e telo walo. nimi pi kon poka li ni: {ladru}, {mabru}, {pinxe}, {mamta}, {cifnu}, {rirni}, {panzi}</notes>
+      <glossword word="nena mama" sense="kipisi pana telo walo pi sijelo soweli" />
+      <keyword word="nena mama" place="1" sense="kipisi pana telo walo pi sijelo soweli" />
+      <keyword word="soweli pi nena mama" place="2" sense="soweli ni li jo e nena mama lon sijelo" />
 </valsi>
 <valsi word="tavla" type="gismu">
   <rafsi>tav</rafsi>
@@ -660,28 +660,28 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li toki tawa $x_2$ e toki pi ijo $x_3$ kepeken nasin toki $x_4$</definition>
-  <definitionid>73267</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {bacru}, {cusku}, {casnu}, {bangu}</notes>
-  <glossword word="toki" sense="pana e sona ijo kepeken kalama anu sitelen" />
-  <keyword word="jan toki" place="1" sense="jan ni li toki e ijo" />
-  <keyword word="jan kute" place="2" sense="jan ni li kute e toki pi jan ante" />
-  <keyword word="ijo toki" place="3" sense="jan li toki e toki pi ijo ni" />
-  <keyword word="nasin toki" place="4" />
+      <definition>$x_1$ li toki tawa $x_2$ e toki pi ijo $x_3$ kepeken nasin toki $x_4$</definition>
+      <definitionid>73267</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {bacru}, {cusku}, {casnu}, {bangu}</notes>
+      <glossword word="toki" sense="pana e sona ijo kepeken kalama anu sitelen" />
+      <keyword word="jan toki" place="1" sense="jan ni li toki e ijo" />
+      <keyword word="jan kute" place="2" sense="jan ni li kute e toki pi jan ante" />
+      <keyword word="ijo toki" place="3" sense="jan li toki e toki pi ijo ni" />
+      <keyword word="nasin toki" place="4" />
 </valsi>
 <valsi word="tcati" type="gismu">
   <user>
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li telo moku tan lon ni: lipu kasi $x_2$ li awen lon telo seli</definition>
-  <definitionid>73300</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {ckafi}, {djacu}, {birje}, {jukpa}, {pezli}, {xrula}, {korka}</notes>
-  <glossword word="telo moku lipu kasi" sense="telo moku pi lipu kasi en telo seli" />
-  <keyword word="telo moku pi lipu kasi" place="1" sense="telo moku pi lipu kasi en telo seli" />
-  <keyword word="lipu kasi pi telo moku" place="2" sense="lipu kasi lon telo moku" />
+      <definition>$x_1$ li telo moku tan lon ni: lipu kasi $x_2$ li awen lon telo seli</definition>
+      <definitionid>73300</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {ckafi}, {djacu}, {birje}, {jukpa}, {pezli}, {xrula}, {korka}</notes>
+      <glossword word="telo moku lipu kasi" sense="telo moku pi lipu kasi en telo seli" />
+      <keyword word="telo moku pi lipu kasi" place="1" sense="telo moku pi lipu kasi en telo seli" />
+      <keyword word="lipu kasi pi telo moku" place="2" sense="lipu kasi lon telo moku" />
 </valsi>
 <valsi word="vecnu" type="gismu">
   <rafsi>ven</rafsi>
@@ -690,28 +690,28 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li esun e $x_2$ tawa $x_3$ li wile e mute mani $x_4$</definition>
-  <definitionid>73283</definitionid>
-  <score>1</score>
-  <notes>x2 li ijo anu pali. nimi pi kon poka li ni: {zarci}, {canja}, {dunda}, {janta}, {pleji}, {kargu}, {prali}, {jdima}, {vamji}</notes>
-  <glossword word="esun" sense="pana e ijo li kama jo e mani" />
-  <keyword word="jan esun" place="1" sense="jan ni li esun e ijo" />
-  <keyword word="ijo esun" place="2" sense="jan li esun e ijo ni" />
-  <keyword word="jan kama jo tan esun" place="3" sense="jan ni li pana e mani li kama jo e ijo" />
-  <keyword word="mute mani esun" place="4" sense="jan li pana e mute ni pi mani tawa jan esun" />
+      <definition>$x_1$ li esun e $x_2$ tawa $x_3$ li wile e mute mani $x_4$</definition>
+      <definitionid>73283</definitionid>
+      <score>1</score>
+      <notes>x2 li ijo anu pali. nimi pi kon poka li ni: {zarci}, {canja}, {dunda}, {janta}, {pleji}, {kargu}, {prali}, {jdima}, {vamji}</notes>
+      <glossword word="esun" sense="pana e ijo li kama jo e mani" />
+      <keyword word="jan esun" place="1" sense="jan ni li esun e ijo" />
+      <keyword word="ijo esun" place="2" sense="jan li esun e ijo ni" />
+      <keyword word="jan kama jo tan esun" place="3" sense="jan ni li pana e mani li kama jo e ijo" />
+      <keyword word="mute mani esun" place="4" sense="jan li pana e mute ni pi mani tawa jan esun" />
 </valsi>
 <valsi word="xagji" type="gismu">
   <user>
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li wile moku e $x_2$</definition>
-  <definitionid>73303</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {cidja}, {citka}, {pinxe}, {taske}, {nitcu}</notes>
-  <glossword word="wile moku" />
-  <keyword word="jan wile moku" place="1" sense="jan ni li wile moke e ijo" />
-  <keyword word="ijo wile moku" place="2" sense="jan li wile moku e ijo ni" />
+      <definition>$x_1$ li wile moku e $x_2$</definition>
+      <definitionid>73303</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {cidja}, {citka}, {pinxe}, {taske}, {nitcu}</notes>
+      <glossword word="wile moku" />
+      <keyword word="jan wile moku" place="1" sense="jan ni li wile moke e ijo" />
+      <keyword word="ijo wile moku" place="2" sense="jan li wile moku e ijo ni" />
 </valsi>
 <valsi word="xendo" type="gismu">
   <rafsi>xed</rafsi>
@@ -720,14 +720,14 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>jan $x_1$ li pali pona tawa jan $x_2$, li pali e pali $x_3$ tawa ona</definition>
-  <definitionid>73507</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {kusru}, {pendo}, {sidju}, {kecti}, {xamgu}, {pluka}</notes>
-  <glossword word="pali pona" sense="pali pona tawa jan ante" />
-  <keyword word="jan pali pona" place="1" sense="jan ni li pali pona tawa jan ante" />
-  <keyword word="jan kama pona" place="2" sense="jan ni li kama pona tan pali pi jan ante" />
-  <keyword word="pali pona" place="3" sense="jan li pali e ni tawa jan ante" />
+      <definition>jan $x_1$ li pali pona tawa jan $x_2$, li pali e pali $x_3$ tawa ona</definition>
+      <definitionid>73507</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {kusru}, {pendo}, {sidju}, {kecti}, {xamgu}, {pluka}</notes>
+      <glossword word="pali pona" sense="pali pona tawa jan ante" />
+      <keyword word="jan pali pona" place="1" sense="jan ni li pali pona tawa jan ante" />
+      <keyword word="jan kama pona" place="2" sense="jan ni li kama pona tan pali pi jan ante" />
+      <keyword word="pali pona" place="3" sense="jan li pali e ni tawa jan ante" />
 </valsi>
 <valsi word="xusra" type="gismu">
   <rafsi>xus</rafsi>
@@ -736,13 +736,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li toki e ni: kon pi linja nimi $x_2$ li lon</definition>
-  <definitionid>73298</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {cusku}, {jetnu}, {fatci}, {jinvi}, {birti}, {krici}, {djuno}, {sruma}</notes>
-  <glossword word="toki lon" sense="toki e linja nimi  pi ijo lon" />
-  <keyword word="jan toki pi ijo lon" place="1" sense="jan ni li toki pi ijo lon" />
-  <keyword word="linja nimi pi kon lon" place="2" sense="kon pi linja nimi ni li lon" />
+      <definition>$x_1$ li toki e ni: kon pi linja nimi $x_2$ li lon</definition>
+      <definitionid>73298</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {cusku}, {jetnu}, {fatci}, {jinvi}, {birti}, {krici}, {djuno}, {sruma}</notes>
+      <glossword word="toki lon" sense="toki e linja nimi  pi ijo lon" />
+      <keyword word="jan toki pi ijo lon" place="1" sense="jan ni li toki pi ijo lon" />
+      <keyword word="linja nimi pi kon lon" place="2" sense="kon pi linja nimi ni li lon" />
 </valsi>
 <valsi word="zarci" type="gismu">
   <rafsi>zac</rafsi>
@@ -751,14 +751,14 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li tomo esun li esun e $x_2$. jan esun pi tomo ni li $x_3$</definition>
-  <definitionid>73284</definitionid>
-  <score>1</score>
-  <notes>nimi po kon poka li ni: {vecnu}, {gusta}, {canja}, {jdini}, {barja}, {xotli}</notes>
-  <glossword word="tomo esun" sense="jan li esun e ijo lon tomo ni" />
-  <keyword word="tomo esun" place="1" sense="jan li esun e ijo lon tomo ni" />
-  <keyword word="ijo esun" place="2" sense="jan li esun e ijo ni" />
-  <keyword word="jan esun" place="3" sense="jan ni li esun e ijo" />
+      <definition>$x_1$ li tomo esun li esun e $x_2$. jan esun pi tomo ni li $x_3$</definition>
+      <definitionid>73284</definitionid>
+      <score>1</score>
+      <notes>nimi po kon poka li ni: {vecnu}, {gusta}, {canja}, {jdini}, {barja}, {xotli}</notes>
+      <glossword word="tomo esun" sense="jan li esun e ijo lon tomo ni" />
+      <keyword word="tomo esun" place="1" sense="jan li esun e ijo lon tomo ni" />
+      <keyword word="ijo esun" place="2" sense="jan li esun e ijo ni" />
+      <keyword word="jan esun" place="3" sense="jan ni li esun e ijo" />
 </valsi>
 <valsi word="zasti" type="gismu">
   <rafsi>zat</rafsi>
@@ -767,14 +767,14 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li lon. jan $x_2$ li sona e ni kepeken nasin sona $x_3$</definition>
-  <definitionid>73294</definitionid>
-  <score>1</score>
-  <notes>nimi pi kon poka li ni: {fatci}, {xanri}, {xusra}, {cfika}, {jetnu}, {jitfa}</notes>
-  <glossword word="lon" sense="jan li ken pilin en sona e ijo ni" />
-  <keyword word="ijo lon" place="1" sense="ijo ni li lon" />
-  <keyword word="jan sona ijo" place="2" sense="jan ni li sona e ijo" />
-  <keyword word="nasin sona ijo" place="3" sense="jan ken sona e ijo kepeken nasin ni" />
+      <definition>$x_1$ li lon. jan $x_2$ li sona e ni kepeken nasin sona $x_3$</definition>
+      <definitionid>73294</definitionid>
+      <score>1</score>
+      <notes>nimi pi kon poka li ni: {fatci}, {xanri}, {xusra}, {cfika}, {jetnu}, {jitfa}</notes>
+      <glossword word="lon" sense="jan li ken pilin en sona e ijo ni" />
+      <keyword word="ijo lon" place="1" sense="ijo ni li lon" />
+      <keyword word="jan sona ijo" place="2" sense="jan ni li sona e ijo" />
+      <keyword word="nasin sona ijo" place="3" sense="jan ken sona e ijo kepeken nasin ni" />
 </valsi>
 <valsi word="zukte" type="gismu">
   <rafsi>zuk</rafsi>
@@ -783,14 +783,14 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li pali e pali $x_2$ tan wile tawa ni: lon $x_3$ li kama</definition>
-  <definitionid>73310</definitionid>
-  <score>1</score>
-  <notes>nimi ni li ante tan nimi {gasnu}. {zukte} la, jan li wile pali e kama lon. {gasnu} la, lon li kama tan pali jan. jan li ken wile li ken wile ala. nimi ante pi kon poka li ni: {gunka}, {rinka}, {mukti}, {bapli}, {krinu}, {pilno}</notes>
-  <glossword word="pali tan wile kama lon" sense="pali tan wile tawa ni: lon wan li kama" />
-  <keyword word="jan pali" place="1" sense="jan ni li pali e pali" />
-  <keyword word="pali" place="2" sense="jan li pali e pali ni" />
-  <keyword word="lon tan wile jan" place="3" sense="lon ni li tan wile jan" />
+      <definition>$x_1$ li pali e pali $x_2$ tan wile tawa ni: lon $x_3$ li kama</definition>
+      <definitionid>73310</definitionid>
+      <score>1</score>
+      <notes>nimi ni li ante tan nimi {gasnu}. {zukte} la, jan li wile pali e kama lon. {gasnu} la, lon li kama tan pali jan. jan li ken wile li ken wile ala. nimi ante pi kon poka li ni: {gunka}, {rinka}, {mukti}, {bapli}, {krinu}, {pilno}</notes>
+      <glossword word="pali tan wile kama lon" sense="pali tan wile tawa ni: lon wan li kama" />
+      <keyword word="jan pali" place="1" sense="jan ni li pali e pali" />
+      <keyword word="pali" place="2" sense="jan li pali e pali ni" />
+      <keyword word="lon tan wile jan" place="3" sense="lon ni li tan wile jan" />
 </valsi>
 <valsi word="zvati" type="gismu">
   <rafsi>zva</rafsi>
@@ -798,13 +798,13 @@
     <username>CrabappleCat</username>
     <realname>Filomena Rocca </realname>
   </user>
-  <definition>$x_1$ li lon $x_2$</definition>
-  <definitionid>73317</definitionid>
-  <score>1</score>
-  <notes>x2 li ma anu lon. nimi pi kon poka li ni: {stuzi}, {zasti}, {jbini}, {nenri}, {vasru}, {cpana}, {diklo}, {jibni}, {tcini}, {cabna}, {lamji}, {vitke}</notes>
-  <glossword word="lon" sense="lon ma anu lon" />
-  <keyword word="ijo lon" place="1" sense="ijo ni li lon ma anu lon" />
-  <keyword word="ma anu lon" place="2" sense="ijo li lon ma ni anu lon ni" />
+      <definition>$x_1$ li lon $x_2$</definition>
+      <definitionid>73317</definitionid>
+      <score>1</score>
+      <notes>x2 li ma anu lon. nimi pi kon poka li ni: {stuzi}, {zasti}, {jbini}, {nenri}, {vasru}, {cpana}, {diklo}, {jibni}, {tcini}, {cabna}, {lamji}, {vitke}</notes>
+      <glossword word="lon" sense="lon ma anu lon" />
+      <keyword word="ijo lon" place="1" sense="ijo ni li lon ma anu lon" />
+      <keyword word="ma anu lon" place="2" sense="ijo li lon ma ni anu lon ni" />
 </valsi>
 </direction><direction from="toki pona" to="lojban"><nlword word="jan kalama uta" valsi="bacru" place="1" />
 <nlword word="kalama uta" valsi="bacru" place="2" />

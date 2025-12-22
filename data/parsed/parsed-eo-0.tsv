@@ -1,4 +1,4 @@
-@rowCount	1519
+@rowCount	1520
 w	d	n	t	g	r	s	v
 bacru	$x_1$ eldiras buŝe/diras/parolas [pervoĉe faras sonon] $x_2$	[ankaŭ: voĉi; ne necese implicas komunikon aŭ aŭdanton; ('diri' ĝenerale estas cusku)]; (Vidu ankaŭ: krixa, cusku, casnu, tavla, voksa, pinka.)	gismu	eldiri	ba'u;bacr;bacru
 badna	$x_1$ estas banano/bananarbo [frukto/planto] de speco/raso $x_2$	Vidu ankaŭ"grute".	gismu	banano	badn;badna
@@ -726,12 +726,12 @@ mexno	$x_{1}$ montras meksikan kulturon/naciecon laŭ aspekto $x_{2}$	Vidu anka�
 midju	$x_{1}$ estas meze/centre de $x_{2}$; (adjektivo:) $x_{1}$ estas centra	Vidu ankaŭ {lanxe}, {jbini}, {nutli}, {snuji}, {milxe}, {denmi}, {ralju}.	gismu	mezo	mij;midj;midju
 mifra	$x_{1}$ estas ĉifraĵo/kriptaĵo/kodigita teksto el malkaŝa teksto $x_{2}$ laŭ ĉifro $x_{3}$	$x_1$ estas ĉifrita; kodo (= {termifra}).  Vidu ankaŭ {mipri}, {lerfu}, {sinxa}.	gismu	ĉifraĵo	mif;mifr;mifra
 mikce	$x_{1}$ kuracas/flegas/akuŝas/prizorgas $x_{2}$-on pro malsano $x_{3}$ per kuracmetodo $x_{4}$	(adjektivo:) $x_1$, $x_4$ estas medicina; $x_2$ estas paciento de $x_1$ (= selmikce por reordigitaj {lokoj}); $x_2$ estas kuracata de $x_1$ homo/$x_4$ kuracado/metodo; sukcese kuraci/sanigi (= {sadmikce}, {sadvelmikce}), kuraciĝi/saniĝi (=sadyselmikce, ka'orbi'o por ne implici eksteran aganton/procedon, kvankam la $x_1$ kaj $x_4$ de mikce povas esti mem/interna); kuracado (= {velmikce}).  Vidu ankaŭ {bilma}, {kanro}, {spita}.	gismu	kuraci	mic;mikc;mikce
-mikri	$x_{1}$ estas milionono [1$x_{1}$0**-6] de $x_{2}$ laŭ dimensio/aspekto $x_{3}$ (defaŭlte unuoj)	(kp. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli, centi, decti, dekto, femti, gigdo, gocti, gotro, kilto, megdo, milti, nanvi, petso, picti, terto, xatsi,xecto,xexso, zepti, zetro)	gismu	1E-6 mikro-	mik;mikr;mikri
 mei	ŝanĝas nombron en selbri; $x_{1}$ estas <n>-opo formita el aro $x_{2}$ kun membroj $x_{3}$	($x_1$ estas kolektivaĵo kun N eroj $x_3$ konsistiganta aron $x_2$; $x_3$ (ne nepre kompleta nombrado) estas Inter la. membroj de $x_2$); Vidu ankaŭ {cmima}, {gunma}, cmavo {moi}.	cmavo	opo	mem;mei
 mi	pro-sumti: mi/ni la parolanto(j)/aŭtoro(j); identigita(j) per mem-vokativo	Vidu ankaŭ {sevzi}.	cmavo	mi	mib
 medzo	$x_1$ meditas pri $x_2$ per praktiko/metodo/studo $x_3$		experimental gismu		medzo
 marsipane	$x_1$ estas marcipano/enhavas marcipanon de speco/marko $x_2$	Vidu ankaŭ {titspi}, {smela}.	fu'ivla	marcipano
 me do moi	$x_1$ estas via $x_2$ laux regulo/rilato $x_3$		cmavo-compound	via
+mikri	$x_{1}$ estas milionono [1$x_{1}$0**-6] de $x_{2}$ laŭ dimensio/aspekto $x_{3}$ (defaŭlte unuoj)	(kp. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli, centi, decti, dekto, femti, gigdo, gocti, gotro, kilto, megdo, milti, nanvi, petso, picti, terto, xatsi,xecto,xexso, zepti, zetro)	gismu	1E-6 mikro-	mik;mikr;mikri
 milti	$x_{1}$ estas milono [1/1000; 1$x_{1}$0**-3] de $x_{2}$ laŭ dimensio/aspekto $x_{3}$ (defaŭlte unuoj)	(kp. grake, mitre, snidu, stero, delno, molro, kelvo, xampo, gradu. litce, merli, centi, decti, dekto, femti, gigdo, gocti, gotro, kilto, megdo, mikri, nanvi, petso, picti, terto, xatsi, xecto, xexso,zepti,zetro)	gismu	.001 mili-	mil;milt;milti
 milxe	$x_{1}$ estas milda/neekstrema/meza/ioma en eco $x_{2}$ (ka); $x_{1}$ estas ne tre $x_{2}$	Vidu ankaŭ {mutce}, {traji}, {kandi}, {ruble}, {midju}, {nutli}, {ralci}, {traji}.	gismu	milda	mli;milx;milxe
 minde	$x_{1}$ ordonas al $x_{2}$ ke rezulto $x_{3}$ (okazo/stato) okazu; $x_{3}$ estas ordonita	1     (ankaŭ: $x_1$ ordonas/ekigas/instrukcias/Incitas. $x_2$-on fari/okazigi $x_3$; $x_1$ estas komandanto; komando (= {termi'e})); Vidu ankaŭ {lacri}, te {bende}, {jatna}, {ralju}, {jitro}, {turni}, {tinbe}.	gismu	ordoni	mid;mi'e;mind;minde
@@ -1000,35 +1000,28 @@ setca	$x_{1}$ (aganto) enmetas/enigas/intermetas/insertas $x_{2}$-on en $x_{3}$-
 sevzi	$x_{1}$ estas memo de $x_{2}$	Vidu ankaŭ cmavo {mi}, {prenu}, {menli}, {jgira}.	gismu	mem	sez;se'i;sevz;sevzi
 sfani	$x_{1}$ estas muŝo [malgranda nepikanta fluganta insekto] de speco/raso $x_{2}$	Vidu ankaŭ {cinki}, {bifce}.	gismu	muŝo	sfan;sfani
 sfasa	$x_{1}$ (aganto) punas $x_{2}$-on pro rompo/malrespekto $x_{3}$ (okazo/stato/ago) per puno $x_{4}$ (okazo/stato)	Ankaŭ: skurĝi, korekti (unu senco).  Vidu ankaŭ {cnemu}, {pleji}, {venfu}, {zekri}, {canja}, {dunda}, {jdima}, {jerna}, {kargu}, {prali}, {dapma}, {cirko}, {jinga}.	gismu	puni	sfa;sfas;sfasa
-sferies	Svedujo		obsolete cmevla	Svedujo
 sfofa	$x_{1}$ estas sofo/kanapo (substantivo)	Vidu ankaŭ {nilce}.	gismu	sofo	sfo;sfof;sfofa
 sfubu	$x_{1}$ plonĝas [maniero de regata falado] al $x_{2}$ de $x_{3}$	Vidu ankaŭ {farlu}, {farlu}.	gismu	plonĝi	sub;su'u;sfub;sfubu
 siclu	$x_{1}$ [sonfonto] siblas/fajfas/faras siblan sonon/noton/tonon/melodion $x_{2}$	Vidu ankaŭ {sance}, {tonga}, {sanga}, {zgike}, {savru}.	gismu	sibli	sil;sicl;siclu
 sicni	$x_{1}$ estas monero liverita de $x_{2}$ kun valoro $x_{3}$ de konsisto enhavanta $x_{4}$-on	Vidu ankaŭ {fepni}, {jdini}, {rupnu}.	gismu	monero	si'i;sicn;sicni
-sidbo	$x_{1}$ (idea abstraktaĵo) estas ideo/koncepto/penso pri $x_{2}$ (objekto/abstraktaĵo) de pensanto $x_{3}$	Ankaŭ: (adjektivo:) $x_1$ estas ideala/ideeca.  Vidu ankaŭ {ciksi}, {jijnu}, {mucti}, {jinvi}, {nabmi}, {pensi}, {xanri}, cmavo {si'o}.	gismu	ideo	sib;si'o;sidb;sidbo
-sidju	$x_{1}$ helpas objekton/homon $x_{2}$ fari/atingi/daŭrigi okazon/agon $x_{3}$	Vidu ankaŭ cmavo {si'u}, {rirni}, {sarji}, {vipsi}, {ferti}, {selfu}.	gismu	helpi	dju;sidj;sidju
-sigja	$x_{1}$ estas cigaro/cigaredo farita el tabako/fumebla substanco $x_{2}$ fare de $x_{3}$	Vidu ankaŭ {danmo}, {jelca}, {tanko}, {marna}.	gismu	cigaro	sig;sigj;sigja
 silka	$x_{1}$ estas kvanto da/enhavas/konsistas el silko produktita de $x_{2}$	Vidu ankaŭ {curnu}, {bukpu}, {cilta}.	gismu	silko	sik;silk;silka
 silna	$x_{1}$ estas porcio/kvanto da salo el fonto $x_{2}$, de konsisto enhavanta $x_{3}$-on	Vidu ankaŭ {sakta}.	gismu	salo	siln;silna
 simlu	$x_{1}$ ŝajnas havi econ $x_{2}$ por observanto $x_{3}$ sub kondiĉoj $x_{4}$	Sugesti kredon/observon (= {mlugau}, {mluti'i}); simili (= {smimlu}, {mitmlu}).  Vidu ankaŭ {catlu}, {viska}, {simsa}, {zgana}, {ganse}, {jarco}.	gismu	ŝajni	mlu;siml;simlu
 simsa	$x_{1}$ estas simila/paralela al $x_{2}$ laŭ eco/kvanto $x_{3}$ (ka/ni)	Ankaŭ: $x_1$ estas portreto/figuro de $x_2$; $x_1$ kaj $x_2$ estas similaj; simileco kaj paraleleco diferas precipe pri emfazo.  Vidu ankaŭ {dunli}, {frica}, {mintu}, {panra}, {simlu}, {vrici}.	gismu	simila	smi;sims;simsa
 simxu	$x_{1}$ (aro) havas membrojn kiuj reciproke faras $x_{2}$-on (okazo)	Membroj de $x_1$ faras unu al la alia $x_2$, returne faras $x_2$-on.  Vidu ankaŭ {kampu}, {mintu}.	gismu	reciprokantaj	sim;si'u;simx;simxu
 since	$x_{1}$ estas serpento de speco/raso $x_{2}$	Vidu ankaŭ {curnu}, {danlu}, {respa}, {vindu}.	gismu	serpento	sinc;since
-sinma	$x_{1}$ estimas/respektas/adoras $x_{2}$-on [objekto de respekto]	Ankaŭ: $x_2$ estas respektata/estimata/celebrata (= selsi'a por reordigitaj {lokoj}).  Vidu ankaŭ {banli}, {censa}, {misno}, {nelci}, {prami}, {salci}, {jgira}.	gismu	estimi	si'a;sinm;sinma
 sinso	$x_{1}$ estas la trigonometria sinuso de angulo/arkosinuso $x_{2}$	Vidu ankaŭ {tanjo}.	gismu	sinuso	sins;sinso
 sinxa	$x_{1}$ estas signo/simbolo/signalo representanta/aludanta/signifanta $x_{2}$-on por observanto $x_{3}$	Ankaŭ: $x_1$ signas $x_2$-on; (adjektivo:) $x_1$ estas signifa/grava; signali agon (= {sniti'i}), kunsignifo (= se {sibyti'isni}, {sibyti'ismu}).  Vidu ankaŭ {lerfu}, {tcita}, {barna}, {mifra}, {smuni}.	gismu	signo	sni;sinx;sinxa
 sipna	$x_{1}$ dormas	Vidu ankaŭ {senva}, {tatpi}, {cikna}, {sanji}.	gismu	dormi	sip;sipn;sipna
 sirji	$x_{1}$ estas rekta/direkta linio/segmento/intervalo inter $x_{2}$ kaj $x_{3}$; (adjektivo:)  $x_{1}$ estas linia	Vidu ankaŭ {korcu}, {linji}, {kruvi}, {kuspe}.	gismu	rekta	sir;sirj;sirji
 sirxo	$x_{1}$ montras sirian kulturon/naciecon laŭ aspekto $x_{2}$	Vidu ankaŭ {xrabo}.	gismu	siria	six;sirx;sirxo
 sisku	$x_{1}$ serĉas (eco) $x_{2}$-on inter aro $x_{3}$ (kompleta specifado de aro)	Se temas pri serĉo de objekto aŭ okazo, uzu je tu'a en $x_2$.  Vidu ankaŭ {cirko}, {kalte}, {kavbu}, {kucli}, {rivbi}, {manci}, {facki}.	gismu	serĉi	sis;sisk;sisku
-sisti	$x_{1}$ [aganto] ĉesas/haltas/finas agon/procedon/staton $x_{2}$ [ne nepre ĝin kompletiganta]	Vidu ankaŭ {fanmo}, {mulno}, {cfari}, {denpa}, {fliba}.	gismu	ĉesi	sti;sist;sisti
 sitna	$x_{1}$ citas/aludas al/referencas fonton $x_{2}$ por informo/frazo $x_{3}$ (du'u)	Vidu ankaŭ {krasi}.	gismu	citi	sit;sitn;sitna
 sivni	$x_{1}$ estas privata/[sekreta/konfidenca] por $x_{2}$; $x_{1}$ estas nepublika/kaŝita	Ankaŭ: $x_1$ estas sekreta (unu senco); $x_2$ kunscias $x_1$-on (= selsivni por reordigitaj {lokoj}); ekskludon eblas esprimi per na'e(bo) en $x_2$: ekskludita/nekunscianta (= {nalselsivni}).  (kp.gubni,mipri)	gismu	privata	siv;sivn;sivni
 skaci	$x_{1}$ estas jupo/kilto el materialo $x_{2}$ [vesto malferma je la malsupro; ne krurpartigita]	Jupa vesto povas esti tutlonga (pastu), sed devas pendi sub la zono kun subteno de super aŭ ĉe la zono.  Vidu ankaŭ {taxfu}, {palku}.	gismu	jupo	skac;skaci
 skami	$x_{1}$ estas komputilo por celo $x_{2}$	Vidu ankaŭ {kanji}, {minji}, {pensi}.	gismu	komputilo	sam;skam;skami
 skapi	$x_{1}$ estas felo/ledo el $x_{2}$	Vidu ankaŭ {pilka}, {calku}, {kerfa}.	gismu	felo	kap;skap;skapi
 skari	$x_{1}$ estas/aspektas de koloro/nuanco $x_{2}$ laŭ percepto/vido de $x_{3}$ sub kondiĉoj $x_{4}$	Kondiĉoj povas inkluzivi lumigon, ĉirkaŭaĵon, ktp..  Vidu ankaŭ {blanu}, {bunre}, {cicna}, {cinta}, {crino}, {grusi}, {narju}, {nukni}, {pelxu}, {xunre}, {zirpu}, {carmi}, {kandi}, {xekri}, {blabi}.	gismu	koloro	ska;skar;skari
-skicu	$x_{1}$ priskribas $x_{2}$-on (objekto/okazo/stato) al publiko $x_{3}$ kun priskribo $x_{4}$ (eco)	Vidu ankaŭ {lisri}, {tavla}.	gismu	priskribi	ski;skic;skicu
 skiji	$x_{1}$ estas skio/glitilo por surfaco (el materialo) $x_{2}$ subtenanta skianto/glitanto/sledo/kargo $x_{3}$	Vidu ankaŭ {sakli}, {marce}, {cutci}.	gismu	skio	sij;skij;skiji
 skina	$x_{1}$ estas kinaĵo/filmo pri $x_{2}$ [intrigo/temo/ago], de kinisto $x_{3}$, por publiko $x_{4}$	Ankaŭ: motion picture; $x_2$ povas esti konvencio anstataŭ temo; kartuno/animacio (= selxraci'a {skina}); televida spektaklo (= tivyskina, sendepende se daŭro, fakta enhavo, ktp.).  Vidu ankaŭ {tivni}, {vidni}, pixra,{finti}.	gismu	kinaĵo	kin;skin;skina
 skori	$x_{1}$ estas ŝnuro/kablo/kordo/plektaĵo el materialo $x_{2}$	Vidu ankaŭ {cilta}, {jgena}, {marna}, {bikla}, {linsi}.	gismu	ŝnuro	sko;skor;skori
@@ -1405,9 +1398,18 @@ pi'u	nelogika kunigilo: krucproduto; kartezia produto de aroj		cmavo	krucproduto
 pu'i	modala aspekto: realigita potencialo	Vidu ankaŭ {kakne}.	cmavo	realigita potencialo	pus
 pu'u	abstraktilo de procedo: $x_{1}$ estas procedo de [bridi] procedanta laŭ etapoj $x_{2}$	Vidu ankaŭ {pruce}.	cmavo	abstraktilo de procedo	puv
 re	cifero/nombro: 2 (cifero)		cmavo	2 du	rel
+se	2-a revicigo; interŝanĝas 1-an/2-an lokojn		cmavo	2-a revicigo	sel
+porno	$x_1$ estas pornografio de seksa orientiĝo $x_2$ en prezento/komunikilo $x_3$ de specialaĵo/koncentriĝo//fokuso $x_4$		experimental gismu		porno
+platipu	$x_1$ estas ornitorinko de specio $x_2$		fu'ivla
+sferies	Svedujo		obsolete cmevla	Svedujo
+sidbo	$x_{1}$ (idea abstraktaĵo) estas ideo/koncepto/penso pri $x_{2}$ (objekto/abstraktaĵo) de pensanto $x_{3}$	Ankaŭ: (adjektivo:) $x_1$ estas ideala/ideeca.  Vidu ankaŭ {ciksi}, {jijnu}, {mucti}, {jinvi}, {nabmi}, {pensi}, {xanri}, cmavo {si'o}.	gismu	ideo	sib;si'o;sidb;sidbo
+sidju	$x_{1}$ helpas objekton/homon $x_{2}$ fari/atingi/daŭrigi okazon/agon $x_{3}$	Vidu ankaŭ cmavo {si'u}, {rirni}, {sarji}, {vipsi}, {ferti}, {selfu}.	gismu	helpi	dju;sidj;sidju
+sigja	$x_{1}$ estas cigaro/cigaredo farita el tabako/fumebla substanco $x_{2}$ fare de $x_{3}$	Vidu ankaŭ {danmo}, {jelca}, {tanko}, {marna}.	gismu	cigaro	sig;sigj;sigja
+sinma	$x_{1}$ estimas/respektas/adoras $x_{2}$-on [objekto de respekto]	Ankaŭ: $x_2$ estas respektata/estimata/celebrata (= selsi'a por reordigitaj {lokoj}).  Vidu ankaŭ {banli}, {censa}, {misno}, {nelci}, {prami}, {salci}, {jgira}.	gismu	estimi	si'a;sinm;sinma
+sisti	$x_{1}$ [aganto] ĉesas/haltas/finas agon/procedon/staton $x_{2}$ [ne nepre ĝin kompletiganta]	Vidu ankaŭ {fanmo}, {mulno}, {cfari}, {denpa}, {fliba}.	gismu	ĉesi	sti;sist;sisti
+skicu	$x_{1}$ priskribas $x_{2}$-on (objekto/okazo/stato) al publiko $x_{3}$ kun priskribo $x_{4}$ (eco)	Vidu ankaŭ {lisri}, {tavla}.	gismu	priskribi	ski;skic;skicu
 ro	cifero/nombro: ĉiu, ĉiuj		cmavo	ĉiu	rol
 roi	ŝanĝas nombron en kvantigitan modifilon de tempa intervalo; defaŭlte tempa	Vidu ankaŭ {rapli}.	cmavo	fojoj	rom;roi
-se	2-a revicigo; interŝanĝas 1-an/2-an lokojn		cmavo	2-a revicigo	sel
 si'o	abstraktilo de ideo/koncepto: $x_{1}$ estas la koncepto de $x_{2}$ de [bridi]	Vidu ankaŭ {sidbo}.	cmavo	abstraktilo de koncepto	siz
 so	cifero/nombro: 9 (cifero)		cmavo	9 naŭ	soz
 so'a	cifero/nombro: preskaŭ ĉiu (cifero/nombro)		cmavo	preskaŭ ĉiu	soj
@@ -1452,7 +1454,6 @@ kanpe	$x_1$ atendas/antaŭvidas $x_2$ (okazo), kun atendita probableco $x_3$ (0-
 lanru	$x_1$ estas lanterno, kiu iluminas $x_2$, en stilo/kun ecoj $x_3$	Lanterno ne necese iluminas ion ajn.	experimental gismu		lanru
 letci	$x_1$ estas liĉio (Litchi chinensis) de variaĵo $x_2$		experimental gismu		letci
 norgo	$x_1$ montras norvegan kulturon/naciecon/lingvon laŭ aspekto $x_2$	Neoficiala radiko	experimental gismu	norvega;Norvegio	norgo
-porno	$x_1$ estas pornografio de seksa orientiĝo $x_2$ en prezento/komunikilo $x_3$ de specialaĵo/koncentriĝo//fokuso $x_4$		experimental gismu		porno
 sicpi	$x_1$ estas pluvo/likva precipitaĵo de materialo/konsisto enhavanta $x_2$-on	{bratu}, {snime}, {carvi}	experimental gismu	pluvo	sicpi
 silru	$x_1$ estas ekzoplanedo turnanta ĉirkaŭ $x_2$ kun planedaj ecoj $x_3$, orbitaj parametroj $x_4$		experimental gismu		silru
 sizgo	$x_1$ estas jamboso/sizigio/ano de genro Syzygium de specio/variaĵo $x_2$		experimental gismu		sizgo
@@ -1467,6 +1468,7 @@ xlobi	$x_1$ estas hobio de $x_2$		experimental gismu		xlobi
 zguro	$x_1$ estas breloko/amuleto/kuriozaĵo de sentimentala valoro/rememorigo de $x_2$ por gardanto/posedanto $x_3$		experimental gismu		zguro
 barkla	$x_1$ eliras $x_2$-on tra $x_3$ per $x_4$		lujvo	eliri			bartu;klama
 birjunla	$j_{1}$ estas brakhorloĝo mezuranta tempunuojn $j_{2}$ je precizeco $j_{3}$ kun mekanismo/metodo $j_{4}$	Vidu ankaŭ {birka}, {junla}, {kanjunla}.	lujvo	brakhorloĝo			birka;junla
+blogi'adi'u	$x_1$ estas lumturo.	Vidu ankaŭ {bloti}, {gidva}, {dinju}.	lujvo	lumturo			bloti;gidva;dinju
 bripre	$x_1$ estas persono, kies korpo esprimas predikatojn kun rilato inter argumentoj.	{bridi} {prenu}	lujvo				bridi;prenu
 bumgapci	$x_1$ estas nebulo el $x_2$ kovranta $x_3$-on	{bumru} {gapci}	lujvo	nebulo			bumru;gapci
 daskycribe	$x_1$=$c_1$ estas koalo (Phascolarctos cinereus) de raso $x_2$=$c_2$		lujvo				daski;cribe
@@ -1507,7 +1509,6 @@ klamatsile	$x_1$ estas la specio Pithecellobium dulce de variaĵo $x_2$		fu'ivla
 klebana	$x_1$ estas ikebano/floraranĝo kun eroj $x_2$ kun stilo/aliaj ecoj $x_3$ kun spirita/sentimentala signifo $x_4$		fu'ivla
 ku'urdi	$x_1$ montras kurdan kulturon/naciecon/lingvon laŭ aspekto $x_2$.	Kp. {kulnrkurdi}, {bangrkurdi}, {xazdo}, {tu'urki}, {rakso}.	fu'ivla	kurda
 omle	$x_1$ estas omleto enhavanta $x_2$.		fu'ivla	omleto
-platipu	$x_1$ estas ornitorinko de specio $x_2$		fu'ivla
 sa'angu	$x_1$ estas skulptarto/tajlarto de skulptisto/tajlisto/artisto $x_2$ en stilo/kun ecoj $x_3$		fu'ivla
 sku'ili	$x_1$ estas pentraĵo de pentristo/artisto $x_2$ en stilo/kun ecoj $x_3$		fu'ivla
 tsa'anu	$x_1$ estas flosligno/drivligno kun stilo/ecoj $x_2$		fu'ivla
