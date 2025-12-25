@@ -79329,6 +79329,17 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <glossword word="member of category" />
       <glossword word="member of class" />
 </valsi>
+<valsi word="klegeni" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ has $x_2$ (ka) as their gender; $x_1$ identifies as gender $x_2$.</definition>
+      <definitionid>74447</definitionid>
+      <score>1</score>
+      <notes>From -kle- (&lt; {klesi}) and the ending of {trangeni}, {singeni}. The -geni ending is ultimately from Latin genus and its descendants (cf. English gender).</notes>
+      <glossword word="gender" />
+</valsi>
 <valsi word="kleide" type="fu'ivla">
   <user>
     <username>krtisfranks</username>
@@ -109477,6 +109488,17 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <keyword word="Sunday" place="1" sense="a full day in duration" />
       <keyword word="week including Sunday" place="2" sense="a full day in duration" />
       <keyword word="calendar defining Sunday" place="3" sense="a full day in duration" />
+</valsi>
+<valsi word="nondi'a" type="lujvo">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is available for free/without cost to $x_2$.</definition>
+      <definitionid>74448</definitionid>
+      <score>1</score>
+      <notes>Shorter form of {nonseldi&apos;a}; the -sel- can be safely removed, as a &quot;jdima be noda&quot; interpretation isn&apos;t very useful, so this &quot;has to&quot; be &quot;se jdima be noda&quot;.</notes>
+      <glossword word="free" sense="free of charge" />
 </valsi>
 <valsi word="nonjavycimni" type="lujvo">
   <user>
@@ -203859,6 +203881,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="nigella" valsi="klaunji" />
 <nlword word="piano" sense="narrow sense" valsi="klavile" />
 <nlword word="clavier" valsi="klavire" />
+<nlword word="gender" valsi="klegeni" />
 <nlword word="clade" sense="monophyletic class" valsi="kleide" />
 <nlword word="category" sense="of member" valsi="kleinzu" />
 <nlword word="class" sense="of member" valsi="kleinzu" />
@@ -207466,6 +207489,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="sunday" sense="a full day in duration" valsi="nondei" />
 <nlword word="Sunday" sense="a full day in duration" valsi="nondei" place="1" />
 <nlword word="week including Sunday" sense="a full day in duration" valsi="nondei" place="2" />
+<nlword word="free" sense="free of charge" valsi="nondi&apos;a" />
 <nlword word="infinite or zero" valsi="nonjavycimni" />
 <nlword word="undecided" valsi="nonjdi" />
 <nlword word="alone" valsi="nonkansa" />
