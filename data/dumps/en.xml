@@ -109496,7 +109496,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is available for free/without cost to $x_2$.</definition>
       <definitionid>74448</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Shorter form of {nonseldi&apos;a}; the -sel- can be safely removed, as a &quot;jdima be noda&quot; interpretation isn&apos;t very useful, so this &quot;has to&quot; be &quot;se jdima be noda&quot;.</notes>
       <glossword word="free" sense="free of charge" />
 </valsi>
@@ -122336,28 +122336,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <score>100000</score>
       <notes>See also {cukta}, {papri}, {pelji}, {pixra}, {ciska}, {danre}, {barna}.</notes>
       <glossword word="print" />
-</valsi>
-<valsi word="princesa" type="fu'ivla">
-  <user>
-    <username>gleki</username>
-    <realname>gleki</realname>
-  </user>
-      <definition>$x_1$ is a princess</definition>
-      <definitionid>53140</definitionid>
-      <score>1</score>
-      <notes>See {principe}</notes>
-      <glossword word="princess" />
-</valsi>
-<valsi word="principe" type="fu'ivla">
-  <user>
-    <username>gleki</username>
-    <realname>gleki</realname>
-  </user>
-      <definition>$x_1$ is a prince</definition>
-      <definitionid>53139</definitionid>
-      <score>1</score>
-      <notes>See {princesa}</notes>
-      <glossword word="prince" />
 </valsi>
 <valsi word="priro'i" type="lujvo">
   <user>
@@ -208942,7 +208920,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="primrose" valsi="primula" />
 <nlword word="Primula" valsi="primula" />
 <nlword word="print" valsi="prina" />
-<nlword word="prince" valsi="principe" />
 <nlword word="fossil" sense="mineralized remain" valsi="priro&apos;i" />
 <nlword word="right" valsi="pritu" />
 <nlword word="right arm" sense="body part" valsi="pritybirka" place="1" />
