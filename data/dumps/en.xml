@@ -2731,7 +2731,7 @@
   </user>
       <definition>$x_1$ is a quantity of aspirin (drug/medication)</definition>
       <definitionid>67651</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>See {crofanta}, {micyxu&apos;i}</notes>
       <glossword word="aspirin" />
 </valsi>
@@ -16293,17 +16293,6 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <notes>Cf. {bukmra}, {bukydi&apos;u}, {bu&apos;udru}.</notes>
       <glossword word="tent" sense="dwelling" />
 </valsi>
-<valsi unofficial="true" word="buvla" type="experimental gismu">
-  <user>
-    <username>lakanro</username>
-    <realname>Wang Jian</realname>
-  </user>
-      <definition>$x_1$ (quoted text) is a “bu letteral” of character $x_2$ (zoi quote).</definition>
-      <definitionid>69895</definitionid>
-      <score>1</score>
-      <glossword word="bu letteral" />
-      <keyword word="bu letteral" place="1" />
-</valsi>
 <valsi word="by" type="cmavo">
   <selmaho>BY2</selmaho>
   <user>
@@ -20819,6 +20808,18 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <notes>Cf. {bijyjbu}.</notes>
       <glossword word="writing desk" />
 </valsi>
+<valsi word="ci'angu" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a shiitake/shitake mushroom (Lentinula edodes) of variety $x_2$.</definition>
+      <definitionid>74451</definitionid>
+      <score>2</score>
+      <notes>From Mandarin Chinese 香菇 xiānggū.</notes>
+      <glossword word="shiitake" />
+      <glossword word="shitake" />
+</valsi>
 <valsi word="ci'anti" type="fu'ivla">
   <user>
     <username>selpahi</username>
@@ -25021,6 +25022,24 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <score>3</score>
       <notes>Cf. {ropno}, {gugde}.</notes>
       <glossword word="Albania" />
+</valsi>
+<valsi word="ckikindelai" type="fu'ivla">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ is a tiger beetle.</definition>
+      <definitionid>74449</definitionid>
+      <score>1</score>
+</valsi>
+<valsi word="ckikindelidai" type="fu'ivla">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ is a tigre beetle.</definition>
+      <definitionid>74450</definitionid>
+      <score>1</score>
 </valsi>
 <valsi word="ckiku" type="gismu">
   <rafsi>kik</rafsi>
@@ -30683,7 +30702,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a painkiller for locus (body part) $x_2$</definition>
       <definitionid>67650</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>See {cortu}, {fanta}, {micyxu&apos;i}, {nircadyxu&apos;i}</notes>
       <glossword word="painkiller" />
 </valsi>
@@ -41761,7 +41780,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
   </user>
       <definition>$x_1=s_1$ exaggerates $x_2=s_2$ (object/event/state) to audience $x_3=s_3$ with description $x_4=s_4$ (property)</definition>
       <definitionid>71494</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>from {dukse}+{skicu}</notes>
       <glossword word="exaggerate" />
 </valsi>
@@ -51995,7 +52014,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$x_1$ is a loanword meaning $x_2$ in language $x_3$, based on word $x_4$ in language $x_5$.</definition>
       <definitionid>70369</definitionid>
-      <score>2</score>
+      <score>1</score>
       <notes>Cf. {fugvo}</notes>
       <glossword word="borrowed word" />
       <glossword word="loan" sense="borrowed word" />
@@ -81665,7 +81684,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
   </user>
       <definition>$x_1$ (body or body part) is hairless</definition>
       <definitionid>67175</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>See also {sedykrecau}.</notes>
       <glossword word="bald" />
       <glossword word="hairless" />
@@ -96554,7 +96573,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
     <username>Qimar</username>
     <realname>Sean S</realname>
   </user>
-      <definition>$n_1$ is a doctor&apos;s note prescribing treatment/drug $m_4$ to $m_2$ for ailment $m_3$</definition>
+      <definition>$n_1$ is a doctor&apos;s note prescribing treatment/drug $m_4$ to $m_2$ for ailment $m_3$.  $n_1$ is a prescription</definition>
       <definitionid>73453</definitionid>
       <score>1</score>
       <notes>cf {mikce} {notci}</notes>
@@ -116137,7 +116156,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$x_1$ is a cross-section (substance viewed cross-sectionally) of object $x_2$ made from perspective/side/orientation/along (and perpendicular to) axis  $x_3$ (this determines the shape) and made in hyperplane/at depth/to contain/consisting of particular slice $x_4$ (this determines the size and content), of dimensionality $x_5$ [li; integer greater than -2, less than or equal to the dimensionality of $x_2$]; $x_1$ is the result and arranged content of the intersection of $x_2$ with an $(x_5) $-dimensional hyperplane that is perpendicular to axis $x_3$ and along it such that it has a depth (approximately $x_4$) in $x_2$ that allows it to contain a particular slice (of) $x_4$</definition>
       <definitionid>68274</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>This is not necessarily just a picture or perspective/image of a cross-section (use lujvo for that sense)- this would include MRI scans/images, tomography, etc.; it is really a(n idea copy of a) thin slice, in an abstract or mathematical sense, of the object $x_2$ itself (that slice need not actually be removed from the object; the object need not actually be cut). Use lujvo for effective cross-section due to fundamental physical interactions (so-called &apos;forces&apos;; such as electromagnetism) as in the case of bombardment. Need not be two-dimensional. The substance/medium/consistency and arrangement of the cross-section is the same as that of the object in that particular slice. Microscope slides are included. If the object is $n$-dimensional and the dimensionality of the cross-section is not $n-1$, then the particular segment of the $(n-1)$-dimensional cross-section being particularly considered must be specified by $x_3$, $x_4$, and $x_5$.</notes>
       <glossword word="cross section" />
       <glossword word="cross-section" />
@@ -117317,7 +117336,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$x_1$ is a non-binary sibling of/to $x_2$ by bond/tie/standard/parent(s) $x_3$; [not necessarily biological].</definition>
       <definitionid>56859</definitionid>
-      <score>3</score>
+      <score>2</score>
       <notes>See discussion associated with &quot;{dinti}&quot; concerning whether this meaning is restricted to &quot;affirmatively nonbinary&quot; or whether it is more general. See also: &quot;{dinti}&quot;, &quot;{nunmu}&quot;, &quot;{tunba}&quot;, &quot;{mensi}&quot;, &quot;{bruna}&quot;, &quot;{tamne}&quot;, &quot;{famti}&quot;.</notes>
       <glossword word="non-binary sibling" />
 </valsi>
@@ -119534,7 +119553,7 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
   </user>
       <definition>$x_1$ is a pizza with topping/ingredients $x_2$.</definition>
       <definitionid>69893</definitionid>
-      <score>2</score>
+      <score>1</score>
       <glossword word="pizza" />
       <glossword word="topping" sense="pizza" />
 </valsi>
@@ -136747,7 +136766,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$c_1=s_2=c_2$ is bald.</definition>
       <definitionid>38258</definitionid>
-      <score>1</score>
+      <score>2</score>
       <glossword word="bald" />
 </valsi>
 <valsi word="sedyta'u" type="lujvo">
@@ -149460,17 +149479,6 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <glossword word="International System of Units" />
       <glossword word="SI" sense="International System of Units" />
 </valsi>
-<valsi unofficial="true" word="sorni" type="experimental gismu">
-  <user>
-    <username>grimles</username>
-    <realname>Kyle Roucis</realname>
-  </user>
-      <definition> $x_1$ (ka) property of $x_2$ is metaphorically sufficient as to be equivalent to $x_3$ (ka).</definition>
-      <definitionid>57348</definitionid>
-      <score>1</score>
-      <notes>This bridges the gap for the English usage of &quot;so&quot; used in hyperbolic/metaphorical equivalence. For example &quot;My shadow is so small, it (virtually) doesn&apos;t exist.&quot;</notes>
-      <glossword word="so" sense="metaphorically equivalent" />
-</valsi>
 <valsi word="sorpa'a" type="lujvo">
   <user>
     <username>synp</username>
@@ -149549,6 +149557,18 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <notes>Unlike {previnji}, explicitly excludes &quot;light aircraft&quot;. From {so&apos;i}, {prenu}, {vinji}. See {sorprekarce}, {sorpeka}.</notes>
       <glossword word="airliner" />
       <glossword word="large passenger aircraft" />
+</valsi>
+<valsi word="sorsabysai" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is a potluck (meal) consisting of $x_2$ </definition>
+      <definitionid>74452</definitionid>
+      <score>2</score>
+      <notes>i.e. a meal consisting of dishes brought by various people</notes>
+      <glossword word="potluck" sense="meal" />
+      <keyword word="potluck" place="1" sense="meal" />
 </valsi>
 <valsi word="sorselcei" type="lujvo">
   <user>
@@ -178094,7 +178114,7 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
   </user>
       <definition>$x_1$ is willing to do/be $x_2$ (property)</definition>
       <definitionid>73183</definitionid>
-      <score>2</score>
+      <score>3</score>
       <notes>Distinct from &quot;djica&quot; in that one may be willing to do something even if one does not want to do it. cf. {vi&apos;o}</notes>
       <glossword word="voluntary" />
       <glossword word="willing" />
@@ -190886,7 +190906,7 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
   </user>
       <definition>$x_1$ (text) is a Lojban compound predicate using the particle “zei”; with meaning $x_2$, arguments $x_3$, built from metaphor (tanru) $x_4$.</definition>
       <definitionid>69896</definitionid>
-      <score>2</score>
+      <score>1</score>
       <glossword word="zei-lujvo" />
 </valsi>
 <valsi word="zeki'o" type="cmavo-compound">
@@ -197298,6 +197318,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="natural number interval" valsi="ci&apos;ai&apos;u" />
 <nlword word="n-set" valsi="ci&apos;ai&apos;u" />
 <nlword word="writing desk" valsi="ci&apos;ajbu" />
+<nlword word="shiitake" valsi="ci&apos;angu" />
+<nlword word="shitake" valsi="ci&apos;angu" />
 <nlword word="blank" sense="containing no writing" valsi="ci&apos;anti" />
 <nlword word="author" valsi="ci&apos;arfi&apos;i" />
 <nlword word="writer" sense="author" valsi="ci&apos;arfi&apos;i" />
@@ -212071,7 +212093,6 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="multinational" valsi="sornai" />
 <nlword word="International System of Units" valsi="sornai zei raurci&apos;e" />
 <nlword word="SI" sense="International System of Units" valsi="sornai zei raurci&apos;e" />
-<nlword word="so" sense="metaphorically equivalent" valsi="sorni" />
 <nlword word="hope" sense="medium probability" valsi="sorpa&apos;a" />
 <nlword word="loved" sense="set" valsi="sorpa&apos;i" place="2" />
 <nlword word="polyamorous" sense="person" valsi="sorpa&apos;i" place="1" />
@@ -212086,6 +212107,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="bus stop" valsi="sorprekarcytcana" />
 <nlword word="bus terminal" valsi="sorprekarcytcana" />
 <nlword word="large passenger aircraft" valsi="sorprevinji" />
+<nlword word="potluck" sense="meal" valsi="sorsabysai" place="1" />
 <nlword word="polytheist" valsi="sorselcei" />
 <nlword word="dormitory" valsi="sorsipydi&apos;u" />
 <nlword word="colorful" sense="to have many colors" valsi="sorska" />
