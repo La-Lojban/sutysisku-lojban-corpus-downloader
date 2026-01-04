@@ -18065,6 +18065,17 @@ see also {bukpu}, {sunla}, {fibra}.</notes>
       <notes>Cf. {vanju}, {fomvanju}, {risyvanju}, {xalka}, {koinka}.  For sparkling wines without an AOC designation, use {fomvanju}.</notes>
       <glossword word="champagne" sense="with AOC designation" />
 </valsi>
+<valsi word="campinoni" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a button mushroom/portobello/champignon de Paris of variety $x_2$.</definition>
+      <definitionid>74455</definitionid>
+      <score>1</score>
+      <notes>From French champignon, which just means &apos;mushroom&apos;, but is loaned as meaning specifically &apos;button mushroom&apos; in a few languages. See also {gumri}, {mledi}, {ci&apos;angu}.</notes>
+      <glossword word="button mushroom" />
+</valsi>
 <valsi word="camselci'i" type="lujvo">
   <user>
     <username>sarefo</username>
@@ -32324,6 +32335,19 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <score>100000</score>
       <glossword word="probability selbri" />
 </valsi>
+<valsi unofficial="true" word="cu'oi" type="experimental cmavo">
+  <selmaho>CAhA</selmaho>
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>modal aspect: innate capability; possibly unrealized</definition>
+      <definitionid>74459</definitionid>
+      <score>1</score>
+      <notes>Intended as a replacement for {ka&apos;e} which more clearly demonstrates a link to its predicate godparent {cumki}. If adopted, {ka&apos;e} would remain in CAhA but would be formally defined as semantically equivalent to &quot;kakne co&quot; (as it is very often misinterpreted)</notes>
+      <glossword word="innate capability" sense="alternate" />
+      <keyword word="innate capability" place="1" sense="alternate" />
+</valsi>
 <valsi unofficial="true" word="cu'oi'e" type="experimental cmavo">
   <selmaho>MOI</selmaho>
   <user>
@@ -35580,6 +35604,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <glossword word="cassette tape" sense="data storage" />
       <keyword word="tape" place="1" sense="data storage" />
       <keyword word="cassette" place="2" sense="tape" />
+</valsi>
+<valsi word="datnysro" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ is a database of information $x_2$ located on $x_3$</definition>
+      <definitionid>74456</definitionid>
+      <score>1</score>
+      <notes>cf. {datni} {sorcu}</notes>
 </valsi>
 <valsi word="datnyvau" type="lujvo">
   <user>
@@ -38905,7 +38939,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>$x_1$ is a non-binary/intersexed (probably also can include: asexual, nongendered, indeterminately gendered, gender-fluid, transgendered, two-spirited, alternatively gendered, or affirmatively non-binarily gendered or nongendered/graygendered) individual of species $x_2$ evidencing non-binary gender trait(s) $x_3$ (ka); $x_1$ is characterized by not following or fitting into some gender-binary.</definition>
       <definitionid>56855</definitionid>
-      <score>3</score>
+      <score>2</score>
       <notes>Co-equal to &quot;{fetsi}&quot; and &quot;{nakni}&quot;. Proposed short rafsi: -dit-. See also &quot;{fetsi}&quot;, &quot;{nakni}&quot;, &quot;{nunmu}&quot;.</notes>
       <glossword word="intersex" />
       <glossword word="non-binary" />
@@ -39376,6 +39410,17 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <score>4</score>
       <notes>Possibly synonymous to {pagbu}, but may actually have a different nuance.</notes>
       <glossword word="involved" sense="in an event" />
+</valsi>
+<valsi word="djakaranda" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a jacaranda (genus Jacaranda) of species/variety $x_2$.</definition>
+      <definitionid>74458</definitionid>
+      <score>1</score>
+      <notes>From Portuguese jacarandá, with an affricated dj- at the beginning for proper morphology. (Alternatively this is from the Latin name, with an affricate pronunciation of the j.)</notes>
+      <glossword word="jacaranda" />
 </valsi>
 <valsi word="djakare" type="fu'ivla">
   <user>
@@ -60310,6 +60355,17 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
       <glossword word="me" sense="the speaker" />
       <glossword word="the speaker" />
 </valsi>
+<valsi word="imli" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is tamarind of variety $x_2$.</definition>
+      <definitionid>74454</definitionid>
+      <score>1</score>
+      <notes>From Hindi इमली imlī.</notes>
+      <glossword word="tamarind" />
+</valsi>
 <valsi word="impera" type="fu'ivla">
   <user>
     <username>lakanro</username>
@@ -61600,6 +61656,17 @@ ni&apos;o When the word is actually the same as the terminator: Rather than bein
       <score>4</score>
       <notes>Synonym of {ca&apos;abna}. See also {izva}.</notes>
       <glossword word="now" />
+</valsi>
+<valsi word="itco" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is a ginkgo (Ginkgo biloba) of variety $x_2$.</definition>
+      <definitionid>74457</definitionid>
+      <score>1</score>
+      <notes>From Japanese 銀杏 ichō, borrowed from Mandarin 鴨脚 yājiǎo, lit. &apos;duck&apos;s foot&apos;, in reference to the shape of the leaves.</notes>
+      <glossword word="ginkgo" />
 </valsi>
 <valsi word="itiiopiias" type="cmevla">
   <user>
@@ -99036,10 +99103,11 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
     <username>phma</username>
     <realname>Pierre Abbat</realname>
   </user>
-      <definition>$x_1$ is eggplant of variety $x_2$.</definition>
+      <definition>$x_1$ is an eggplant/aubergine/brinjal of variety $x_2$.</definition>
       <definitionid>15826</definitionid>
-      <score>2</score>
-      <notes>see also {patlu}, {tamca}, {kapsiku}, {labnyjba}</notes>
+      <score>3</score>
+      <notes>From Latin melongena (compare Italian melanzana), a distortion of Arabic bāðinjān. See also {patlu} &apos;potato&apos;, {tamca} &apos;tomato&apos;, {kapsiku} &apos;pepper&apos;, {labnyjba} &apos;wolfberry&apos;.</notes>
+      <glossword word="aubergine" />
       <glossword word="eggplant" />
 </valsi>
 <valsi word="mlopsita" type="fu'ivla">
@@ -107596,6 +107664,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
       <definition>pabykanpystika modal, 1st place (evidence) evidenced by …</definition>
       <definitionid>73993</definitionid>
       <score>1</score>
+      <notes>See also: {ni&apos;i}.</notes>
       <glossword word="evidenced by" sense="scientific evidence" />
 </valsi>
 <valsi word="ni'i ma" type="cmavo-compound">
@@ -142064,6 +142133,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <definition>pabykanpystika modal, 2nd place (evidence) evidencing …</definition>
       <definitionid>73994</definitionid>
       <score>1</score>
+      <notes>See also: {seni&apos;i}.</notes>
       <glossword word="evidencing" sense="scientific evidence" />
 </valsi>
 <valsi word="seni'inai" type="cmavo-compound">
@@ -159594,7 +159664,7 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
   </user>
       <definition>$x_1$ is the way or manner in which activity/event $x_2$ is done/happens</definition>
       <definitionid>38125</definitionid>
-      <score>6</score>
+      <score>7</score>
       <notes>Lojban has always been lacking a gismu for &quot;x1 is the manner of event x2&quot; or similar. Later, {tai} started to be used for it, and then, since a BAI needs a brivla (usually a gismu) to be based on, they invented tamsmi. So {tasmi} is a true brivla for {tai}, the BAI of {tasmi}. Cf. {tai}, {tamsmi}</notes>
       <glossword word="way" sense="manner" />
 </valsi>
@@ -196997,6 +197067,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="romance" sense="intense love" valsi="campa&apos;i" />
 <nlword word="champagne" sense="INAO aprroved" valsi="campania" />
 <nlword word="champagne" sense="with AOC designation" valsi="campania" />
+<nlword word="button mushroom" valsi="campinoni" />
 <nlword word="aficionado" valsi="camselci&apos;i" />
 <nlword word="fan" sense="person" valsi="camselci&apos;i" />
 <nlword word="fan club" valsi="camselci&apos;igri" />
@@ -198667,6 +198738,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="affair" valsi="cuntu" />
 <nlword word="random number" valsi="cunyna&apos;u" />
 <nlword word="probability selbri" valsi="cu&apos;o" />
+<nlword word="innate capability" sense="alternate" valsi="cu&apos;oi" place="1" />
 <nlword word="odds selbri" sense="statistical/probabilistic" valsi="cu&apos;oi&apos;e" />
 <nlword word="statistical odds selbri" valsi="cu&apos;oi&apos;e" />
 <nlword word="round trip" sense="travel" valsi="cupli&apos;u" />
@@ -199529,6 +199601,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="edible grain" valsi="djagru" />
 <nlword word="daikon" valsi="djaikoni" />
 <nlword word="involved" sense="in an event" valsi="djainu" />
+<nlword word="jacaranda" valsi="djakaranda" />
 <nlword word="curry" sense="food" valsi="djakari" />
 <nlword word="Djarkarta" valsi="djakartas" />
 <nlword word="Jakarta" valsi="djakartas" place="1" />
@@ -201828,6 +201901,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="dirk" valsi="ilpofu" />
 <nlword word="me" sense="the speaker" valsi="imla" />
 <nlword word="the speaker" valsi="imla" />
+<nlword word="tamarind" valsi="imli" />
 <nlword word="linear momentum" sense="physics; general" valsi="impetu" />
 <nlword word="momentum" sense="physics" valsi="impetu" />
 <nlword word="quantity of movement" sense="physics" valsi="impetu" />
