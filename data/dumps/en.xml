@@ -32343,7 +32343,7 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
   </user>
       <definition>modal aspect: innate capability; possibly unrealized</definition>
       <definitionid>74459</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>Intended as a replacement for {ka&apos;e} which more clearly demonstrates a link to its predicate godparent {cumki}. If adopted, {ka&apos;e} would remain in CAhA but would be formally defined as semantically equivalent to &quot;kakne co&quot; (as it is very often misinterpreted)</notes>
       <glossword word="innate capability" sense="alternate" />
       <keyword word="innate capability" place="1" sense="alternate" />
@@ -32416,6 +32416,15 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <notes>Cf. {clupa}, {porsi}.</notes>
       <glossword word="circularly ordered sequence" />
       <glossword word="circular sequence" />
+</valsi>
+<valsi word="curbanfi" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ is a caecilians amphibian (Gymnophiona order).</definition>
+      <definitionid>74461</definitionid>
+      <score>1</score>
 </valsi>
 <valsi word="curfi'e" type="lujvo">
   <user>
@@ -60362,7 +60371,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$x_1$ is tamarind of variety $x_2$.</definition>
       <definitionid>74454</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>From Hindi इमली imlī.</notes>
       <glossword word="tamarind" />
 </valsi>
@@ -71533,6 +71542,16 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <notes>In other words, the field is producing an imperceptible net force on the x1, due either to distance or to a cancellation effect due to a system of more than one massive body.</notes>
       <glossword word="weightless" />
 </valsi>
+<valsi word="juntyjdika" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ reduces in weight by amount $x_2$ by standard $x_3$</definition>
+      <definitionid>74469</definitionid>
+      <score>1</score>
+      <notes>cf. {junta} {jdika}  Could be used in the sense of &quot;lose weight&quot;</notes>
+</valsi>
 <valsi word="juntymre" type="lujvo">
   <user>
     <username>totus</username>
@@ -71543,6 +71562,16 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <score>2</score>
       <notes>Cf. {junta}, {merli}.</notes>
       <glossword word="weigh" />
+</valsi>
+<valsi word="juntyze'a" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ increases in weight by amount $x_2$ by standard $x_3$. $x_1$ gets heavier.</definition>
+      <definitionid>74471</definitionid>
+      <score>1</score>
+      <notes>cf. {junta} {zenba}  Can be used to describe &quot;gain weight&quot;.</notes>
 </valsi>
 <valsi word="ju'o" type="cmavo">
   <selmaho>UI5</selmaho>
@@ -72880,7 +72909,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>modal aspect: innate capability; possibly unrealized.</definition>
       <definitionid>1695</definitionid>
-      <score>100002</score>
+      <score>100003</score>
       <glossword word="can" sense="be able to" />
       <glossword word="innately capable of" />
 </valsi>
@@ -81572,6 +81601,16 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <glossword word="right" sense="entitlement" />
       <glossword word="rights" sense="entitlements" />
 </valsi>
+<valsi word="kralyle'a" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$l_1$ disenfranchises right/privilege $l_2$ entitled to $l_3$</definition>
+      <definitionid>74472</definitionid>
+      <score>1</score>
+      <notes>cf. {krali} {lebna}</notes>
+</valsi>
 <valsi word="kralyma'u" type="lujvo">
   <user>
     <username>spheniscine</username>
@@ -86397,6 +86436,15 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <notes>syn. {ci&apos;onmau}</notes>
       <glossword word="panda" />
 </valsi>
+<valsi word="latcybanfi" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ is a salamander.</definition>
+      <definitionid>74463</definitionid>
+      <score>2</score>
+</valsi>
 <valsi word="latfekspa" type="lujvo">
   <user>
     <username>phma</username>
@@ -89863,6 +89911,16 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
       <score>1</score>
       <notes>See also {lojbangirz}. Lowest scoring form is {lojbaugri}.</notes>
       <glossword word="LLG" />
+</valsi>
+<valsi word="lojban.org" type="cmevla">
+  <user>
+    <username>cmacyganit</username>
+    <realname>narjaxyzahi cmene</realname>
+  </user>
+      <definition>&lt;script&gt;  window.location.replace(&apos;https://mw.lojban.org&apos;); &lt;/script&gt;</definition>
+      <definitionid>74467</definitionid>
+      <score>1</score>
+      <notes>If this works, it&apos;s proof jbovlaste needs to fix stuff</notes>
 </valsi>
 <valsi word="lojban zei simsa" type="zei-lujvo">
   <user>
@@ -126235,6 +126293,15 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <notes>See also {nalci}, {pimlu}, se {lidne}, {trixe}, {birka}, {jimca}.</notes>
       <glossword word="tail" />
 </valsi>
+<valsi word="rebybanfi" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ is a salamander.</definition>
+      <definitionid>74462</definitionid>
+      <score>1</score>
+</valsi>
 <valsi word="rebybo'u" type="lujvo">
   <user>
     <username>jongausib</username>
@@ -161205,6 +161272,18 @@ ni&apos;o Synonym: {vajli&apos;epoi}.</notes>
       <score>1</score>
       <notes>cf. {tcini} {slilu} {gasnu} Can apply to a binary toggle or radial button. Use {cnegau} for a more general type of varying.</notes>
 </valsi>
+<valsi word="tcinyza'i" type="lujvo">
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+      <definition>$x_1=z_1=t_2$ (e.g. abstraction, energy) is potential / potentially real, made real when / under conditions $x_2=t_1$ for $x_3=z_2$ under metaphysics / conceptual framework / model $x_4=z_3$.</definition>
+      <definitionid>74473</definitionid>
+      <score>1</score>
+      <notes>See also: {ka&apos;e}.</notes>
+      <glossword word="potential" sense="realizable" />
+      <glossword word="realizable" sense="situationally real" />
+</valsi>
 <valsi unofficial="true" word="tcipi" type="experimental gismu">
   <user>
     <username>blamaa</username>
@@ -165338,6 +165417,16 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
       <definitionid>2259</definitionid>
       <score>100000</score>
       <glossword word="assisting in" />
+</valsi>
+<valsi word="test" type="cmevla">
+  <user>
+    <username>cmacyganit</username>
+    <realname>narjaxyzahi cmene</realname>
+  </user>
+      <definition>&lt;script&gt;   alert(&quot;coi .i xu do terpa&quot;); &lt;/script&gt; &lt;style&gt; body { background-color: palegreen; } td { color: indigo; } &lt;/style&gt;</definition>
+      <definitionid>74464</definitionid>
+      <score>1</score>
+      <notes>I hope this doesn&apos;t work please make this not work</notes>
 </valsi>
 <valsi word="testkek" type="cmevla">
   <user>
@@ -176617,6 +176706,15 @@ ni&apos;o See also: {vajli&apos;epoitau} (big-endian tanru), {co&apos;e&apos;i&a
       <score>2</score>
       <notes>examples: x4 of {botpi}, x2 of {canre}</notes>
 </valsi>
+<valsi word="velbunda" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition> $x_1$ is the weight in subunits [e.g. ounces], local units $x_2$, by standard $x_3$ of object $x_4$</definition>
+      <definitionid>74468</definitionid>
+      <score>1</score>
+</valsi>
 <valsi word="velcange" type="lujvo">
   <user>
     <username>brtais</username>
@@ -187491,6 +187589,15 @@ ni&apos;o See also {si&apos;au}, as in {ju&apos;a} {ma&apos;o&apos;ei} {simlu}.<
       <glossword word="meleagrology" />
       <keyword word="meleagrology" place="1" />
       <keyword word="meleagrology methodology" place="2" />
+</valsi>
+<valsi word="xulbanfi" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ is an amphibian of the Lissamphibia (“smooth amphibian”) subclass.</definition>
+      <definitionid>74460</definitionid>
+      <score>1</score>
 </valsi>
 <valsi word="xulbuktci" type="lujvo">
   <user>
@@ -213617,6 +213724,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="situation" valsi="tcini" />
 <nlword word="Qing" valsi="tcintrau" />
 <nlword word="Qing Dynasty" valsi="tcintrau" />
+<nlword word="potential" sense="realizable" valsi="tcinyza&apos;i" />
+<nlword word="realizable" sense="situationally real" valsi="tcinyza&apos;i" />
 <nlword word="crispy" sense="food" valsi="tcipi" place="1" />
 <nlword word="literature topic" valsi="tciromei" place="2" />
 <nlword word="label" valsi="tcita" />
