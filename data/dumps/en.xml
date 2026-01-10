@@ -37145,6 +37145,16 @@ ni&apos;o See also {ma&apos;o&apos;ei} (generalized {ci&apos;o&apos;ei} that att
       <notes>(for metaphor: see {dakfu}, {pagre}, {jgalu}); See also {moklu}, {dakfu}, {pagre}, {jgalu}, {batci}, {bongu}.</notes>
       <glossword word="tooth" />
 </valsi>
+<valsi word="dencilta" type="lujvo">
+  <user>
+    <username>Qimar</username>
+    <realname>Sean S</realname>
+  </user>
+      <definition>$x_1$ is dental floss of material $x_2$</definition>
+      <definitionid>74474</definitionid>
+      <score>1</score>
+      <notes>cf. {denci} {cilta}</notes>
+</valsi>
 <valsi word="dencro" type="lujvo">
   <user>
     <username>arj</username>
@@ -49223,7 +49233,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$t_2$ is the style (in the sense of art/fashion/creative work/object) of object $f_2$ by creator $f_3$ derived from existing elements/ideas $f_4$</definition>
       <definitionid>72670</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>From {finti} {tarti}</notes>
       <glossword word="style" sense="art" />
       <glossword word="style" sense="fashion" />
@@ -53099,7 +53109,7 @@ ni&apos;o Etymology: {fa} and {nu&apos;i}.</notes>
   </user>
       <definition>$x_1$ feels sensation / qualia $x_2$ via sense $x_3$ (ka) // {ka&apos;e gansetifri} = $x_1$ is sentient (able to feel subjective conscious experiences)</definition>
       <definitionid>67335</definitionid>
-      <score>1</score>
+      <score>2</score>
       <notes>$x_2$ is a {ganseti}-type. Proposed gismu form: {gelse}, with rafsi -ges- and -ge&apos;e-. See {lifri}, {ganse}.</notes>
       <glossword word="feel" sense="feel a sensation / qualia" />
 </valsi>
@@ -87565,7 +87575,7 @@ ni&apos;o See also: {semai&apos;ai}, {le&apos;oi}, {sedu&apos;i}, {sela&apos;u}.
       <definition>$x_1$ is the particular/specific instance(s) of $x_2$ (ka) relevant to the discourse; $x_1$ is &quot;the&quot; $x_2$</definition>
       <definitionid>74442</definitionid>
       <score>1</score>
-      <notes>predicate version of {le}. intended as a possibly less malrarbau alternative to &quot;cu du le&quot; constructions</notes>
+      <notes>predicate version of {le}. intended as a possibly less malrarbau alternative to &quot;cu du le&quot; constructions. {poi&apos;i} or its common tcekitau {voi} are also an option for this, but lack the &quot;relevant instance&quot; semantic space.</notes>
       <glossword word="particular" sense="a specific instance" />
       <glossword word="the" sense="the relevant instance" />
       <keyword word="the" place="1" sense="the relevant instance" />
@@ -92505,6 +92515,18 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
       <notes>See also {panci}, {nazbi}, {sumne}, {cpina}, {vrusi}.</notes>
       <glossword word="smell" sense="foul odor" />
       <glossword word="stink" sense="smells bad" />
+</valsi>
+<valsi word="malpasobivo" type="fu'ivla">
+  <user>
+    <username>mati</username>
+    <realname>mati</realname>
+  </user>
+      <definition>$x_1$ is Orwellian/&quot;literally 1984&quot; in aspect $x_2$ (ka).</definition>
+      <definitionid>74475</definitionid>
+      <score>1</score>
+      <notes>From -mal- ({mabla} &apos;bad&apos;) + pa so bi vo &apos;1984&apos;.</notes>
+      <glossword word="literally 1984" />
+      <glossword word="Orwellian" />
 </valsi>
 <valsi word="malpli" type="lujvo">
   <user>
@@ -99163,7 +99185,7 @@ ni&apos;o Example: «.i .ui ma&apos;o&apos;ei xajmi mi se snuti .i .u&apos;i».<
   </user>
       <definition>$x_1$ is an eggplant/aubergine/brinjal of variety $x_2$.</definition>
       <definitionid>15826</definitionid>
-      <score>3</score>
+      <score>4</score>
       <notes>From Latin melongena (compare Italian melanzana), a distortion of Arabic bāðinjān. See also {patlu} &apos;potato&apos;, {tamca} &apos;tomato&apos;, {kapsiku} &apos;pepper&apos;, {labnyjba} &apos;wolfberry&apos;.</notes>
       <glossword word="aubergine" />
       <glossword word="eggplant" />
@@ -205479,6 +205501,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="Malmö" sense="swedish city" valsi="malmys" />
 <nlword word="smell" sense="foul odor" valsi="malpanci" />
 <nlword word="stink" sense="smells bad" valsi="malpanci" />
+<nlword word="literally 1984" valsi="malpasobivo" />
+<nlword word="Orwellian" valsi="malpasobivo" />
 <nlword word="abuse" sense="misuse" valsi="malpli" />
 <nlword word="misuse" valsi="malpli" />
 <nlword word="malicious software" valsi="malsamtci" />
