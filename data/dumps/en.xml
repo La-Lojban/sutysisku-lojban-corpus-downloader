@@ -9594,9 +9594,21 @@ ni&apos;o See also: {jo&apos;au}.</notes>
   </user>
       <definition>Multiple sumti link; open-ended sumti-linking.</definition>
       <definitionid>68122</definitionid>
-      <score>5</score>
+      <score>6</score>
       <notes>Terminated by {be&apos;o}. Until terminated, all following sumti are considered to successively fill the terbri (in order) of the selbri which immediately precedes this word, filling in accord with the order presented (overridden by FA), starting at $x_2$ by default. In a sense, this word delves into the world of the selbri, treating it (temporarily/until terminated) as the selbri of a bridi. (This word reduces the number of {be}&apos;s and {be&apos;o}&apos;s required, as well as reduces the amount of jumping around in an utterance/the thinking required.)</notes>
       <glossword word="link multiple sumti" />
+</valsi>
+<valsi unofficial="true" word="bei'i" type="experimental cmavo">
+  <selmaho>BEIhI</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+      <definition>hybrid {be} and {bei}: sumti link to attached sumti to a selbri, repeatable, valid for both first and subsequent attachments.</definition>
+      <definitionid>74478</definitionid>
+      <score>1</score>
+      <notes>{be} is only for the first attachment, and {bei} is only for non-first attachments.  {bei&apos;i} is valid for either the first or subsequent attachments, and is terminated with {be&apos;o}.  See also {bei&apos;e}, to automatically apply {bei&apos;i} to all following sumti until terminated with {be&apos;o}; this also can be used after SEI cmavo to attach following sumti to the SEI cmavo without having to explicitly use {be} or {bei} to sumti that occur after the selbri (sumti preceding the selbri in the case of {sei} are already part of the SEI clause).</notes>
+      <glossword word="link first or subsequent sumti" sense="link sumti to selbri" />
 </valsi>
 <valsi unofficial="true" word="bei'oi" type="experimental cmavo">
   <selmaho>BEIhOI</selmaho>
@@ -71868,6 +71880,15 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
       <glossword word="reprimand" />
       <glossword word="reproach" />
 </valsi>
+<valsi word="jutcme" type="lujvo">
+  <user>
+    <username>Ilmen</username>
+    <realname>Ilmen</realname>
+  </user>
+      <definition>$x_1$ is a lifeform taxon (e.g. species…) name of $x_2$.</definition>
+      <definitionid>74476</definitionid>
+      <score>1</score>
+</valsi>
 <valsi word="jutcmi" type="lujvo">
   <user>
     <username>spheniscine</username>
@@ -74905,7 +74926,7 @@ ni&apos;o Synonym: {sei&apos;e}.</notes>
   </user>
       <definition>$x_1$ looks forward, is in joyful anticipation of $x_2$ (proposition) being the case.</definition>
       <definitionid>73501</definitionid>
-      <score>2</score>
+      <score>3</score>
 </valsi>
 <valsi word="kanpylerci" type="lujvo">
   <user>
@@ -117314,6 +117335,19 @@ ni&apos;o See also: {ni&apos;i&apos;e}.</notes>
       <keyword word="subject" place="1" sense="main topic" />
       <keyword word="number" place="2" sense="a quantity" />
       <keyword word="metrical foot" place="3" sense="poetry" />
+</valsi>
+<valsi word="pemvontau" type="lujvo">
+  <user>
+    <username>janbe</username>
+    <realname>Rachel Isabel Gardener</realname>
+  </user>
+      <definition>$x_1$ is a pemvontau (quaternary rhyming tanru phrase) with components $x_2$ (set or ce&apos;o sequence)</definition>
+      <definitionid>74477</definitionid>
+      <score>1</score>
+      <notes>usually of form AABA e.g. &quot;cmana cpana galtu zgana&quot;; {ke} may be elided for rhythm</notes>
+      <glossword word="pemvontau" sense="quaternary rhyming tanru" />
+      <keyword word="pemvontau" place="1" sense="quaternary rhyming tanru" />
+      <keyword word="pemvontau elements" place="2" sense="elements of pemvontau phrase" />
 </valsi>
 <valsi word="pemxaiku" type="fu'ivla">
   <user>
@@ -173553,6 +173587,19 @@ ni&apos;o Synonym: {fu&apos;o}.</notes>
       <keyword word="widget" place="1" sense="graphical user interface element" />
       <keyword word="user interface" place="2" sense="plane of interaction" />
 </valsi>
+<valsi unofficial="true" word="ui'ei" type="experimental cmavo">
+  <selmaho>SEI</selmaho>
+  <user>
+    <username>bairyn</username>
+    <realname>Byron Johnson</realname>
+  </user>
+      <definition>Convert arbitrary bridi to UI with the grammar of {sei}.</definition>
+      <definitionid>74479</definitionid>
+      <score>1</score>
+      <notes>Equivalent synonym for {ci&apos;o&apos;ei}, converting bridis to UI; both words are shorthand for «.ui {ma&apos;o&apos;ei}».  For a grammar closer to sumti, see also {ki&apos;ai}, which uses COI2 rather than SEI, which can convert cmevla, selbri, and zoi quotes; this permits the shorter version of e.g. «ki&apos;ai .xm. mi pensi» rather than e.g. «.ui&apos;ei me la .xm. mi pensi».  For conversion to selbri, see {tai&apos;i}.  See also {ju&apos;a&apos;ei} for nonce evidentials (e.g. «ju&apos;a&apos;ei simlu» for «si&apos;au» (‘it seems …’)).  Note that after SEI, selbri auto-terminate with {se&apos;u} once a sumti is found, unless it is attached with {be} or {bei} (or {bei&apos;i}); however, {bei&apos;e} may be used after a SEI cmavo to still apply the following sumti, with automatic {bei&apos;i} application.  For converting bridi to arbitrary existing grammar, see {ma&apos;o&apos;ei}.</notes>
+      <glossword word="nonce" sense="UI" />
+      <glossword word="nonce UI" sense="manual UI from bridi" />
+</valsi>
 <valsi word="uigdei" type="fu'ivla">
   <user>
     <username>gleki</username>
@@ -196274,6 +196321,7 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="stretcher" sense="simple litter designed to carry a sick, injured, or dead person" valsi="beicka" />
 <nlword word="Beijing" valsi="beiDJIN" />
 <nlword word="link multiple sumti" valsi="bei&apos;e" />
+<nlword word="link first or subsequent sumti" sense="link sumti to selbri" valsi="bei&apos;i" />
 <nlword word="carrier" sense="person moving an object" valsi="beipre" />
 <nlword word="porter" valsi="beipre" />
 <nlword word="waiter" valsi="beipre" />
@@ -208552,6 +208600,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="verse" sense="distinct section of poem" valsi="pempau" />
 <nlword word="meter" sense="poetry" valsi="pemsuua" />
 <nlword word="metrical foot" sense="poetry" valsi="pemsuua" place="3" />
+<nlword word="pemvontau" sense="quaternary rhyming tanru" valsi="pemvontau" place="1" />
+<nlword word="pemvontau elements" sense="elements of pemvontau phrase" valsi="pemvontau" place="2" />
 <nlword word="pen" valsi="penbi" />
 <nlword word="touch" valsi="pencu" />
 <nlword word="friend" valsi="pendo" />
@@ -215185,6 +215235,8 @@ ni&apos;o If desired, the semantics can be specified in more detail, such as dec
 <nlword word="squeal with joy" valsi="uicmo" />
 <nlword word="spirit tool" valsi="uidja" />
 <nlword word="ouija board" valsi="uidja zei tanbo" />
+<nlword word="nonce" sense="UI" valsi="ui&apos;ei" />
+<nlword word="nonce UI" sense="manual UI from bridi" valsi="ui&apos;ei" />
 <nlword word="Uyghur" valsi="uigru" />
 <nlword word="feel like laughing" valsi="ui&apos;i" />
 <nlword word="Wikipedia" valsi="uikipedias" />
