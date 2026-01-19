@@ -89948,7 +89948,7 @@ ni&apos;o Example without modal: «lo terle&apos;o be le spofu toknu bei loka na
     <username>cmacyganit</username>
     <realname>narjaxyzahi cmene</realname>
   </user>
-      <definition>&lt;script&gt;  window.location.replace(&apos;https://mw.lojban.org&apos;); &lt;/script&gt;</definition>
+      <definition>script  window.location.replace(https://mw.lojban.org); /script</definition>
       <definitionid>74467</definitionid>
       <score>1</score>
       <notes>If this works, it&apos;s proof jbovlaste needs to fix stuff</notes>
@@ -165479,7 +165479,7 @@ ni&apos;o «{do&apos;e&apos;e}» is a contraction of «{do&apos;e&apos;e&apos;au
     <username>cmacyganit</username>
     <realname>narjaxyzahi cmene</realname>
   </user>
-      <definition>&lt;script&gt;   alert(&quot;coi .i xu do terpa&quot;); &lt;/script&gt; &lt;style&gt; body { background-color: palegreen; } td { color: indigo; } &lt;/style&gt;</definition>
+      <definition>script   alert(&quot;coi .i xu do terpa&quot;); /script style body { background-color: palegreen; } td { color: indigo; } /style</definition>
       <definitionid>74464</definitionid>
       <score>1</score>
       <notes>I hope this doesn&apos;t work please make this not work</notes>
